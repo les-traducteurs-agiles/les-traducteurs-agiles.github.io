@@ -1,4 +1,11 @@
-#Le Bénéfice principal des points des histoires utilisateurs
+---
+layout : post
+title :  "Le Bénéfice principal des points des histoires utilisateurs"
+date :   2014-09-09
+categories : estimation
+---
+
+##Le Bénéfice principal des points des histoires utilisateurs
 
 Si les points des histoires utilisateurs correspondent à une estimation du temps (effort) impliqués à réaliser quelque chose, pourquoi ne pas estimer directement en heures ou en jours ? Finalement, pourquoi utiliser des points ?
 
