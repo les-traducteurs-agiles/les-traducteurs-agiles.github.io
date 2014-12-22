@@ -73,3 +73,10 @@ Twitter : [@\_\_nime\_\_](https://twitter.com/__nime__)
 Twitter : [@avernois](https://twitter.com/avernois)  
 Web : [Crafting Labs : le blog](https://blog.crafting-labs.fr/)  
 
+<p>&nbsp;</p>
+
+<img src="https://s.gravatar.com/avatar/48907fce72acdafc07323615d6dcb405?s=180" />
+
+### Stéphane Wojewoda  
+Twitter : [@stephanewww](https://twitter.com/stephanewww)
+Web : [Chemin sur les Arts Pratiques dans l'Agile](http://artpratiqueagile.blogspot.fr/)
