@@ -658,7 +658,7 @@ Date de parution originale : 26 août 2010
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
-Date de traduction : 24/12/2014  
+Date de traduction : 22/12/2014  
 Relecteurs : [Fabien Bataille](http://www.les-traducteurs-agiles.org/traducteurs.html), [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs.html)
 
 ---
