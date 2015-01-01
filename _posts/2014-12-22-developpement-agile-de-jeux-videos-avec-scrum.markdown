@@ -277,7 +277,7 @@ Les équipes par fonctionnalité sont des équipes pluri-disciplinaires qui dév
 Un bénéfice majeure des équipes par fonctionnalité est le sentiment d'appropriation qu'elles éprouvent. Pour la plupart des développeurs, participer au développement complet de quelques mécanismes est bien plus satisfaisant  que de participer à la réalisation partielle de plusieurs. Pour beaucoup de développeurs, cela donne un plus grand sentiment d'accomplissement.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig01_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig01_fr.jpg" />
 </div>
 
 <div align="center">
@@ -361,7 +361,7 @@ Les tailles des équipes projets des jeux PC et consoles ont radicalement grossi
 Considérez la combinaison de deux personnes communiquant sur un projet. Ces "lignes de communication" grossissent beaucoup plus vite que le nombre de personnes sur le projet (cf. figure 8.2). Par exemple, un projet avec 100 personnes a 4 950 lignes de communications possibles entre ses membres. [2] Cela est beaucoup trop important pour être maîtriser par n'importe quel individu dans l'équipe afin de savoir à qui parler lorsqu'une question ou un problème survient. En conséquence, des hiérarchies d'encadrement sont créés pour superviser cette complexité.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig02_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig02_fr.jpg" />
 </div>
 
 <div align="center">
@@ -381,7 +381,7 @@ Ce responsable à son tour, passe la requête à un chef de projet. Le chef de p
 La pratique centrale pour la montée en charge de Scrum est la réunion de Scrum de Scrums. La figure 8.3 montre comment un gros projet peut être divisé en sous-équipes et comment chaque équipe envoie un membre de son équipe au Scrum de Scrums.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig03_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig03_fr.jpg" />
 </div>
 
 <div align="center">
@@ -427,7 +427,7 @@ Le responsable product owner supervise les deux product owners qui travaillent a
 Chaque product owner travaille au quotidien avec ses équipes pendant le sprint, les aidant à planifier le sprint afin de s'assurer qu'ils réalisent l'objectif du sprint. Par exemple, en tant que product owner dans une équipe implémentant la mécanique de pilotage, mon rôle incluait de montrer à l'équipe la vision commune pour la mécanique. Cela demandait souvent des débats sur l'équilibre entre un ressenti simulation vs un ressenti arcade pour les contrôles, la physique du véhicule, et l'environnement.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig04_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig04_fr.jpg" />
 </div>
 
 <div align="center">
@@ -458,7 +458,7 @@ Malgré cela, il est généralement plus pertinents de synchroniser les sprints 
 Une hiérarchie de product owners dans des équipes importantes éliminent le problème de disponibilité insuffisante du responsable product owner lorsque les équipes qui utilisent des sprints synchronisés doivent planifier leur prochain sprint.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig05_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig05_fr.jpg" />
 </div>
 
 <div align="center">
@@ -481,7 +481,7 @@ Les Scrum masters peuvent former une communauté pour partager les amélioration
 Les communautés de pratiques ne peuvent pas avoir leurs propres objectifs de sprint ou avoir du travail en dehors de leurs propres équipes. Leur seul objectif est de partager l'information.
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig06_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig06_fr.jpg" />
 </div>
 
 <div align="center">
@@ -574,7 +574,7 @@ Avec les équipes co-localisés, ce problème est déjà assez grave. Avec les �
 *À l'automne 2008, CCP a entrepris le développement de sa dixième extension dénommée Apocrypha. Apocrypha était l'extension la plus ambitieuse de l'univers d'EVE. Cette extension a ajouté des fonctionnalités techniques majeures et a étendu de manière significative la taille du monde d'EVE. L'objectif de l'entreprise était de livrer l'extension dans les six mois suivants un cycle de développement de quatre mois (cf figure 8.7).*  
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig07_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig07_fr.jpg" />
 </div>
 
 <div align="center">
@@ -595,7 +595,7 @@ Avec les équipes co-localisés, ce problème est déjà assez grave. Avec les �
 *Étant donné que la plus grande partie des membres de l'équipe de développement était à Reykjavik, y compris le groupe de gestion de projet, la réunion se déroula là-bas. Elle débuta à 9 heures. À cause du décalage horaire, il était bien trop tôt pour les développeurs d'Atlanta d'y participer. L'équipe de développement de Shanghai et le groupe de Reykjavik échangèrent en premier car c'était déjà la fin de la journée à Shanghai. Quelques heures plus tard, l'équipe de Shanghai partirait, et l'équipe d'Atlanta se joindrait à la discussion sur la livraison (cf. figure 8.8).*  
 
 <div align="center">
-    <img src="/assets/developpement_agile_jeux/08fig08_fr.jpg" />
+    <img src="{{ site.url }}/assets/developpement_agile_jeux/08fig08_fr.jpg" />
 </div>
 
 <div align="center">
