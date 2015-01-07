@@ -47,7 +47,7 @@ Une autre manière de considérer cette idée, c'est :
 
 Exécuter le cycle rouge/vert/refactorer prend environ une minute. C'est la granularité du refactoring. Le refactoring  n'est pas quelque chose que vous faites à la fin du projet : c'est quelque chose que vous faites _minute par minute_. Il n'existe aucune tâche sur le plan projet qui indique : refactoring. Il n'y a pas de temps réservé à la fin du projet, ou de l'itération, ou de la journée pour le refactoring. Le refactoring est un activité continue , pas quelque chose qui est effectuée tardivement (et donc optionnellement).  
 
-## **Déca-minute par déca-minute :** _le milli cycle_ : spécifique/gérérique
+## **Déca-minute par déca-minute :** _le milli cycle_ : spécifique/générique
 
 En remontant au niveau des 10 minutes, nous voyons le milli cycle en action. [Le cycle spécifique/générique](http://thecleancoder.blogspot.com/2010/11/craftsman-63-specifics-and-generics.html).  
 
