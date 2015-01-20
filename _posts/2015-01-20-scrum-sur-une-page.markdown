@@ -1,22 +1,22 @@
 ---
 layout: post
-title:  "XP sur une page"
-date:   2015-01-17 20:45:55
-categories: xp fiche outil
+title:  "Scrum sur une page"
+date:   2015-01-20 22:07:55
+categories: scrum fiche outil
 ---
 
-![XP sur une page]({{ site.url }}lta-jekyll/assets/une_page/xp.jpg)
+![Scrum sur une page]({{ site.url }}lta-jekyll/assets/une_page/scrum.jpg)
 
-À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/XP_sur_une_page.pdf)  
+À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/Scrum_sur_une_page.pdf)  
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
 Source : [XP on one page](http://xp123.com/articles/xp-on-one-page/)  
-Date de parution originale : 26 Février 2002  
+Date de parution originale : 06 Juillet 2005  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
-Date de traduction : 17/01/2015  
+Date de traduction : 20/01/2015  
 
 ---
 
