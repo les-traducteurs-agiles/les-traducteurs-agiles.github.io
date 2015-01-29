@@ -10,7 +10,7 @@ categories: outil
 À télécharger en [pdf](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.pdf) ou en [odt](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.odt)  
 
 ---
-Auteur : [Alistair Cockburn](https://www.crisp.se/konsulter/peter-antman)  
+Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
 Source : [7 tools for the product owner handout doc](http://alistair.cockburn.us/7+tools+for+the+product+owner+handout+doc)  
 Date de parution originale : 24 Mars 2011  
 
