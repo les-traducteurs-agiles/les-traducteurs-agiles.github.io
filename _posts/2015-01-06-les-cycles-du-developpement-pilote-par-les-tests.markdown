@@ -25,7 +25,7 @@ Ces _trois lois_ sont le _nano-cycle_ du TDD. Vous les suivez presque seconde pa
 Si nous revenons à une échelle de grandeur minute par minute, nous voyons le _micro cycle_ que suivent les pratiquants du TDD. Le _cycle_ [Rouge-Vert-Refactorer](http://www.jamesshore.com/Blog/Red-Green-Refactor.html).  
 
 <div align="center">
-    <img src="{{ site.url }}lta-jekyll/assets/cycles_tdd/06_rouge_vert_refactor.png" />
+    <img src="{{ site.url }}assets/cycles_tdd/06_rouge_vert_refactor.png" />
 </div>
 
 Ce cycle est exécuté généralement une fois par test terminé, ou une fois toutes les douzaines de cycles des trois lois. Les règles de ce cycle sont simples.

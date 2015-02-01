@@ -5,7 +5,7 @@ date:   2015-01-17 20:45:55
 categories: xp fiche outil
 ---
 
-![XP sur une page]({{ site.url }}lta-jekyll/assets/une_page/xp.jpg)
+![XP sur une page]({{ site.url }}assets/une_page/xp.jpg)
 
 À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/XP_sur_une_page.pdf)  
 

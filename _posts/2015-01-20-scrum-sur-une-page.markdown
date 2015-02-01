@@ -5,7 +5,7 @@ date:   2015-01-20 22:07:55
 categories: scrum fiche outil
 ---
 
-![Scrum sur une page]({{ site.url }}lta-jekyll/assets/une_page/scrum.jpg)
+![Scrum sur une page]({{ site.url }}assets/une_page/scrum.jpg)
 
 À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/Scrum_sur_une_page.pdf)  
 

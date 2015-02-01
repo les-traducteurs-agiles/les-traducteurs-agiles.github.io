@@ -2,7 +2,7 @@
 layout: post
 title:  "Éprouvons-nous seulement du plaisir ?"
 date:   2014-07-16 23:10:55
-categories: équipe
+categories: equipe
 ---
   
   
@@ -23,7 +23,7 @@ Comment une simple affirmation pouvait-elle susciter autant de questions dans mo
 Laissant de côté le fait que le plaisir a de la valeur en lui-même, pourquoi ne pas vérifier l'affirmation initiale en comparant plaisir et valeur ? Une réunion pourrait avoir été plaisante, mais avions-nous atteint nos objectifs ? En tant que coach agile (ou scrum master), si je suspecte une mauvaise interprétation de la vrai valeur d'une réunion ou d'une activité, je pourrais essayer de la vérifier par un _diagramme plaisir/valeur_ :
 
 <div align="center">
-  ![DPV](./img/avoir_plaisir/FVG2_fr.png)
+  ![DPV]({{ site.url }}assets/avoir_plaisir/FVG2_fr.png)
 </div>
 
 ## Pas de plaisir et pas de valeur
@@ -49,7 +49,7 @@ Voici maintenant la situation qui m'a motivé à écrire cet article. Est-il pos
 Une fois retiré le rire et le sentiment de bien-être associé avec le fait d'être présent avec mes collègues, il ne restait plus grand-chose. Il y avait bien quelque valeur mais pas autant que je le pensais initialement. Cela ressemblait alors à quelque chose à peu près comme cela : 
 
 <div align="center">
-  ![Mon diagramme plaisir/valeur](./img/avoir_plaisir/myFVG2_fr.png)
+  ![Mon diagramme plaisir/valeur]({{ site.url }}assets/avoir_plaisir/myFVG2_fr.png)
 </div>
 
 Avec cette nouvelle information à disposition, et tout en maintenant le "plaisir", nous avons restructuré l'activité afin d'accroître sa valeur.

@@ -5,7 +5,7 @@ date:   2015-01-29 22:29:55
 categories: outil
 ---
 
-![7 outils pour le Product Owner]({{ site.url }}lta-jekyll/assets/7_outils_po/7_outils_pour_le_product_owner.png)
+![7 outils pour le Product Owner]({{ site.url }}assets/7_outils_po/7_outils_pour_le_product_owner.png)
 
 À télécharger en [pdf](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.pdf) ou en [odt](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.odt)  
 

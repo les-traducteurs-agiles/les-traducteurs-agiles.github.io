@@ -2,7 +2,7 @@
 layout: post
 title:  "Scrum, le guide du maître"
 date:   2014-07-03 21:26:55
-categories: équipe
+categories: equipe scrum
 ---
 ## La traversée des plaines du développement logiciel
 
@@ -13,7 +13,7 @@ Dans cet article, je vais vous introduire à une notation symbolique et visuelle
 Commençons avec l'équipe. Un groupe de braves aventuriers, traversant les vastes plaines du développement logiciel, bravant le danger les attendant à chaque tournant.
 
 <div align="center">
-  <img title="Le groupe" src="/assets/gdm_scrum/party.png" />
+  <img title="Le groupe" src="{{ site.url }}assets/gdm_scrum/party.png" />
 </div>
 
 Comme vous pouvez le constater, les membres de l'équipe ne sont pas identiques, car chacun à des compétences spécifiques. Imaginez respectivement l'expert en base de données, le testeur et le concepteur d'IHM en guerrier, magicien et voleur. Remarquez que bien qu'ils soient différents, ils ont tous la même importance.. C'est une question d'une bonne conception de jeu. Si un prêtre ne peut rien faire d'autre que guérir (et donc il ne serait rien de plus qu'un rabais ambulant sur des potions de guérisons), tout le monde voudra jouer le magicien. 
@@ -27,13 +27,13 @@ _Remarque : nous venons de discuter dans une certaine mesure de la spécialisati
 Revenons à notre métaphore médiévale-fantastique. Considérons un groupe typique comprenant un guerrier, un magicien et deux rôdeurs. Soudain, le magicien meurt. Comme vous le savez bien, le maître du jeu a raconté l'histoire d'un tragique accident sur le plan éternel de la peur mais nous savons tous que Thilo, qui joue le magicien, a une nouvelle petite amie et à mieux à faire maintenant que jouer à D&D avec ses copains. Dans le projet, cela signifie que notre concepteur d'IHM a quitté l'entreprise.
 
 <div align="center">
-  <img title="Une perte dans le groupe" src="/assets/gdm_scrum/party_loss.png" />
+  <img title="Une perte dans le groupe" src="{{ site.url }}assets/gdm_scrum/party_loss.png" />
 </div>
 
 Nous avons maintenant un groupe avec un guerrier, deux rôdeurs elfes mangeurs d'herbe et aucun magicien. Que pouvons-nous faire ? Si nous continuons comme cela, nous serons morts dès que nous ferons face au premier mort-vivant vulnérable uniquement à la magie. Alors nous rapportons un problème sur les tableaux scrum. Maintenant tout le monde est au courant de l'affaire mais cela n'aide pas vraiment. Nous pouvons escalader auprès de l'encadrement que nous avons un problème de ressources à cause du départ de Thilo. Il est probable que l'encadrement comprendra qu'il nous manque une ressource. En tant qu'excellents responsables, ils se réuniront, réfléchiront, feront de la politique, tireront quelques fils et trouveront finalement une autre ressource. Une bonne recrue, bien sûr, quelqu'un d'expérimenté, de bonne réputation et ayant d'excellentes compétences en tir à l'arc.
 
 <div align="center">
-  <img title="Le groupe avec des rôdeurs" src="/assets/gdm_scrum/party_only_rangers.png" />
+  <img title="Le groupe avec des rôdeurs" src="{{ site.url }}assets/gdm_scrum/party_only_rangers.png" />
 </div>
 
 Que dalle ! Comment cela aurait-il pu être évité ? Dans un monde idéal, votre patron connaît D&D. Il pourrait dire la différence entre un combat à distance et un combat au corps à corps et connaîtrait les différences subtiles entre la magie cléricale et la magie des arcanes. En réalité, la dernière fois qu'il y a sans doute joué remonte au temps où l'Oeil Noir (jeu de rôle très connu Outre-Rhin - NdT) appartenait encore à Schmidt Spiele (éditeur du jeu l'Oeil Noir - NdT). Et, même s'il savait, il a probablement eu 2 candidatures suite à la parution de son annonce de recrutement externe et les deux candidats ne pourront commencer que dans six mois au mieux, donc il a dû promettre certaines faveurs à quelques amis pour faire venir la personne qu'il vous a fournit.
@@ -47,13 +47,13 @@ Encore qu'ici, il y a quelque chose qui s'est mal passé. À mon avis, il s'agit
 Comme évoqué précédemment, le groupe voyage à travers les vastes plaines du développement logiciel. Et ils le font pour une bonne raison, ils veulent atteindre la château mystique dans les nuages, dénommée la vision produit.
 
 <div align="center">
-  <img title="Le château dans les nuages" src="/assets/gdm_scrum/cloud_castle.png" />
+  <img title="Le château dans les nuages" src="{{ site.url }}assets/gdm_scrum/cloud_castle.png" />
 </div>
 
 Parce que personne ne sait où exactement le château est situé, il leurs fût adjoint un vieil homme revêtu d'une cape marron, et d'un bandeau sur ses yeux aveugles. Le vieil homme est un sage mystique, un oracle, qui peut voir le château à l'horizon. Le vieil homme est acheminé à dos d'âne afin qu'il ne trébuche pas sur un caillou ou ne se perde et chaque soir, il indique au groupe la direction à suivre sur la carte. Examinons le tableau de plus près.
 
 <div align="center">
-  <img title="Sprint" src="/assets/gdm_scrum/sprint_fr.png" />
+  <img title="Sprint" src="{{ site.url }}assets/gdm_scrum/sprint_fr.png" />
 </div>
 
 À chaque sprint, le groupe se déplace, affrontant les dangers et les pièges au gré des aventures, se rapprochant toujours un peu plus du château. Nous traçons une flèche sur la carte pour marquer leur progression. Désormais, chacun a son rôle. Le groupe doit comprendre que l'oracle est le seul qui peut vraiment voir le château dans les nuages. Sans lui, ils ne l'atteindront jamais. L'oracle doit comprendre qu'à l'exception de sa compétence mystique, il n'est qu'un vieil homme aveugle voyageant avec une bande d'aventuriers vétérans. Ils savent comment traverser les rivières, affronter les trolls en chemin et éviter de se faire dépouiller par les hobgobelins. Vous l'aurez sûrement deviné maintenant que l'oracle est le product owner.
@@ -61,7 +61,7 @@ Parce que personne ne sait où exactement le château est situé, il leurs fût 
 À la fin, le groupe (y compris le product owner) est jugé sur la progression réalisée en direction du château.
 
 <div align="center">
-  <img title="Vers le château" src="/assets/gdm_scrum/sprint_direction_of_castle_fr.png" />
+  <img title="Vers le château" src="{{ site.url }}assets/gdm_scrum/sprint_direction_of_castle_fr.png" />
 </div>
 
 Toute progression dans une autre direction est perdue. Une progression dans une direction très différente (une déviation de plus de 90°par rapport au château) est même nuisible. Sur cette image, les responsabilités sont claires. La longueur de chaque flèche dont l'équipe est responsable, est appelée la vélocité de l'équipe. Le product owner est responsable pour donner la bonne direction dans laquelle ils doivent aller.
@@ -73,7 +73,7 @@ Alors quelle sorte d'étrange compétence mystique permet de voir un château da
 Restons dans notre décor de campagne médiévale-fantastique. L'oracle est une sorte de prêtre, en relation avec certaines divinités, appelées parties prenantes. Elles suivent leurs propres raisonnements et intérêts pour des raisons que nous autres mortels ne pouvons pas comprendre. Mais chacune d'entre elles a son propre château dans les nuages et chacune veut que les aventuriers l'atteigne. S'il provoque la colère des dieux, l'oracle est dans la panade. Pour commencer, l'oracle détermine ce que les dieux veulent et en fait une représentation mentale (étant aveugle c'est la seule carte à sa disposition, pauvre hère). Evidemment, il ne peut atteindre tous les châteaux en même temps. Donc, il classe les différentes divinités par ordre d'importance. Si vous provoquez la colère d'un dieu, il faut que vous soyez sûr qu'il s'agit bien d'un dieu mineur. Alors à quoi cela ressemble t'il sur une carte ?
 
 <div align="center">
-  <img title="Plusieurs châteaux" src="/assets/gdm_scrum/several_castles_fr.png" />
+  <img title="Plusieurs châteaux" src="{{ site.url }}assets/gdm_scrum/several_castles_fr.png" />
 </div>
 
 Notre mystique décide de guider notre groupe vers l'endroit marqué en rouge, considérant qu'il s'agit de l'endroit le moins risqué.
@@ -81,7 +81,7 @@ Notre mystique décide de guider notre groupe vers l'endroit marqué en rouge, c
 Toutefois, les dieux n'ont pas le même degré d'importance. Chaque prêtre jure allégeance plus particulièrement à un seul dieu. Dans le monde réel, c'est celui avec le budget, et qui est appelé sponsor du projet. Atteindre ses objectifs est obligatoire. Dit autrement, tout le reste est optionnel. A tout entendre, c'est comme si l'oracle avait finalement très peu de liberté où placer le château sur la carte. En réalité cela dépend de la visibilité du château dans les nuages du sponsor du projet. Certains sponsors ont des idées claires, comme de l'eau de roche, sur où ils veulent que l'équipe soit avec des périmètres bien définis. Ils choisissent des product owners uniquement parce qu'eux-mêmes n'ont pas le temps de voyager avec l'équipe. Mais certains sponsors produisent des images très floues, et le château reste caché derrière les nuages.
 
 <div align="center">
-  <img title="Au loin" src="/assets/gdm_scrum/broad_castles_fr.png" />
+  <img title="Au loin" src="{{ site.url }}assets/gdm_scrum/broad_castles_fr.png" />
 </div>
 
 Dans le second cas, le product owner à un espace à l'intérieur duquel il voyage. Il peut y construire son propre château dans les nuages.
@@ -89,7 +89,7 @@ Dans le second cas, le product owner à un espace à l'intérieur duquel il voya
 Maintenant considérons une situation plus complexe et discutons de ce qu'un oracle avisé ferait. 
 
 <div align="center">
-  <img title="Beaucoup de châteaux" src="/assets/gdm_scrum/many_castles_fr.png" />
+  <img title="Beaucoup de châteaux" src="{{ site.url }}assets/gdm_scrum/many_castles_fr.png" />
 </div>
 
 Phil, le sponsor, a donné une vision au product owner sous la forme d'une subvention européenne, de quelques mots à la mode et de très vagues idées (a) à propos de "personnages virtuels détaillés". Tom, une partie prenante aurait préféré aller sur la réalisation de "mondes massifs", pour lesquels il a une idée très claire pour une application sympa (b), mais sa demande de subvention a été rejetée, et donc il n'est pas devenu sponsor. Swen a un projet sur la réalisation de personnages virtuels et plus particulièrement sur leurs expressions faciales (c). C'est dans le périmètre donné par la subvention européenne du sponsor et avec une date butoir proche. Jörg a également un projet sur les "personnages virtuels ", mais il est intéressé plus particulièrement sur un moteur physique crédible (d). Son idée pourrait être dans le périmètre donné par la subvention européenne, mais elle est assez différente de celle de Swen. 
@@ -101,13 +101,13 @@ a) Tout d'abord, quoi qu'il fasse, il devrait rester à l'intérieur de cet espa
 b) La vision de Tom ne peut être suivie. Tom devrait en être informé, et cela diminuera peut être sa colère. Pour en être certain, l'information de la situation devrait être remontée d'abord à Phil, afin qu'il puisse protéger plus tard le product owner de la colère éventuelle de Tom contre lui et de ses tentatives d'harcèlement. Mis à part ça, il a plusieurs possibilités.
 
 <div align="center">
-  <img title="Plan a" src="/assets/gdm_scrum/many_castles_opt_a_fr.png" />
+  <img title="Plan a" src="{{ site.url }}assets/gdm_scrum/many_castles_opt_a_fr.png" />
 </div>
 
 Une option est d'aller d'abord au château de Swen et d'être certain d'y arriver pour la date butoir. Après cela, il change d'objectif et va dans une direction proche du château de Jörgs. De cette façon, et Swen et Jörg seront content de lui. Toutefois, Phil le jugera selon la progression faite en direction de son château, et cette progression a été réduite par ce détour.
 
 <div align="center">
-  <img title="Plan b" src="/assets/gdm_scrum/many_castles_opt_b_fr.png" />
+  <img title="Plan b" src="{{ site.url }}assets/gdm_scrum/many_castles_opt_b_fr.png" />
 </div>
 
 Aussi une option différente pourrait être de construire un château quelque part entre l'idée de Swen et de Jörg et d'y aller en droite ligne. Swen et Jörg seront moins content, mais la progression en direction de Phil en sera meilleur. 
@@ -125,7 +125,7 @@ Mais les problèmes peuvent arriver tout de même. Beaucoup d'oracles étaient d
 C'est normalement le travail de l'équipe que de résoudre des problèmes. Quelques fois, la meilleur solution implique un petit détour. Dans ce cas, ils devraient consulter le product owner. Quelques fois, il pourrait arriver avec une solution comme celle-ci : si nous devons inclure de toute manière cette bibliothèque gestuelle, alors remontons les cinq stories suivantes concernant la gestuelle. Ainsi Jörg peut reporter la date butoir du logiciel pour son projet et nous marquons des points supplémentaires.  
 
 <div align="center">
-  <img title="Un nouveau plan" src="/assets/gdm_scrum/many_castles_replan_fr.png" />
+  <img title="Un nouveau plan" src="{{ site.url }}assets/gdm_scrum/many_castles_replan_fr.png" />
 </div>
 
 La carte ressemble maintenant à ceci. A l'origine, l'oracle voulait voyager directement vers le château. Mais avec la rivière bloquée, ils ont dû aller vers le sud pour trouver un autre pont. Puis l'oracle décida que de là où ils étaient maintenant, aller vers le château de Jörg serait des points facilement gagnés, donc ils prirent cette direction. Ce processus est appelé la re-planification, et fait partie du coeur même de scrum. En fait, c'est cette particularité qui font que les méthodes agiles sont différentes de la gestion classique de projets.
@@ -147,7 +147,7 @@ Quelques fois, nous le savons tous, le projet n'est pas du tout comme cela. Nous
 Dans un monde médiévale-fantastique, cela correspond à de l'exploration souterraine. Sous-terre, dans le noir, il n'y a ni cartes ni directions. Vous ne savez jamais à quelle distance de la sortie avant que nous n'arriviez dehors et vous ne savez jamais quels monstres vous attend au prochain tournant. Lorsqu'un groupe fait de l'exploration souterraine, cela a plusieurs conséquences. Tout d'abord, l'oracle n'est plus d'aucune aide, parce que savoir que le château est à , ne vous dit pas si vous devez tourner à gauche ou tourner à droite dans le labyrinthe. Deuxièmement, le groupe ne sait jamais à quelle distance se trouve la sortie avant de l'atteindre réellement. Ces deux choses sont de bonnes raisons pour ne jamais pénétrer dans les souterrains.
 
 <div align="center">
-  <img title="Souterrains" src="/assets/gdm_scrum/dungeons_fr.png" />
+  <img title="Souterrains" src="{{ site.url }}assets/gdm_scrum/dungeons_fr.png" />
 </div>
 
 Alors qu'est qui nous y conduit d'abord ? Ordinairement, il y a trois raisons. En premier, l'aventure pourrait commencer dans un souterrain. Dans le monde réel, cela signifie que pour des raisons extérieures (le client a mis quelque contrainte ou la subvention européenne nous y oblige), nous devons utiliser une technologie qui ne nous est pas familière et que nous devons intégrer et maîtriser. Dans ce cas, l'exploration souterraine ne peut être éviter. Afin de réussir, nous devons gérer les problèmes qui sont inhérents. Et là, nous devrions faire attention à trois points.

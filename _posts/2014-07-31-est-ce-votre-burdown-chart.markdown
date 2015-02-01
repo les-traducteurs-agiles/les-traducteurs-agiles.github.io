@@ -2,7 +2,7 @@
 layout: post
 title:  "Est-ce votre burdown chart ?"
 date:   2014-07-31 20:43:55
-categories: équipe artefact
+categories: equipe artefact
 ---
 ScrumDesk [analyse les pratiques agiles](http://www.scrumdesk.com/screenshots/analytics/) utilisées par les équipes et aide les scrum masters à en identifier rapidement les lacunes. Nous basons nos conseils et observations, à propos des burn down charts, sur nos sept années de coaching. Scrumdesk permet de suivre aussi ces [autres métriques](http://www.scrumdesk.com/screenshots/reports/) que vous pouvez consulter.
 

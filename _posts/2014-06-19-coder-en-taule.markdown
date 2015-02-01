@@ -2,7 +2,7 @@
 layout: post
 title:  "Coder en taule"
 date:   2014-06-19 18:54:55
-categories: équipe scrum pratique
+categories: equipe scrum pratique
 ---
 Mon fils, Micah (`@slagyr`), et moi, avions prévu de voler samedi matin à bord de son _Archer_ ; mais la météo nous a répondu "Non.". Donc, nous avons dû nous rabattre sur la routine, trop bien connue, du départ la veille au soir, des aéroports, des vol commerciaux, des voitures de locations, des chambres d'hôtels. Sigh.
 
