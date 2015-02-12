@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Prêt égal fait"
+title:  "Prêt égal fini"
 date:   2015-02-11 21:34:52
 categories: scrum
 ---
-Scrum fait beaucoup de bruit autour de la définition de prêt et la définition de fait.  
+Scrum fait beaucoup de bruit autour de la définition de prêt et la définition de fini.  
 
-Pour la phase en cours, la définition de prêt correspond à la définition de fait de la phase précédente. De la même manière, la définition de fait de la phase en cours correspond à la définition de prêt pour la prochaine. Ce sont les deux côtés d'une même membrane.  
+Pour la phase en cours, la définition de prêt correspond à la définition de fini de la phase précédente. De la même manière, la définition de fini de la phase en cours correspond à la définition de prêt pour la prochaine. Ce sont les deux côtés d'une même membrane.  
 
 <div align="center">
-  <img src="{{ site.url }}assets/pret_egal_fait/cellule-pret-fait.png" />
+  <img src="{{ site.url }}assets/pret_egal_fini/cellule-pret-fini.png" />
 </div>
 
 Alors, pourquoi ne pas simplifier et parler de la membrane uniquement ?  
 
-Prêt et Fait forme un dispositif d'attelage entre les différentes phases. À l'intérieure d'une phase, si vous regardez la phase précédente avec son dispositif d'attelage, vous voyez un élément pour vous Prêt à être récupérer et traiter. Vous y ajoutez alors votre valeur, quelle qu'elle soit, et vous faites évoluer cet élément et le développer jusqu'au statut Fait afin qu'il soit Prêt pour la prochaine phase.  
+Prêt et Fini forme un dispositif d'attelage entre les différentes phases. À l'intérieure d'une phase, si vous regardez la phase précédente avec son dispositif d'attelage, vous voyez un élément pour vous Prêt à être récupérer et traiter. Vous y ajoutez alors votre valeur, quelle qu'elle soit, et vous faites évoluer cet élément et le développer jusqu'au statut Fini afin qu'il soit Prêt pour la prochaine phase.  
 
 La membrane unidirectionnelle entre deux phases adjacentes agit comme un filtre qualité.  
 
@@ -25,7 +25,7 @@ Dans cette chaîne de l'évolution, chaque cellule de valeur ajoutée a ses prop
 La cellule elle-même excelle en **A**utonomie, **M**aîtrise, et **D**étermination - elle est **AMD**, si vous préférez ; elle sublime (le travail - NdT) en ajoutant de la valeur. Elle a besoin uniquement d'être nourrie par un flux continu de nouveaux défis excitants correspondant à ses talents et elle peut passer par la membrane qualité, d'un côté ou de l'autre.  
 
 <div align="center">
-  <img src="{{ site.url }}assets/pret_egal_fait/cellule-backlog-livre.png" />
+  <img src="{{ site.url }}assets/pret_egal_fini/cellule-backlog-livre.png" />
 </div>
 
 Étant donné que chaque cellule est autonome et qu'elle a sa propre capacité de production, il y a de fortes chances qu'elle puisse absorber plus de travail que la cellule précédente peut en produire, siphonnant ainsi le backlog. Elle peut aussi produire plus que la capacité d'absorption de la cellule suivante sur la ligne (de production - NdT), créant un réservoir, potentiellement gigantesque, qui peut bloquer tout le système.  
@@ -33,7 +33,7 @@ La cellule elle-même excelle en **A**utonomie, **M**aîtrise, et **D**étermina
 Aussi, un soin particulier doit être pris pour concevoir et régler ces éléments afin que leurs impédances soient rapprochés. Des circuits de retours d'informations, courts et longs, une capacité variable de la zone tampon, permettent de garder les backlogs sous contrôle. Un conception minutieuse, un réglage ici et là, permettent d'éviter que le système devienne instable, créant une machine lean de production de valeur, verte, et tournant sans à-coups.  
 
 <div align="center">
-  <img src="{{ site.url }}assets/pret_egal_fait/cellule-deds-qeqs.png" />
+  <img src="{{ site.url }}assets/pret_egal_fini/cellule-deds-qeqs.png" />
 </div>
 
 **DEDS** - Des membranes qualité médiocres vous permettent d'alimenter une cellule en détritus. La cellule essayera joyeusement d'ajouter de la valeur à ces détritus. Toutefois, travailler avec des détritus embrouille la cellule et la ralentie. Incertaine à propos de ce qu'elle doit faire, mais néanmoins engagée à le faire, elle créée encore plus de détritus. Si plusieurs membranes dans le système sont aussi de médiocres qualités, et avec les circuits de retours d'informations appropriés, le système entrera dans une spirale infernale de détritus à l'entrée, détritus à la sortie.  
@@ -53,7 +53,7 @@ Que vous pensez vous de :
 * Prêt à accepter, et
 * Prêt à livrer.
 
-Alors laissons donc tomber complètement la 'définition de fait'.
+Alors laissons donc tomber complètement la 'définition de fini'.
 
 ---
 Auteur : [Martien Van Steenbergen](http://aardrock.com/contact/martien-van-steenbergen/)  
