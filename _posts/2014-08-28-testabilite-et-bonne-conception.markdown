@@ -49,7 +49,7 @@ Source : [Testability & Good Design](http://blog.gdinwiddie.com/2010/02/14/testa
 Date de parution originale : 14 Février 2010  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 28/08/2014  
 
 ---
@@ -57,3 +57,5 @@ Date de traduction : 28/08/2014
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 
 ---
+
+{% include share_buttons.html %}

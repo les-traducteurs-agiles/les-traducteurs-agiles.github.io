@@ -147,7 +147,7 @@ permalink: /traductions_categories/
 </ul>
 
 <ul class="post-list">
-  <h1>Manifest</h1>
+  <h1>Manifeste</h1>
   <li>
     {% for post in site.categories.manifeste %}
       <h2>

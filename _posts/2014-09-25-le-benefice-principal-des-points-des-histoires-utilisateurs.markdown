@@ -53,11 +53,9 @@ Source : [The Main Benefit of Story Points](http://www.mountaingoatsoftware.com/
 Date de parution originale : 9 Septembre 2014  
 
 ---
-Traducteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 12/09/2014  
 
 ---
 
-
-
-
+{% include share_buttons.html %}

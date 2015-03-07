@@ -657,12 +657,14 @@ Source : [Agile Game Development With Scrum: Teams](http://www.gamasutra.com/vie
 Date de parution originale : 26 août 2010  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 22/12/2014  
-Relecteurs : [Fabien Bataille](http://www.les-traducteurs-agiles.org/traducteurs.html), [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs.html)
+Relecteurs : [Fabien Bataille](http://www.les-traducteurs-agiles.org/traducteurs/), [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs/)
 
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.jpg" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 
 ---
+
+{% include share_buttons.html %}

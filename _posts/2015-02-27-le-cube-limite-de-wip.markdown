@@ -15,7 +15,9 @@ Source : [Spotify's "The limit WIP CUBE"](http://conceptcubes.com/2014/06/26/spo
 Date de parution originale : 26 Juin 2014  
 
 ---
-Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 27/02/2015  
 
 ---
+
+{% include share_buttons.html %}

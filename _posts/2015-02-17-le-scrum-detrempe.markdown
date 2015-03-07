@@ -23,6 +23,10 @@ Source : [The Wet Scrum](https://www.linkedin.com/pulse/wet-scrum-gurpreet-singh
 Date de parution originale : 28 Janvier 2015   
 
 ---
-Traducteur : [Fabien Bataille](http://www.les-traducteurs-agiles.org/traducteurs.html)  
-Relecteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Fabien Bataille](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relecteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 17/02/2015  
+
+---
+
+{% include share_buttons.html %}

@@ -15,7 +15,9 @@ Source : [Agile meetings cube](http://conceptcubes.com/2014/10/16/agile-meeting-
 Date de parution originale : 16 Octobre 2014  
 
 ---
-Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 28/01/2015  
 
 ---
+
+{% include share_buttons.html %}

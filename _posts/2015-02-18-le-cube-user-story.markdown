@@ -15,7 +15,9 @@ Source : [User story cube](http://conceptcubes.com/2014/04/08/userstorycube/)
 Date de parution originale : 08 Avril 2014  
 
 ---
-Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Stéphane Wojewoda](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 18/02/2015  
 
 ---
+
+{% include share_buttons.html %}

@@ -240,3 +240,17 @@
   width: 220px;
   padding: 10px;
 }
+
+.share-page {
+    text-align: center;
+    padding: 8px 15px;
+    margin: 1.5 * $spacing-unit 0;
+
+    a {
+        margin-left: 10px;
+
+        &:hover {
+            border-bottom: 1px dashed #fff;
+        }
+    }
+}

@@ -18,10 +18,13 @@ Source : [Fail early, fail often](http://alanp.ca/blog/2011/06/01/fail-early-fai
 Date de parution originale : 01 Avril 2001   
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs.html)  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 04/02/2015  
 
 ---
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) traduction est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 
+---
+
+{% include share_buttons.html %}
