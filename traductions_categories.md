@@ -178,3 +178,14 @@ permalink: /traductions_categories/
     {% endfor %}
   </li>
 </ul>
+
+<ul class="post-list">
+  <h1>Inspirations</h1>
+  <li>
+    {% for post in site.categories.inspiration %}
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    {% endfor %}
+  </li>
+</ul>
