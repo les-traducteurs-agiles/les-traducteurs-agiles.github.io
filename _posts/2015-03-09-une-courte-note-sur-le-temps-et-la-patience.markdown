@@ -17,7 +17,7 @@ Pour moi, le temps est vide, et démesurément grand, disons infini pour être p
 
 Ainsi le temps ne bouge pas. Donc il a une patience infinie.
 
-Nous ne pouvons pas dire la même chose de la patience. La patience est déjà "par rapport à". Donc elle est déjà relative, limitée. Elle peut être aussi grande (que possible - NdT) par rapport à quelque chose, mais elle est déjà finie (par rapport au temps qui est infini selon l'auteur - NdT).
+Nous ne pouvons pas dire la même chose de la patience. La patience est déjà “par rapport à”. Elle est donc déjà relative, limitée. Elle peut être aussi grande que possible par rapport à quelque chose, mais elle a déjà des limites.
 
 La patience contient aussi autre chose, quelque chose entre l'indifférence et le pardon. L'indifférence n'est pas nécessairement infinie, excepté que le temps est infiniment indifférent. Mais le temps n'inclut pas le pardon. Les gens pardonnent, mais le temps ne s'en préoccupe pas.
 Et donc j'écris, le temps a de la patience -  pas parce qu'il pardonne, mais parce qu'il ne s'en préoccupe pas. Quand nous entrons dans le temps pour la patience, nous y trouvons l'indifférence. Nous devons y ajouter notre propre sollicitude. (Qui ne pourra exiger aucun pardon).
