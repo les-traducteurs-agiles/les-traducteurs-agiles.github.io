@@ -5,7 +5,7 @@ date:   2015-03-15 22:00
 categories: pratique organisation fiche
 ---
 <div align="right" style="float:right; padding-left:30px">
-  <img title="Cartes de compétences" src="{{ site.url }}assets/cartes_competences/cartes-de-competences.png" />
+  <img title="Cartes de compétences" src="{{ site.url }}assets/cartes_competences/carte-de-competences.png" />
 </div>
 
 
