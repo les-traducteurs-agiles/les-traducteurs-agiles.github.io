@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tester dans un sprint"
+title:  "Tester dans le sprint"
 date:   2015-03-28 22:00
 categories: test sprint scrum
 ---
