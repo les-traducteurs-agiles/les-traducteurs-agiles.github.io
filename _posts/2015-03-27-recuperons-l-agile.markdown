@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Reprenons l'agile"
+title:  "Récupérons l'agile"
 date:   2015-03-27 22:00
 categories: agile pratique
 ---
