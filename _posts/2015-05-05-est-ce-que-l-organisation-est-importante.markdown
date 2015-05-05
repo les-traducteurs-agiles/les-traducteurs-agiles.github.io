@@ -40,9 +40,7 @@ La question que tu poses est une question essentielle. La question que tu poses 
 
 Pour répondre à cela, laisses-moi te montrer une photo de mon bureau :
 
-<div align="center">
-  ![Bureau]({{ site.url }}assets/organisation_compte/UB_DESK.jpg)
-</div>
+![Bureau]({{ site.url }}assets/organisation_compte/UB_DESK.jpg)
 
 Comme tu peux le voir, il n'est pas vraiment bien organisé. Oh, il y a une _espèce_ d'organisation. Mais il y a aussi beaucoup de chaos. Est-ce que cela signifie que l'organisation ne compte pas ?
 
@@ -50,15 +48,11 @@ En fait, le truc à propos de mon bureau est qu'il reste relativement simple. Il
 
 En d'autres termes, mon bureau est quelque peu désorganisé, mais il reste relativement simple. Et c'en est la clé. Les choses relativement simples peuvent tolérer un certain degré de désorganisation. Toutefois, au fur et à mesure que la complexité s'accroit, la désorganisation devient suicidaire. Essayez de trouver un livre ici :
 
-<div align="center">
-  ![Bibliothèque mal rangée]({{ site.url }}assets/organisation_compte/badLibrary.jpg)
-</div>
+![Bibliothèque mal rangée]({{ site.url }}assets/organisation_compte/badLibrary.jpg)
 
 Ne penses-tu pas qu'il serait plus facile d'en trouver un là ?
 
-<div align="center">
-  ![Bibliothèque bien rangée]({{ site.url }}assets/organisation_compte/goodLibrary.jpg)
-</div>
+![Bibliothèque bien rangée]({{ site.url }}assets/organisation_compte/goodLibrary.jpg)
 
 _Beaucoup_ efforts ont été investis pour organiser cette deuxième bibliothèque. Et par conséquent, elle demande un certain effort pour apprendre son schéma d'organisation. Un nouveau venu ne peut pas juste se promener dans cette bibliothèque bien organisée et trouver tout de suite le livre qu'il souhaite. À la place, le nouveau venu doit d'abord apprendre quelques informations sur la [classification décimale de Dewey](http://fr.wikipedia.org/wiki/Classification_d%C3%A9cimale_de_Dewey), et sur la manière d'utiliser un catalogue de bibliothèque (sur fiches cartonnées - NdT), ou le catalogue informatisé. Cela demande au nouveau venu un peu de recherches et de réflexions avant qu’il puisse trouver le livre qu'il cherche.
 
