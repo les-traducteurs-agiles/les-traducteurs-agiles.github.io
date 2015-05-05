@@ -2,7 +2,7 @@
 layout: post
 title:  "Les thésauriseurs de code"
 date:   2015-05-05 22:00:53
-categories: equipe développement refactoring
+categories: equipe developpement refactoring
 ---
 Avez-vous déjà vu un épisode de _Hoarders_ (Thésauriseurs [^1] [^2] en VF - NdT), ou un documentaire à propos d'un thésauriseur ? Des émissions de ce genre étaient assez populaires il y a quelques années. Elles montraient une tragédie, et un phénomène bien trop fréquent de personnes ayant perdu le contrôle sur leur espace de vie en le remplissant de tellement de bazar qu'il ne leur reste plus de place pour vivre.
 
@@ -62,7 +62,7 @@ Date de parution originale : 03 Avril 2014
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 19/06/2014  
+Date de traduction : 05/05/2015  
 
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Est-ce que l'organisation compte ?"
 date:   2015-05-05 22:01:53
-categories: equipe développement refactoring 
+categories: equipe developpement refactoring 
 ---
 
 > Je me demande s'il est même possible d'avoir les trois en même temps : la lisibilité, la facilité à être maintenu/modifié (ou bidouillabilité - NdT) et l'abstraction. -- Ben Kuhn, extrait de [Readability, hackability, and abstraction](http://www.benkuhn.net/rha)
@@ -78,7 +78,7 @@ Date de parution originale : 15 Avril 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 19/06/2014  
+Date de traduction : 05/05/2015  
 
 ---
 
