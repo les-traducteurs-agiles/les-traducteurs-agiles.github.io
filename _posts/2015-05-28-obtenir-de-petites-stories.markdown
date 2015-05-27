@@ -10,12 +10,12 @@ categories:
 
 In a thread about estimation in hours and whether it's a good idea (IMO it's not the best idea by far), this morning Robin Dymond tossed me this challenge:
 
-Ce matin - dans un fil de discussion sur l’estimation en heures et notamment du fait, s’il s’agissait d’une bonne idée (à mon avis ce n’est pas une bonne idée) - Robin Dymond m’a lancé ce défi :
+Ce matin - dans un fil de discussion au sujet de l’estimation en heures où nous débattions de savoir s’il s’agissait d’une bonne idée (et à mon avis ce n’est pas une bonne idée) - Robin Dymond m’a lancé ce défi :
 
 
     You have advocated for years that teams should be able to slice stories to the point where they can complete a story in a day. My request is that you show the Agile community how to do that in writing and some exercises that use non trivial examples. I would appreciate learning more about how you do this.
     
-    Pendant des années, vous avez promu que les équipes devaient être capable de découper les stories de telle façon qu'ils puissent réaliser une story en une journée. Ma demande est que vous montriez par écrit à la communauté agile comment le faire ainsi que quelques exercices de mise en pratique d'exemples non triviaux. J'apprécierai de pouvoir apprendre plus sur comment vous faites cela.
+    Pendant des années, vous avez recommandé que les équipes soient capables de découper les stories de telle façon qu'elles soient développées en une journée. Je souhaiterais que vous montriez cela par écrit à la communauté agile ainsi que quelques exercices avec des exemples non triviaux. J'apprécierai de pouvoir en apprendre plus sur la manière dont vous vous y prenez.
 
 Here, off the cuff, is one reply:
 Au pied levé, voici une réponse :
