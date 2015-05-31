@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Obtenir de petites stories"
-date:   2015-05-28 21:59:53
+date:   2015-05-31 21:45:53
 published: true
 categories: 
 - user stories
