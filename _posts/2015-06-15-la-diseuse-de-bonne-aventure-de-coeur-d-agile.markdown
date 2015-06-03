@@ -62,6 +62,10 @@ categories:
 +0 : Quelle est la seule chose que vous pourriez changer pour améliorer la situation ?
 Est-ce qu'il y a une chose que vous pourriez changer pour améliorer la situation ?
 Est-ce qu'il y a une chose que vous pourriez changer pour vous améliorer ?
+Est-ce qu'il y a une chose à améliorer que vous pourriez changer ?
+Quelle est la chose à améliorer que vous pourriez changer ?
+Qu'est ce qu'il y a à améliorer que vous pourriez changer ?
+Qu'y a t'il à améliorer que vous pourriez changer ?
 
     +0 : EXPERIMENT
     +0 : EXPÉRIMENTER
