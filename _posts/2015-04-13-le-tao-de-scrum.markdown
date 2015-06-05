@@ -1,28 +1,30 @@
 ---
 layout: post
 title:  "Le Tao de Scrum"
-date:   2015-06-03 22:15:00
-categories: scrum inspiration
-published: false
+date:   2015-06-05 21:45:00
+categories: inspiration scrum
+published: true
 ---
-_Le texte qui suit a été inspiré par le Tao Tö King (Dao De Jing). J'étais en train de préparer la formation d'une nouvelle équipe agile et je voulais une version simple des règles de Scrum. Je commençais avec le guide Scrum que je résumais en 15 règles de bases et 53 sous-règles. Les règles de bases, dans un format pseudo-taoïste, sont en quelque sorte une version Ri (expert ou maître) de Scrum. Cet article présente sa troisième et dernière incarnation, avec l'ensemble des 15 règles présentes (reportez-vous à la fin de l'article pour le 3ème ensemble de règles inédites précédemment)._
+_Le texte qui suit a été inspiré par le Tao Tö King (Dao De Jing)._  
+
+_Je préparais la formation d'une nouvelle équipe agile et je voulais une version simple des règles de Scrum. Je commençais avec le guide Scrum que je résumais en 15 règles de bases et 53 sous-règles. Dans un format pseudo-taoïste, les règles de bases sont en quelque sorte une version Ri (expert ou maître) de Scrum. Cet article présente dans cette troisième et dernière incarnation l'ensemble de ces 15 règles (reportez-vous à la fin de l'article pour consulter le 3ème ensemble de règles inédites jusqu'à présent)._
 
 ## Le Tao profond
 
     La Voie est Transparente. La Voie devrait être Inspectée. Ce qui est Inspecté
     devrait être Adapté.
 
-À la base de Scrum est la transparence : pour les personnes payant pour le développement, pour l'encadrement, pour les clients et les utilisateurs, pour l'équipe elle-même. Bien sûr, ça semble bien, mais en fait les personnes détestent ça souvent. Il est difficile d'abandonner les vieilles façons de faire, de dévoiler nos confortables habitudes. Donc, nous ne voulons pas toujours profiter pleinement de la transparence. Nous voulons la transparence pour certaines choses, mais pas pour d'autres.
+À la base de Scrum est la transparence : pour les personnes payant pour le développement, pour l'encadrement, pour les clients et les utilisateurs, pour l'équipe elle-même. Bien sûr, ça semble bien sur le papier, mais en fait les personnes détestent souvent ça. Il est difficile d'abandonner les vieilles façons de faire, de dévoiler nos confortables habitudes. Donc, nous ne voulons pas toujours profiter pleinement de la transparence. Nous voulons la transparence pour certaines choses, mais pas pour d'autres.
 
-Alors, étant donné que nous avons la transparence, nous sommes maintenant en position pour inspecter ce qu'il se passe vraiment. Est-ce que notre plan a fonctionné ? Est-ce que le changement, pour des stories plus détaillées, a réellement fait la différence ? Avons-nous été capable d'avoir une assurance qualité plus impliquée pendant ce sprint ?
+Alors, étant donné que nous avons la transparence, nous sommes maintenant en position pour inspecter ce qu'il se passe vraiment. Est-ce que notre plan a fonctionné ? Est-ce que le changement, pour des stories plus détaillées, a fait réellement la différence ? Avons-nous été capable d'avoir une assurance qualité plus impliquée pendant ce sprint ?
 
-Finalement, quand nous voyons les résultats clairement, il nous incombe de faire les changements, d'adapter. Si l'assurance qualité ne s'est pas impliquée dans ce sprint plus que nous ne l'aurions souhaité, que s'est-il passé ? Comment avons-nous échoué ? Que pouvons-nous faire différemment ? Un esprit curieux est un esprit ouvert. Dans l'esprit des débutants, il y a beaucoup d'options possibles, dans celui des experts il y en a peu. 
+Finalement, quand nous voyons les résultats clairement, il nous incombe de faire les changements, d'adapter. Si l'assurance qualité ne s'est pas impliquée pendant ce sprint plus que nous ne l'aurions souhaité, que s'est-il passé ? Comment avons-nous échoué ? Que pouvons-nous faire différemment ? Un esprit curieux est un esprit ouvert. Dans l'esprit des débutants, il y a beaucoup d'options possibles, dans celui des experts il y en a peu. 
 
 ## Le Tao des Personnes
 
     Le Product Owner décide du 'quoi' de la Voie.
 
-Avec une seule personne qui prend les décisions sur quoi travailler (et pourquoi), les équipes sont capables de s'en éloigner et très vite. Avec l'inspection, chacun voit si ces décisions sur le 'quoi' fonctionnent vraiment. Il est probable que le Product Owner aime ou déteste cette disposition. Si nous savons où nous voulons aller et que nous sommes capables de nous adapter rapidement aux retours d'informations - c'est merveilleux d'être  moteur. D'un autre côté, si notre succès est dû à des manoeuvres autour de la responsabilité (des uns et des autres - NdT), ce sera un triste chemin à l'issu duquel nous trouverons probablement l'échec.
+Avec une seule personne qui prend les décisions sur quoi travailler (et pourquoi), les équipes sont capables de s'en éloigner et très vite. Avec l'inspection, chacun voit si ces décisions sur le 'quoi' fonctionnent vraiment. Il est probable que le Product Owner aime ou déteste cette disposition. C'est merveilleux d'être  le conducteur, si nous savons où nous voulons aller et que nous sommes capables de nous adapter rapidement aux retours d'informations. D'un autre côté, si notre succès est dû à des manoeuvres autour de la responsabilité (des uns et des autres - NdT), ce sera un triste chemin à l'issu duquel nous trouverons probablement l'échec.
 
     L'Équipe décide du 'comment' et de la 'quantité' de la Voie.
 
@@ -35,11 +37,11 @@ Fondamentalement, le Scrum Master doit servir la Voie elle-même. Pour Scrum, la
 ## Le Tao des Évènements
 
     Le planning de livraison défini ce que le utilisateurs de la Voie trouverons de 
-    valeurs et à quel moment.
+    valeur et à quel moment.
 
-Le Planning de Livraison peut nous rappeler l'ancien temps, où l'encadrement nous demandait des dates (et des engagements) que nous ne pouvions donner, ou respecter. Il peut être tentant d'esquiver le Planning de Livraison, tout spécialement pour une nouvelle équipe. Mais avoir une vision vers où nous allons, nous donne confiance, et nous aide à savoir quand nous nous sommes égarés. Il n'est pas uniquement question de dates (même si tout le monde en veut) dans Le Planning de Livraison, il s'agit de séquence et de taille. Il serait plus pertinent que le Planning de Livraison soit fait pendant le premier Sprint, une fois que nous aurons eu la chance d'agir ensemble, et collectivement en tant qu'équipe. 
+Le Planning de Livraison peut nous rappeler l'ancien temps où l'encadrement nous demandait des dates (et des engagements) que nous ne pouvions donner, ou respecter. Il peut être tentant d'esquiver le Planning de Livraison, tout spécialement pour une nouvelle équipe. Mais avoir une vision vers où nous allons, nous donne confiance, et nous aide à savoir quand nous nous sommes égarés. Il n'est pas uniquement question de dates (même si tout le monde en veut) dans Le Planning de Livraison, il s'agit de séquence et de taille. Il serait plus pertinent que le Planning de Livraison soit fait pendant le premier Sprint, une fois que nous aurons eu l'opportunité d'agir ensemble, et collectivement en tant qu'équipe. 
 
-    Les Sprints sont la Voie de l'Équipe, et ne varie pas en longueur.
+    Les Sprints sont la Voie de l'Équipe, et ne varient pas en longueur.
 
 Les Sprints sont les battements de coeur de l'Équipe. Ils donnent le rythme et la structure sur lesquelles les rituels peuvent se tenir, des rituels qu'une équipe a besoin en tant que système humain. Le cycle de Sprint donne un début et une fin, créant un environnement familier, confortable qui nous rappellent où nous sommes, où nous allons, et comment nous pouvons faire mieux la prochaine fois. Avec le temps, le Sprint peut être plus court, mais ne le laissez pas être plus long.
 
@@ -49,7 +51,7 @@ Le Planning de Sprint commence le cycle. Il indique que c'est un nouveau jour, q
 
     Le Standup Quotidien aide l'équipe à s'Adapter à la Voie, pour aujourd'hui.
 
-Le standup est l'endroit où la responsabilité à l'intérieur de l'équipe prend corps. Ceux qui sont embarrassés pour demander assistance resteront bloqués sur la même tâche, jour après jour, tout en déclarant 'pas de problèmes'. Certains resteront vagues lors de leur déclaration sur ce qu'ils vont faire aujourd'hui, incertains d'eux-mêmes et de leurs propres soutiens. Pour d'autres, le standup est la célébration de comment ils travaillent bien ensemble et de l'avancée qu'ils ont pris en tant qu'équipe. Si tout le monde n'apprend pas quelque chose pendant le standup, il y a soit un manque d'écoute réel, soit l'équipe agit et parle seulement comme un automate. Peut-être y-a t'il un manque de confiance ?  
+Le standup est le moment où la responsabilité à l'intérieur de l'équipe prend corps. Ceux qui sont embarrassés pour demander assistance resteront bloqués sur la même tâche, jour après jour, tout en déclarant 'pas de problèmes'. Certains resteront vagues lors de leur déclaration sur ce qu'ils vont faire aujourd'hui, incertains d'eux-mêmes et de leur propre capacité d'assistance. Pour d'autres, le standup est la célébration de comment ils travaillent bien ensemble et du progrès qu'ils ont fait en tant qu'équipe. Si tout le monde n'apprend pas quelque chose pendant le standup, il y a soit un manque d'écoute réel, soit l'équipe agit et parle seulement comme un automate. Peut-être y-a t'il un manque de confiance ?  
 
     La Revue de Sprint aide les utilisateurs de la Voie à Inspecter ce qui a été fait
     dans cet intervalle de deux semaines.`
@@ -59,7 +61,7 @@ Revenons à l'inspection. La Revue de Sprint est l'occasion pour la communauté 
     La Rétrospective aide l'équipe à décider de la Voie à suivre, en Inspectant 
     la Voie qui vient de s'achever.
 
-La Revue de Sprint est à la communauté du projet ce que la Rétrospective est à l'équipe : elle est leur processus d'inspection (et d'introspection). Est-ce qu'elle s'est améliorer à ce Sprint ? Est-ce qu'elle a accompli tout ce qu'elle pouvait en tant qu'équipe ? A t'elle pris plaisir et s'est-elle sentie relaxée ? Où est son point culminant ? Et comment peut-elle le dépasser ?
+La Revue de Sprint est à la communauté du projet ce que la Rétrospective est à l'équipe : elle est leur processus d'inspection (et d'introspection). Est-ce qu'elle s'est améliorer à ce Sprint ? A t'elle accompli tout ce qu'elle pouvait en tant qu'équipe ? A t'elle pris plaisir et s'est-elle sentie relaxée ? Où est son apogée ? Et comment peut-elle le dépasser ?
 
 ## Le Tao des Choses
 
@@ -76,19 +78,17 @@ Le Sprint Backlog est à l'équipe ce que le Product Backlog est à la communaut
 
     Le Product Burndown nous montre la Voie du Product Backlog.
 
-Le Product Burndown peut être fastidieux à faire. Qui veut calculer tous ce qui a été fait et ce qu'il reste à faire ? Mais voir la quantité de valeur accomplie, et la quantité d'effort encore nécessaire est ce qui nous permet de rester honnête avec les décisions du métier : est-ce qu'il s'agit encore du produit ayant le plus de valeur à poursuivre ?
+Le Product Burndown peut être fastidieux à faire. Qui veut calculer tout ce qui a été fait et ce qu'il reste à faire ? Mais voir la quantité de valeur accomplie, et la quantité d'effort encore nécessaire est ce qui nous permet de rester honnête avec les décisions du métier : S'agit-il toujours du produit ayant le plus de valeur à poursuivre ?
 
 `Le Sprint Burdown montre la Voie du Backlog de Sprint.`
 
-The Sprint Burndown can seem annoying to update every day, even pointless, especially after 12 Sprints. But the burndown is not just for the team: it is for the stakeholders, patiently trusting that the team is making progress, silently biting their lip so as to not interfere, now they have been told they are ‘chickens.’  Try seeing what the pattern of your burndowns are over 5 Sprints. What do they tell you? How could you get better?
-
-Le Sprint Burndown peut sembler ennuyant à mettre à jour chaque jour, même inutile, tout spécialement après 12 sprints. Mais le burndown n'est pas que pour l'équipe : il est pour les parties prenantes, faisant confiance patiemment que l'équipe est en train de progresser, se mordant les lèvres pour ne pas intervenir, maintenant qu'il leur a été dit qu'ils sont des 'poulets'. Essayant de deviner à quoi ressemblera vos burndown au bout de 5 sprints. Que vous disent-ils ? Comment pourriez-vous devenir meilleurs ? 
+Le Sprint Burndown peut sembler ennuyant à mettre à jour chaque jour, même inutile, surtout après 12 sprints. Mais le burndown n'est pas que pour l'équipe : il est pour les parties prenantes, faisant confiance patiemment à l'équipe qui est en train de progresser, se mordant les lèvres pour ne pas intervenir, maintenant qu'il leur a été dit qu'ils sont des 'poulets'. Et essayant de deviner à quoi ressemblera vos burndown au bout de 5 sprints. Que vous disent-ils ? Comment pourriez-vous devenir meilleurs ? 
 
 ## Le Tao des Dénouements
 
     La définition de Fini doit être acceptée par tous ceux qui suivent la Voie.
 
-La décision définissant les règles indiquant quand nous aurons fini - que ce soit une tâche, une story, le Sprint ou même le produit - devrait être prise au début, mais revue périodiquement. En avons-nous réellement fini avec cette tâche ? Qu'indiquent les tests ? Avons-nous obtenu autant de valeur que voulue, pour l'instant ?
+La décision définissant les règles indiquant quand nous aurons fini - que ce soit une tâche, une story, le Sprint ou même le produit - devrait être prise dès le début, et revue périodiquement. En avons-nous réellement fini avec cette tâche ? Qu'indiquent les tests ? Avons-nous obtenu autant de valeur que voulue, pour l'instant ?
 
 Est-ce qu'il y a des horizons plus importants devant nous ?
 
@@ -101,7 +101,7 @@ Date de parution originale : 08 Avril 2010
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 03/06/2015  
+Date de traduction : 05/06/2015  
 
 ---
 
