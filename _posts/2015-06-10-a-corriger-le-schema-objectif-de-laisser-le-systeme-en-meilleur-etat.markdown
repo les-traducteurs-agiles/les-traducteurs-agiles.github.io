@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  À corriger : Le schéma "Objectif de laisser le système en meilleur état"
+title:  Corrigez ça : Le schéma "Objectif de laisser le système plus achevé"
 date:   2015-06-10 21:59:53
 published: false
 categories: 
@@ -8,21 +8,18 @@ categories:
 - agile
 ---
 
-Fix it: The Pattern Goal of Leaving the System More Whole
-
-À corriger : Le schéma "Objectif de laisser le système en meilleur état"
-
 My teaching engagements emphasize business improvement through changes to the work environment, its processes, and the product. In return, the attendees often deplore some organizational rule that impedes them from realizing my sometimes radical measures. I retort: “Fix it!” Great progress depends on removing the impediments that we feel stand in the way of great change. 
  
- Mes enseignements pédagogiques mettent l'accent sur l'amélioration des entreprises à travers des changements dans l'environnement de travail, dans les processus, et le produit. En retour, les participants déplorent souvent que certaines règles organisationnelles les bloquent dans l'application de mes mesures quelques fois radicales. Je rétorque : "Corrigez ça !"  De grandes avancées dépendent de la levée d'obstacles que nous considérons faire barrage à la voie d'un grand changement.
+Mes enseignements pédagogiques mettent l'accent sur l'amélioration des entreprises à travers des changements dans l'environnement de travail, les processus, et le produit. En retour, les participants déplorent souvent que certaines règles organisationnelles les bloquent dans l'application de mes mesures quelques fois radicales. Je rétorque : "Corrigez ça !"  De grandes avancées dépendent de la levée d'obstacles que nous considérons faire barrage à la voie d'un grand changement.
  
 We like to be creative, but life is a flow of ongoing repair. Christopher Alexander tells us that each pattern is an act of repair that should leave the system more Whole than when we started. That’s the pattern agenda: that every person contribute just a bit every day to making the world more Whole.
 
-Nous aimons être créatif, mais la vie est un flux incessant de choses à réparer. Christopher Alexander nous dit que chaque schéma est un acte de réparation qui devrait laisser le système dans un meilleur état qu'il n'a été trouvé. C'est le schéma de l'agenda : chaque personne contribue un peu chaque jour à rendre le monde meilleur.
+Nous aimons être créatif, mais la vie est un flux incessant de choses à réparer. 
+Christopher Alexander nous dit que chaque schéma est un acte de réparation qui devrait laisser le système plus achevé que lorsque nous avons commencé. C'est le schéma de l'agenda : chaque personne contribue un peu chaque jour à rendre le monde plus aboutit.
  
 Why does the world need repair? Many engineering fields are physical and suffer from the third law of thermodynamics: entropy. There is a more sinister force at work in complex systems like large-scale software development. Bits don’t break or wear out: they are delivered broken. And the changes in context around our software (requirements changes) break the way the system meets market need.
 
-Pourquoi le monde a t'il besoin d'être réparé. Beaucoup de domaines en ingénierie sont matériels et souffrent de la troisième loi thermodynamique : l'entropie. Dans les systèmes complexes comme le développement logiciel à grande échelle, il y a une force plus sinistre au travail . ^ Le peu ne casse pas ou n'use pas ^ : ils sont livrés cassés. Et les changements de contexte autour de notre logiciel (les changements des exigences) cassent la manière dont le système réponds au besoin du marché.
+Pourquoi le monde a t'il besoin d'être réparé. Beaucoup de domaines en ingénierie sont matériels et souffrent de la troisième loi thermodynamique : l'entropie. Dans les systèmes complexes comme le développement logiciel à grande échelle, il y a une force plus sinistre au travail. Les bits des programmes ne cassent pas ou ne s'usent pas : ils sont livrés abimés. Et les changements de contexte autour de notre logiciel (les changements des exigences) brisent la manière dont le système réponds au besoin du marché.
  
 Toyota has a culture of zero defect tolerance. Toyota isn’t the only enterprise with this outlook, of course: the early American space program laid the international reputation of an entire nation on the success of its missions, so the cost of failure was very high: a human life. Early aerospace addressed the problem with ever-growing experience, but time and money were probably the dominant enablers of quality. In contrast, Toyota stops the production line now whenever a problem arises. And we fix it now.
  
