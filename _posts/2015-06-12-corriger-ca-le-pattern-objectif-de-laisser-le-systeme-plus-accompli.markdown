@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Corrigez ça : le pattern ''Objectif de laisser le système plus accompli''"
-date:   2015-06-12 21:59:53
+date:   2015-06-13 21:59:53
 published: true
 categories: 
 - inspiration
@@ -11,7 +11,7 @@ categories:
 Mes enseignements pédagogiques mettent l'accent sur l'amélioration des entreprises à travers des changements dans l'environnement de travail, les processus, et le produit. En retour, les participants déplorent souvent que certaines règles organisationnelles les bloquent dans l'application de mes mesures quelques fois radicales. Je rétorque : "Corrigez ça !"  De grandes avancées dépendent de la levée des obstacles que nous considérons faire barrage à la voie d'un grand changement.
  
 Nous aimons être créatifs, mais la vie est un flux incessant de choses à réparer. 
-Christopher Alexander nous dit que chaque _pattern_ est un acte de réparation qui devrait laisser le système plus _accompli_ que lorsque nous avons commencé. C'est le _pattern_ de l'agenda : chaque personne contribue un peu plus chaque jour à rendre le monde plus _accompli_.
+Christopher Alexander nous dit que chaque _pattern_ [^1] est un acte de réparation qui devrait laisser le système plus _accompli_ que lorsque nous avons commencé. C'est le _pattern_ de l'agenda : chaque personne contribue un peu plus chaque jour à rendre le monde plus _accompli_.
  
 Pourquoi le monde a t'il besoin d'être réparé ? Beaucoup de domaines en ingénierie sont matériels et souffrent de la troisième loi thermodynamique : l'entropie. Dans les systèmes complexes comme le développement logiciel à grande échelle, il y a une force plus sinistre au travail. Les bits des programmes ne cassent pas ou ne s'usent pas : ils sont livrés abimés. Et les changements de contexte autour de notre logiciel (les changements d'exigences) cassent la manière dont le système répond au besoin du marché.
  
@@ -25,6 +25,8 @@ Pour montrer qu'il s'agit nettement moins d'une technique magique que d'engageme
 
 De nouveau : de grands progrès dépendent de la levée des obstacles entre nous et le grand changement. Nous aimons externaliser ces obstacles pour protéger notre propre image. Le plus souvent, ces obstacles résident en nous. C'est l'une des raisons pour lesquelles le changement semble si difficile, parce que c'est dur pour nous d'accepter qu'il puisse nous manquer quelque chose qu'un peu de connaissance soit en mesure de résoudre. Apprendre, c'est beaucoup plus que de la connaissance ou de la mémoire, c'est plutôt l'accumulation de ce tous ces petits changements dans le comportement. Vous ne remettez pas en cause vos propres habitudes assez souvent ? Corrigez ça !
 
+[^1]: NdT : Le terme pattern en anglais a été conservé, son usage étant plus répandu dans le milieu professionnel que sa traduction française patron.
+
 ---
 Auteur : [Jim ("Cope") Coplien](https://sites.google.com/a/gertrudandcope.com/www/jimcoplien)  
 Source : [Fix it: The Pattern Goal of Leaving the System More Whole](http://www.computer.org/web/agile-careers/content?g=8504655&type=article&urlTitle=fix-it-the-pattern-goal-of-leaving-the-system-more-whole)  
@@ -32,7 +34,7 @@ Date de parution originale : 02 Février 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 12/06/2015  
+Date de traduction : 13/06/2015  
 
 ---
 
