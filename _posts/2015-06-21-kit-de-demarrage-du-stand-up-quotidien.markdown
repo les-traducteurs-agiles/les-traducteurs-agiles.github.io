@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kit de démarrage du stand-up quotidien"
-date:   2015-06-23 21:59:53
+date:   2015-06-25 18:59:53
 published: true
 categories: 
 - stand-up
@@ -36,8 +36,8 @@ Date de parution originale : 28 Août 2011
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relecteur : [Sylvain Fraïssé ](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 23/06/2015 
+Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 25/06/2015 
 
 ---
 
