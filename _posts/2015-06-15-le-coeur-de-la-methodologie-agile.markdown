@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Qu'est-ce que j'appelle le Coeur de la méthodologie Agile"
-date:   2015-06-16 21:59:53
+date:   2015-07-01 21:59:53
 published: false
 categories: 
 - agile
@@ -48,7 +48,7 @@ Essayons cela pendant quelques temps et voyons ce qu'il se passe ...
 
 ( “You can’t skip this ad because it’s already over”. :)
 
-( "Vous ne pouvez pas esquiver cette pub parce qu'elle est déjà finie". :)
+( "Vous ne pouvez pas éviter cette pub parce qu'elle est déjà finie". :)
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
@@ -57,7 +57,7 @@ Date de parution originale : 23 mai 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 15/06/2015  
+Date de traduction : 01/07/2015  
 
 ---
 
