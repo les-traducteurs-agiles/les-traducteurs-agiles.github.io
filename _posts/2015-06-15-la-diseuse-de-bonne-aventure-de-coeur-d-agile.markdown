@@ -60,7 +60,7 @@ categories:
   
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
-Source : [La diseuse de bonne aventure de Coeur d'Agile](http://alistair.cockburn.us/Heart+of+Agile+Fortune+Teller+in+English)  
+Source : [Heart of Agile Fortune Teller in English](http://alistair.cockburn.us/Heart+of+Agile+Fortune+Teller+in+English)  
 Date de parution originale : 03 Mai 2015  
 
 ---
