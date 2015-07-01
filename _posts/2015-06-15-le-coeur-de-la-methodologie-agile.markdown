@@ -2,7 +2,7 @@
 layout: post
 title:  "Qu'est-ce que j'appelle le Coeur de la méthodologie Agile"
 date:   2015-07-01 21:59:53
-published: false
+published: true
 categories: 
 - agile
 ---
