@@ -2,7 +2,7 @@
 layout: post
 title:  "Il ne s'agit pas juste de se tenir debout : Patterns pour les réunions du stand-up quotidien"
 date:   2015-07-14 21:59:53
-published: true
+published: false
 categories: 
 - agile
 - stand-up
