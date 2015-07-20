@@ -41,7 +41,7 @@ Pour des pratiquants avertis, lorsque les choses se passent mal lors du stand-up
 
 For novices, when things go wrong, it is much less likely that they'll figure out what to do... and it’s much more likely that, given no assistance, they will simply abandon the practice altogether.
 
-Pour les novices, lorsque les choses vont mal, il est peu probable qu'ils sauront quoi faire ... et il est beaucoup plus probable que sans assistance, qu'ils abandonneront tout simplement cette pratique.
+Pour les novices, lorsque les choses vont mal, il est peu probable qu'ils sauront quoi faire ... et il est beaucoup plus probable que sans assistance, ils abandonneront tout simplement cette pratique.
 
 This would be unfortunate since well-run stand-ups add significant value to teams.
 
@@ -57,7 +57,7 @@ Afin de corriger cela, il est important de rendre visible les bénéfices et les
 
 Bob Marley’s “Get Up Stand Up” starts up... acting like a Pavlovian bell as the team gets up to wander over to stand in front of the card wall without any additional prompting. That particular song is part of a rotation that plays at the same time in the morning, every day. Some people are moving cards to their correct points in the workflow, including affixing different coloured Post-Its with additional notes. A few interested people outside the direct project team have also wandered by to see how things have progressed.
 
-Les premières notes de la chanson de Bob Marley "Get Up Stand Up" se font entendre ... résonnant comme une cloche plavovienne, l'équipe se lève pour aller se tenir devant le mur de cartes sans aucune autre indication supplémentaire. Cette chanson fait partie d'une rotation qui se joue à la même heure le matin chaque jour. Certaines personnes déplacent les cartes à leur emplacement actuel sur le flux de travail, ajoutent des notes adhésives de différentes couleurs avec des informations supplémentaires. Quelques personnes intéressées ne faisant pas partie du projet jettent aussi un coup d'oeil pour voir comment les choses ont progressé.
+Les premières notes de la chanson de Bob Marley "Get Up Stand Up" se font entendre ... résonnant comme une cloche pavlovienne, l'équipe se lève pour aller se tenir devant le mur de cartes sans aucune autre indication supplémentaire. Cette chanson fait partie d'une rotation qui se joue à la même heure le matin chaque jour. Certaines personnes déplacent les cartes à leur emplacement actuel sur le flux de travail, ajoutent des notes adhésives de différentes couleurs avec des informations supplémentaires. Quelques personnes intéressées ne faisant pas partie du projet jettent aussi un coup d'oeil pour voir comment les choses ont progressé.
 
 Noticing that the activity at the wall has stopped, the team leader starts a large timer that the team had previously purchased; they were interested in how long the daily stand-up meeting actually took.
 
@@ -69,15 +69,15 @@ L'un des membres de l'équipe s'avance pour parler de la carte la plus à droite
 
 At one point, there is a slightly longer discussion exploring how to deal with a particular problem. Noticing the stall, the team leader subtly raises a finger to interrupt... just before one of the people suggest that they should take it offline.
 
-A un moment, il y a une discussion un peu plus longue explorant la manière de gérer un problème particulier. Remarquant la piège, le responsable de l'équipe lève un doigt subtilement pour y mettre fin ... juste avant qu'une des personnes présentes suggèrent que cette discussion devrait être évoquée hors stand-up. 
+A un moment, il y a une discussion un peu plus longue explorant la manière de gérer un problème particulier. Remarquant le piège, le responsable de l'équipe lève un doigt subtilement pour y mettre fin ... juste avant qu'une des personnes présentes suggèrent que cette discussion devrait être évoquée hors stand-up. 
 
 A short time later all the cards are covered and the team leader asks if anyone else has anything else to share. Someone points out an interesting idea she had about a new feature that would make some of what was planned obsolete. This piques the interest of the product manager who always attempts to attend the stand-ups and they both agree to talk about it after.
 
-Un peu plus tard, toutes les cartes ont été passées en revue et le responsable de l'équipe demande si quelqu'un d'autre a quelque chose d'autre à évoquer. Quelqu'un évoque une idée intéressante qu'elle a eu à propos d'une nouvelle fonctionnalité qui pourrait rendre obsolète une partie de ce qui a été planifiée. Cela pique l'intérêt du responsable produit qui a toujours essayer d'être présents aux stand-ups et ils se mettent d'accord pour en parler.
+Un peu plus tard, toutes les cartes ont été passées en revue et le responsable de l'équipe demande si quelqu'un d'autre a quelque chose d'autre à évoquer. Quelqu'un évoque une idée intéressante qu'elle a eu à propos d'une nouvelle fonctionnalité qui pourrait rendre obsolète une partie de ce qui a été planifiée. Cela pique l'intérêt du responsable produit qui a toujours essayer d'être présent aux stand-ups et ils se mettent d'accord pour en parler.
 
 The team leader then rolls his eyes as the team starts the traditional ending ceremony... 1... 2... 3... Excelsior! Not his thing, but he had to admit, it ended things on a high note.
 
-Le responsable de l'équipe ferment alors ses yeux alors que l'équipe entame sa traditionnelle cérémonie de fin ... 1... 2... 3... Excellent ! Ce n'est pas de lui mais il doit l'admettre, cela termine les choses sur une note positive.
+Le responsable de l'équipe ferme alors ses yeux alors que l'équipe entame sa traditionnelle cérémonie de fin ... 1... 2... 3... Excellent ! Ce n'est pas de lui mais il doit l'admettre, cela termine les choses sur une note positive.
 
 People separate and start discussing various things that were raised, including the obstacles, the new ideas, and questions about certain work items.
 
@@ -108,11 +108,11 @@ Il y a plusieurs objectifs à la réunion du stand-up quotidien :
 
 As a mnemonic device, think of GIFTS:
 
-Comme moyen mnémotechnique, penser à BAAES
+Comme moyen mnémotechnique, penser à BONTÉS
 
 Good Start, Improvement, Focus, Team, Status
 
-Bon départ, Amélioration, Attention, Équipe, Situation
+Bon départ, amélioratiON, attenTion, Équipe, Situation
 
 ### Good Start
 
@@ -128,7 +128,7 @@ Bon départ, Amélioration, Attention, Équipe, Situation
 
 **Good Start** means that the stand-up meeting should give energy, not take it. Energy comes from instilling a sense of purpose and urgency; a clear sense of the purpose and a clear understanding what needs to be done to achieve it. It's important to distinguish this from "false urgency", where people are geared up for activity but are without shared direction.
 
-Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigüe de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientés sur le travail de l'activité mais sans direction commune. 
+Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigüe de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientées sur le travail de l'activité mais sans direction commune. 
 
 ### Improvement
 
@@ -140,7 +140,7 @@ Un **bon départ** signifie que la réunion debout devrait donner de l'énergie,
 
 &nbsp;  
 
-> L'objectif n'est pas atteint ... il est à améliorer.
+> L'objectif n'est pas d'atteindre ... il est à améliorer.
 >  
 > [-- Joe Ely, "More on Daily Startup Meetings"](http://joeelylean.blogspot.com/2003/01/more-on-daily-start-up-meetings-few.html)
 
@@ -190,7 +190,7 @@ La **situation** est le fait de répondre à deux questions :
 &nbsp;
     
 * Comment est ce que le travail progresse ?
-* Y'a t'il quelque chose d'intéressant que l'équipe devrait savoir ?
+* Y'a t'il autre chose d'intéressant que l'équipe devrait savoir ?
 
 There should be other additional mechanisms to answer these questions but the daily stand-up is another opportunity to ensure valuable information doesn’t fall through the cracks.
 
@@ -267,7 +267,7 @@ _**Connu également sous le nom**_ : de stand-up focalisé sur les stories
 
 &nbsp;
     
-> Si les stories sont aussi importantes pour le projets, c'est elles qui devraient prendre la parole au stand-up
+> Si les stories sont aussi importantes pour le projet, c'est elles qui devraient prendre la parole au stand-up
 >    
 > [-- Brian Marick, "Latour 3 : Anthrax et stand-ups" ](http://www.exampler.com/blog/2007/11/06/latour-3-anthrax-and-standups/)   
 
@@ -313,7 +313,7 @@ _**Aussi connu sous le nom des :**_ trois questions
 
 Some people are talkative and tend to wander off into **Story Telling**. Some people want to engage in **Problem Solving** immediately after hearing a problem. Meetings that take too long tend to have low energy and participants not directly related to a long discussion will tend to be distracted.
 
-Certaines personnes sont volubiles et tendent à s'égarer au point de faire **le récit d'une histoire**. Certaines personnes veulent s'engager dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps ont tendance à avoir un niveau d'énergie faible et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance devenir distraits. 
+Certaines personnes sont volubiles et tendent à s'égarer au point de faire **le récit d'une histoire**. Certaines personnes veulent s'engager dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps ont tendance à avoir un niveau d'énergie faible et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance à devenir distraits. 
 
 _Therefore_
 
@@ -335,11 +335,11 @@ Structurez les contributions en utilisant le format suivant :
 
 These are the minimum number of questions that satisfy the goals of daily stand-ups. Other topics of discussion (e.g., design discussions, gossip, etc.) should be deferred until after the meeting.
 
-Il s'agit du nombre minimum de questions satisfaisant aux objectifs du stand-ups quotidiens. Les autres sujets de discussion (par exemple les discussions sur la conception, les ragots, etc ...) devraient être différé pour après la réunion du stand-up.
+Il s'agit du nombre minimum de questions satisfaisant aux objectifs du stand-up quotidien. Les autres sujets de discussion (par exemple les discussions sur la conception, les ragots, etc ...) devraient être différés pour après la réunion du stand-up.
 
 Olve Maudal suggested that the questions should be reversed in order to emphasise the correct order of importance:
 
-Olve Maudal suggèrent que les questions devraient être inversées afin de mettre en avant l'ordre d'importance réel des questions :
+Olve Maudal a suggéré que les questions devraient être inversées afin de mettre en avant l'ordre d'importance réel des questions :
 
 > 1. Any impediments in your way?
 > 2. What are you working on today?
@@ -357,7 +357,7 @@ Olve Maudal suggèrent que les questions devraient être inversées afin de mett
 
 Lasse Koskela proposed another form of these questions in order to emphasise that team members should not be **Reporting to the Leader** :
 
-Lasse Koskela propose ces questions sous une autre forme afin de mettre en avant que les membres de l'équipe ne devraient pas **rendre au compte au responsable de l'équipe** :
+Lasse Koskela propose ces questions sous une autre forme afin de souligner que les membres de l'équipe ne devraient pas faire un **compte rendu au chef** :
 
 > Each team member updates his peers:
 >      
@@ -434,7 +434,7 @@ _Par conséquent_
 
 Post raised obstacles to an **Improvement Board**. This is a publicly visible whiteboard or chart that identifies raised obstacles and tracks the progress of their resolution. An Improvement Board can be updated outside of stand-ups and serves as a more immediate and perhaps less confronting way to initially raise obstacles. A common mistake is to not write large enough to allow people to read the blockages from a distance.
 
-Notez-les sur un **tableau d'amélioration**. Il s'agit d'un tableau blanc visible publiquement ou d'un diagramme identifiant les obstacles relevés et retraçant l'avancée de leur résolution. Un tableau d'amélioration peut mis à jour en dehors des stands-ups et sert à gérer la détection initiale des obstacles de manière moins conflictuelle. L'erreur la plus répandue est de ne pas écrire assez gros pour permettre aux gens de lire les blocages de loin.
+Notez-les sur un **tableau d'amélioration**. Il s'agit d'un tableau blanc visible publiquement ou d'un diagramme identifiant les obstacles relevés et retraçant l'avancée de leur résolution. Un tableau d'amélioration peut être mis à jour en dehors des stands-ups et sert à gérer la détection initiale des obstacles de manière moins conflictuelle. L'erreur la plus répandue est de ne pas écrire assez gros pour permettre aux gens de lire les blocages de loin.
 
 The simple act of writing an issue down and therefore explicitly acknowledging it is a very reliable way to reduce drawn out conversations. So even if not everyone agrees that any particular item is an obstacle, it is worth simply writing it down for discussion after the meeting has ended.
 
@@ -454,11 +454,11 @@ La forme du tableau peut varier quelques peu. Par exemple, le tableau pourrait a
 &nbsp;
 
 | Problème | Nombre | Contournement | Contre-mesure | Statut |
-| Libellé du problème | Nombre actuel d'occurrences | Solution à court terme | Solution à long terme basé sur une analyse cause racine | Planifier - Réaliser - Vérifier - Agir |
+| Libellé du problème | Nombre actuel d'occurrences | Solution à court terme | Solution à long terme basée sur une analyse cause racine | Planifier - Réaliser - Vérifier - Agir |
 
 Another style is more like a task board:
 
-Ou dans un autre style genre plus tableau de de suivi de tâches :
+Ou dans un autre style genre plus tableau de suivi de tâches :
 
 | Todo | In Progress | Done |
 | Index cards representing raised obstacles | Obstacle cards move here when we’re actively working on them | Obstacle cards move here when we’ve resolved them |
@@ -535,7 +535,7 @@ _Par conséquent_
 
 Introduce an unpredictable ordering mechanism, like tossing a speaking token (e.g., a ball) to determine who should speak next. Having a speaking token also simplifies deciding who speaks first as it will be the person who happens to have retrieved the token (or the first person s/he tosses the token to).
 
-Introduisez un mécanisme d'ordonnancement imprévisible, comme passer un témoin pour parler (par exemple une balle) pour déterminer qui devra parler ensuite. Avoir un témoin pour parler simplifie aussi la décision de qui doit parler en premier étant donner qu'il s'agira de la personne qui aura récupéré le témoin (ou la première à qui le témoin aura été passé). 
+Introduisez un mécanisme d'ordonnancement imprévisible, comme passer un témoin pour parler (par exemple une balle) pour déterminer qui devra parler ensuite. Avoir un témoin pour parler simplifie aussi la décision de qui doit parler en premier étant donné qu'il s'agira de la personne qui aura récupéré le témoin (ou la première à qui le témoin aura été passé). 
 
 Tossing something around introduces a bit of fun to the daily stand-up ritual and thus serves as a good infection mechanism for other observing teams.
 
@@ -551,11 +551,11 @@ _Mais_
 
 With larger teams, it may become difficult to remember who has already spoken. In those cases, it may be easier to stick to simpler mechanisms like **Round Robin**.
 
-Avec de grandes équipes, il peut devenir difficile de se rappeler qui a déjà parlé. Dans ces cas-là, il peut être plus facile de continuer d'utiliser des mécanismes plus simple comme **chacun son tour**.
+Avec de grandes équipes, il peut devenir difficile de se rappeler qui a déjà parlé. Dans ces cas-là, il peut être plus facile de continuer d'utiliser des mécanismes plus simples comme **chacun son tour**.
 
 Depending on the culture of the organisation or even team, tossing a ball around may also be seen as unprofessional and would create an unnecessary negative perception of the underlying ritual.
 
-Selon la culture de l'organisation ou même de l'équipe, passer une balle peut être perçue comme non professionnel et pourrait créer un perception inutilement négative du rituel sous-jacent.
+Selon la culture de l'organisation ou même de l'équipe, le fait de passer une balle peut être perçue comme non professionnel et pourrait créer une perception inutilement négative du rituel sous-jacent.
 
 ### Take a Card
 
@@ -571,7 +571,7 @@ _Par conséquent_
 
 [Have each team member **Take a Card** to determine which order to speak](http://www.robbyonrails.com/articles/2006/05/29/the-daily-stand-up-part-2) . Imagine a stack of cards, each of which has a number on it. As each team member comes to the meeting, they can select a card which then tells them what order to speak in.
 
-[Chaque membre de l'équipe **prend une carte** pour déterminer dans quel ordre parler](http://www.robbyonrails.com/articles/2006/05/29/the-daily-stand-up-part-2). Imaginez une pile de cartes, chacune porte un numéro. Au fur et à mesure que chaque membre de l'équipe arrive, il prend une carte qui lui indique alors dans ordre il devra parler.
+[Chaque membre de l'équipe **prend une carte** pour déterminer dans quel ordre parler](http://www.robbyonrails.com/articles/2006/05/29/the-daily-stand-up-part-2). Imaginez une pile de cartes, chacune porte un numéro. Au fur et à mesure que chaque membre de l'équipe arrive, il prend une carte qui lui indique alors dans l'ordre dans lequel il devra parler.
 
 ### Walk the Board
 
@@ -617,7 +617,7 @@ _Par conséquent_
 
 Most Agile and Lean teams will use a visual management system to expose what is being worked on. For Agile software development, this might be called a “task board”, “story wall”, or “Kanban board”. These boards will present a process that the work items will move through. Progress is typically represented by physically moving cards across the board. Ideally, vertical positioning will indicate priority.
 
-La plupart des équipes agiles et leans utilisent un système de gestion visuel qui montre ce sur quoi on travaille. Pour le développement agile de logiciel, cela pourrait appelé "tableau de suivi des tâches", "mur de stories", ou "tableau Kanban". Ces tableaux présenteront le processus dans lequel les items se déplaceront. L'avancée est généralement représenté en déplaçant les cartes à travers le tableau. De manière idéale, la position verticale indiquera la priorité.
+La plupart des équipes agiles et leans utilisent un système de gestion visuel qui montre ce sur quoi on travaille. Pour le développement agile de logiciel, cela pourrait être appelé "tableau de suivi des tâches", "mur de stories", ou "tableau Kanban". Ces tableaux présenteront le processus dans lequel les items se déplaceront. L'avancée est généralement représenté en déplaçant les cartes à travers le tableau. De manière idéale, la position verticale indiquera la priorité.
 
 With this board in place, the stand-up moves through each work item from end of process to start of process (e.g., right-to-left) and from highest-to-lowest priority (e.g., top-to-bottom). You may even explicitly indicate on the board what sequence should be used.
 
@@ -727,7 +727,7 @@ _Mais_
 
 There may be a tendency not to work on any project-related tasks until the stand-up. If the **Stand-up Meeting Starts the Day... Late**, this slack time may be significant. To some extent, this may simply be used as an opportunity to check e-mail, fill in timesheets, etc. but it may be worth investigating removing the stand-up as a “start of day” ritual by scheduling it later in the day.
 
-Il peut exister une tendance à ne pas travailler sur aucune tâche du projet en attendant le stand-up. Si la **réunion du stand-up commencent la journée... tard**, ce temps de relâche peut être significatif. Jusqu'à un certain point, ce temps peut être mis à profit pour simplement vérifier les emails, remplir les feuilles d'activités, etc. mais cela peut valoir le coup de réfléchir à ce que le stand-up ne soit plus le rituel "commencer la journée" en le planifiant plus tard dans la journée.
+Il peut exister une tendance à ne travailler sur aucune tâche du projet en attendant le stand-up. Si la **réunion du stand-up commencent la journée... tard**, ce temps de relâche peut être significatif. Jusqu'à un certain point, ce temps peut être mis à profit pour simplement vérifier les emails, remplir les feuilles d'activités, etc. mais cela peut valoir le coup de réfléchir à ce que le stand-up ne soit plus le rituel "commencer la journée" en le planifiant plus tard dans la journée.
 
 ### Don't Use the Stand-up to Start the Day
 
@@ -751,7 +751,7 @@ _Mais_
 
 If the daily meeting doesn't start the day, then it can no longer be used as a shared ritual to set team focus at the start the day. Depending on the team, this price may not be worth the apparent increase in efficiency.
 
-Si la réunion quotidienne ne commencent pas la journée, alors il ne peut plus être utilisé comme un rituel commun pour "donner le La" à l'équipe pour commencer la journée. Selon l'équipe, ce prix peut ne pas valoir le coup de l'augmentation apparente de l'efficacité.
+Si la réunion quotidienne ne commence pas la journée, alors il ne peut plus être utilisé comme un rituel commun pour "donner le La" à l'équipe pour commencer la journée. Selon l'équipe, ce prix peut ne pas valoir le coup de l'augmentation apparente de l'efficacité.
 
 When there are many project using stand-ups, it is possible that multiple stand-ups are occurring simultaneously. Observers interested in multiple projects may want to change stand-up times to allow them to be able attend. This is problematic since it risks the sense of ownership for the team if an observer can force a stand-up to adjust to his/her schedule. Nevertheless, this must also be a consideration when deciding when to have the daily stand-up.
 
@@ -791,7 +791,7 @@ L'équipe doit équilibrer la proximité avec les zones de confort personnel. M�
 
 Some people are talkative and tend to wander off into **Story Telling**. Some people want to engage in **Problem Solving** immediately after hearing a problem. Meetings that take too long tend to have low-energy and participants not directly related to a long discussion will tend to be distracted.
 
-Certaines personnes sont bavardes et ont tendance à s'égarer à **récit d'une histoire**. D'autres personnes veulent se lancer dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps tendent à être faiblarde et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance devenir distraits. 
+Certaines personnes sont bavardes et ont tendance à s'égarer à **récit d'une histoire**. D'autres personnes veulent se lancer dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps tendent à être faiblarde et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance à devenir distraits. 
 
 _Therefore_
 
@@ -807,7 +807,7 @@ _Mais_
 
 Standing up tends to cause meetings to shorten, but does not guarantee that they will shorten to an optimal length. People may learn to cope with the discomfort instead of taking a more appropriate response. Also if the meetings are not taking too long nor wandering off-topic, standing up is an unnecessary ritual.
 
-La station debout provoque généralement un raccourcissement de la durée des réunions, mais il n'y a aucune garantie qu'elles se raccourciront jusqu'à la durée optimale. Les gens peuvent apprendre à s'accommoder de l'inconfort au lieu de donner des réponses plus appropriés. De même si les réunions ne prenaient pas tant de temps ou si elles n'étaient pas hors-sujet, faire la réunion debout serait un rituel inutile. 
+La station debout provoque généralement un raccourcissement de la durée des réunions, mais il n'y a aucune garantie qu'elles se raccourciront jusqu'à la durée optimale. Les gens peuvent apprendre à s'accommoder de l'inconfort au lieu de donner des réponses plus appropriées. De même si les réunions ne prenaient pas tant de temps ou si elles n'étaient pas hors-sujet, faire la réunion debout serait un rituel inutile. 
 
 ### Fifteen Minutes or Less
 
@@ -823,7 +823,7 @@ _Par conséquent_
 
 Keep the daily stand-ups to **Fifteen Minutes or Less**. As a general rule, after fifteen minutes, the average person's mind is going to wander which doesn't help with setting focus.
 
-Maintenez la durée du stand-up quotidien à **quinze minutes ou moins**. De manière générale, après quinze minutes, l'attention d'une personne moyenne va se déliter ce qui ne va pas aider pas se concentrer sur la situation en cours.
+Maintenez la durée du stand-up quotidien à **quinze minutes ou moins**. De manière générale, après quinze minutes, l'attention d'une personne moyenne va se déliter ce qui ne va pas l'aider pas se concentrer sur la situation en cours.
 
 _But_
 
@@ -831,7 +831,7 @@ _Mais_
 
 Fifteen minutes may even be too long for smaller teams. Because of the mind-wandering effect, even for larger teams, fifteen minutes is a good limit. Also, it is also possible to have a meeting that is too short where on ending, the attendees still have no idea what's going on nor who to talk to in order to find out.
 
-Quinze minutes peuvent même être trop longues pour de petites équipes. À cause de l'effet de la perte d'attention, quinze minutes est une bonne limite même pour de grandes équipes. Il est aussi possible d'avoir une durée de réunion qui soit trop courte, où arrivés à la fin les participants n'auront toujours aucune idée de ce qu'il se passe ni à qui parler pour le savoir.
+Quinze minutes peuvent même être trop longues pour de petites équipes. À cause de l'effet de la perte d'attention, quinze minutes est une bonne limite même pour de grandes équipes. Il est aussi possible d'avoir une durée de réunion qui soit trop courte, où arrivé à la fin les participants n'auront toujours aucune idée de ce qu'il se passe ni à qui parler pour le savoir.
 
 ### Signal the End
 
@@ -1103,7 +1103,7 @@ En espérant que ce papier vous ait offert un peu plus de vision dans les détai
 
 At the end of the day, it’s important to not be too concerned about having every pattern or even having some of the smells. Remember GIFTS. Are people energised? Do people have an improvement mindset? Are people focused on our objectives? Are people working together as a team? Does everyone know what’s going on?
 
-À la fin de la journée, il est important de ne pas se sentir trop inquiet d'avoir tous les patterns ou même d'avoir quelques unes des mauvaises odeurs. Rappelez-vous de BAAES. Est-ce que les personnes sont pleines d'énergie ? Est-ce que les personnes ont une attitude tournée vers l'amélioration ? Est-ce que les personnes sont concentrées sur nos objectifs ? Est-ce que les personnes travaillent ensemble en équipe ? Est-ce que tous le monde sait ce qu'il se passe ?
+À la fin de la journée, il est important de ne pas se sentir trop inquiet d'avoir tous les patterns ou même d'avoir quelques unes des mauvaises odeurs. Rappelez-vous de BONTÉS. Est-ce que les personnes sont pleines d'énergie ? Est-ce que les personnes ont une attitude tournée vers l'amélioration ? Est-ce que les personnes sont concentrées sur nos objectifs ? Est-ce que les personnes travaillent ensemble en équipe ? Est-ce que tous le monde sait ce qu'il se passe ?
 
 If you can answer those questions in the affirmative, the meeting is probably going okay. After all, it's really just standing up together every day.
 
@@ -1158,6 +1158,7 @@ Date de parution originale : 28 Août 2011
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)
 Date de traduction : 14 juillet 2015
 
 ---
