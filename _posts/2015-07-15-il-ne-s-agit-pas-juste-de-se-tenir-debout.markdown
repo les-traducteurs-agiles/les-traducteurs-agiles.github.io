@@ -450,24 +450,32 @@ The board design can vary in a few ways. For example a table structure such as t
 
 La forme du tableau peut varier quelques peu. Par exemple, le tableau pourrait avoir la structure suivante :
 
+|---
 | Problem | Count | Containment | Countermeasure | Status |
+|:-:|:-:|:-:|:-:|:-:|
 |Name of problem | Ongoing count of occurrences | Short-term solution | Long-term solution based on root cause analysis | Plan - Do - Check - Act |
 
 &nbsp;
 
+|---
 | Problème | Nombre | Contournement | Contre-mesure | Statut |
+|:-:|:-:|:-:|:-:|:-:|
 | Libellé du problème | Nombre actuel d'occurrences | Solution à court terme | Solution à long terme basée sur une analyse cause racine | Planifier - Réaliser - Vérifier - Agir |
 
 Another style is more like a task board:
 
 Ou dans un autre style genre plus tableau de suivi de tâches :
 
+|---
 | Todo | In Progress | Done |
+||:-:|:-:|:-:|
 | Index cards representing raised obstacles | Obstacle cards move here when we’re actively working on them | Obstacle cards move here when we’ve resolved them |
 
 &nbsp;
 
+|---
 | À faire | En cours | Fini |
+|:-:|:-:|:-:|
 | Fiches cartonnées représentants les obstacles détectés | Les cartes des obstacles sont déplacées ici quand nous travaillons vraiment dessus | Les cartes des obstacles sont déplacées ici quand nous les avons résolues |
 
 &nbsp;  
