@@ -86,7 +86,7 @@ Les personnes se séparent et commencent à discuter de choses et d'autres qui o
 
 ## The goals of the daily stand-up are GIFTS
 
-## Les objectifs du stand-up quotidien sont BAAES
+## Les objectifs du stand-up quotidien sont des _cadeaux[^1]_
 
 There are several goals for a daily stand-up meeting:
 
@@ -108,11 +108,13 @@ Il y a plusieurs objectifs à la réunion du stand-up quotidien :
 
 As a mnemonic device, think of GIFTS:
 
-Comme moyen mnémotechnique, penser à BONTÉS
+Comme moyen mnémotechnique, penser à des cadeaux[^1]
+
+[^1]: NdT - l'acronyme en vo est GIFTS impossible à rendre directement en vf - Good Start, Improvement, Focus, Team, Status
 
 Good Start, Improvement, Focus, Team, Status
 
-Bon départ, amélioratiON, attenTion, Équipe, Situation
+Bon départ, Amélioration, Attention, Équipe, Situation
 
 ### Good Start
 
@@ -1159,7 +1161,7 @@ Date de parution originale : 28 Août 2011
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 14 juillet 2015
+Date de traduction : 23 juillet 2015
 
 ---
 
