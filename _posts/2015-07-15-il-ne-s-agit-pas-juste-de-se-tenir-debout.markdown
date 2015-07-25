@@ -571,9 +571,11 @@ Jason Yip est consultant senior à ThoughtWorks. Il est spécialisé dans l'appl
 En plus de cet article, Jason Yip écrit un blog sur le développement logiciel, touchant à de nombreuses problématiques autour du développement logiciel agile et lean. Ces articles sont courts par la taille et grands par leur contenu de part la réflexion qu'ils peuvent engendrés, avec de nombreux liens vers des articles intéressants sur les logiciels et les personnes.
 
 ---
-Auteur : [Jason Yip]()  
+Auteur : [Jason Yip](https://plus.google.com/+JasonYip)  
 Source : [It's Not Just Standing Up: Patterns for Daily Standup Meetings](http://martinfowler.com/articles/itsNotJustStandingUp.html)  
 Date de parution originale : 28 Août 2011  
+&nbsp;  
+Note du traducteur : le texte original a connu plusieurs remaniements en profondeur, une traduction du tout premier texte avait été faite par Fabrice Aimetti et est disponible [ici](http://wiki.ayeba.fr/Il+ne+s%27agit+pas+simplement+de+rester+debout+-+les+bonnes+pratiques+du+Daily+Stand-up+Meeting).  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
