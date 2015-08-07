@@ -12,13 +12,13 @@ categories: équipe
 
 If you have tried or learned a bit of scrum agile methodology you would no doubt have heard of cross functional team. These are the teams consisting of multiple members with different specializations and general knowledge of the other members’ specialization. The cross functional team is of course not something that an organization can build overnight. Successful cross functional teams formation require high agile maturity, enough resources (cash and skills) and most importantly great teamwork.
 
-Si vous avez déjà essayez ou appris un peu sur la méthodologie agile scrum, vous devriez avoir sans aucun doute entendu parler des équipes pluridisciplinaires. Il s'agit d'équipes comprenant des membres ayant différentes spécialisations et ayant une connaissance générale des spécialisations des autres membres. L'équipe pluridisciplinaire est bien sûr quelque chose qu'une organisation ne bâtit pas en une nuit. La formation réussie d'équipes pluridisciplinaires demande une grande maturité agile, suffisamment de ressources (en argent et en compétences) et le plus important un grand travail d'équipe.
+Si vous avez déjà essayez ou appris un peu la méthodologie agile scrum, vous devriez avoir sans aucun doute entendu parler des équipes pluridisciplinaires. Il s'agit d'équipes dont les membres ont différentes spécialisations et ayant une connaissance générale des spécialisations des autres membres. Une équipe pluridisciplinaire est bien sûr quelque chose qu'une organisation ne bâtit pas en une nuit. La formation réussie d'équipes pluridisciplinaires demande une grande maturité agile, suffisamment de ressources (en argent et en compétences) et le plus important, un grand travail d'équipe.
 
 To make it easy to explain what a cross functional team is supposed to be, I’m going to draw the analogy between cross functional team and an RPG party. This is because I used to like playing RPG game and hopefully there are others that can relate as well.
 
 Pour rendre cela plus facile à comprendre de ce qu'est supposé être une équipe pluridisciplinaire, je vais faire une analogie entre une équipe pluridisciplinaire et un groupe de JdR[^1]. Je prends cette analogie parce que je jouais autrefois au JdR et heureusement il y en a aussi parmi vous, lecteurs, (qui y avez joué) pour que cette analogie puissent vous parler.
 
-[^1]: JdR - acronyme de jeu de rôle - si vous ne savez pas ce que c'est ... où étiez-vous depuis les années 1970...
+[^1]: JdR - acronyme de jeu de rôle - pour plus d'informations sur ce sujet, lisez cet [article](https://fr.wikipedia.org/wiki/Jdr)
 
 # Multiple Masters of Skills
 
@@ -26,7 +26,7 @@ Pour rendre cela plus facile à comprendre de ce qu'est supposé être une équi
 
 When you play an RPG game, be it the old school ones like Lunar Silver Star story or the newer ones like Wasteland 2, you’ll find it that your character’s party would most likely be made up of different character classes. It’s never wise to move forward with a team consisting of all malee users or magic users, in most cases your team would wiped out immediately. As an example if all your members are malee users, as soon as there are magic enemies then the team will be in trouble.
 
-Quand vous jouez au JdR, que ce soit à d'anciens jeux comme Lunar Silver Star Story ou à des jeux récents comme Wasteland 2[^3], vous vous apercevrez que votre personnage sera le résultat de différentes classes de personnages. Il n'est jamais avisé d'avancer avec une équipe composée uniquement de guerriers ou de magiciens, dans la plupart des cas, votre équipe serait écrasée immédiatement. Par exemple, si tous vos personnages sont des guerriers, dès que vos ennemies seront des magiciens, votre équipe sera dans la panade.
+Quand vous jouez au JdR, que ce soit à d'anciens jeux comme Lunar Silver Star Story ou à des jeux récents comme Wasteland 2[^3], vous vous apercevrez que votre personnage sera le résultat de différentes classes de personnages. Il n'est jamais avisé d'avancer avec une équipe composée uniquement de guerriers ou de magiciens, dans la plupart des cas, votre équipe serait écrasée immédiatement. Par exemple, si tous vos personnages sont des guerriers, dès que vos ennemis seront des magiciens, votre équipe sera dans la panade.
 
 [^3]: NdT - Je rassure les plus anciens parmi les lecteurs, pour qui, comme le présent traducteur, jeu de rôle signifie avant tout jeu de rôle papiers ^_^!, la métaphore fonctionne aussi
 
@@ -52,15 +52,15 @@ Maintenant, même si j'ai tout ce que je viens de citer précédemment, un group
 
 I’ll use the magic user as an example. They can either learn attack magic or healing magic, the best thing to have is to get each of the magic user to specialized in each of them. High level healing magic user will be able to restore much more health. I think the worst thing to do is to get the magic users to try to level up both attach and healing, they will end up with mediocre level of both of them, resulting in hard battles.
 
-Je vais utiliser l'exemple du magicien. Ils peuvent soit apprendre la magie offensive soit la magie guérisseuse, la meilleure chose à faire est d'avoir chaque magicien spécialisé dans chacune d'elles. Le magicien avec un niveau élevé en magie guérisseuse sera capable de faire récupérer beaucoup plus de points de vie. Je pense que la pire chose à faire est d'essayer de faire monter de niveaux les magiciens à la fois en magie offensive et en magie guérisseuse, ils finiront avec un niveau médiocre dans chacune d'elles, ce qui aura comme résultat des combats très difficiles.
+Je vais utiliser l'exemple du magicien. Ils peuvent soit apprendre la magie offensive soit la magie guérisseuse, la meilleure chose à faire est d'avoir chaque magicien spécialisé dans chacune d'elles. Un magicien avec un niveau élevé en magie guérisseuse sera capable de faire récupérer beaucoup plus de points de vie. Je pense que la pire chose à faire est d'essayer de faire monter de niveaux les magiciens à la fois en magie offensive et en magie guérisseuse, ils finiront avec un niveau médiocre dans chacune d'elles, ce qui aura comme résultat des combats très difficiles.
 
 When your RPG party is at high level and all specialized, most likely the party will be able to handle different kinds of quests and enemies. If a strong group of enemies appeared then the speed attackers and deal with individual attacks, heavy hitters do mass damages, attack magic users then either strengthens the team or deal elemental damage attacks. Let’s not forget the healing magic user too, he/she will heal the party on each turn, resulting in the other members health being restored.
 
-Lorsque votre groupe de JdR est d'un niveau élevé et qu'ils sont tous spécialisés, il est plus que probable que l'équipe sera capable d'affronter différents types de quêtes et d'ennemis. Si un groupe d'ennemis forts apparaît, les combattants légers attaqueront feront des attaques individuels, les attaquants lourds feront des dégâts de masse, les magiciens offensifs soit renforceront l'équipe soit feront des attaques de magie élémentaire. N'oublions pas également le magicien guérisseur, il guérira le groupe à chaque tour, permettant aux autres membres de l'équipe de récupérer des points de vie.
+Lorsque votre groupe de JdR est d'un niveau élevé et qu'ils sont tous spécialisés, il est plus que probable que l'équipe sera capable d'affronter différents types de quêtes et d'ennemis. Si un groupe d'ennemis forts apparaît, les combattants légers feront des attaques individuels, les attaquants lourds feront des dégâts de masse, les magiciens offensifs renforceront l'équipe ou feront des attaques de magie élémentaire. N'oublions pas également le magicien guérisseur, il guérira le groupe à chaque tour, permettant aux autres membres de l'équipe de récupérer des points de vie.
 
 Then you might say…whoa, what about the merchant? He can trade but he’s weak at attack and knows no magic. Well, you’ll be surprised how handy this extra member can be for supplying mana restoring potion during the battle or providing support attack. He can also perform handy things like applying restoration potion to a fainted (0 HP) member during the battle, so that he/she can continue the battle. We’ll talk about the merchant a bit more later.
 
-Alors vous pourriez dire ... euh, et le marchand alors ? Il peut marchander mais il est faible en attaque et il ne connaît pas la magie. Eh bien, vous serez surpris de l'utilité de ce membre supplémentaire qui peut apporter des potions de récupération de mana pendant la bataille ou apporter du soutien à l'attaque. Il peut aussi accomplir des choses utiles  comme appliquer des potions de récupération à un membre devenu inconscient (0 point de vie) pendant la bataille, afin qu'il/elle puisse continuer la bataille. Nous parlerons du marchand un peu plus tard.
+Alors vous pourriez dire ... euh, et le marchand alors ? Il peut marchander mais il est faible en attaque et il ne connaît pas la magie. Eh bien, vous serez surpris de l'utilité de ce membre supplémentaire qui peut apporter des potions de récupération de mana pendant la bataille ou apporter un appui tactique. Il peut aussi accomplir des choses utiles  comme appliquer des potions de récupération à un membre devenu inconscient (0 point de vie) pendant la bataille, afin qu'il/elle puisse continuer la bataille. Nous parlerons du marchand un peu plus tard.
 
 ## Reality
 
@@ -80,7 +80,7 @@ Revenons à la réalité et réfléchissons à notre équipe scrum pluridiscipli
 &nbsp;
 
 1. Développeur d'interface utilisateur
-2. Développeur dorsal
+2. Développeur backend
 3. Concepteur graphique et expérience utilisateur
 4. Testeur
 5. Analyste métier / product owner
@@ -113,7 +113,7 @@ Ce n'est pas parce qu'un personnage est spécialisé en marchandage ou en magie,
 
 Let’s go back to reality again from our RPG world. I hope the parallel to reality is quite clear, in that the scrum team members should have the ability to assume others roles when needed. To give you an example: if the the web application that you are building have somehow a lot of user interface issues due to technical difficulties and unforseen complexity, it’s possible for the backend developer to actually give the user interface developer a hand. Even if the backend developer is not highly trained in user interface development, he/she should have some knowledge of coding that he can contribute on fixing the easier defects. This is the same with the user interface designer and the business analyse, they can either help with the user interface development or helping the tester.
 
-Retournons de nouveau de notre monde de JdR à la réalité. J'espère que le parallèle avec la réalité est assez clair, dans le sens où les membres de l'équipe scrum devraient avoir la capacité d'assumer le rôle des autres si nécessaire. Pour vous donner un exemple : si l'application web que vous êtes en train de réaliser a d'une quelconque manière des problèmes d'interface utilisateur en raison de difficultés techniques et de complexités inattendues, il est possible pour le développeur dorsal de donner un coup de main au développeur d'interface utilisateur. Même si le développeur dorsal n'est pas très entraîné dans le développement d'interface utilisateur, il/elle devrait avoir quelque connaissance en développement afin qu'il puisse contribuer dans la correction des anomalies les plus faciles. C'est la même chose avec le concepteur d'interface utilisateur et l'analyste métier, ils peuvent soit aider dans le développement d'interfaces utilisateur soit aider le testeur.
+Retournons de nouveau de notre monde de JdR à la réalité. J'espère que le parallèle avec la réalité est assez clair, dans le sens où les membres de l'équipe scrum devraient avoir la capacité d'assumer le rôle des autres si nécessaire. Pour vous donner un exemple : si l'application web que vous êtes en train de réaliser a d'une quelconque manière des problèmes d'interface utilisateur en raison de difficultés techniques et de complexités inattendues, il est possible pour le développeur backend de donner un coup de main au développeur d'interface utilisateur. Même si le développeur backend n'est pas très entraîné dans le développement d'interface utilisateur, il/elle devrait avoir quelque connaissance en développement afin qu'il puisse contribuer dans la correction des anomalies les plus faciles. C'est la même chose avec le concepteur d'interface utilisateur et l'analyste métier, ils peuvent soit aider dans le développement d'interfaces utilisateur soit aider le testeur.
 
 Like our magic user in the example above, the user interface developer must not divert from the highest priority item at the moment which is continuing the UI development and fixing the defects. While the same applies with the tester, he/she must continue with continuous testing as it is important to the UI developement progress, it wouldn’t be advisable for him/her to abandon the testing role and start helping with development.
 
@@ -121,7 +121,7 @@ Tout comme notre magicien dans l'exemple précédent, le développeur d'interfac
 
 So, don’t forget that while the team should be a mile deep in their knowledge the should have a bit of 10cm deep knowledge across the different team functions. Of course it’s not possible to do this 100% but at least we should strive to do this. As an example, a UI developer can sometime have a look at the backend code and have a go at modifying or working at lower priority tasks.
 
-Ainsi, n'oublions pas que bien que les membres de l'équipe devraient être avoir une connaissance profonde de leur domaine, ils devraient avoir une connaissance superficielle des différents domaines de l'équipe. Bien sûr, il n'est pas possible de faire cela à 100% mais au moins nous devrions nous acharner à le faire. Par exemple, un développeur d'interface utilisateur peut jeter un coup d'oeil de temps à autre au code dorsal et avoir l'autorisation de le modifier ou de travailler sur des tâches de moindre priorité.
+Ainsi, n'oublions pas que bien que les membres de l'équipe devraient être avoir une connaissance profonde de leur domaine, ils devraient avoir une connaissance superficielle des différents domaines de l'équipe. Bien sûr, il n'est pas possible de faire cela à 100% mais au moins nous devrions nous acharner à le faire. Par exemple, un développeur d'interface utilisateur peut jeter un coup d'oeil de temps à autre au code backend et avoir l'autorisation de le modifier ou de travailler sur des tâches de moindre priorité.
 
 # Team Formation Itself is a Quest
 
@@ -172,9 +172,9 @@ If you have more to add, please feel free to leave some comments in the comment 
 Si vous voulez ajouter quelque chose, n'hésitez pas à laissez quelques commentaires dans la zone commentaire. Rappelez-vous, la positivité et le partage de la connaissance est la clé pour une équipe qui réussit !
 
 ---
-Auteur : [Jim ("Cope") Coplien](https://sites.google.com/a/gertrudandcope.com/www/jimcoplien)  
-Source : [Two Heads Are Better than One](http://www.computer.org/web/agile-careers/content?g=8504655&type=article&urlTitle=two-heads-are-better-than-one)  
-Date de parution originale : 09 Mars 2015  
+Auteur : [Arvy Budiarto](https://plus.google.com/104410418779843333174/about)
+Source : [Scrum Agile Cross Functional Team is an RPG Party](http://www.codingepiphany.com/2015/06/08/scrum-agile-cross-functional-team-is-an-rpg-party/)  
+Date de parution originale : 08 Juin 2015  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
