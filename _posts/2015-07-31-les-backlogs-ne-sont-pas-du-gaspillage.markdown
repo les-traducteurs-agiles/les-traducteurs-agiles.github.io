@@ -77,7 +77,7 @@ Dire aux gens que les backlogs sont du gaspillage n'aidera en rien les personnes
 _photo credit: (c) 2013 Barnyz, Creative Commons 2.0_
 
 ---
-Auteur : [Jurgen Appelo]()  
+Auteur : [Jurgen Appelo](http://jurgenappelo.com/about/)  
 Source : [Backlogs are not waste](http://noop.nl/2015/05/backlogs-are-not-waste.html)  
 Date de parution originale :  11 mai 2015  
 
