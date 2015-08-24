@@ -116,33 +116,57 @@ Ce problème est de loin le plus répandu de ceux que j'ai pu observé ces derni
 
 #### Solution :
 
-In order to point out to the solution I am using a blog post from Roman Pichler. “10 Tips to write good user stories“.
+In order to point out to the solution I am using a blog post from Roman Pichler. “[10 Tips to write good user stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)“.
 
+Rendons à César ce qui est à César, j'utilise comme solution un article de Roman Pichler : "[10 astuces pour écrire de bonnes user stories](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/)".
 
+### The Product Owner is underpowered and does not act as the guard of the backlog
 
-The Product Owner is underpowered and does not act as the guard of the backlog
+### Le product owner est dans l'incapacité de faire quoi que ce soit et n'agit pas en tant que gardien du backlog.
 
 I saw this situation happening in some of the companies where I worked. Unfortunately, companies do not realise how dangerous this is. In these companies the product owner did not have power to decide anything and managers could change the backlog as much as they wanted.
 
+J'ai vu cette situation dans certaines des entreprises pour lesquelles j'ai travaillé. Malheureusement, ces entreprises ne réalisent pas à quel point cela est dangereux. Dans ces entreprises, le product owner n'avait pas le pouvoir de décider quoi que ce soit et les responsables pouvaient changer le backlog autant qu'ils le voulaient.
+
 This situation leads the Product Owners to no longer care about the product. They started to not care with the ROI, and they completely lost all their entrepreneurial behaviour.
+
+Cette situation conduit les product owners à ne plus s'occuper du produit. Ils commencent à ne plus se soucier du ROI, et ils perdent complètement leur comportement d'entrepreneur. 
 
 Usually this happens with traditional management, where they want to control everything that is part of the Product Backlog, not giving any freedom or trust to the Product Owner.
 
- Solution:
+Cela se produit généralement dans un environnement de management traditionnel, où les entreprises veulent contrôler tout les éléments du product backlog, ni ne donner aucune liberté ni ne faire confiance au product owner.
+
+#### Solution:
+
+#### Solution :
 
 My experience tells me this situation is quite difficult to resolve, because most of the time this problem comes from managers above the Product Owner.
 
+Mon expérience me dit que cette situation est assez difficile à résoudre, principalement parce que la plupart du temps le problème vient des responsables au-dessus du product owner.
+
 In this case, the Scrum Master or the Agile Coach has a fundamental role to play. He is responsible for talking with the management (or with anyone else who is behaving in this way) and explaining how this behaviour has an impact on the company and the quality of the product.
+
+Dans ce cas, le scrum master ou le coach agile ont un rôle fondamental à jouer. Il est responsable pour parler avec l'encadrement (ou avec quiconque ayant cette façon de se comporter.) et pour expliquer l'impact que peut avoir ce comportement sur la compagnie et sur la qualité du produit.
 
 I have witnessed several situations where the Agile Coach was able to explain to Senior Management what was happening and was able to help management to change their behaviour.
 
-The Product Owner that uses estimates to set deadline demos for clients
+J'ai été témoin de plusieurs situations dans lesquelles le coach agile était capable d'expliquer à la direction ce qu'il était en train de se passer et qui était capable d'aider l'encadrement à changer de comportement.
+
+### The Product Owner that uses estimates to set deadline demos for clients
+
+### Le product owner qui utilise des estimations pour fixer des dates butoirs des démos pour les clients
 
 Here we have a typical problem that is common in people who do not understand the basics of software development. This is much deeper than Agile software development. The people who do this do not understand how software development works, so their estimates are just an approximate calculation; they do not guarantee that everything will be done by a certain date.
 
-Solution:
+Ici nous avons un problème typique qui est rencontré habituellement chez les personnes qui ne comprennent pas les bases du développement logiciel. Cela va au-delà du développement agile de logiciel. Les personnes qui font cela ne comprennent pas comment le développement logiciel fonctionne, et donc leurs estimations ne sont que des calculs approximatifs ; elles ne garantissent en rien que tout sera fait pour une certaine date. 
+
+#### Solution:
+
+#### Solution :
 
 A lot of people approach me telling me that sometimes we do not choose the release dates and we have deadlines to be met. Therefore, there is no way to behave in a different manner in this kind of setup, the customers just want to have their product.
+
+Un certain nombre de personnes m'approchent en me disant que quelques fois nous ne choisissons pas les dates de livraisons et que nous avons des dates butoirs à respecter. Par conséquent, 
 
 For those who do not know me, I worked for a huge mobile manufacturing company for years, so I understand what dates set by the market means. Every year we had Christmas sales where the phones needed to be out; there was no other solution, so how could we manage this? The answer is simple: follow basic agile principles.
 
@@ -154,11 +178,11 @@ If the client is not open to all these suggestions, the company should start to 
 
  
 
-The Product Owner is too busy for the team, he has too many teams
+### The Product Owner is too busy for the team, he has too many teams
 
 I see this problem too often, Product Owners who are completely overloaded with work: the overworked Product Owner.
 
-Solution:
+#### Solution:
 
 A product owner should not have more than two teams. Of course, this is a general rule and it might be possible to have more, but if he/she has more than that, it can be difficult to give full support to the teams.
 
