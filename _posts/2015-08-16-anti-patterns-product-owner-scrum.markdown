@@ -166,69 +166,123 @@ Ici nous avons un problème typique qui est rencontré habituellement chez les p
 
 A lot of people approach me telling me that sometimes we do not choose the release dates and we have deadlines to be met. Therefore, there is no way to behave in a different manner in this kind of setup, the customers just want to have their product.
 
-Un certain nombre de personnes m'approchent en me disant que quelques fois nous ne choisissons pas les dates de livraisons et que nous avons des dates butoirs à respecter. Par conséquent, 
+Un certain nombre de personnes viennent vers moi en me disant que quelques fois nous ne choisissons pas les dates de livraisons et que nous avons des dates butoirs à respecter. Par conséquent, il n'y a aucune manière de faire autrement dans ce type de configuration, les clients veulent seulement avoir leur produit.
 
 For those who do not know me, I worked for a huge mobile manufacturing company for years, so I understand what dates set by the market means. Every year we had Christmas sales where the phones needed to be out; there was no other solution, so how could we manage this? The answer is simple: follow basic agile principles.
 
+Pour ceux qui ne me connaissent pas, j'ai travaillé pendant des années pour une grande entreprise de téléphones portables, je comprends donc ce que veut dire des dates dictées par le marché. Chaque année, nous avions les ventes des fêtes de fin d'année pour lesquelles les téléphones doivent être sortis ; il n'y a pas d'autre solution, donc comment pouvons-nous gérer cela ? La réponse est simple : suivez les principes de bases de l'agilité.
+
 The Product Owner must educate the client that after every sprint the team has got something to show (with this the Product Owner gets his demos). During the sprint demo/review the client has the opportunity to provide feedback on what was delivered, and more importantly, has the opportunity to select the most important things that are on the backlog, enabling the team to always deliver the most value to the client.
+
+Le product owner doit informer le client qu'après chaque sprint l'équipe a quelque chose a montré (et avec cet argument, le product owner devrait avoir ses démos). Pendant la démo/revue de sprint, le client a l'opportunité de donner des retours d'informations sur ce qui a été livré, et le plus important, a l'opportunité de sélectionner les choses les plus importantes présentes dans le backlog, ce qui permettra à l'équipe de toujours livrer ce qui a le plus de valeur pour le client. 
 
 At the same time (and this is one of the most frequently forgotten practices), the Product Owner checks the overall release status using Releases Burn Downs. This practice allows the Product Owner to know exactly where the team will land, and start a discussion with the client about what can be dropped in the event the team is not able to deliver on time.
 
+En même temps (et c'est l'une des pratiques les plus fréquemment omises), le product owner vérifie le status global de la livraison en utilisant les burndowns de livraisons. Cette pratique permet au product owner de savoir exactement où l'équipe arrivera, et de commencer une discussion avec le client pour déterminer ce qui peut être abandonné dans le cas où l'équipe n'est pas capable de livrer dans les temps.
+
 If the client is not open to all these suggestions, the company should start to reconsider if the client is someone with whom the company would like to work in the future. The problems that will arise from future interactions will be so complex that the relationship will not benefit any of the parties.
 
- 
+Si le client n'est pas ouvert à ces suggestions, l'entreprise devrait commencer à reconsidérer si le client est quelqu'un avec qui l'entreprise voudrait travailler dans le futur. Les problèmes qui surviendront lors de futurs échanges seront si complexes que cette relation n'apportera aucun avantage à aucune des deux parties. 
 
 ### The Product Owner is too busy for the team, he has too many teams
 
+### Le product owner est trop occupé pour l'équipe, il est en relation avec beaucoup trop d'équipes
+
 I see this problem too often, Product Owners who are completely overloaded with work: the overworked Product Owner.
+
+Trop souvent, j'ai vu ce problème, des product owners qui sont complètement surchargés par le travail : le product owner débordé.
 
 #### Solution:
 
+#### Solution :
+
 A product owner should not have more than two teams. Of course, this is a general rule and it might be possible to have more, but if he/she has more than that, it can be difficult to give full support to the teams.
 
-The Product Owner is too busy for the team, he spends a lot of time in meetings with clients
+Un product owner ne devrait pas travailler avec plus de deux équipes. Bien sûr, il s'agit d'une règle générale, et il pourrait être possible d'en avoir plus, mais si il/elle en a plus, cela peut être difficile d'être disponible pleinement pour assister les équipes.
+
+### The Product Owner is too busy for the team, he spends a lot of time in meetings with clients
+
+### Le product owner est trop occupé pour l'équipe, il passe beaucoup de temps en réunion avec les clients
 
 This case is a bit different than the previous one, but the result is the same (for the team). In both cases, the team does not have the support of their product owner, making the task of developing the right software difficult.
 
- 
+Ce cas est un peu différent du précédent, mais le résultat est le même (pour l'équipe). Dans les deux cas, l'équipe n'a pas l'assistance de son product owner, rendant difficile la tâche de développer le bon logiciel.
 
-Solution:
+#### Solution:
+
+#### Solution :
 
 The job of a product owner is not simple; it´s a tremendous and complex job, sometimes the product is so complex that one single person might not be able to manage everything.
 
+Le boulot du product owner n'est pas simple ; c'est un boulot complexe et gigantesque, quelques fois le produit est si complexe qu'une seule personne pourrait ne pas être capable de tout gérer.
+
 I’ve seen some companies that brought business analysts to the team; these people took the responsibility of talking with clients to see what the market needs, leaving the responsibility of the technical product to the actual product owner. I saw this technique in several companies and it actually worked quite nicely.
 
-The Product Owner Proxy
+J'ai vu certaines entreprises inclure des analystes métiers dans les équipes ; ces personnes prenaient la responsabilité de parler avec les clients pour déterminer les besoins du marché, laissant la responsabilité de l'aspect technique du produit au vrai product owner. J'ai vu cette technique dans plusieurs entreprises et en fait, cela fonctionner plutôt bien.
+
+### The Product Owner Proxy
+
+### Le product owner proxy (ou de proximité)
 
 This person acts as a placeholder for the actual product owner. This can lead to delayed decisions or even conflicts. The author of Agile Product Management with Scrum, Roman Pichler, refers to a case where the PO was too busy to take the role, therefore a company got a proxy PO. At the end, there were various conflicts because the proxy PO was not empowered to make decisions and all decisions were supposed be made by the official PO who was never available.
 
-Solution:
+Cette personne agit comme un substitut pour le vrai product owner. Cela peut mener à un retard dans les décisions ou même des conflits. L'auteur de _Agile Product Management with Scrum_, Roman Pichler, se réfère à un cas où le PO était trop occupé pour remplir son rôle, par conséquent l'entreprise pris un PO poxy. À la fin, il y eut différents conflits parce que le PO n'avait pas été habilité à prendre des décisions et que toutes les décisions étaient supposées être faites par le PO officiel qui n'était jamais disponible.
+
+#### Solution:
+
+#### Solution :
 
 Each case is different, but as a general solution, I believe that we could try to use the same approach as in the first example. Having a business analyst within the team could help the product owner to get more time to help the team to deliver the right product.
 
-Product owner community
+Chaque cas est différent, mais voici une solution qui pourrait s'appliquer de manière générale, je crois que nous pourrions essayer d'utiliser la même approche que dans le premier exemple. Avoir un analyste métier dans l'équipe pourrait aider le product owner a avoir plus de temps pour aider l'équipe à livrer le bon produit.
+
+### Product owner community
+
+### La communauté product owner
 
 This happens to companies that create a committee to be responsible for a product. When there is no one person responsible for the product, it can lead to delayed decisions. Often, most of the people involved want to reach an agreement between all parties, and this will lead to lengthy meetings without any proper outcome. This is a typical case of “too many chefs in the same kitchen”. This is quite similar to one of the problems that I raised above.
 
-Solution:
+Cela arrive aux entreprises qui créent un comité responsable pour un produit. Lorsqu'il n'y a personne responsable pour le produit, cela peut conduire à un retard dans la prise de décisions. Souvent, la plupart des personnes impliquées veulent obtenir le consensus entre toutes les parties, et cela conduira à de longues réunions qui n'aboutiront à rien. C'est le cas typique de "trop de chefs dans la même cuisine". C'est un problème assez similaire à l'un des problèmes déjà cités auparavant.
+
+#### Solution:
+
+#### Solution :
 
 Each product should have only one product owner. My experience tells me if we have too many people responsible for a product we have none. Never assign more than one product owner to a product. If you have several products that are connected with each other, you might need to have a program. In that case you should get a Program Manager or a Chief Product Owner as some companies call it, but never more than one person responsible for a product.
 
-The Product Owner sacrifices the quality of the product in order to ship the product faster
+Chaque produit devrait avoir un seul product owner. Mon expérience me fait dire que si nous avons plusieurs personnes responsables pour un produit alors en fait nous n'en avons aucun. N'assignez jamais plus d'un product owner sur un product. Si vous avez plusieurs produits qui sont liés les uns aux autres, vous pourriez avoir besoin d'un programme. Dans ce cas, vous devriez avoir un responsable de programme ou un product owner en chef comme certaines entreprises peuvent l'appeler, mais jamais avoir plus d'une personne responsable pour un produit.
+
+### The Product Owner sacrifices the quality of the product in order to ship the product faster
+
+### Le product owner sacrifie la qualité du produit afin de livrer le produit plus vite
 
 I see this happening quite often, especially when a Product Owner is under external pressure. Stakeholders push Product Owners to release the product faster, even if the quality is not the best.
 
+J'ai vu cela arrivé assez souvent, tout spécialement quand le product owner est sous pression externe. Les parties prenantes poussent les product owners à livrer le produit plus vite, même si la qualité n'est pas au rendez-vous.
+
 Of course, this approach will damage the company over the long term; everyone knows that poor quality software will sooner or later create problems and damage the provider’s reputation.
 
-Solution:
+Bien sûr, cette approche portera préjudice à l'entreprise sur le long terme ; tous le monde sait que la piètre qualité du logiciel créera des problèmes tôt ou tard et portera atteinte à la réputation du fournisseur.
+
+#### Solution:
+
+#### Solution :
 
 This problem is quite serious and, in my opinion, is something that is part of the company´s culture (not caring about quality). The method I found most useful to reduce this problem is the presence of a Definition of Done (DoD).
 
+Ce problème est assez sérieux et, à mon avis, c'est quelque chose qui fait partie de la culture d'entreprise (de ne pas se soucier de la qualité). La méthode la plus utile que j'ai pu trouver pour réduire ce problème est la présence d'une définition du fini (DoF)[^1].
+
+[^1]: Dod (Definition of Done) en VO - NdT
+
 A DoD is a simple list of tasks defined by the team that represents all the activities that must be done before a story goes into production. To find out more about this, check out this blog.
+
+Une DdF est une simple liste de tâche définie par l'équipe qui représente toutes les activités qui doivent être faites avant que la story rentre en production. Pour savoir plus sur ce sujet, consultez ce [blog](http://lmsgoncalves.com/2014/10/05/15-ideas-definition-of-done-dod/).
 
 Without a DoD, it´s easier for the Product Owner to push the team to cut corners; if this list is there, on the other hand, it´s possible for developers to show that a story is not done until all tasks that are part of the DoD are completed. My experience tells me this helps to reduce the problem.
 
-Confusing the Product Owner role with the Scrum Master Role
+Sans une DdF, c'est plus facile pour un product owner de pousser l'équipe dans ses retranchements ; si c'est liste est présente, il est possible pour les développeurs de montrer qu'une story n'est pas finie tant que toutes les tâches qui font partie de la DdF ne sont pas terminées. Mon expérience me fait dire que cela peut aider à réduire le problème.
+
+### Confusing the Product Owner role with the Scrum Master Role
 
 I saw this happen many times in companies where Scrum Masters were passive for a week or two. In this situation, Product Owners lack the necessary support from the Scrum Master, and they start to take care of all the activities inside of the team. At some point, the Product Owner no longer knows what his own role is, and what the Scrum Master´s role is. This causes a lot of confusion and, worst of all, conflicts and mistrust between the Product Owner and Scrum Master.
 
