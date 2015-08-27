@@ -79,7 +79,7 @@ In general a good user story should be written covering all the layers of the pr
 
 En général, une bonne user story devrait être écrite couvrant toutes les couches du produit. Cela devrait la finalité d'une user story pour utilisateur final. La solution à ce problème est de tutorer l'équipe et le product owner sur ce sujet. J'arrive à bien à le faire comprendre lorsque j'explique aux développeurs que cela ne sert à rien si nous livrons 200 user story backend si l'utilisateur ne peut pas les utiliser sans la partie frontend. Ci-dessous une image d'Ángel Medinilla montrant de manière flagrante comment les stories devraient être construite.
 
-tumblr_n92gyuQRov1sv7d1vo1_1280
+![couches-produit]({{ site.url }}assets/anti_patterns_product_owners/pic1.png)
 
 ### No projection of the product backlog
 
@@ -100,6 +100,8 @@ Avec ce type d'informations disponible le product owner peut prendre de meilleur
 The solution here is quite easy. The product owner should build a product burn down/burn up exactly like the scrum master does, but instead of being focused on the sprint, the product owner focus on the release. A possible example can be observed below.
 
 La solution ici est assez facile. Le product owner devrait construire un burn down/burn up de produit exactement comme le scrum master le fait, mais à la place d'être focalisé sur le sprint, le product owner devra se focaliser sur la livraison. Un exemple de ce que cela peut donner peut être observé ci-dessous.
+
+![Burnup]({{ site.url }}assets/anti_patterns_product_owners/Burnup.png)
 
 ### Burnup
 
