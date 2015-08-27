@@ -10,3 +10,5 @@ github_username:  les-traducteurs-agiles
 
 # Build settings
 markdown: kramdown
+
+limit_posts: 100
