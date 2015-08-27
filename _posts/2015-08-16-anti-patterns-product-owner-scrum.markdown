@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "20 Anti Patterns de Product Owners dans Scrum"
-date:   2015-08-31 23:10:55
+date:   2015-08-25 15:10:55
+published: true
 categories: 
-- product owner
+- product-owner
 ---
 
 ## Product Owner Smells in Scrum
@@ -284,81 +285,159 @@ Sans une DdF, c'est plus facile pour un product owner de pousser l'équipe dans 
 
 ### Confusing the Product Owner role with the Scrum Master Role
 
+### Confondre le rôle de product owner et celui de scrum master
+
 I saw this happen many times in companies where Scrum Masters were passive for a week or two. In this situation, Product Owners lack the necessary support from the Scrum Master, and they start to take care of all the activities inside of the team. At some point, the Product Owner no longer knows what his own role is, and what the Scrum Master´s role is. This causes a lot of confusion and, worst of all, conflicts and mistrust between the Product Owner and Scrum Master.
 
-Solution:
+J'ai vu cela arrivé plusieurs fois dans des entreprises où les scrum masters demeuraient passifs pendant quelques semaines. Dans cette situation, les product owners n'ont plus l'aide dont ils ont besoin et ils commencent à s'occuper de toutes les activités internes de l'équipe. Arrivé à un certain point, le product owner ne sait plus quel est son propre rôle, et ce qu'est le rôle de scrum master; Cela provoque beaucoup de confusion et, le pire, des conflits et de la méfiance entre le product owner et le scrum master.
+
+#### Solution:
+
+#### Solution :
 
 The solution here is quite simple, but not easy to implement at all. In this case it is extremely important to get an experienced and strong Scrum Master. Great Scrum Masters are able to do their jobs in a well, but even more importantly, they are able to coach others in their own jobs. Great Scrum Masters are great coaches as well, so having a strong and competent Scrum Master in this situation is fundamental to improving these issues.
 
-The Product Owner who expects a stretched commitment because "based on their experience it shouldn't take that long.”
+La solution ici est assez simple, mais elle n'est pas du tout facile à implémenter. Dans ce cas, il est extrêmement important d'avoir un scrum master fort et expérimenté. Les grands scrum masters sont capable de faire leurs travails les doigts dans le new, mais encore plus important, ils sont capables de coacher les autres dans leurs propres travails. Les grands scrum masters sont aussi des grands coachs, par conséquent, avoir un scrum master fort et compétent dans cette situation est fondamental pour améliorer ces situations.
+
+### The Product Owner who expects a stretched commitment because "based on their experience it shouldn't take that long.”
+
+### Le product owner qui s'attend à un engagement accru parce "selon son expérience, cela ne devrait pas prendre aussi longtemps"
 
 It is quite common to see this behaviour from old school project managers, where commitments were almost forced by project managers or stakeholders. Another possible cause lies in the fact that Product Owners are ex tech leads or architects. In this situation, the team is dealing with someone who has great technical skills and who expects the team to solve the issues in a faster way.
 
-Solution:
+Il est assez habituel de voir ce type de comportement de la part de chefs de projet de la vieille école, pour lesquels les engagements étaient donnés sous la contrainte des chefs de projets ou des parties prenantes. Une autre hypothèse possible repose sur le fait que certains product owners sont d'anciens responsables techniques ou des architectes. Dans cette situation, l'équipe discute avec quelqu'un qui a de grandes compétences techniques et qui s'attend à ce que l'équipe résolve plus rapidement les problèmes.
+
+#### Solution:
+
+#### Solution :
 
 In both situations the Scrum Master’s job is quite important; he must protect the team. He must explain to the Product Owner that the team owns their estimates. They are the ones deciding how much it takes to deliver that amount of work and there is not much he can do. The Scrum Master must explain to the product owner that the team’s members are doing their best and he needs to trust them.
 
-Being Product Owner because they're a department lead/manager. 
+Dans ces deux situations, le boulot de scrum master est assez important ; il doit protéger l'équipe. Il doit expliquer au product owner que l'équipe a la responsabilité de ses propres estimations. Ses membres sont ceux qui décident de la quantité de travaille nécessaire pour livrer et qu'il n'y a rien qu'il puisse faire. Le scrum master doit expliquer au product owner que les membres de l'équipe font de leur mieux et qu'il doit leurs faire confiance.
+
+### Being Product Owner because they're a department lead/manager. 
+
+### Il est product owner parce qu'il est responsable/chef de département
 
 In some companies the Product Owner role has some semblance of power, and many people will try to grab this position even if they do not have any interest in the product itself. They use this position as a platform to increase their political power. As you can imagine, most of the time the outcome of this is poor and lacking in quality, driving everyone to frustration.
 
-Solution:
+Dans certaines entreprises, le product owner a un semblant de pouvoir, et certaines vont essayer d'obtenir cette position même s'ils n'ont aucun intérêt dans le produit lui-même. Ils utilisent cette position comme d'un tremplin pour accroître leur pouvoir politique. Comme vous pouvez l'imaginez, la plupart du temps le résultat obtenu manque ou est de piètre qualité, conduisant à la frustration générale.
+
+#### Solution:
+
+#### Solution :
 
 In this case I truly believe there is not much that I can suggest; management must understand that a Product Owner is extremely important for the company and only people who understand customers and the market can do a good job. Assigning people to these positions who do not understand the market or the customers is a recipe for disaster. I can only suggest that management assign people based on quality and not based on political interest.
 
-The Product Owner who feels it is not their role to maintain the backlog or delegates all of the actual User Story writing to the team and/or SM
+Dans ce cas, je crois vraiment qu'il n'y a grand chose que je puisse suggérer ; la direction doit comprendre que le product owner est extrêmement important pour l'entreprise et que seules les personnes comprenant les clients et le marché peuvent faire un bon boulot. Assigner des personnes qui ne comprennent ni le marché ni les clients à ces postes est un aller simple faire l'échec; Je peux simplement suggérer que la direction devrait assigner ce poste à des personnes selon leurs compétences et non sur la base d'intérêt politique.
+
+### The Product Owner who feels it is not their role to maintain the backlog or delegates all of the actual User Story writing to the team and/or SM
+
+### Le product owner qui pensent que ce n'est pas leur rôle de maintenir le backlog ou qui délègue l'écriture des user stories à l'équipe et/ou au SM
 
 I did not see this happening too often (fortunately) during my career, but it does happen. This type of Product Owner thinks his or her job is just to dump ideas into the backlog and that someone else should be doing the boring job of transforming the ideas into stories. This kind of Product Owner thinks that his job is too important to be spent on secondary tasks.
 
-Solution:
+(Heureusement) Je n'ai pas vu cela arrivé très souvent pendant ma carrière, mais cela peut arriver. Ce type de product owner pense que son boulot est de seulement jeter des idées dans le backlog et que quelqu'un d'autre devrait faire le travail fastidieux de transformer ces idées en stories; Ce type de product owner pensent que son travail est trop important pour perdre du temps en tâches secondaires.
+
+#### Solution:
+
+#### Solution :
 
 I believe the Scrum Master and the team itself have an important role here. Together they must explain to the product owner that the aforementioned is his job. They must explain that without a proper backlog the team cannot do their jobs. The stories should be discussed between the Product Owner and the team. The product owner is the person ultimately responsible for keeping the product backlog in a good shape.
 
+Je crois que le scrum master et l'équipe elle-même ont un rôle important à jouer ici. Ensemble ils doivent expliquer au product owner que tout ce qui a été cité précédemment c'est son boulot. Ils doivent expliquer que sans un backlog bien maintenu, l'équipe ne peut pas faire son propre travail. Les stories devraient être discutées entre le product owner et l'équipe. Le product owner est en dernier ressort la personne responsable pour garder le product backlog en bonne et due forme.
+
 The scrum master and the team must show to the product owner that it is extremely difficult to do any kind of work if the product backlog is not maintained. A good story must be clear, optimally written in the INVEST (Independent, Negotiable, Valuable, Estimable, Scalable and Testable) format with proper Acceptance Criteria.
 
-The Product Owner who thinks a Scrum Master is just a project manager whose role is to pester people into doing their job
+Le scrum master et l'équipe doivent montrer au product owner qu'il est extrêmement difficile de faire quoi que ce soit si le product backlog n'est pas maintenu. Une bonne story doit être claire, écrite de façon optimale selon le format [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) (Indépendante, Négociable, (de) Valeur, Estimable, (suffisamment) petite et Testable) avec les critères d'acceptances adéquates.
+
+### The Product Owner who thinks a Scrum Master is just a project manager whose role is to pester people into doing their job
+
+### Le product owner qui pense qu'un scrum master est seulement un chef de projet dont le rôle est de pester après les gens pour qu'ils fassent leurs boulots
 
 Sadly, there are still a lot of people do not understand anything about human behaviour. There are a lot of people who still think that punishments and pressure work quite nicely to motivate people. A lot of these Product Owners still believe that people are lazy and need project managers to keep them in line, and of course the Scrum Master fits perfectly into this job (according to their point of view).
 
-Solution:
+Malheureusement, il y a encore beaucoup de gens qui ne comprennent rien au comportement humain. Il y a beaucoup de gens qui pensent encore que les punitions et que mettre la pression au travail est une bonne manière de motiver les gens. Beaucoup de ces product owners croient encore que les gens sont paresseux et qu'ils ont besoin de chefs de projets pour les garder disciplinés, et bien sûr (selon leur point de vue) le scrum master s'inscrit bien dans ce boulot.
+
+#### Solution:
+
+#### Solution :
 
 The solution here is not easy to achieve at all. I truly believe this has more to do with mindset than with any agile process. I would suggest taking this product owner to a good agile training session to make sure that he understands what the roles are in Agile software development.
 
+La solution n'est pas du tout facile à mettre en place. Je crois vraiment que cela a plus a voir avec un état d'esprit qu'avec n'importe quel processus agile. Je suggérais aussi de faire suivre une bonne formation agile à ce product owner pour être certain qu'il comprenne que ces rôles sont dans le développement agile de logiciels.
+
 To complement this, I would take him to a good training session about intrinsic motivators to help him understand what really drives people to do a great job. If he would not like to attend any of these training sessions, maybe give him the book Drive by Daniel Pink. Hopefully he will then understand that punishment or pressure will never motivate people.
 
-The Product Owner who refuses to choose between five top priorities 
+Pour compléter cela, je lui ferais suivre aussi une bonne formation sur les motivations intrinsèques pour lui permettre de comprendre ce qui réellement motive les personnes à faire du bon boulot. S'il ne souhaite pas suivre l'une de ces sessions de formations, alors lui donner le livre _Drive_ de Daniel Pink.
+
+### The Product Owner who refuses to choose between five top priorities 
+
+### Le product owner qui refuse de choisir entre les cinq priorités les plus élevées
 
 I see this quite often; the Product Owner calls the most important story a Must, then there appears another story he says is more important, they become a Must-Must story, and so on. This clearly shows that the Product Owner really does not understand what the single most important thing that must be achieved during the next sprint is.
 
+Je vois cela assez souvent ; le product owner désigne la plus importante story comme un Doit-avoir, puis apparaît une autre story qu'il indique comme étant plus importante, elle devient alors une Doit-doit-avoir, et ainsi de suite. Cela montre clairement que le product owner ne comprend pas réellement quelle doit être la chose (unique) la plus importante qui doit être réalisé pour le prochain sprint.
+
 Having the teams working on several important issues is a really dangerous factor. Not too long ago, some of my teams were working on different goals to be achieved in a single sprint. The result was poor, there was no focus, and while everyone worked on everything, the teams constantly failed to achieve their goals.
 
-Solution:
+Avoir plusieurs équipes travaillant sur plusieurs problèmes importants est vraiment un facteur aggravant. Il n'y a pas si longtemps, certaines de mes équipes étaient en train de travailler sur différents objectifs à accomplir en un seul sprint. Le résultat fût médiocre, il y avait de la dispersion, et alors que tous le monde travaillait sur tout, les équipes échouaient constamment à atteindre leurs objectifs.
+
+#### Solution:
+
+#### Solution :
 
 Here it is quite important for the Product Owner to understand what the most important things are that must be delivered to the customers. Product Owners must understand the team cannot deliver everything at the same time, so they really must understand what is the top priority that should be achieved during the next sprint.
 
+Ici, il est assez important que le product owner comprenne les choses les plus importantes qui doivent être livrées aux clients. Les product owners doivent comprendre que l'équipe ne peut pas tout livrer en même temps, par conséquent ils doivent vraiment comprendre quelle est la top priorité qui devrait être terminée pour le prochain sprint.
+
 When we applied this rule in some of my teams, teams got extremely focused and they started to deliver much more stories per sprint. But more important than that, they started to deliver fully implemented features that could be shipped to the customer. Before, the teams were delivering a lot of things, but none of their features were ready, blocking the release to the customers.
 
-The Product Owner who insists on architecting the solution design
+Lorsque nous avons appliqué cette règle dans certaines de mes équipes, elles sont devenus extrêmement focalisées et elles ont commencés à livrer plus de stories par sprint. Mais plus important que ça, elles ont commencées à livrer des fonctionnalités complètement implémentées qui pourraient être livrées aux clients. Avant, les équipes livraient beaucoup de choses, mais aucune des fonctionnalités n'étaient prêtes, bloquant ainsi la livraison aux clients.
+
+### The Product Owner who insists on architecting the solution design
+
+### Le product owner qui insiste pour architecturer la conception de la solution
 
 I mentioned above that sometimes the Product Owner is an ex architect or an ex tech leader. As a result, it’s normal to have these kind of anti patterns. The Product Owner wants to be responsible for the architecture of the product, driving the team crazy.
 
-Solution:
+J'ai mentionné précédemment que quelque fois le product owner est un ex-architecte ou un ex-responsable technique. Cela a pour conséquence qu'il est normal d'avoir ce type d'anti patterns. Le product owner veut être responsable de l'architecture du produit, rendant folle l'équipe.
+
+#### Solution:
+
+#### Solution :
 
 The Scrum Master and the team must explain to the Product Owner that the design of architecture is not his responsibility. I always like to give this explanation: The Scrum Master and the team are responsible for “How”: How the product is made. The Product Owner is responsible for the “What” part, meaning that the Product Owner should be the one saying what is supposed to be built.
 
-The Product Owner who does not regard himself as a team member
+Le scrum master et l'équipe doit expliquer au product owner que la conception de l'architecture n'est pas de sa responsabilité. J'ai toujours aimé donné l'explication suivante : le scrum master et l'équipe sont responsables du "comment" : comment le produit est réalisé. Le product owner est responsable du "quoi", ce qui veut dire que le product owner devrait être le seul qui dit qu'est-ce qui est supposé être réalisé.
+
+### The Product Owner who does not regard himself as a team member
+
+### Le product owner qui ne se considère pas comme faisant partie de l'équipe
 
 I do not see this anti pattern too often, but several people have mentioned it to me, therefore I am adding it into my list. As the name suggests, the Product Owner does not feel himself part of the team. He feels that he should only be responsible for delivering the stories and nothing more. As you can imagine, the cooperation between the team members and Product Owners will not be the best, and at some point the collaboration will become extremely hard.
 
-Solution:
+Je ne vois pas trop souvent cet anti pattern, mais plusieurs personnes me l'ont signalé, par conséquent je l'ajoute à ma liste. Comme le titre le suggère, le product owner ne se sent pas comme faisant partie de l'équipe. Il sent qu'il devrait être responsable pour livrer des stories et rien de plus; Comme vous pouvez l'imaginez, la coopération entre les membres de l'équipe et les product owners ne sera pas au beau fixe, et arrivé à un certain point la coopération deviendra extrêmement difficile.
+
+#### Solution:
+
+#### Solution :
 
 The Scrum Guide says:
 
+Le guide scrum indique :
+
 “The Scrum Team consists of a Product Owner, the Development Team, and a Scrum Master.”
+
+"L'équipe scrum comprend un product owner, l'équipe de développement, et un scrum master."
 
 Just because the Scrum Guide says that, of course, there is no guarantee the Product Owner will consider himself part of the team—But, I think this could be a good start nevertheless. The Scrum Master or the team could explain to him that, according to the manual, the Product Owner is officially part of the team. On top of this argument, the team and Scrum Master could explain to the Product Owner they are not able to do a fantastic job unless the Product Owner starts to becomes more connected to them. This could be a nice topic for one of the Retrospectives.
 
+Bien sûr, ce n'est pas parce que le guide scrum l'indique, qu'il est garantit que le product owner se considèrera comme faisant partie de l'équipe. Mais, je pense néanmoins que cela pourrait être un bon point de départ. Le scrum master ou l'équipe pourrait lui expliquer ça, que selon le manuel, le product owner fait officiellement partie de l'équipe. En plus de cet argument, l'équipe et le scrum master pourrait expliquer au product owner qu'ils ne sont pas capables de faire un super boulot à moins que le product owners ne se rapprochent plus d'eux. Cela pourrait être un bon sujet pour une rétrospective.
+
 Hope you liked it :) During the next weeks I will write much more about these topics :)
+
+J'espère que vous avez aimez cet article :) J'en dirais plus sur ces sujets les prochaines semaines :)
 
 ---
 Auteur : [Luis Gonçalvès](http://lmsgoncalves.com/about/)  
