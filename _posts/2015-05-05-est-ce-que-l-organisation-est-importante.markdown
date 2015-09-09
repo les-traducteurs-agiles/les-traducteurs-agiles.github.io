@@ -69,7 +69,7 @@ Cela peut sembler presque intolérable. Parce que au fur et à mesure que le pro
 Et donc la question que tu pose est si cela vaut le coup d'investir dans un quelconque schéma d'organisation  étant donné qu'il deviendra obsolète un jour.
 
 La réponse à cette question devrait être évidente. Si tu décides qu'organiser ton système ne vaut pas les efforts investis, tu finiras par être 
-un [thésauriseur de code]({% post_url 2015-05-05-les-thesauriseurs-de-code %}).
+un [thésauriseur de code]({{ site.url }}equipe/developpement/refactoring/2015/05/05/les-thesauriseurs-de-code.html).
 
 ---
 Auteur : [Uncle Bob](http://www.8thlight.com/team/uncle-bob)  
