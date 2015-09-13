@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les story points considérés comme dangereux - ou pourquoi le futur de l'estimation se situe vraiment dans notre passé ..."
-date:   2015-09-12 21:00:55
+date:   2015-09-13 21:00:55
 published: true
 categories: 
 - estimation
