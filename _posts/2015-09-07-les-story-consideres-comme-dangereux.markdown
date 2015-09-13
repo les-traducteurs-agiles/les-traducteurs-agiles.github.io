@@ -173,7 +173,7 @@ Oh, et puis en passant : arrêter de perdre du temps à estimer un backlog sans 
 
 ... en lisant ce [livre blanc](http://eepurl.com/TVCG1)
 
-![livre blanc]({{ site.url }}/points_story_dangereux/livre_blanc.png")
+![livre blanc]({{ site.url }}assets/points_story_dangereux/livre_blanc.png")
 
 
 
