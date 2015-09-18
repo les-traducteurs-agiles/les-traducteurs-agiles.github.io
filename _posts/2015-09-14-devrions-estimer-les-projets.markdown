@@ -142,17 +142,29 @@ Désormais, j'entre fermement sur le territoire de Duarte. La réponse est que n
 
 Due to the hunch I mentioned earlier, I have been tracking velocity as both story count and points for my current team and making projections using both methods. As I suspected (and as [Duarte points out](http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html) with much supporting data), story count provides just as good, if not better a measure of progress and predictability as story points do. Therefore why spend all the time, cost and effort on estimation sessions and velocity calculations?
 
+À cause du pressentiment dont j'ai parlé plus tôt, j'ai traqué la vélocité à la fois sous la forme du comptage de story et de points pour mon équipe de l'époque et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarqué](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne juste suffisamment, si ce n'est mieux, une mesure de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
+
 While story count works great for velocity, I would still warn against using this or any other velocity measure as a way of predicting when you can deliver. You should know when you are delivering and only be predicting what you can deliver at that date. Don’t leave your delivery date to chance, even if you are using historical data rather than guesswork to predict how many stories can be done.
 
+Alors que le dénombrement des story est génial pour la vélocité, je voudrais tout de même alerter comme son utilisation ou l'utilisation de toute autre mesure de la vélocité comme une manière de prévoir quand vous pouvez livrez. Vous devriez savoir quand vous êtes en train de livrer et seulement prévoir ce que vous pouvez livrer à cette date. Ne laissez la chance guider votre date de livraison, même si vous utilisez des données plutôt que des approximations pur prédire combien de stories pourront être finies.
+
 What you can do, however, is use velocity to help the PO understand scoping trade-offs in the backlog (_“the data tells me the team can deliver 20 more stories before the release date, so I’ll make sure the most important 20 are at the top of the backlog“)_.
+
+Ce que vous pouvez faire, toutefois, est d'utilisez la vélocité pour aider le PO à comprendre les arbitrages du périmètre dans le backlog (_les données m'indiquent que l'équipe peut livrer 20 stories de plus avant la date de livraison, donc je voudrai être sûr que les 20 plus importantes soient en haut du backlog_).
 
 ## Conclusion
 
 It’s taken me several years to come to this conclusion. But, if you think about it, people laugh and joke about estimates all the time. Everyone knows they’re a guess. Everyone knows they’re wrong. Yet we continue to do them. I believe it is time for us to acknowledge that it makes far more sense to eliminate the risk and cost of estimation completely and use only empirical data (as Agile and Scrum promotes) to make predicitions.
 
+Cela m'a pris plusieurs années pour arriver à cette conclusion. Mais, si vous y pensez, les gens rient et plaisantent tout le temps à propos des estimations. Tout le monde sait que ce sont des suppositions. Tout le monde sait qu'elles sont fausses. Toutefois nous continuons de les faire. Je crois qu'il est temps pour nous de reconnaître qu'il fait plus sens d'éliminer le risque et le coût de l'estimation complètement et d'utiliser uniquement des données empiriques (telles que l'agilité et Scrum promeuvent) pour faire des prévisions.
+
 In a world without estimation overhead the team is likely to be more happy and productive, the inefficiency of spending time on estimating rather than delivering working software is eliminated and the PO will have real data with which to make decisions rather than guesses made under pressure.
 
+Dans un monde sans une surcharge d'estimation, l'équipe est plus à même d'être plus heureuse et productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel est éliminé et le PO aura des données réelles avec lesquelles on prends des décisions plutôt que des suppositions faites sous la pression.
+
 To summarise:
+
+Pour résumer :
 
 * Don’t estimate your delivery date – base it on your budget or a firm deadline
 * Don’t estimate your scope – allow it to emerge in order to reap the benefits of building products with agility
@@ -160,7 +172,15 @@ To summarise:
 * Use historical data (story count) to predict scope delivery on a given date
 * Use just-in-time implicit estimation (story breakdown in Sprint Planning) and past data to estimate cost (ROI) of story delivery
 
+* N'estimez pas votre date de livraison - basez-la sur votre budget ou sur une date butoir ferme
+* N'estimez pas le périmètre - permettez-le d'émerger afin de récolter les bénéfices de construire des produits avec agilité
+* N'estimez pas explicitement les items du _product backlog (stories)
+* Utilisez des données historiques (comptage des stories) pour prévoir la livraison du périmètre à une date donnée
+* Utilisez l'estimation implicite en juste-à-temps (la scission de stories lors des _sprints planning_) et les données historiques pour estimer le coût (ROI) de livraison d'une story
+
 I don’t like to guess, but I predict that not estimating your projects will make success far more probable :)
+
+Je n'ai pas supposer, mais je prédis que ne pas estimer vos projets rendra le succès beaucoup plus probable :) 
 
 ---
 Auteur : [Neil Killick](https://plus.google.com/u/0/+NeilKillick/about)  
