@@ -15,14 +15,14 @@ categories:
 
 After a year or two of “having a hunch” about this, and after many years of either estimating work or working to someone else’s estimates, I’ve now finally come to the conclusion that the use of estimation of any kind in a project is not only a waste of time but is actually destructive.
 
-Après en "avoir eu le pressentiment" pendant une année ou deux, et avoir passé plusieurs années à faire des estimations ou à travailler sur les estimations des autres, j'en suis finalement arrivé à la conclusion que l'utilisation de l'estimation sur tout type de projet est non seulement une perte de temps mais est réellement néfaste. 
+Après en "avoir eu l'intuition" pendant une année ou deux, et avoir passé plusieurs années à faire des estimations ou à travailler sur les estimations des autres, j'en suis finalement arrivé à la conclusion que l'utilisation de l'estimation sur tout type de projet est non seulement une perte de temps mais est réellement néfaste. 
 
 I am fully aware this is an extremely controversial statement, so I am going to be as thorough as I can in explaining how I came to this conclusion via experience, data and validation. Indeed, when I read [Vasco Duarte’s post](http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html) about this several months ago, I saw his “point” (no pun intended) but also argued the merits of using story point estimation for the purposes of:
 
 Je suis tout à fait conscient que c'est une déclaration extrêmement polémique donc je vais essayer d'être aussi rigoureux que possible dans mon explication sur comment je suis arrivée à cette conclusion à travers une expérience, des données et la validation.  
 En effet, lorsqu'il y a quelques mois, j'ai lu [l'article de Vasco Duarte](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html), je l'ai vu "pointer"[^1] le bout de son nez (aucun jeu de mots là-dessus) mais j'ai aussi pesé les mérites de l'utilisation de l'estimation en story points dans l'objectif de :
 
-[^1]: le pressentiment - NdT
+[^1]: l'intuition - NdT
 
 * Up-front sizing of a project to determine its validity within a given budget or timeframe
 * Increasing shared understanding and knowledge within the team based on the discussions that arise from a Planning Poker session
@@ -128,7 +128,7 @@ C'est là où le concept d'"estimation implicite" vient en jeu. Afin de créer l
 
 So for the PO to cost the item, she just needs to ask the team if it is understood or needs breaking down. If the PO considers it high enough priority she will want to introduce it in Sprint Planning so that it gets built right away, if it makes sense to do so. Sprint Planning is the place for the team to break down the story if required and decide if it can be delivered in the Sprint. If it can, the cost of the item is essentially 2 weeks of team wages (assuming production deployment is done at the end of the Sprint – a continuous delivery model can improve speed to market and ROI, but that’s a discussion for another day).
 
-Donc pour que le PO puisse chiffrer l'item, il doit juste demander à l'équipe si l'item est compris ou s'il doit être décomposé. Si le PO le considère comme ayant une priorité assez haute, il voudra le présenter au _sprint planning_ afin qu'il soit vu tout de suite, si cela a un sens de faire ainsi. Le _sprint planning_ est le moment pour l'équipe de décomposer la story si nécessaire et de décider si elle peut être livré pendant le sprint. Si elle peut, le coût de l'item est essentiellement les 2 semaines de salaires de l'équipe (en supposant que le déploiement en production soit fait à la fin du sprint  - un modèle de livraison continu peut améliorer la vitesse de mise sur le marché et le ROI, mais ceci est une discussion pour une autre fois).
+Donc pour que le PO puisse chiffrer l'item, il doit juste demander à l'équipe si l'item est compris ou s'il doit être décomposé. Si le PO le considère comme ayant une priorité assez haute, il voudra le présenter au _sprint planning_ afin qu'il soit vu tout de suite, si cela a un sens de faire ainsi. Le _sprint planning_ est le moment pour l'équipe de décomposer la story si nécessaire et de décider si elle peut être livrée pendant le sprint. Si elle peut, le coût de l'item est essentiellement les 2 semaines de salaires de l'équipe (en supposant que le déploiement en production soit fait à la fin du sprint  - un modèle de livraison continu peut améliorer la vitesse de mise sur le marché et le ROI, mais ceci est une discussion pour une autre fois).
 
 If the item can’t be delivered in the Sprint, the PO can simply look at how many stories have been spawned from the epic item and determine the likelihood of it being delivered in the next Sprint or the Sprint after, based on how many stories the team usually gets through. This leads me nicely on to the topic of how we measure velocity in the absence of story points.
 
@@ -144,7 +144,7 @@ Désormais, je me déplace avec résolution sur le territoire de Duarte. La rép
 
 Due to the hunch I mentioned earlier, I have been tracking velocity as both story count and points for my current team and making projections using both methods. As I suspected (and as [Duarte points out](http://softwaredevelopmenttoday.blogspot.com.au/2012/01/story-points-considered-harmful-or-why.html) with much supporting data), story count provides just as good, if not better a measure of progress and predictability as story points do. Therefore why spend all the time, cost and effort on estimation sessions and velocity calculations?
 
-À cause du pressentiment dont j'ai parlé plus tôt, j'ai fait le suivi de la vélocité à la fois sous la forme du comptage de story et de points de mon équipe actuelle et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarqué](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne une mesure tout aussi bonne, si ce n'est mieux, de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
+À cause de l'intuition dont j'ai parlé plus tôt, j'ai fait le suivi de la vélocité à la fois sous la forme du comptage de story et de points de mon équipe actuelle et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarqué](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne une mesure tout aussi bonne, si ce n'est mieux, de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
 
 While story count works great for velocity, I would still warn against using this or any other velocity measure as a way of predicting when you can deliver. You should know when you are delivering and only be predicting what you can deliver at that date. Don’t leave your delivery date to chance, even if you are using historical data rather than guesswork to predict how many stories can be done.
 
@@ -162,7 +162,7 @@ Cela m'a pris plusieurs années pour arriver à cette conclusion. Mais, si vous 
 
 In a world without estimation overhead the team is likely to be more happy and productive, the inefficiency of spending time on estimating rather than delivering working software is eliminated and the PO will have real data with which to make decisions rather than guesses made under pressure.
 
-Dans un monde sans surcharge d'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminé et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions .
+Dans un monde sans surcharge d'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminée et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions .
 
 To summarise:
 
