@@ -189,13 +189,23 @@ Du gâchis, voilà ce qu'il se passe. Travailler avec de la décomposition de t�
 
 ### Identifying task breakdowns
 
+### Identifier la décomposition des tâches
+
 `As a design step, task breakdown can be useful. Just don’t build that way.`
+
+`Dans une étape de conception, la décomposition des tâches peut être utile. Simplement ne construisez pas comme ça`
 
 When we plan to build something even slightly complicated, it can be quite valuable to have a “quick design session”, where we sketch out what we think we’re going to do. This amounts to a task breakdown, and it can be quite OK to do. There’s great value to doing this in small groups, at least the pair who are going to work on the story, and often it’s helpful to bring in some other people.
 
+Lorsque nous planifions de construire quelque chose même légèrement compliqué, il peut être plutôt valable d'avoir une "rapide session de conception", où nous esquissons ce que pensons que nous allons faire. Cela peut se transformer en une décomposition de tâches, et cela peut être plutôt OK de faire cela. Il y a beaucoup de valeur de faire cela en petits groupes, ou du moins le binôme qui va travailler sur la story, et souvent il est utile d'y amener d'autres personnes.
+
 I’ve even seen value in the Product Owner sitting in on these sessions, because quite often they’ll hear something that tells them we have a misunderstanding.
 
+J'ai même vu de la valeur dans la présence du _product owner_ à ces sessions, parce que assez souvent ils entendent quelque chose qui leur signale que nous n'avons pas compris.
+
 It’s fine to write these implementation ideas down as tasks on cards or in a list. But as we’ve seen above, there are few advantages to building that way, and many disadvantages.
+
+C'est correct d'écrire ces idées d'implémentations en tant que tâches sur des cartes ou sur une liste. Mais comme nous l'avons vu précédemment, il y a quelques avantages de construire de cette manière, et beaucoup de désavantages.
 
 ## Estimates, hours and other: mostly no
 
