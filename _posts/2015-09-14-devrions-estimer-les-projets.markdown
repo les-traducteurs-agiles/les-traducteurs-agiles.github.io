@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Devrions-nous estimer les projets ... du tout ?"
+title:  "Devrions-nous estimer les projets ... en fait ?"
 date:   2015-09-20 21:00:55
 published: true
 categories: 
@@ -108,7 +108,7 @@ Date de parution originale : 12 Avril 2012
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/), [Baptiste Mathus](http://batmat.net/cv/fr.html)   
 Date de traduction : 20/09/2015  
 
 ---
