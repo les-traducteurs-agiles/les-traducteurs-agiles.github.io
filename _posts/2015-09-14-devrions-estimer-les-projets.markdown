@@ -20,7 +20,7 @@ En effet, lorsqu'il y a quelques mois, j'ai lu [l'article de Vasco Duarte](http:
 
 [^1]: l'intuition - NdT
 
-* Dimensionner au préalable un projet pour déterminer sa validité pour un budget ou une période donné. 
+* Dimensionner au préalable un projet pour déterminer sa validité pour un budget ou une période donnés.
 * Accroître la compréhension et la connaissance commune de l'équipe sur la base des discussions qui sont survenues lors d'une session de _planning poker_
 * Permettre au PO de faire des arbitrages (basés sur le retour sur investissement) entre des stories de différentes tailles  
 * Mesurer la vélocité de l'équipe
@@ -33,15 +33,15 @@ J'en suis arrivé depuis à la conclusion que certaines de ces choses n'ont pas 
 
 * **Les attentes sur la livraison de projets à périmètre "fixe" sont souvent (toujours ?) basées sur une estimation initiale du périmètre (supposé) et la durée que cela prendra pour livrer ce périmètre (une nouvelle supposition), et conduisent à des dysfonctionnements patents comme les marches forcées, une qualité médiocre, etc ...**
 
-Si le budgest est fixé, alors il n'y aucune manière de "dépasser le budget" afin de livrer le périmètre fixé. Toutefois "dépasser le budget" est un terme habituellement utilisé lorsque l'on parle de projets ayant échoués. Si votre budget est vraiment une contrainte alors vous livrerez seulement ce qui peut être livré. Les méthodes agiles veillent à que vous livriiez la plus forte valeur au métier. 
+Si le budget est fixé, alors il n'y aucune manière de "dépasser le budget" afin de livrer le périmètre fixé. Toutefois "dépasser le budget" est un terme habituellement utilisé lorsque l'on parle de projets ayant échoués. Si votre budget est vraiment une contrainte alors vous livrerez seulement ce qui peut être livré. Les méthodes agiles veillent à que vous livriiez la plus forte valeur au métier.
 
-_Quelques temps plus tôt, j'avais chatté avec un membre de l'équipe et il se plaignait de ressentir de la pression pour augmenter la vélocité. Je lui ai demandé d'où cette pression venait et il me répondit qu'elle provenait du fait que le projet puisse échouer si l'équipe n'était pas capable de livrer davantage de stories plus rapidement. En réalité, personne ne demandait spécifiquement à l'équipe de livrer plus, mais il y avait une pression implicite de le faire parce qu'elle savait que le budget s'épuisait. Cette façon de voir les choses provient d'années de projets mal financés, de marches forcées, de focalisation sur la productivité plutôt que sur la qualité et de projets qui ont été étouffés ou ayant échoués._
+_Quelques temps plus tôt, j'avais discuté avec un membre de l'équipe et il se plaignait de ressentir de la pression pour augmenter la vélocité. Je lui ai demandé d'où cette pression venait et il me répondit qu'elle provenait du fait que le projet puisse échouer si l'équipe n'était pas capable de livrer davantage de stories plus rapidement. En réalité, personne ne demandait spécifiquement à l'équipe de livrer plus, mais il y avait une pression implicite de le faire parce qu'elle savait que le budget s'épuisait. Cette façon de voir les choses provient d'années de projets mal financés, de marches forcées, de focalisation sur la productivité plutôt que sur la qualité et de projets qui ont été étouffés ou ayant échoués._
 
 * **Demander aux équipes d'estimer la durée de leur travail (ou du nombre de points qu'elles livreront en un sprint ou pour une version, ce qui revient au même ...) a des connotations laissant entendre que leur travail est mesuré par une tierce partie (le responsable), créant un environnement de peur et de manipulation de chiffres pour refléter ce qui est désiré plutôt que pour ce qui est prévisible** 
 
 Pour accroître la vélocité, l'équipe doit simplement surestimer les stories pour donner l'illusion de livrer plus. Ils ne le font peut être pas consciemment mais cela peut arriver inconsciemment. Le chef de projet leur fait alors une tape dans le dos, mais tout ce qui s'est passé c'est que la même quantité de logiciel fonctionnel "fini" a été livré. 
 
-Le moment est venu d'avoir et d'utiliser de vrais données pour donner l'image de la progression réelle, qu'elle soit bonne ou mauvaise.
+Le moment est venu d'avoir et d'utiliser de vraies données pour donner l'image de la progression réelle, qu'elle soit bonne ou mauvaise.
 
 * **Nous ne devrions pas définir la totalité du périmètre initial, cela signifie que nous ne devrions pas estimer tout le périmètre initial, ce qui veut dire également que nous ne devrions pas définir notre date de livraison sur la base de notre périmètre**
 
