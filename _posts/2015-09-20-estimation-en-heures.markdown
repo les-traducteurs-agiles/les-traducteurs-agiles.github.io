@@ -209,30 +209,57 @@ C'est correct d'écrire ces idées d'implémentations en tant que tâches sur de
 
 ## Estimates, hours and other: mostly no
 
+## Les estimations, les heures et tutti quanti : c'est non la plupart du temps
+
 So here we are, in my experienced if not wise opinion:
+
+Donc nous y voilà, armé de mon op
 
 * Designing using tasks can have value.
 * Building with tasks is almost always inferior.
 * Estimates can trigger useful conversations.
 * Tracking estimates is always inefficient and often harmful.
 
+* Faire de la conception en utilisant des tâches peut avoir de la valeur
+* Réaliser à partir de tâches est toujours moins bien
+* L'acte d'estimer peut déclencher des conversations qui seront utiles
+* Faire le suivi des estimations est toujours inefficaces et souvent néfastes. 
+
 ## Stories: better than tasks
+
+## Les Stories, c'est mieux que les tâches
 
 `Complete stories work better than tasks. Keep them small. No estimates required.`
 
+`Des stories terminées c'est mieux que des tâches. Maintenez-les petites. Il n'y aura pas besoin de faire des estimations.`
+
 I promised (vide supra) to talk about working with whole stories, rather than tasks. Here goes.
+
+J'avais promis (voir ci-dessus) de parler au sujet de travailler avec des stories pleines et entières plutôt qu'avec des tâches. Donc voilà.
 
 First of all, stories (or Product Backlog Items, if you prefer) are what the Product Owner wants. The PO doesn’t want tasks: they’re just how we might organize our work. Therefore, when a team focuses on stories, they are better focused on what’s actually needed.
 
+Tout d'abord, les stories (ou les items du _product backlog_, si vous préférez) sont ce que le product owner souhaite. Le PO ne veut pas de tâches : il veut juste savoir la manière dont nous pourrions organiser notre travail. Par conséquent, lorsqu'une équipe se concentre sur des stories, elle est plus concentré sur ce qui est vraiment demandé.
+
 Second, a need or desire to break up the work is often driven by various specialties in the team. I’m the database person, you’re the GUI person, Sam is the tester, and so on. The whole team may be cross-functional, but as individuals we are specialized, and therefore limited. It would be better if we could all work on most anything, perhaps leaving the difficult database issues to me, the tough GUI topics to you, and the most complex testing to Sam. When we work together in pairs, or in a mob, we all learn more. It’s better to have some breadth in our capabilities and it doesn’t get in the way of deep knowledge in our favorite areas.
+
+Deuxièmement, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités présentes dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. La totalité de l'équipe est pluri-disciplinaire, mais comme en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités. Ça serait mieux si nous pouvions travailler sur quasiment n'importe quoi, peut être en me laissant les problèmes difficiles relatifs aux bases de données , à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons davantage. C'est bien mieux d'avoir un éventail relativement large dans nos compétences et cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies dans notre domaine de prédilection. 
 
 Working in stories serves the Product Owner better, and it serves the team members better as well. It’s not the only way to go. It’s OK to work in tasks. And it’s likely better to work in stories.
 
+Travailler sur des stories rend bien mieux service au product owner, et à l'équipe aussi. Ce n'est pas la seule manière d'y aller. C'est OK de travailler en tâches. Et il est plus probable qu'il est mieux en stories. 
+
 ### But stories are too big!
+
+### Mais les stories sont trop grosses !
 
 I heard that. If your stories are too big, they were too big when you were doing tasks. Either you got them done inside one Sprint, or you didn’t. If you didn’t, then you didn’t really deliver a “done” increment of product, or, as I’ve called it for years, “Running Tested Software”.
 
+J'ai entendu cela. Si vos stories sont trop grosses, elles étaient déjà trop grosses lorsque vous faisiez des tâches. Soit vous pouviez les faire en un sprint, soit vous ne pouviez pas. Si vous ne pouviez pas, alors vous ne pouviez pas réellement livré un incrément "fini" du produit, ou, comme je l'appelle depuis des années, un "logiciel testé qui fonctionne".
+
 If your stories are too big, make them smaller.
+
+Si vos stories sont trop grosses, réduisez-les.
 
 ### Isn’t that a form of estimation?
 
