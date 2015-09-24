@@ -11,7 +11,7 @@ Note NiMe burning down == dévorer, consommer, consûmer
 
 There has been a discussion over the past week or so on the scrumdevelopment Yahoo(!) list.
 
-Il y a eu une discussion, la semaine dernière je crois, sur la liste de discussion Yahoo(!) _scrumdevelopment_.
+Il y a eu, la semaine dernière je crois, une discussion sur la liste Yahoo(!) _scrumdevelopment_.
 
 Christofer Jennings asked whether people were using hours estimation for tasks, saying that he had often found it to be wasteful, especially when you have a task board showing how things are going. Christofer did say that he has found hours estimation to be useful with deciding how much work to take on, but he went right back to the concerns, including talking about the wrong thing (hours rather than the work) or just tuning out.
 
@@ -263,31 +263,61 @@ Si vos stories sont trop grosses, réduisez-les.
 
 ### Isn’t that a form of estimation?
 
+### N'est-ce pas une forme d'estimation ?
+
 When someone asked that question in a Twitter conversation with Kate Oneal the other day, she said that if she were MIss Sticky Semanticist she might call that estimation, but that she was thinking of estimates as the numbers that “they” use. “They” meaning management, I assume.
+
+Lorsque quelqu'un posa cette question à Kate Oneal lors d'une conversation sur Twitter l'autre jour, elle répondit que si elle était Madame La-définition-à-la-lettre elle appellerait cela de l'estimation, mais en fait ce qu'elle pensait aux définitions comme des nombres qu'ils utilisent. "Ils" étant, je pense, l'encadrement..
 
 Chet and I recommend that stories be no more than a couple of days to implement. We aren’t interested in whether it’s one or two: we’re interested in whether it’s small.
 
+Chet et moi recommandons que les stories ne représentent pas plus d'un jour ou deux d'implémentations. Nous ne sommes pas intéressés par savoir s'il s'agit d'un jour ou deux : nous sommes intéressés par savoir si c'est petit.
+
 Neil Killick has pointed out that a good rule of thumb is whether the story can be defined in a single acceptance test. That’s a brilliant idea, because there’s no estimation involved, but there is some good analysis necessary to define the test, which addresses the only value we’ve thought of for estimates inside the team, namely taking a deeper look at the story.
+
+Neil Killick a fait remarquer qu'une bonne règle générale serait qu'une story puisse être définie en un seul test d'acceptance. C'est une brillante idée, parce qu'il n'est pas question ici d'estimation, mais qu'une bonne analyse est nécessaire pour définir le test, qui aborde la seule valeur à laquelle nous pensions avec les estimations faites dans l'équipe, c'st à dire en examinant en profondeur la story.
 
 So, no, it’s not really a kind of estimate to say that stories are small. And it is a good thing to do. It keeps our eye on what the Product Owner wants, it helps the team be more cross-functional, it makes it easier to keep boring ideas out of the features. Small stories: the way to go.
 
+Donc non, ce n'est pas vraiment un type d'estimation qui dit que des stories sont petites. Et c'est une bonne chose à faire. Cela maintient notre attention sur ce que le _product owner_ veut, cela aide l'équipe à être davantage pluridisciplinaire, cela permet de maintenir à l'écart des fonctionnalités les idées ennuyeuses. De petites stories : la voie à suivre.
+
 ## Projecting when we’ll be done
+
+## Prévoir quand nous aurons fini
 
 I expect that many of you will be agreeing just now, but some will still be concerned that estimates are somehow God’s way of doing things, or at least the VP’s way. Well, my heart goes out to you, but that doesn’t make estimates the only way, or the best way. In my opinion, they are neither. Small stories work better. Acceptance tests work better.
 
+Je m'attends à ce que beaucoup d'entre vous soient d'accord désormais, mais certains seront toujours persuadés que les estimations sont en quelque sorte la voie de Dieu de faire les choses, ou du moins celle du directeur général. Eh bien, je suis de tout coeur avec vous, mais cela ne fait des estimations la seule ou la meilleure manière de faire. À mon avis, aucune n'est meilleure. Les petites stories sont meilleures. Les tests d'acceptances sont meilleures.
+
 So here are a couple of challenges:
+
+Voici deux défis :
 
 * What if all stories were approximately the same size. Then what could we do with story estimates that we couldn’t do with story counts?
 
+Et si les stories étaient approximativement de la même taille ? Alors que ferions avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories ?
+
 * What if all stories were one acceptance test? What could we do with story estimates that we couldn’t do with story counts (or, now, acceptance test counts)?
+
+Et si toutes les stories étaient un seul test d'acceptance ?  Que ferions avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories (ou dans ce cas avec le comptage des tests d'acceptance) ?
 
 ## TL;DR
 
+## TL;PL[^1]
+
 There are many good reasons not to do task-level estimates or even story-level estimates. There are very many good reasons not to track them, not to justify them, not to try to improve them.
+
+Il y a beaucoup de bonnes raisons de ne pas faire des estimations des tâches ou des estimations des stories. Il y a de très nombreuses bonnes raisons de ne pas les suivre, de ne pas les justifier, de ne pas essayer de les améliorer.
 
 You can do almost everything with story counts or acceptance test counts that you can do with task or story estimates. When you can, it works better in almost every way.
 
+Vous pouvez presque tout faire avec le comptage des stories ou des tests d'acceptions que vous faites avec les estimations des tâches et des stories. Quand vous pouvez, cela fonctionne de quasiment toutes les manières.
+
 If you know of a situation where this thinking doesn’t hold up, I’d like to hear about it.
+
+Si vous connaissez une situation où cette réflexion ne tient pas, j'aimerai en entendre parler.
+
+[^1]: trop long ; pas lire - NdT
 
 ---
 Auteur : [Ron Jeffries](http://ronjeffries.com/about.html)  
