@@ -211,25 +211,23 @@ It’s fine to write these implementation ideas down as tasks on cards or in a l
 
 C'est correct d'écrire ces idées d'implémentations sous la forme de tâches sur des cartes ou sur une liste. Mais comme nous l'avons vu précédemment, il y a peu d'avantages de faire de cette manière, et beaucoup de désavantages.
 
-##########RELECTURE
-
 ## Estimates, hours and other: mostly no
 
 ## Les estimations, les heures et tutti quanti : c'est non la plupart du temps
 
 So here we are, in my experienced if not wise opinion:
 
-Donc nous y voilà, armé de mon op
+Ça y est nous y sommes, voici mon avis, si ce n'est sage, de professionnel expérimenté :
 
 * Designing using tasks can have value.
 * Building with tasks is almost always inferior.
 * Estimates can trigger useful conversations.
 * Tracking estimates is always inefficient and often harmful.
 
-* Faire de la conception en utilisant des tâches peut avoir de la valeur
+* Concevoir en utilisant des tâches peut avoir de la valeur
 * Réaliser à partir de tâches est toujours moins bien
-* L'acte d'estimer peut déclencher des conversations qui seront utiles
-* Faire le suivi des estimations est toujours inefficaces et souvent néfastes. 
+* Les estimations peuvent déclencher des conversations utiles
+* Suivre les estimations est toujours inefficaces et souvent néfaste. 
 
 ## Stories: better than tasks
 
@@ -237,23 +235,23 @@ Donc nous y voilà, armé de mon op
 
 `Complete stories work better than tasks. Keep them small. No estimates required.`
 
-`Des stories terminées c'est mieux que des tâches. Maintenez-les petites. Il n'y aura pas besoin de faire des estimations.`
+`Des stories terminées c'est mieux que des tâches. Gardez-les petites. Il n'y aura pas besoin de faire des estimations.`
 
 I promised (vide supra) to talk about working with whole stories, rather than tasks. Here goes.
 
-J'avais promis (voir ci-dessus) de parler au sujet de travailler avec des stories pleines et entières plutôt qu'avec des tâches. Donc voilà.
+J'avais promis (voir ci-dessus) de parler de travailler avec des stories pleines et entières plutôt qu'avec des tâches. Nous y voilà.
 
 First of all, stories (or Product Backlog Items, if you prefer) are what the Product Owner wants. The PO doesn’t want tasks: they’re just how we might organize our work. Therefore, when a team focuses on stories, they are better focused on what’s actually needed.
 
-Tout d'abord, les stories (ou les items du _product backlog_, si vous préférez) sont ce que le product owner souhaite. Le PO ne veut pas de tâches : il veut juste savoir la manière dont nous pourrions organiser notre travail. Par conséquent, lorsqu'une équipe se concentre sur des stories, elle est plus concentré sur ce qui est vraiment demandé.
+Tout d'abord, les stories (ou les items du _product backlog_, si vous préférez) sont ce que le product owner souhaite. Le PO ne veut pas de tâches : il veut juste savoir la manière dont nous pourrions organiser notre travail. Par conséquent, lorsqu'une équipe se concentre sur des stories, elle est plus focalisée sur ce qui est vraiment demandé.
 
 Second, a need or desire to break up the work is often driven by various specialties in the team. I’m the database person, you’re the GUI person, Sam is the tester, and so on. The whole team may be cross-functional, but as individuals we are specialized, and therefore limited. It would be better if we could all work on most anything, perhaps leaving the difficult database issues to me, the tough GUI topics to you, and the most complex testing to Sam. When we work together in pairs, or in a mob, we all learn more. It’s better to have some breadth in our capabilities and it doesn’t get in the way of deep knowledge in our favorite areas.
 
-Deuxièmement, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités présentes dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. La totalité de l'équipe est pluri-disciplinaire, mais comme en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités. Ça serait mieux si nous pouvions travailler sur quasiment n'importe quoi, peut être en me laissant les problèmes difficiles relatifs aux bases de données , à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons davantage. C'est bien mieux d'avoir un éventail relativement large dans nos compétences et cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies dans notre domaine de prédilection. 
+Ensuite, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. L'ensemble de l'équipe est pluri-disciplinaire, mais en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités. Ça serait mieux si nous pouvions travailler sur quasiment tout et n'importe quoi, peut être en me laissant les problèmes difficiles relatifs aux bases de données, à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons davantage. C'est mieux d'avoir un éventail relativement large dans nos compétences sans compter que cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies dans notre domaine de prédilection. 
 
 Working in stories serves the Product Owner better, and it serves the team members better as well. It’s not the only way to go. It’s OK to work in tasks. And it’s likely better to work in stories.
 
-Travailler sur des stories rend bien mieux service au product owner, et à l'équipe aussi. Ce n'est pas la seule manière d'y aller. C'est OK de travailler en tâches. Et il est plus probable qu'il est mieux en stories. 
+Travailler en stories rend plus service au _product owner_, et à l'équipe aussi. Ce n'est pas la seule manière de le faire. C'est OK de travailler en tâches. Et c'est probablement mieux en stories. 
 
 ### But stories are too big!
 
@@ -273,7 +271,7 @@ Si vos stories sont trop grosses, réduisez-les.
 
 When someone asked that question in a Twitter conversation with Kate Oneal the other day, she said that if she were MIss Sticky Semanticist she might call that estimation, but that she was thinking of estimates as the numbers that “they” use. “They” meaning management, I assume.
 
-Lorsque quelqu'un posa cette question à Kate Oneal lors d'une conversation sur Twitter l'autre jour, elle répondit que si elle était Madame La-définition-à-la-lettre elle appellerait cela de l'estimation, mais en fait ce qu'elle pensait aux définitions comme des nombres qu'ils utilisent. "Ils" étant, je pense, l'encadrement..
+Lorsque quelqu'un posa cette question à Kate Oneal lors d'une conversation sur Twitter l'autre jour, elle répondit que si elle était Madame La-définition-au-pied-de-la-lettre elle appellerait cela de l'estimation, mais en fait ce qu'elle pensait des estimations, c'est que c'était comme de simples nombres qu'"ils" pouvaient utiliser. "Ils" étant, je pense, l'encadrement..
 
 Chet and I recommend that stories be no more than a couple of days to implement. We aren’t interested in whether it’s one or two: we’re interested in whether it’s small.
 
@@ -281,7 +279,7 @@ Chet et moi recommandons que les stories ne représentent pas plus d'un jour ou 
 
 Neil Killick has pointed out that a good rule of thumb is whether the story can be defined in a single acceptance test. That’s a brilliant idea, because there’s no estimation involved, but there is some good analysis necessary to define the test, which addresses the only value we’ve thought of for estimates inside the team, namely taking a deeper look at the story.
 
-Neil Killick a fait remarquer qu'une bonne règle générale serait qu'une story puisse être définie en un seul test d'acceptance. C'est une brillante idée, parce qu'il n'est pas question ici d'estimation, mais qu'une bonne analyse est nécessaire pour définir le test, qui aborde la seule valeur à laquelle nous pensions avec les estimations faites dans l'équipe, c'st à dire en examinant en profondeur la story.
+Neil Killick a fait remarquer qu'une bonne règle générale serait qu'une story puisse être définie en un seul test d'acceptance. C'est une idée brillante, parce qu'il n'est pas question ici d'estimation, mais qu'une bonne analyse est nécessaire pour définir le test, qui aborde la seule valeur à laquelle nous pensions avec les estimations faites dans l'équipe, c'est à dire en examinant en profondeur la story.
 
 So, no, it’s not really a kind of estimate to say that stories are small. And it is a good thing to do. It keeps our eye on what the Product Owner wants, it helps the team be more cross-functional, it makes it easier to keep boring ideas out of the features. Small stories: the way to go.
 
@@ -293,7 +291,7 @@ Donc non, ce n'est pas vraiment un type d'estimation qui dit que des stories son
 
 I expect that many of you will be agreeing just now, but some will still be concerned that estimates are somehow God’s way of doing things, or at least the VP’s way. Well, my heart goes out to you, but that doesn’t make estimates the only way, or the best way. In my opinion, they are neither. Small stories work better. Acceptance tests work better.
 
-Je m'attends à ce que beaucoup d'entre vous soient d'accord désormais, mais certains seront toujours persuadés que les estimations sont en quelque sorte la voie de Dieu de faire les choses, ou du moins celle du directeur général. Eh bien, je suis de tout coeur avec vous, mais cela ne fait des estimations la seule ou la meilleure manière de faire. À mon avis, aucune n'est meilleure. Les petites stories sont meilleures. Les tests d'acceptances sont meilleures.
+Je m'attends à ce que beaucoup d'entre vous soient d'accord désormais, mais certains seront toujours persuadés que les estimations sont en quelque sorte la voie divine de faire les choses, ou du moins celle du directeur général. Eh bien, je suis de tout coeur avec vous, mais cela ne fait des estimations la seule ou la meilleure manière de faire. À mon avis, aucune n'est meilleure. Les petites stories sont meilleures. Les tests d'acceptances sont meilleurs.
 
 So here are a couple of challenges:
 
@@ -301,11 +299,11 @@ Voici deux défis :
 
 * What if all stories were approximately the same size. Then what could we do with story estimates that we couldn’t do with story counts?
 
-Et si les stories étaient approximativement de la même taille ? Alors que ferions avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories ?
+Et si les stories étaient approximativement de la même taille ? Alors que pourrions nous faire avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories ?
 
 * What if all stories were one acceptance test? What could we do with story estimates that we couldn’t do with story counts (or, now, acceptance test counts)?
 
-Et si toutes les stories étaient un seul test d'acceptance ?  Que ferions avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories (ou dans ce cas avec le comptage des tests d'acceptance) ?
+Et si toutes les stories étaient un seul test d'acceptance ?  Que pourrions nous faire avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories (ou dans ce cas avec le comptage des tests d'acceptance) ?
 
 ## TL;DR
 
@@ -313,17 +311,17 @@ Et si toutes les stories étaient un seul test d'acceptance ?  Que ferions avec 
 
 There are many good reasons not to do task-level estimates or even story-level estimates. There are very many good reasons not to track them, not to justify them, not to try to improve them.
 
-Il y a beaucoup de bonnes raisons de ne pas faire des estimations des tâches ou des estimations des stories. Il y a de très nombreuses bonnes raisons de ne pas les suivre, de ne pas les justifier, de ne pas essayer de les améliorer.
+Il y a beaucoup de bonnes raisons de ne pas faire des estimations de tâches ou des estimations de stories. Il y a de très nombreuses bonnes raisons de ne pas les suivre, de ne pas les justifier, de ne pas essayer de les améliorer.
 
 You can do almost everything with story counts or acceptance test counts that you can do with task or story estimates. When you can, it works better in almost every way.
 
-Vous pouvez presque tout faire avec le comptage des stories ou des tests d'acceptions que vous faites avec les estimations des tâches et des stories. Quand vous pouvez, cela fonctionne de quasiment toutes les manières.
+Vous pouvez presque tout faire avec le comptage des stories ou des tests d'acceptions que vous faites avec les estimations de tâches et de stories. Quand vous pouvez le faire, cela fonctionne mieux de quasiment toutes les manières.
 
 If you know of a situation where this thinking doesn’t hold up, I’d like to hear about it.
 
-Si vous connaissez une situation où cette réflexion ne tient pas, j'aimerai en entendre parler.
+Si vous connaissez une situation où ce raisonnement ne tient pas, j'aimerai en entendre parler.
 
-[^1]: trop long ; pas lire - NdT
+[^1]: trop long ; pas lu - traduction de TL;DR : too long ; didn't read - NdT
 
 ---
 Auteur : [Ron Jeffries](http://ronjeffries.com/about.html)  
