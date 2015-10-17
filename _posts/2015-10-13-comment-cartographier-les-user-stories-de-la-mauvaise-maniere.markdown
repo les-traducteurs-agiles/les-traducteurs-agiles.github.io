@@ -12,7 +12,7 @@ categories:
 
 When Lisa Crispin’s team got an opportunity to put the story mapping ideas she picked up from Jeff Patton into practice, they excitedly rushed into it and missed a few steps. Find out what happened, what didn't happen, and what they learned from it all.
 
-Lorsque l'équipe de Lisa Crispin a eu l'opportunité de mettre en pratique l'idée de cartographie des user stories qu'elle avait emprunté de Jeff Patton, l'équipe s'est ruée dessus avec excitation et a raté quelques étapes. Vous allez découvrir ce qu'il s'est passé, ce qu'il ne s'est pas passé, et ce qu'elle en a appris.
+Lorsque l'équipe de Lisa Crispin a eu l'opportunité de mettre en pratique l'idée de cartographie des user stories qu'elle avait emprunté de Jeff Patton, l'équipe s'est ruée dessus avec excitation et a raté quelques étapes. Vous allez découvrir ce qui s'est passé, ce qui ne s'est pas passé, et ce qu'elle en a appris.
 
 During the past few years, I’ve participated in a couple of workshops and talks by Jeff Patton where I learned about [story mapping](http://www.agileproductdesign.com/blog/the new backlog.html). This is a hands-on way to model a theme or project and slice it into user stories. Jeff first wrote about it in a January 2005 Better Software article, “[How You Slice It.](http://www.stickyminds.com/articles/magfeature/its-all-how-you-slice-it)”
 
@@ -20,10 +20,11 @@ Lors de ces dernières années, j'ai participé à quelques ateliers et confére
 
 What I learned from Jeff is to start by gathering your development team and business stakeholders. Create personas to represent your various types and roles of users, then think about how each persona would use your system or feature. What would they do first? What would they do next? Make a timeline of user activities using index cards on a wall, a table, or a floor. Then, go back and look at each user activity in detail and create user tasks and details about those tasks, which will eventually become user stories. Write those on cards, too, and stack them vertically under the corresponding user activity.
 
-
+De ce que j'ai appris de Jeff est de commencer par rassembler votre équipe de développement et vos parties prenantes. Créer ensuite des personas pour représenter vos différents types et rôles d'utilisateurs, puis penser à comment chaque persona utiliserait votre système ou votre fonctionnalité. Qu'est-ce qu'ils feraient d'abord ? Qu'est-ce qu'ils feraient ensuite ? Faites une frise temporelle des activités de chaque utilisateur en détail et créer les tâches utilisateur et les détails de ces tâches, qui deviendront éventuellement des user stories. Ecrivez celles la sur des cartes, aussi, et empilez les verticalement en-dessous l'activité utilisateur correspondante.
 
 Once the story map is in place, you can slice them into user stories and plan which ones go into each iteration and release. You should walk the story map with stakeholders and see if you can think of any other details or issues. The story map helps you think about the value the system delivers.
 
+Une fois que la cartographie de story est en place, vous pouvez la découper en user stories et planifier lesquelles vont dans chaque itération et version. Vous devriez parcourir la cartographie de story avec les parties prenantes et voir si vous pouvez réfléchir à d'autres détails ou à d'autres problèmes. 
 
 
 **Eager to Try It**
