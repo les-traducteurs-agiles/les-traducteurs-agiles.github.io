@@ -9,49 +9,91 @@ categories:
 
 Extracted from Chapter 2 of _Crystal Clear: A Human-Powered Methodology for Small Teams_
 
+Extrait du chapitre 2 de _Crystal Clear : A Human-Powered Methodology for Small Teams_
+
 ---
 
 I recently awoke to the realization that top consultants trade notes about the properties of a project rather than on the procedures followed. They inquire after the health of the project: “Is there a mission statement and a project plan? Do they deliver frequently? Are the sponsor and various expert users in close contact with the team?”
 
+Très récemment, j'ai pris conscience que les grands consultants échangeaient des notes sur les propriétés d'un projet plutôt que sur les procédures suivies. Ils s'enquièrent de la santé du projet : "Est-ce qu'il y a une lettre de mission et un projet ? Livrent-ils fréquemment ? Est-ce que le sponson et les différents utilisateurs experts sont en contact rapprochés avec l'équipe ?"
+
 Consequently, and in a departure from the way in which a methodology is usually described, I ask Crystal Clear teams to target key properties for the project. “Doing Crystal Clear” becomes achieving the _properties_ rather than following procedures. Two motives drive this shift from procedures to properties:
+
+Par conséquence, et afin de ne pas prendre le même chemin à partir duquel une méthodologie est habituellement décrite, j'ai demandé aux équipes Crystal Clear de désigner les propriétés clés pour le projet. "Faire du Crystal Clear" devint réaliser les _propriétés_ plutôt que suivre les procédures. Deux motivations justifient ce changement des procédures aux propriétés :
 
 * The procedures may not produce the properties. Of the two, the properties are the more important.
 
+* Les procédures ne peuvent pas produire les propriétés. Des deux, les propriétés sont les plus importantes.
+
 * Other procedures than the ones I choose may produce the properties for your particular team.
+
+* D'autres procédures que celles que j'ai choisi peuvent produire les propriétés pour votre propre équipe
 
 The Crystal family focuses on the three properties **Frequent Delivery**, **Close Communication**, and **Reflective Improvement** because they should be found on all projects. Crystal Clear takes advantage of small team size and proximity to strengthen **Close Communication** into the more powerful **Osmotic Communication**. Aside from that one shift, experienced developers will notice that all the properties I outline in this chapter apply to every project, not just small-team projects.
 
+La famille Crystal se concentre sur trois propriétés **Livraison fréquente**, **Communication rapprochée/de proximité**, et **Amélioration réflective** car elles se devraient se retrouver dans tous les projets. Crystal Clear prend avantage de la petite taille d'une équipe et de sa proximité pour renforcer la **communication rapprochée** en **communication osmotique**. À part ce changement, les développeurs expérimentés remarqueront que toutes les propriétés que j'ai souligné dans ce chapitre s'applique à tous les projets, et pas simplement aux projets des petites équipes.
+
 By describing Crystal Clear as a set of properties, I hope to reach into the feeling of the project. Most methodology descriptions miss the critical feeling that separates a successful team from an unsuccessful one. The Crystal Clear team measures its condition by the team’s mood and the communication patterns as much as by the rate of delivery. Naming the properties also provides the team with catch phrases to measure their situation by: “We haven’t done any **Reflective Improvement** for a while…” “Can we get more **Easy access to expert users?**” The property names themselves help people diagnose and discuss ways to fix their current situation.
+
+En décrivant Crystal Clear comme d'un ensemble de propriétés, j'espère atteindre le pouls du projet. La majorité des méthodologies décrites ratent le point crucial qui sépare une équipe couronnée de succès de celle qui ne l'est pas. L'équipe Crystal Clear mesure son état autant par l'humeur de l'équipe et les moyens de communications que par la fréquence de ses livraisons. Nommer les propriétés donne aussi à l'équipe des phrases clés pour déterminer leur situation : "Nous n'avons fait aucune **Amélioration réflective** depuis quelques temps ..." "Pouvons-nous avoir plus **facilement accès à des utilisateurs experts ?**". Les noms des propriétés eux-mêmes aident les personnes à diagnostiquer et à discuter de la manière de corriger leur situation actuelle.
 
 ## Property 1. Frequent Delivery
 
+## Propriété 1. Livraison fréquente
+
 The single most important property of any project, large or small, agile or not, is that of delivering running, tested code to real users every few months. The advantages are so numerous that it is astonishing that any team doesn’t do it:
+
+La seule et plus importante propriété de n'importe quel projet, grand ou petit, agile ou non, est la livraison d'un code testé, opérationnel à de vrais utilisateurs régulièrement à quelques mois d'intervalle. Les avantages en sont si nombreux qu'il est étonnant que n'importe quelle équipe ne le fasse pas déjà :
 
 * The sponsors get critical feedback on the rate of progress of the team.
 
+* Les sponsors obtiennent du _feedback_ essentiel sur l'avancée de l'équipe
+
 * Users get a chance to discover whether their original request was for what they actually need and to get their discoveries fed back into development.
+
+* Les utilisateurs obtiennent une chance de découvrir si leur requête d'origine correspond à ce qu'ils ont vraiment besoin et que le fruit de leurs découvertes nourrissent en retour le développement.
 
 * Developers keep their focus, breaking deadlocks of indecision.
 
+* Les développeurs gardent leurs concentrations, et cassant les verrous de l'indécision
+
 * The team gets to debug their development and deployment processes, and gets a morale boost through accomplishments.
+
+* L'équipe obtient le déboguage de leurs processus de développement et de déploiement, et un coup de fouet au morale à travers ses réalisations.
 
 All of these advantages come from one single property, **Frequent Delivery**. In my interviews, I have not seen any period longer than four months that still offers this safety. Two months is safer. Teams deploying to the web may deliver weekly.
 
+Tous ces avantages viennent d'une seule propriété, **Livraison fréquente**. Dans mes entretiens, je n'ai pas vu de période au-delà de quatre mois offrant encore cette sauvegarde. Deux mois est plus sûr. Les équipes déployant sur le web peuvent livrer hebdomadairement.
+
 > Have you delivered running, tested and usable code at least twice to your user community in the last six months?
+
+> Avez-vous livré un code opérationnel, testé et utilisable au moins deux fois dans les six derniers mois à vos utilisateurs ?
 
 . . . . .
 
 Just what does “delivery” mean?
 
+Que signifie au juste "livraison" ?
+
 Sometimes it means that the software is deployed to the full set of users at the end of each iteration. This may be practical with web-deployed software or when the user group is relatively small.
+
+Quelques fois cela signifie que le logiciel est déployé à l'ensemble des utilisateurs à la fin de chaque itération. Cela peut être pratique avec un logiciel déployable sur le web ou quand le nombre d'utilisateurs est relativement réduit.
 
 When the users cannot accept software updates that often, the team finds itself in a quandary. If they deliver the system frequently, the user community will get annoyed with them. If they don’t deliver frequently, they may miss a real problem with integration or deployment. They will encounter that problem when it is very late – at the moment of deploying the system.
 
+Quand les utilisateurs ne sont pas en capacité des mises à jours logicielles aussi souvent, l'équipe se retrouve dans un dilemme. Si elle livre le système fréquemment, la communauté des utilisateurs en sera ennuyée. Si elle ne livre pas fréquemment, elle peut rater des problèmes concrets avec l'intégration ou le déploiement.  Elle rencontrera ce problème lorsqu'il sera trop tard - au moment de déployer le système.
+
 The best strategy I know of in this situation is to find a friendly user who doesn’t mind trying out the software, either as a courtesy or out of curiosity. Deploy to that one workstation. This allows the team to practice deployment and get useful feedback from at least one user.
+
+La meilleure stratégie que je connaisse dans cette situation est de trouver un utilisateur bienveillant pour qui tester le logiciel ne lui pose pas de problème, que ce soit par courtoisie ou par curiosité. Déployer alors sur ce poste de travail. Cela permet à l'équipe de mettre en pratique le déploiement et d'avoir un _feedback_ utile d'au moins un utilisateur.
 
 If you cannot find a friendly user to deliver to, at least perform a full integration and test as though you were going to. This leaves only deployment with a potential flaw.
 
+Si vous ne pouvez pas trouver un utilisateur bienveillant à qui livrer, faites au moins une intégration et tester comme si vous alliez en faire. Cela laisse seulement une faiblesse potentielle du côté du déploiement.
+
 If the team cannot deliver the system to the full user base every few months, user viewings become all the more critical. The team needs to arrange for users to visit the team and see the software in action, or at least on user to install and test the software. Failure to hold these _user viewings_ easily correlates to end failure of the project, when the users finally, and too late, identify that the software does not meet their needs.
+
+Si l'équipe ne peut pas livrer le système à la totalité des utilisateurs régulièrement à quelques mois d'intervalle, le visionnage de l'application par les utilisateurs devient tout à fait essentielle. L'équipe doit s'arranger pour que les utilisateurs rencontrent l'équipe et voient le logiciel en action, ou du moins qu'il soit installé et testé chez un utilisateur. La corrélation est aisée entre échouer à tenir compte des _visionnages des utilisateurs_ et l'échec du projet, quand finalement les utilisateurs, s'aperçoit, et trop tard, que le logiciel ne correspond pas à leurs besoins.
 
 ## Property 2. Reflective Improvement
 
