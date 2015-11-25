@@ -97,35 +97,64 @@ Si l'équipe ne peut pas livrer le système à la totalité des utilisateurs ré
 
 ## Property 2. Reflective Improvement
 
+## Propriété 2. Amélioration réflective
+
 The discovery that took me completely by surprise was that a project can reverse its fortunes from catastrophic failure to success if the team will get together, list what both is and isn’t working, discuss what might work better, and _make those changes_ in the next iteration. In other words, **reflect** and **improve**. The team does not have to spend a great deal of time doing this work – an hour every few weeks or month will do. Just the fact of taking time out of the helter-skelter of daily development to think about what could work better is already effective.
 
+La découverte qui m'a pris complètement par surprise est qu'un projet peut contre toutes attentes passer d'un échec retentissant au succès si l'équipe se rassemble, recense ce qui fonctionne et ce qui ne fonctionne pas, discute de ce qu'il pourrait mieux fonctionner, et _applique ces changements_ au cours de la prochaine itération. En d'autres mots, **réfléchir** et **améliorer**. Il n'est pas nécessaire que l'équipe passe beaucoup de temps à faire ce travail - une heure à quelques semaines ou mois d'intervalles suffira. Uniquement le fait de prendre du temps en dehors du tohu bohu du développement quotidien pour réfléchir à ce qui pourrait mieux fonctionner est déjà efficace. 
+
 > Did you get together at least once within the last three months for a half hour, hour or half day to compare notes, reflect, discuss your group’s working habits and discover what speeds you up, what slows you down, and what you might be able to improve?
+
+> Est-ce que vous vous êtes réunis au moins une fois au cours des trois derniers mois penant une demi-heure, une heure ou une demi-journée pour comparer des notes d'informations, réfléchir, discuter des habitudes de travail du groupe et découvrir ce qui vous permet d'aller plus vite, ce qui vous ralentit, et ce que vous pourriez fiare pour améliorer ?
 
 . . . . .
 
 ## Property 3. Osmotic Communication
 
-*Osmotic Communication *means that information flows into the background hearing of members of the team, so that they pick up relevant information as though by osmosis. This is normally accomplished by seating them in the same room. Then, when one person asks a question, others in the room can either tune in or tune out, contributing to the discussion or continuing with their work. Several people have related their experience of it much as this person did:
+## Propriété 3. Communication osmotique
+
+**Osmotic Communication** means that information flows into the background hearing of members of the team, so that they pick up relevant information as though by osmosis. This is normally accomplished by seating them in the same room. Then, when one person asks a question, others in the room can either tune in or tune out, contributing to the discussion or continuing with their work. Several people have related their experience of it much as this person did:
+
+**Communication osmotique** signifie que les informations circule à portée d'oreille des membres de l'équipe, et ainsi qu'ils piochent les informations intéressantes comme par osmose. Cela est généralement accomplit en les faisant s'assoir dans la même pièce. Donc, lorsqu'une personne pose une question, dans la pièce certains peuvent écouter ou pas, contribuer à la discussion ou continuer leur travail. Plusieurs personnes ont relaté leur expérience de manière identique à celle-ci : 
 
 > We had four people doing pair programming. The boss walked in and asked my partner a question. I started answering it, but gave the wrong name of a module. Nancy, programming with Neil, corrected me, without Neil ever noticing that she had spoken or that a question had been asked.
 
+> Nous étions quatre personnes à faire de la programmation en binôme. Le patron est arrivé et a posé une question à mon partenaire. J'ai commencé à y réponse, mais j'ai donné le mauvais nom d'un module. Nancy, qui programmait avec Neil, m'a corrigé, sans même que ce dernier ait remarqué qu'elle parlait ou qu'une question ait été posée.
+
 When **Osmotic Communication** is in place, questions and answers flow naturally and with surprisingly little disturbance among the team.
 
-\*Osmotic Communication **and** Frequent Delivery\* facilitate such rapid and rich feedback that the project can operate with very little other structure. This is why these two properties are the first two listed.
+Lors que la **communication osmotique** est en place, les questions et les réponses circulent naturellement et de manière surprenante perturbent peu l'équipe.
+
+**Osmotic Communication** and **Frequent Delivery** facilitate such rapid and rich feedback that the project can operate with very little other structure. This is why these two properties are the first two listed.
+
+La **communication osmotique** et la **livraison fréquente** facilitent un _feedback_ tellement rapide et riche que le projet peut opérer sans avoir besoin d'une quelconque structure supplémentaire.
+C'est pourquoi ces deux propriétés sont les deux premières de la liste.
 
 > Does it take you 30 seconds or less to get your question to the eyes or ears of the person who might have the answer? Do you overhear something relevant from a conversation among other team members at least every few days? 
+
+> Est-ce cela vous prends 30 secondes ou moins pour que votre question attire l'attention de la personne qui pourrait avoir la réponse ? Avez-vous entendu par hasard quelque chose de pertinent lors d'une conversation entre des membres de l'équipe il y a quelques jours ?
 
 . . . . .
 
 **Osmotic Communication**, which lives from background hearing and communication along lines-of-sight, really only works with small teams. Larger team will set up **Osmotic Communication** within subteams and **Close Communication** across subteams.
 
+La **communication osmotique**, qui vit à portée d'oreille et de communication visuelle, fonctionne vraiment seulement avec les petites équipes. Les grosses équipes mettront en place la **communication osmotique** dans les sous-équipes et la **communication rapprochée** entre les sous-équipes.
+
 **Osmotic Communication** makes the cost of communications low and the feedback rate high, so that errors are corrected extremely quickly and knowledge is disseminated fast. People learn the project priorities and who holds what information. They pick up new programming, design, testing and tool handling tricks. They catch and correct small errors before they grow into larger ones.
+
+La **communication osmotique** baisse le coût des communications et augmente la fréquence du _feedback_, de telle manière que les erreurs sont corrigées extrêmement rapidement et que la connaissance est vite diffusée. Les personnes apprennent les priorités du projet et qui détient quelle information. Ils piochent de nouvelles astuces de programmation, de conception, de test, d'utilisation d'outils. Ils attrapent et corrigent les petites erreurs avant qu'elles ne grossissent.
 
 If you set up a war-room work area, be sure to arrange another place for people to go to unwind and do their private email. This allows people to focus when they step into the common area, and find a bit of relief from the pressure by stepping out. Such an arrangement is referred to as a “caves and common” arrangement.
 
+Si vous mettez en place un espace de travail de type pièce de guerre, faites en sorte de mettre en place une autre pièce pour que les gens prennent l'air et fassent leurs mails privés. Cela permet au gens de se mettre ne condition lorsqu'ils rentrent dans la zone commune, et qu'ils échappent à la pression en y sortant. Un tel arrangement est connu sous le nom d'arrangement "caves et communes".
+
 **Osmotic Communication* generates its own hazards, most commonly noise and a flow of questions to the team’s most expert developer. People usually self-regulate here, request less idle chit-chat or more respect for think time.
 
+La **communication osmotique** génère ses propres inconvénients, un bruit de fonds et un flot de question au développeur le plus expert de l'équipe. Généralement, les personnes s'auto-régulent ici, demandent à ce qu'il y ait moins de bavardages ou qu'on leur laisse du temps pour réfléchir.   
+
 Even the best success property is unsuitable under certain circumstances. **Osmotic Communication** is no exception. If the lead designer gets so overloaded and so frequently interrupted as to be unable make progress on anything, she needs a work place with no interruptions at all and extremely limited communications with the team, a **Cone of Silence**, I call it. Many lead designers use the hours from 6 p.m. to 2 a.m. as their **Cone of Silence**, but it is better for all involved if an acceptable **Cone of Silence** can be set up within normal working hours. The **Cone of Silence** strategy is described in detail elsewhere.
+
+Même la propriété offrant les meilleurs chances de succès peut s'avérer inappropriée sous certaines circonstances. La **communication osmotique** ne fait pas exception. Si le designer en chef est trop débordé et trop fréquemment interrompu au point d'être incapable d'avancer sur quoi que ce soit, il aura besoin d'un lieu de travail sans aucune interruption, et des communications avec l'équipe extrêmement limitées, ce que j'appelle un **cone de silence**. Un certain nombre de designer en chef utilisent la tranche horaire 18h00 - 02h00 comme leur **cone de silence**, mais il serait mieux pour toutes les personnes concernées qu'un **cone du silence** acceptable soit mis en place pendant des heures de travail normales. La stratégie du **cone du silence** est décrite en détails un peu plus loin.
 
 ## Property 4. Personal Safety
 
