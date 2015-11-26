@@ -63,7 +63,7 @@ La seule et plus importante propriété de n'importe quel projet, grand ou petit
 
 All of these advantages come from one single property, **Frequent Delivery**. In my interviews, I have not seen any period longer than four months that still offers this safety. Two months is safer. Teams deploying to the web may deliver weekly.
 
-Tous ces avantages viennent d'une seule propriété, **Livraison fréquente**. Dans mes entretiens, je n'ai pas vu de période au-delà de quatre mois offrant encore cette sauvegarde. Deux mois est plus sûr. Les équipes déployant sur le web peuvent livrer hebdomadairement.
+Tous ces avantages viennent d'une seule propriété, **Livraison fréquente**. Dans mes entretiens, je n'ai pas vu de période au-delà de quatre mois offrant encore cette sécurité. Deux mois est plus sûr. Les équipes déployant sur le web peuvent livrer hebdomadairement.
 
 > Have you delivered running, tested and usable code at least twice to your user community in the last six months?
 
@@ -158,35 +158,63 @@ Même la propriété offrant les meilleurs chances de succès peut s'avérer ina
 
 ## Property 4. Personal Safety
 
+## Propriété 4. Sécurité personnelle
+
 **Personal Safety** is being able to speak when something is bothering you, without fear of reprisal. It may involve telling the manager that the schedule is unrealistic, a colleague that her design needs improvement, or even letting a colleague know that she needs to take a shower more often. **Personal Safety** is important because with it, the team can discover and repair its weaknesses. Without it, people won’t speak up, and the weaknesses will continue to damage the team.
+
+La **sécurité personnelle**, c'est être capable de parler quand quelque chose vous ennuie, sans craindre des représailles. Cela peut impliquer d'évoquer à son manager que le planning est irréel, à un collègue que sa conception a besoin d'être améliorer, ou même faire savoir à un collègue qu'il devrait prendre une douche plus souvent. La **sécurité personnelle** est important parce qu'avec elle, l'équipe peut découvrir et corriger ses faiblesses. Sans elle, les personnes ne parleront pas, et les faiblesses continueront à faire des dégâts au sein de l'équipe.
 
 **Personal Safety** is an early step toward **Trust**. Trust, which involves giving someone else power over oneself, with accompanying risk of personal damage, is the extent to which one is comfortable with handing that person the power. Some people trust others by default, and wait to be hurt before withdrawing the trust. Others are disinclined to trust others, and wait until they see evidence that they won’t be hurt before they give the trust. Presence of trust is positively correlated with team performance (Costa 2002).
 
+La **sécurité personnelle** est une première étape vers la **confiance**. La confiance qui implique donner à quelqu'un d'autre du pouvoir sur soi, avec le risque concomitant de dégâts personnels, et par extension le degré avec lequel une personne est à l'aise avec le fait de donner ce pouvoir à quelqu'un. Certaines personnes font confiance aux autres naturellement, et attendent d'avoir été blessé avant de retirer leur confiance. D'autres ne sont pas enclins à faire confiance aux autres, et attendent avant d'obtenir la preuve qu'ils ne seront pas blessés avant de donner leur confiance. La présence de la confiance est corrélée avec la performance de l'équipe (Costa 2002). 
+
 When a person sees that others won’t betray or damage her based on the information she reveals, she will reveal information more freely, which will speed the project. Therefore, **Personal Safety** is the critical property to attain.
 
+Lorsqu'une personne s'aperçoit que les autres ne la trahiront pas ou ne lui feront pas de mal sur la base des informations qu'elle leur a révélé, elle leur révèlera des informations avec un plus grand degré de liberté, ce qui accélèrera le projet. Par conséquent, la **sécurité personnelle** est une propriété essentiel à atteindre.
+
 > Can you tell your boss you mis-estimated by more than 50%, or that you just received a tempting job offer? Can you disagree with her about the schedule in a team meeting? Can people end long debates about each others’ designs with friendly disagreement?
+
+> Pouvez-vous dire à votre patron que vous avez sous-estimé de plus de 50%, ou que vous venez juste de recevoir une offre d'emploi tentante ? Pouvez-vous exprimer avec lui votre désaccord en réunion d'équipe ? Est-ce que les personnes peuvent mettre fin à des long débats sur les conceptions des uns et des autres en un désaccord amical ?
 
 . . . . .
 
 Trust is enhanced with **Frequent Delivery**. When the software is delivered, people recognize who did their share of the work and who shirked, who told the truth, who damaged or protected whom, and who, despite their superficial manners, could be trusted along which dimensions. With **Personal Safety**, they speak from their heart during the **Reflective Improvement** sessions.
 
+La confiance est amélioré avec la **livraison fréquente**. Lorsque le logiciel est libré, les personnes reconnaissent qui a fait sa part du travail et qui a esquivé, qui a dit la vérité, qui a blessé ou protégé qui, et qui, en dépit de son comportement apparent, pourrait être cru sur tel ou tel aspect. Avec la **sécurité personnelle**, ils parlent du fond du cœur pendant les sessions d'**améliorations réflectives**.
+
 **Personal Safety** goes hand in hand with amicability, the wilingness to listen with good will. The project suffers when any one person on the team stops listening with good will, or loses the inclination to pass along possibly important information. In addition to personal skill, a project’s forward progress relies only on the speed of movement of information across people (“meme-meters per minute”, if you will).
 
-Be careful, though, not to confuse **Personal Safety** with politeness. Some teams appear to have Personal Safety in place, but actually are just being polite because they are unwilling to show disagreement Covering their disagreements with politeness and conciliation, they don’t detect and repair mistakes that are present.
+La **sécurité personnelle** va main dans la main avec la capacité à être amicale, la disposition d'écouter avec une bonne volonté. Le projet souffre lorsque quelqu'un de l'équipe arrête d'écouter avec bonne volonté, ou perd l'inclination à passer des informations potentiellement importantes. En plus de la compétence personnelle, l'avancée d'un projet repose uniquement sur la vitesse de propagation de l'information au sein de l'assemblée ("mètres-mème par minute", si vous préférez).
+
+Be careful, though, not to confuse **Personal Safety** with politeness. Some teams appear to have **Personal Safety** in place, but actually are just being polite because they are unwilling to show disagreement Covering their disagreements with politeness and conciliation, they don’t detect and repair mistakes that are present.
+
+Soyez prudent, toutefois, à ne pas confondre la **sécurité personnelle** avec la politesse. Certaines équipes semblent avoir mis en place la **sécurité personnelle**, mais elles n'ont pas la volonté de montrer de désaccord couvrant leurs désaccords avec de la politesse et de la conciliation, elles ne détectent pas et ne réparent pas les erreurs qui sont présentes.
 
 ## Property 5. Focus
 
+## Propriété 5. Attention
+
 **Focus** is first knowing what to work on, and then having time and peace of mind to work on it. Knowing what to work on comes from communication about goal direction and priorities, typically from the _Executive Sponsor_. Time and peace of mind come from an environment where people are not taken away from their task to work on other, incompatible things.
 
+L'**attention**, c'est savoir d'abord ce sur quoi travailler, et ensuite avoir le temps et la tranquillité d'esprit d'y travailler. Savoir ce sur quoi travailler vient de la communication sur la direction de l'objectifs et des priorités, et donc généralement du _sponsor exécutif_. Le temps et la tranquillité d'esprit vient d'un environnement où les personnes ne sont pas extirpées de leurs tâches en cours pour travailler sur d'autres, ce sont des choses incompatibles.
+
 > Do all the people know what their top two priority items to work on are? Are they guaranteed at least two days in a row and two uninterrupted hours each day to work on them?
+
+> Est-ce que tous le monde sait quels sont leurs deux items les plus prioritaires sur lesquels travailler ? Ont-ils la garantie d'avoir deux jours d'affilé et deux heures de travail ininterrompu chaque jour de pouvoir y travailler ?
 
 . . . . .
 
 Just knowing what is important isn’t enough. Developers regularly report that meetings, requests to give demos, and demands to fix run-time bugs keep them from completing their work. It quite typically takes a person about 20 minutes and considerable mental energy to regain their train of thought after one of these interruptions. When the interruptions happen three or four times a day, it is not uncommon for the person to simply idle between interruptions, feeling that it is not worth the energy to get deeply into a train of thought when the next distraction will just show up in the middle of it.
 
+
+
 People asked to work on two or three projects at the same time regularly report that they are unable to make progress on any one project. It seems to take an hour and a half for a person to regain her train of thought after working on a different project.
 
+
+
 Among the experienced project managers that I interview, the consensus is that about one and a half projects is the most that a person can be on and stay effective. By the time a third project is added, the developer becomes ineffective on all three. Contrast this with the inexperienced managers who, underestimating the cost of switching between projects, assign developers to work on three to five projects at the same time. I encountered one developer assigned to 17 projects simultaneously! You can imagine that he barely had time to report at the various meetings his ongoing lack of progress on all fronts.
+
+
 
 ## Property 6. Easy Access to Expert Users
 
