@@ -206,15 +206,15 @@ L'**attention**, c'est savoir d'abord ce sur quoi travailler, et ensuite avoir l
 
 Just knowing what is important isn’t enough. Developers regularly report that meetings, requests to give demos, and demands to fix run-time bugs keep them from completing their work. It quite typically takes a person about 20 minutes and considerable mental energy to regain their train of thought after one of these interruptions. When the interruptions happen three or four times a day, it is not uncommon for the person to simply idle between interruptions, feeling that it is not worth the energy to get deeply into a train of thought when the next distraction will just show up in the middle of it.
 
-
+Savoir seulement ce qui est important est insuffisant. Les développeurs indiquent régulièrement que les réunions, les requêtes pour faire des démos, et des demandes pour corriger des anomalies à la volée les empêchent de faire leur travail. Il est assez habituel pour une personne qu'il lui faille 20 minutes et une quantité d'énergie considérable pour retrouver son raisonnement après l'une de ces interruptions. Quand les interruptions arrivent trois ou quatre fois par jour, il n'est pas inhabituel pour une personnes de rester simplement amorphe entre deux interruptions, car elle ressent que cela ne vaut pas le coup de réinvestir de l'énergie dans un raisonnement alors que la prochaine distraction va arriver en plein milieu de celui-ci.
 
 People asked to work on two or three projects at the same time regularly report that they are unable to make progress on any one project. It seems to take an hour and a half for a person to regain her train of thought after working on a different project.
 
-
+Les personnes à qui l'on demande de travailler sur deux ou trois projets en même temps indiquent qu'ils sont incapables d'avancer sur aucun d'entre eux. Il semble qu'il faille une heure et demi à une personne pour retrouver son raisonnement après avoir travaillé sur un autre projet.
 
 Among the experienced project managers that I interview, the consensus is that about one and a half projects is the most that a person can be on and stay effective. By the time a third project is added, the developer becomes ineffective on all three. Contrast this with the inexperienced managers who, underestimating the cost of switching between projects, assign developers to work on three to five projects at the same time. I encountered one developer assigned to 17 projects simultaneously! You can imagine that he barely had time to report at the various meetings his ongoing lack of progress on all fronts.
 
-
+Parmi les chefs de projets que j'ai interviewé, le consensus est que le nombre de projet qu'une personne peut être dessus et rester efficace est de un et demi projets. À partir du moment où un troisième projet est ajouté, le développeur devient inefficace sur l'ensemble des projets. Mettez en contraste ceci avec les chefs de projets inexpérimentés, qui sous-estimant le coût de changer de projets, assignent aux développeurs de travailler sur trois à cinq projets en même temps. Un jour, j'ai rencontré un développeur qui avait été assigné à 17 projets simultanément. Vous pouvez imaginez qu'il ait rarement pu avoir le temps d'aller rendre compte dans différentes réunions de son manque d'avancement sur tous les fronts. 
 
 ## Property 6. Easy Access to Expert Users
 
