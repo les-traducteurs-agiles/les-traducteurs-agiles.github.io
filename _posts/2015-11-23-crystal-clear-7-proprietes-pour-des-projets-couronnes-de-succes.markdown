@@ -218,96 +218,183 @@ Parmi les chefs de projets que j'ai interviewé, le consensus est que le nombre 
 
 ## Property 6. Easy Access to Expert Users
 
+## Propriété 6. Accès aisé aux utilisateurs experts
+
 Continued access to expert user(s) provides the team with
 
-* a place to deploy and test the Frequent Deliveries,
+Un accès continu aux utilisateurs exports offre à l'équipe 
+
+* a place to deploy and test the **Frequent Deliveries**,
 * rapid feedback on the quality of their finished product,
 * rapid feedback on their design decisions, and
 * up-to-date requirements.
 
+* un endroit où déployer et tester les **livraisons fréquentes**,
+* un _feedback_ rapide sur la qualité des produits finis,
+* un _feedback_ rapide sur leurs décisions de conception, et
+* les exigences à jour 
+
 Researchers Keil and Carmel published results showing how critical it is to have direct links to expert users (Keil 95). Surveying managers who had worked both with and without easy access to real users, they write:
+
+Les chercheurs Keil et Carmel ont publié des résultats montrant combien il est essentiel d'avoir des contacts directs avec les utilisateurs experts (Keil 95). En étudiant les chefs de projets qui avaient travaillé avec ou sans un accès facile à de vrais utilisateurs, ils ont écrit :
 
 > ” . . . in 11 of the 14 paired cases, the more successful project involved a greater number of links than the less successful project. . . . This difference was found to be statistically significant in a paired t-test (p<0.01).” 
 
+> " ... dans 11 cas sur 14, le projet qui a été le plus couronné de succès est celui qui avait le plus grand nombre de contact que ceux qui ont moins eu de succès. ... Il a été prouvé que cette différence a été statistiquement significative dans un comparatif t-test (p<0,01)." 
+
 Their research led them to a specific recommendation: “Reduce Reliance on Indirect Links.” In other words, get real access to real users.
 
+Leur recherche les a conduit à faire une recommandation bien précise : "Réduisez le fait de vous reposez sur des contacts indirects." En d'autres mots, ayez vraiment accès à de vrais utilisateurs.
+
 > Does it take less than three days, on the average, from when you come up with a question about system usage to when an expert user answers the question? Can you get the answer in a few hours?
+
+> Est-ce que cela prends moins de 3 jours, en moyenne, depuis el moment où vous êtes arrivé avec une questions sur l'utilisation du système jusqu'au moment où un utilisateur expert répond à la question ? Pouvez-vous avoir la réponse en quelques heures ?
 
 . . . . .
 
 All very nice, but how many users, and how much time?
 
+Tous cela c'est bien gentil, mais combien d'utilisateurs, et combien de temps ?
+
 Even one hour a week of access to a real and expert user is immensely valuable. The more hours each week that an expert user is available to a team, the more advantage they can take of that proximity. The first hour, however, is the most crucial.
+
+Le contact à un vrai et à un utilisateur experte même une heure par semaine est extrêmement précieux. Plus il y a d'heures disponibles pour l'équipe avec un utilisateur expert chaque semaine, plus cette proximité est avantageuse pour elle. La première heure, toutefois, est des plus cruciale. 
 
 The other thing that is important is the length of time until a question gets answered. If a question won’t be answered for another three days, the programmers are likely to put into the code their best current guess, and may forget to recheck their decision when they are with the users again. Therefore, they should have telephone access to the expert user during the week.
 
+L'autre chose qui est importante est la durée jusqu'à ce qu'une question soit répondue. Si une question n'est pas répondue dans un délai supplémentaire de 3 jours, les programmeurs sont susceptibles de faire le code à leur idée, et d'oublier de re-vérifier la validité de leur décisions lorsqu'ils seront à nouveau en présence des utilisateurs. Par conséquent, ils devraient pouvoir joindre par téléphone l'utilisateur expert pendant la semaine.
+
 Before I leave this property, I ask you to read again the last paragraphs of the **Frequent Delivery**, in which I describe the troubles arising from not arranging for real user feedback. Even teams that do every other practice in agile development find themselves facing catastrophic bad news at the end of the project if they neglect such feedback during the project.
+
+Avant de quitter cette propriété, je vous demande de lire à nouveau les derniers paragraphes de la **livraison fréquente**, dans lesquels je décris les problèmes qui surviennent lorsqu'aucun arrangement n'est fait pour avoir le _feedback_ de vrais utilisateurs. Même les équipes qui font toutes les autres pratiques du développement agile se retrouvent faire face à de mauvaises nouvelles catastrophiques à la fin du projet si elles négligent les _feedbacks_ pendant le projet.
 
 ## Property 7. Technical Environment with Automated Tests, Configuration Management & Frequent Integration
 
+## Propriété 7. Environnement technique avec tests automatisés, gestion de configuration & intégration fréquente
+
 The elements I highlight in this property are such well-established core elements that it is embarrassing to have to mention them at all. Let us consider them one at a time and all together.
+
+Les éléments que je souligne dans cette propriété sont des éléments vitaux si connus qu'il en est embarrassant de devoir les mentionner. Passons-les en revue un par un puis tous ensemble.
 
 **Automated Testing**. Teams do deliver successfully using manual tests, so this can’t be considered a critical success factor. However, every programmer I’ve interviewed who once moved to automated tests swore _never to work without them again_. I find this nothing short of astonishing.
 
+**Test automatisé**. Les équipes arrivent à livrer en ne faisant que des tests manuels, donc cela ne peut être considéré comme un facteur essentiel de succès. Toutefois, chaque programmeur que j'ai interviewé qui s'est mis aux tests automatisés jure _qu'il ne travaillera plus jamais sans eux à nouveau_. Je trouve cela tout simplement stupéfiant.
+
 Their reason has to do with improved quality-of-life. During the week, they revise sections of code knowing they can quickly check that they hadn’t inadvertently broken something along the way. When they get code working on Friday, they go home knowing that they will be able on Monday to detect whether anyone had broken it over the weekend – they simply rerun the tests on Monday morning. The tests give them freedom of movement during the day and peace of mind at night.
+
+Leur raison est en rapport avec l'amélioration de la qualité de vie. Pendant la semaine , ils revoient des sections de code sachant qu'ils peuvent rapidement vérifiés s'ils n'ont pas par inadvertence cassé quelque chose en chemin. Lorsqu'ils voient que le code fonctionne le vendredi, ils rentrent à la maison sachant qu'ils seront capables lundi de détecter si quelqu'un a cassé quelque chose pendant le week-end - ils  ré-exécutent simplement le code le lundi matin. Les tests leur donne la liberté de mouvement pendant le jour et la tranquillité d'esprit pendant la nuit.
 
 **Configuration Management**. The configuration management system allows people to check in their work asynchronously, back changes out, wrap up a particular configuration for release, and roll back to that configuration later on when trouble arises. It lets the developers develop their code both separately and together. It is steadily cited by teams as their most critical non-compiler tool.
 
+**Gestion de configuration**. Le système de gestion de configuration permet aux personnes d'enregistrer leur travail de manière asynchrone, de sauvegarder les changements, de préparer une configuration particulière pour la livraison, et de revenir à cette configuration plus tard en cas de problème. Cela laisse les développeurs libre de développer leur code à la fois ensemble et séparément. C'est l'outil de non compilation le plus régulièrement cité par les équipes. 
+
 **Frequent Integration**. Many teams integrate the system multiple times a day. If they can’t manage that, they do it daily, or in the worst case, every other day. The more frequently they integrate, the more quickly they detect mistakes, the fewer additional errors that pile up, the fresher their thoughts, and the smaller the region of code that has to be searched for the miscommunication.
+
+**Intégration fréquente**. Beaucoup d'équipes font de l'intégration système plusieurs fois par jour. Si elles n'arrivent pas faire cela, elles le font une fois par jour, ou au pire, un jour sur deux. Plus elles intègrent fréquemment, plus elles détectent les erreurs rapidement, moins de nouvelles erreurs apparaissent, plus fraîches sont leurs pensées, plus réduite est la portion de code qui doit être recherchée contenant le malentendu.
 
 The best teams combine all three into **Continuous Integration-with-Test**. They catch integration-level errors within minutes.
 
+Les meilleures équipes combinent ces trois éléments en **intégration continue avec tests**. Ils relèvent les erreurs d'intégration dans la minute.
+
 > Can you run the system tests to completion without having to be physically present?
+
+> Pouvez-vous exécuter les tests systèmes jusqu'au bout sans avoir à être physiquement présent ? 
 
 > Do all your developers check their code into the configuration management system?
 
+> Est-ce que tous vos développeurs vérifient enregistrent leur code dans le système de gestion de configuration ?
+
 > Do they put in a useful note about it as they check it in?
+
+> Mettent-ils une note pratique à propos de ce qu'ils ont enregistrés ?
 
 > Is the system integrated at least twice a week?
 
+> Est-ce qu'il y a de l'intégration système au moins deux fois par semaine ?
+
 ## Evidence: Collaboration across Organizational Boundaries
+
+
 
 There is a side-effect from attending to **Personal Safety**, amicability within the team, and **Easy Access to Expert Users**: it becomes natural to include other stakeholders into the project, as well.
 
 Géry Derbier, working with the French postal service (La Poste) to build software to run a new facility to handle all the mail going into and out of northern France, reported on his use of Crystal. With 25 people, his was a project in the Crystal Yellow category. However, he knew the principles of the Crystal methodologies family, particularly the “stretch to fit” principle, and therefore chose to extend Crystal Clear to his larger setting wherever possible.
 
+
+
 > We discussed his project, and at one point covered their project’s linkage to the integration testing team located 30 km away and to the business and usage expert working for La Poste. I asked questions of the sort: “How often did that person visit the team? How did he feel about that? How did his manager feel about his coming over so often?” Géry’s answers were, for both external groups: “One day a week; comfortable; happy to be involved so early.” 
+
+
 
 After our discussion, I realized that Géry had built the additional safety into his project of **Collaboration Across Organizational Boundaries**. His project was happily linked into both the customer and integration environments with a colleague on each end. La Poste’s contract measured and paid according to integrated test results every few months (the **Frequent Delivery**). The La Post executives got software delivered in growing increments and paid accordingly. Géry’s bosses, who had no previous experience with incremental delivery, were happy about this also, since they saw regular delivery turn into regular payments. Géry had a support structure on all sides.
 
+
+
 **Collaboration Across Organizational Boundaries** is not a given result on any project. It results from working with honesty amicability and integrity within and outside the team. It is hard to achieve if the team does not itself have **Personal Safety** and to a lesser extent, **Frequent Delivery**. I consider the presence of good collaboration across organizational boundaries as partial evidence that some of the top-seven safety properties are being achieved.
+
+
 
 ## Reflection on the Properties
 
+
+
 I don’t believe that any prescribed procedures exists that can assure that projects land in the safety zone every time. Nor, with the exception of incremental development, do I show up on a project with any particular set of rules in hand, even though I have my favorites. This is why Crystal Clear is built around critical properties instead of specification of procedures.
+
+
 
 A Crystal team works to set the seven properties into place, using whatever group conventions, techniques and standards fit their situation. The conventions may vary by project and by month. New techniques get invented with each new technology (and usually go out of style again a few years later). These seven properties, on the other hand, have been applied on good projects for decades.
 
 My intention with Crystal is to not invade the natural workings of individuals on the project where possible, and to allow the most possible variation across different teams, while still getting those diverse projects into the safety zone. To allow variation, I must remove constraints. Removing constraints means finding broader mechanisms that provide a safety net. The ones I choose to rely on are these:
 
+
+
 * People are by nature good at looking around and communicating.
+
+
 
 * They take initiative when provided with information.
 
+
+
 * They do better in an environment that is safe with respect to personal emotional safety, and particularly freedom from personal attacks.
+
+
 
 * They do their best work if they can satisfy their need for contribution, accomplishment, and pride-in-work.
 
+
+
 The Crystal Clear safety net is built on those things.
+
+
 
 \*Personal Safety **gives people the personal courage to share whatever they discover**.
 
+
+
 Osmotic Communication\* gives them the greatest chance to discover important information from each other, and does so with very low communication cost.
+
+
 
 **Reflective Improvement** gives them a channel to apply feedback to their working process.
 
+
+
 **Easy Access to Expert Users** gives them the opportunity to quickly discover relevant information from the user(s).
+
+
 
 **Frequent Delivery** creates feedback to the system’s requirements and the development process. The technical development environment including
 
+
+
 **Automated Tests, Configuration Management & Frequent Integration** allows people to safely make changes to the system. synchronize the multiple minds that are in motion at the same time, and get feedback on the system’s intermediate stages quickly. **Focus** allows the team to spend their energy well on the most important things.
 
+
+
 Ron Jeffries once characterized Crystal Clear as, “Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.” He is close.
+
+
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
