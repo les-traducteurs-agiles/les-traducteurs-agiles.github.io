@@ -314,35 +314,39 @@ Les meilleures équipes combinent ces trois éléments en **intégration continu
 
 ## Evidence: Collaboration across Organizational Boundaries
 
-
+## Témoignage : La collaboration au-delà des frontières organisationnelles
 
 There is a side-effect from attending to **Personal Safety**, amicability within the team, and **Easy Access to Expert Users**: it becomes natural to include other stakeholders into the project, as well.
 
+Il y a un effet de bord à traiter la **sécurité personnelle**, la capacité à être amicale dans une équipe, et la **facilité d'accès aux utilisateurs experts** : cela devient naturel également d'inclure d'autres parties prenantes dans les projets. 
+
 Géry Derbier, working with the French postal service (La Poste) to build software to run a new facility to handle all the mail going into and out of northern France, reported on his use of Crystal. With 25 people, his was a project in the Crystal Yellow category. However, he knew the principles of the Crystal methodologies family, particularly the “stretch to fit” principle, and therefore chose to extend Crystal Clear to his larger setting wherever possible.
 
-
+Géry Derbien, qui travaille avec les services de La Poste pour élaborer un logiciel pour piloter une nouvelle infrastructure qui traitera tous les courriers entrant et sortant du nord de la France, rapporte qu'il utilise Crystal. Avec 25 personnes, son projet rentre dans la catégorie Crystal Jaune. Toutefois, les principes de la famille des méthodologies Crystal lui sont connus, tout particulièrement le principe "étirer pour adapter", et par conséquent il a choisi d'étendre Crystal Clear à son contexte plus important lorsque cela était possible.  
 
 > We discussed his project, and at one point covered their project’s linkage to the integration testing team located 30 km away and to the business and usage expert working for La Poste. I asked questions of the sort: “How often did that person visit the team? How did he feel about that? How did his manager feel about his coming over so often?” Géry’s answers were, for both external groups: “One day a week; comfortable; happy to be involved so early.” 
 
-
+> Nous avons discuté de son projet, et à un moment donné nous avons abordé le point des relations entre l'équipe de test d'intégration située à 30 km de là, le métier et l'ergonome travaillant pour La Poste. J'ai posé des questions du style : "À quelle fréquence cette personne rend-elle visite à l'équipe ? Comment ressent-elle cette situation ? Que ressent son responsable à de ses allées-venues si fréquente ?" La réponse de Géry pour les deux groupes externes a été : "Un jour par semaine ; confortable ; content d'être impliqué si tôt."
 
 After our discussion, I realized that Géry had built the additional safety into his project of **Collaboration Across Organizational Boundaries**. His project was happily linked into both the customer and integration environments with a colleague on each end. La Poste’s contract measured and paid according to integrated test results every few months (the **Frequent Delivery**). The La Post executives got software delivered in growing increments and paid accordingly. Géry’s bosses, who had no previous experience with incremental delivery, were happy about this also, since they saw regular delivery turn into regular payments. Géry had a support structure on all sides.
 
-
+Après notre discussion, j'ai réaliser que Géry avait mis en place une sécurité supplémentaire dans son projet **collaboration au-delà des frontières organisationnelles**. Son projet était relié à la fois au client et aux environnements d'intégrations avec un collègue à sa chaque extrémité. Selon les termes stipulés dans le contrat, La Poste payait en fonction des résultats des tests d'intégrations régulièrement à quelques mois d'intervalles (la **livraison fréquente**). La direction de La Poste obtenait un logiciel livré par incrément et payait en fonction. Les patrons de Géry, qui n'avait aucune expérience avec la livraison incrémentale, en étaient content également car ils voyaient les livraisons régulières se transformer en paiements réguliers. Géry avait une structure de support de tous les côtés.
 
 **Collaboration Across Organizational Boundaries** is not a given result on any project. It results from working with honesty amicability and integrity within and outside the team. It is hard to achieve if the team does not itself have **Personal Safety** and to a lesser extent, **Frequent Delivery**. I consider the presence of good collaboration across organizational boundaries as partial evidence that some of the top-seven safety properties are being achieved.
 
-
+La **collaboration au-delà des frontières organisationnelles** n'est pas un résultat donné à tous les projets. Elle résulte d'un travail fait avec une capacité à être amicale honnêtement et avec intégrité à l'intérieur et à l'extérieur de l'équipe. Il est difficile à atteindre si l'équipe ne bénéficie pas elle-même de la **sécurité personnelle** et dans une moindre mesure de la **livraison fréquente**. Je considère l'existence d'une bonne collaboration au-delà des frontières organisationnelles comme la preuve partielle que les sept premières propriétés peuvent être atteintes. 
 
 ## Reflection on the Properties
 
-
+## Réflexion sur les propriétés
 
 I don’t believe that any prescribed procedures exists that can assure that projects land in the safety zone every time. Nor, with the exception of incremental development, do I show up on a project with any particular set of rules in hand, even though I have my favorites. This is why Crystal Clear is built around critical properties instead of specification of procedures.
 
 
 
 A Crystal team works to set the seven properties into place, using whatever group conventions, techniques and standards fit their situation. The conventions may vary by project and by month. New techniques get invented with each new technology (and usually go out of style again a few years later). These seven properties, on the other hand, have been applied on good projects for decades.
+
+
 
 My intention with Crystal is to not invade the natural workings of individuals on the project where possible, and to allow the most possible variation across different teams, while still getting those diverse projects into the safety zone. To allow variation, I must remove constraints. Removing constraints means finding broader mechanisms that provide a safety net. The ones I choose to rely on are these:
 
