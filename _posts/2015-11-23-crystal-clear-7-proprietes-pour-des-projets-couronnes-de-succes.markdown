@@ -342,63 +342,63 @@ La **collaboration au-delà des frontières organisationnelles** n'est pas un r�
 
 I don’t believe that any prescribed procedures exists that can assure that projects land in the safety zone every time. Nor, with the exception of incremental development, do I show up on a project with any particular set of rules in hand, even though I have my favorites. This is why Crystal Clear is built around critical properties instead of specification of procedures.
 
-
+Je ne crois pas qu'aucune des procédures prescrites existantes  ne peut garantir que le projet atterrisse dans la zone de sécurité à chaque fois. Ni, avec l'exception du développement incrémental, ai-je surgi sur un projet avec un ensemble de règle à la main, même si j'ai mes favorites. C'est pourquoi Crystal Clear est bâtie autour de propriétés essentielles au lieu de spécifications de procédures.
 
 A Crystal team works to set the seven properties into place, using whatever group conventions, techniques and standards fit their situation. The conventions may vary by project and by month. New techniques get invented with each new technology (and usually go out of style again a few years later). These seven properties, on the other hand, have been applied on good projects for decades.
 
-
+Une équipe Crystal travaille pour mettre en place les sept propriétés, utilisant toute convention de groupe, toute techniques et tout standard correspondants à la situation. Les conventions peuvent varier par projet et par mois. De nouvelles techniques sont inventées avec chaque nouvelle technologie (et deviennent généralement obsolètes quelques années plus tard). D'un autre côté, ces sept propriétés ont été appliqués sur des vrais projets depuis plusieurs dizaines d'années.
 
 My intention with Crystal is to not invade the natural workings of individuals on the project where possible, and to allow the most possible variation across different teams, while still getting those diverse projects into the safety zone. To allow variation, I must remove constraints. Removing constraints means finding broader mechanisms that provide a safety net. The ones I choose to rely on are these:
 
-
+Mon intention avec Crystal est de ne pas interférer avec les façons naturelles de travailler des individus sur les projets lorsque cela est possible, et de permettre le plus possible de variété entre les différentes équipes, tout en permettant néanmoins à ces différents projets d'atteindre la zone de sécurité. Pour permettre la variété, je dois supprimer les contraintes. Supprimer les contraintes signifie trouver les mécanismes les plus larges possibles offrant le filet de sécurité. Ceux sur lesquels j'ai choisi de me reposer sont les suivants : 
 
 * People are by nature good at looking around and communicating.
 
-
+* Les gens sont bons par nature à regarder autour d'eux et à communiquer.
 
 * They take initiative when provided with information.
 
-
+* Ils prennent des initiatives lorsqu'on leur donne l'information.
 
 * They do better in an environment that is safe with respect to personal emotional safety, and particularly freedom from personal attacks.
 
-
+* Ils font mieux dans un environnement qui est sécurisant par rapport à la sécurité de l'état émotionnel des individus et plus particulièrement par rapport aux attaques personnelles.
 
 * They do their best work if they can satisfy their need for contribution, accomplishment, and pride-in-work.
 
-
+* Ils font de leur mieux s'ils peuvent satisfaire leur besoin de contribution, d'accomplissement, et de fierté au travail.
 
 The Crystal Clear safety net is built on those things.
 
+Le filet de sécurité est bâti sur ça.
 
+**Personal Safety** gives people the personal courage to share whatever they discover.
 
-\*Personal Safety **gives people the personal courage to share whatever they discover**.
+La **sécurité personnelle** donne aux gens le courage personnel de partager tout ce qu'il découvre.
 
+**Osmotic Communication** gives them the greatest chance to discover important information from each other, and does so with very low communication cost.
 
-
-Osmotic Communication\* gives them the greatest chance to discover important information from each other, and does so with very low communication cost.
-
-
+La **communication osmotique** leur donne une plus grande chance de découvrir des informations importantes les uns des autres, et de le faire à un coût de communication très faible.
 
 **Reflective Improvement** gives them a channel to apply feedback to their working process.
 
-
+L'**amélioration réflective** leur donne un moyen pour appliquer le _feedback_ à leur processus de travail. 
 
 **Easy Access to Expert Users** gives them the opportunity to quickly discover relevant information from the user(s).
 
+L'**accès facile aux utilisateurs experts** leur donne l'opportunité de découvrir rapidement des utilisateurs l'information pertinente.
 
+**Frequent Delivery** creates feedback to the system’s requirements and the development process. 
 
-**Frequent Delivery** creates feedback to the system’s requirements and the development process. The technical development environment including
+La **livraison fréquente** créé du _feedback_ sur les exigences du système et sur le processus de développement.
 
+The technical development environment including **Automated Tests, Configuration Management & Frequent Integration** allows people to safely make changes to the system. synchronize the multiple minds that are in motion at the same time, and get feedback on the system’s intermediate stages quickly. **Focus** allows the team to spend their energy well on the most important things.
 
-
-**Automated Tests, Configuration Management & Frequent Integration** allows people to safely make changes to the system. synchronize the multiple minds that are in motion at the same time, and get feedback on the system’s intermediate stages quickly. **Focus** allows the team to spend their energy well on the most important things.
-
-
+L'environnement de développement technique incluant **test automatisé, gestion de configuration @ intégration fréquente** permet aux personnes de faire des changements dans le système en toute sécurité, de synchroniser de multiples esprits  qui sont en mouvement en même temps, et d'obtenir rapidement du _feedback_ sur les étapes intermédiaires du système. L'**attention** permet à l'équipe de donner toute son énergie dans le bon sens sur les choses les plus importantes.
 
 Ron Jeffries once characterized Crystal Clear as, “Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.” He is close.
 
-
+Un jour, Ron Jeffries a défini Crystal comme suit : "Rassemblez quelques développeurs dans la paix, l'amour et l'harmonie livrant du code un mois sur deux, et un bon logiciel en émergera."
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
@@ -407,7 +407,7 @@ Date de parution originale : 29 Août 2010
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 29/08/2015  
+Date de traduction : 23/11/2015  
 
 ---
 
