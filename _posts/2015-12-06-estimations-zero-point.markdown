@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devriez-vous utiliser les estimations à zéro point dans votre product backlog ?"
-date:   2015-12-05 21:00:55
+date:   2015-12-07 21:00:55
 published: true
 categories: 
 - estimation
@@ -36,7 +36,7 @@ Date de parution originale : 01 Décembre 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 02/12/2015  
+Date de traduction : 07/12/2015  
 
 ---
 
