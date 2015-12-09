@@ -62,35 +62,35 @@ Le leader ne doit pas nécessairement être une seule personne, cela peut être 
 
 Think of the label “Agile Leader” as a placeholder for whatever you decide to call the role. If depends a bit on how you organize your work. Pick whatever title fits your context – Chief Engineer, Chief Product Owner, Project Manager (if it is a project), Program Manager, Uber Scrum Master, Release Train Engineer, Chaos Pilot, Road Manager, Zen Master, Coordinator, Driver, Project Coach, Catalyst, or whatever. Whatever you call it, it is critical function and it needs to be there for any complex cross-functional endeavor that involves more than a handful of teams. The person(s) in that role need to be motivated, dedicated, and skilled.
 
-
+Pensez à l’étiquette “leader agile” comme d’un libellé pour le rôle quelque soit le nom par lequel vous décidez de l’appeler. Si cela dépend un peu de la manière dont vous organisez votre travail, choisissez n’importe quel titre qui convienne à votre contexte - ingénieur en chef, scrum master suprême, ingénieur du train de livraison, pilote du chaos, responsable de la route, maître zen, coordinateur, conducteur, coach projet, catalyseur, ou quoi que ce soit. Peu importe comment vous l’appelez, c’est une fonction critique et elle doit être présente pour tout effort complexe à caractère pluridisciplinaire impliquant plus qu’une poignée d’équipes; La/les personne(s) ayant ce rôle doivent être motivée(s), dévouée(s) et compétente(s).
 
 I intentionally call it Agile Leader in this article. The word “Agile” is there to emphasize that this article is about an agile product development context, which is very different from a waterfall context. I use the term “Leader” instead of Manager because, well, **in a well-running agile organization most “management” is handled by the teams themselves**. So the primary purpose of the role is to provide leadership, not management. But the distinction isn’t binary, of course.
 
-
+De manière intentionnel, je l’appellerai leader agile dans cet article. Le mot “agile” est employé pour mettre en avant que le sujet de cet article porte sur le contexte de développement agile de produits, ce qui est très différent d’un contexte en cascade. J’utilise le terme “leader” plutôt que manager parce que, eh bien, **dans une organisation agile qui fonctionne bien, la plupart du “management” est prise en main par les équipes elle-même**. Par conséquent, le premier objectif de ce rôle est de donner du leadership, pas de faire du management. Mais bien sûr, cette distinction n’est pas binaire.
 
 The **purpose of this article is to paint a picture of what a great Agile Leader does**, so you can more easily find, grow, or become this person – and help your multi-team efforts succeed better! This is not a formal definition of the role, just my take on it.
 
-
+L’**objectif de cet article est d’esquisser l’image de ce qu’un grand leader agile fait**, que vous puissiez par conséquent, trouver, grandir ou devenir cette personne — et soutenir les efforts de votre équipe multiple pour mieux réussir ! Il ne s’agit pas d’une définition formelle, il s’agit juste de mon point de vue dessus.
 
 So, in short: **try to minimize the need for big, complex, multiteam efforts. If you can’t then at least make sure you have an awesome Agile Leader!**
 
-
+Alors, pour faire court : **essayez de minimiser le besoin d’efforts importants, complexes et multi-équipes. Si vous ne pouvez pas faire autrement, soyez certain d’avoir sous la main un super leader agile !**
 
 ## Isn’t this a Project Manager?
 
-
+## Est-ce qu’il ne s’agirait pas d’un chef de projet ?
 
 Maybe, but not necessarily. **A “project” is just one of many ways to organize work, and often inappopriate for product development**. However, If you do work in Project form, and the projects are fairly big and complex and involve synchronization among many different teams and organizations, then the Agile Leader is effectively an Agile Project Leader. I wrote a separate article called [What is an Agile Project Leader](http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-project-leader), with some discussion about the project model in general. But for the actual role description that article links back to here. Don’t get stuck in a loop :)
 
-
+Peut-être mais pas nécessairement. **Un “projet”, c’est seulement une des multiples manières d’organiser le travail, et qui se révèle souvent inappropriée pour le développement de produit**. Toutefois, si vous travaillez sous la forme de projet, et que les projets sont suffisamment importants et complexes et impliquent de la synchronisation sur plusieurs équipes et organisations, alors le leader agile est effectivement un leader agile de projet. J’ai écris un article séparé intitulé [Qu’est-ce qu’un leader agile de projet ?](http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-project-leader) comportant quelques points de discussions sur le modèle projet en général. Mais pour la description réelle du rôle cet article re-pointe ici. Ne restez pas bloqué dans la boucle :) 
 
 Again, the choice of what to call the role is highly contextual. The purpose of this article is just clarify what type of leader you will need to execute it in an agile way.
 
-
+À nouveau, le choix de la manière d’appeler ce rôle est grandement contextuel. L’objectif de cet article est juste de clarifier quel type de leader vous aurez besoin pour le remplir d’une manière agile.
 
 ## What does an Agile Leader do?
 
-
+## Que fait un leader agile ?
 
 My Spotify colleague Babar provided a nice summary, using a sports analogy:
 
