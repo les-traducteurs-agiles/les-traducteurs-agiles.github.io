@@ -94,55 +94,55 @@ Again, the choice of what to call the role is highly contextual. The purpose of 
 
 My Spotify colleague Babar provided a nice summary, using a sports analogy:
 
-
+Utilisant une métaphore sportive, mon collègue Babar de Spotify en donne un résumé séduisant :
 
 1. **What does winning look like?** Vision/Mission.
 
-
+1. **À quoi ressemble la victoire ?** Vision / Mission
 
 2. **What’s the plan?** Strategy and tactics.
 
-
+2. **Quel est le plan ?** Stratégie et tactiques
 
 3. **What’s the score?** Progress, status, feedback loops
 
-
+3. **Quel est le score ?** Progrès, statut, boucles de _feedbacks_
 
 4. **What is preventing us from winning?** Continous improvement, people, teams, strategy, tactics.
 
-
+4. **Qu’est-ce qui nous empêche de gagner ?** Amélioration continue, personnes, équipes, stratégie, tactiques
 
 Do we all know why we are here, what winning looks like? Do we know the plan, the strategy? Do we have a way of seeing where we are now? Do we see the impediments, things that are slowing us down? Are we continuously trying to remove the impediments?
 
-
+Savons-nous tous pourquoi nous sommes ici, à quoi ressemble la victoire ? Connaissons-nous le plan, la stratégie ? Avons-nous une manière de voir où nous en sommes maintenant ? Voyons-nous les obstacles, les choses qui nous ralentissent ? Essayons-nous constamment d’enlever les obstacles ?
 
 The answer is most likely “no” to some of these questions (otherwise, congrats, keep up the good work). So that’s the job of the Agile Leader – **do whatever it takes to turn these into “yes”. That won’t guarantee success, but it will certainly increase the odds**.
 
-
+La réponse la plus probable est “non” à certaines de ces questions (autrement, félicitations, continuez ce bon boulot). Donc, c’est ça le boulot de leader agile - **faites tout ce qui est possible pour transformer cela en “yes”. Cela ne garantit pas la réussite, mais cela en accroît certainement les chances**. 
 
 In a smaller efforts using Scrum, this work is covered by existing roles and bottom-up cross-team collaboration. With large efforts we face misalignment across teams, and things falling into cracks between different parts of the organization. So the Agile Leader focuses a lot on communication and creating clarity. **If everyone involved has the same view of where we are, where we are going, and why, then we are more likely to work together to move in that direction**.
 
-
+Par de petits efforts avec Scrum, ce travail est assuré par les rôles existants et par la collaboration bottom-up et pluridisciplinaire. Avec de grands efforts nous sommes confrontés à la discordance entre les équipes, et les choses tombent entre les mailles du filets des différentes parties de l’organisation. Par conséquent, le leader agile se concentre beaucoup sur la communication et la création de la clarté. **Si toutes les personnes impliquées ont la vision de là où nous en sommes, là où nous allons, et pourquoi, alors nous avons plus de chances à travailler ensemble pour aller dans cette direction**.
 
 ## Uh, be more specific. What does the Agile Leader actually do?
 
-
+## Euh, soyez plus spécifique. Qu’est-ce qu’un leader agile fait vraiment ?
 
 So what does this mean in practice? What does an Agile Leader actually do?
 
-
+Qu’est ce que cela signifie donc en pratique ? Qu’est-ce qu’un leader agile fait vraiment ?
 
 I hate to say it, but…. **it depends**! There. I said it.
 
-
+Je déteste dire cela, mais…. **cela dépends** ! Ça y est. Je l’ai dit.
 
 It depends on context, and what’s working well today and what’s not.
 
-
+Cela dépends du contexte, et de ce qui fonctionne bien aujourd’hui et de ce qui ne fonctionne pas.
 
 Keep asking yourself: “**What needs to happen that’s not already happening? What can I do to cause this to happen, without becoming a bottleneck myself?**”
 
-
+Posez-vous continuellement la question : “**Que doit-il se passer qui ne soit pas déjà produit ? Qu’est ce que je peux faire pour que cela se produise, sans que je devienne moi-même un goulot d’étranglement ?**”
 
   _**Example**: You notice that releasing is a pain, and that we need better release coordination between teams. Instead of running around trying to coordinate this yourself, you bring up the problem with some of the teams – check if they agree that it is a problem, and discuss how we might deal with it. Together you decide to set up a recurring meeting where people that have stuff to release sync with each other, and provide a shared living document where they can see and edit upcoming releases. Initially you facilitate the meetings yourself, but after a while they become self-managing. You encourage the teams to automate as much of release management as possible. Over time the recurring meeting isn’t needed, because the teams talk to each other directly and release coordination is no longer an issue._
 
