@@ -7,6 +7,8 @@ categories:
 - agile
 ---
 
+Note NiMe 20151210 12:45 : à la relecture :: voir la traduction de release la plus adaptée en fonction du  contexte du texte > livraison ou version
+Note NiMe 20151210 12:55 : pour livraison c’est delivery et non release
 
 Agile product development has become the norm in many industries (especially software). That means products are developed by small, self-organizing, cross-functional teams, and delivered in small increments and continuously improved based on real customer feedback. Pretty much as described in the Agile Manifesto – but replace the word “software” with “product” (because it really isn’t software-specific).
 
@@ -118,7 +120,7 @@ Savons-nous tous pourquoi nous sommes ici, à quoi ressemble la victoire ? Conna
 
 The answer is most likely “no” to some of these questions (otherwise, congrats, keep up the good work). So that’s the job of the Agile Leader – **do whatever it takes to turn these into “yes”. That won’t guarantee success, but it will certainly increase the odds**.
 
-La réponse la plus probable est “non” à certaines de ces questions (autrement, félicitations, continuez ce bon boulot). Donc, c’est ça le boulot de leader agile - **faites tout ce qui est possible pour transformer cela en “yes”. Cela ne garantit pas la réussite, mais cela en accroît certainement les chances**. 
+La réponse la plus probable est “non” à certaines de ces questions (autrement, félicitations, continuez ce bon boulot). Donc, c’est ça le boulot de leader agile - **faites tout ce qui est possible pour transformer cela en “oui”. Cela ne garantit pas la réussite, mais cela en accroît certainement les chances**. 
 
 In a smaller efforts using Scrum, this work is covered by existing roles and bottom-up cross-team collaboration. With large efforts we face misalignment across teams, and things falling into cracks between different parts of the organization. So the Agile Leader focuses a lot on communication and creating clarity. **If everyone involved has the same view of where we are, where we are going, and why, then we are more likely to work together to move in that direction**.
 
@@ -146,27 +148,27 @@ Posez-vous continuellement la question : “**Que doit-il se passer qui ne soit 
 
   _**Example**: You notice that releasing is a pain, and that we need better release coordination between teams. Instead of running around trying to coordinate this yourself, you bring up the problem with some of the teams – check if they agree that it is a problem, and discuss how we might deal with it. Together you decide to set up a recurring meeting where people that have stuff to release sync with each other, and provide a shared living document where they can see and edit upcoming releases. Initially you facilitate the meetings yourself, but after a while they become self-managing. You encourage the teams to automate as much of release management as possible. Over time the recurring meeting isn’t needed, because the teams talk to each other directly and release coordination is no longer an issue._
 
-
+_**Exemple** : Vous remarquez que la livraison n’est pas une sinécure, et que nous devons mieux coordonner la livraison entre les équipes. Au lieu de courir à droite et à gauche en essayant de coordonner cela vous même, vous remontez le problème avec certaines des équipes — vérifiez s’ils sont d’accord qu’il s’agit d’un problème, et discutez de comment le gérer. Ensemble vous décidez de mettre en place une réunion où les gens qui ont des choses à livrer se synchronisent les uns avec les autres, et initiez un document commun en mise à jour constante où vous pouvez voir et modifier les livraisons à venir. Au début vous faites la facilitation de la réunion vous-même, mais après quelques temps elles deviennent auto-organisées. Vous encouragez les équipes à automatiser autant que possible la gestion des livraisons. Avec le temps, la réunion récurrente ne devient plus nécessaire, parce que les équipes se parlent entre elles directement et la coordination de la livraison n’est plus un problème._
 
 Although I can’t tell you exactly what an Agile Leader should do, I will give a list of examples. Think of it as different “lenses” you may wear as leader. You might be doing some of these things yourself, but for the most part you should be **creating a context where these things get done without your involvement**.
 
-
+Bien que je ne puisse pas vous dire exactement ce qu’un leader agile devrait faire, je vais donner une liste d’exemple. Pensez-y comme à différentes “lentilles/casquettes” que vous pouvez porter en tant que leader. Vous pourriez faire certaines de ces choses vous-même, mais pour la majeure partie vous devriez **créer un contexte où ces choses sont faites sans votre implication**.
 
 NOTE: I use the term “ensure” below. Obviously **a leader can’t force these things to happen**, so in this context “ensure” = “**do whatever you can to create a context where this happens**”. In practice this may involve facilitating, encouraging, arguing, challenging, organizing meetings, creating documents, visualizing stuff, informal hallway conversations, etc.
 
-
+NOTE : J’utilise le terme “s’assurer” ci-dessous. De manière évidente **un leader ne peut forcer ces choses de se produire**, par conséquent dans ce contexte “s’assurer” = “**faites tout ce que vous pouvez pour créer un contexte où cela peut se produire**”. En pratique, cela peut impliquer la facilitation, l’encouragement, l’argumentation, la mise au défi, l’organisation de réunions, la création de documents, la visualisation de choses, des conversations de couloirs informelles, etc.
 
 So, here’s the list. Take a deep breath:
 
-
+Voici donc la liste. Prenez une profonde inspiration :
 
 * **Vision/mission**. Ensure the the work being done has a clear purpose, clear hypotheses, clear boundaries/scope (“what are we NOT doing”), and clear success metrics based on business impact rather than deliveries. Ensure this is crystal clear to everyone involved, teams as well as customers and other stakeholders.
 
-    
+* **Vision / mission**. S’assurer que le travail à faire a un objectif clair, des hypothèses claires, un périmètre clair (“ce que nous ne faisons PAS”) et des métriques de réussites claires basées sur les impacts métiers plutôt que sur les livraisons. S’assurer que c’est clair comme du crystal pour toutes les personnes impliquées, aussi bien les équipes que les clients et les autres parties prenantes.
 
 * **Iterative and incremental delivery**. Ensure that the work is split into sub-deliveries, to enable iterative and incremental delivery rather than big bang.  Avoid large projects whenever possible, instead try to split the work into a series of smaller projects whenever feasible.
 
-
+*
 
 * **Adaptive planning**. Ensure that plans are created and communicated to everyone involved. Ensure the plans are adaptive rather than predictive, and updated as we learn. Ensure that deadlines are communicated and forecasts created as necessary, and updated based on empirical data as the work progresses. Make sure any constraints (date or scope) are clear to everyone.
 
