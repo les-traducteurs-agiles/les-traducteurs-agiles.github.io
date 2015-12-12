@@ -9,6 +9,7 @@ categories:
 
 Note NiMe 20151210 12:45 : à la relecture :: voir la traduction de release la plus adaptée en fonction du  contexte du texte > livraison ou version
 Note NiMe 20151210 12:55 : pour livraison c’est delivery et non release
+Note NiMe 20151212 21:24 : cross-team - équipe transverse à la place d’équipe pluridisciplinaire
 
 Agile product development has become the norm in many industries (especially software). That means products are developed by small, self-organizing, cross-functional teams, and delivered in small increments and continuously improved based on real customer feedback. Pretty much as described in the Agile Manifesto – but replace the word “software” with “product” (because it really isn’t software-specific).
 
@@ -168,278 +169,280 @@ Voici donc la liste. Prenez une profonde inspiration :
 
 * **Iterative and incremental delivery**. Ensure that the work is split into sub-deliveries, to enable iterative and incremental delivery rather than big bang.  Avoid large projects whenever possible, instead try to split the work into a series of smaller projects whenever feasible.
 
-*
+* **Livraison itérative et incrémentale**. S’assurer que le travail est scindé en sous-livraisons, pour permettre la livraison itérative et incrémentale plutôt qu’en big bang. Éviter les gros projets autant que possible, essayer à la place de scinder le travail en série de plusieurs petits projets lorsque cela est possible.
 
 * **Adaptive planning**. Ensure that plans are created and communicated to everyone involved. Ensure the plans are adaptive rather than predictive, and updated as we learn. Ensure that deadlines are communicated and forecasts created as necessary, and updated based on empirical data as the work progresses. Make sure any constraints (date or scope) are clear to everyone.
 
-
+* **Planning adaptable**. S’assurer que les plans sont crées et communiqués à toutes les personnes impliquées. S’assurer que les plans sont adaptable plutôt que prédictif, et mis à jour au fur et à mesure que nous apprenons. S’assurer que les jalons sont communiqués et les prévisions soient créés si nécessaire, et mis à jour sur la base de données empiriques au fur et à mesure que le travail avance. Soyez certain que toutes les contraintes (date ou périmètre) sont claires pour tout le monde.
 
 * **Feedback**.  Ensure a short feedback loop with tight and frequent communication between teams and customers. Collaborative planning, demos, etc. Ensure that hypotheses and assumptions are field-tested early and that learning happens continuously. Ensure that progress is measured based on actual deliveries and feedback and business impact, not by compliance to plan.
 
-    
+* **_Feedback_**. S’assurer d’un circuit court de feedback avec une étroite communication et fréquente entre les équipes et les clients. Planning collaboratif, démos, etc. S’assurer que les hypothèses et les présomptions sont testées sur le terrain et que l’apprentissage se produit constamment. S’assurer que le progrès est mesuré sur des livraisons réelles, du feedback et sur l’impact métier, pas sur la conformité au plan.
 
 * **Continuous improvement and knowledge sharing**. Ensuring that learning and improvement happens continuously as the work progresses (not just at the end), and that key learnings are shared within the teams as well as across different parts of the organization.
 
-
+* **Amélioration continu et partage de connaissances**. S’assurer que l’apprentissage et l’amélioration ait lieu continuellement au fur et à mesure de l’avancée du travail (pas simplement à la fin), et que les apprentissages clés soient partagés dans les équipes ainsi qu’au-delà dans les différentes parties de l’organisation.
 
 * **Focus and alignment**. Ensure that participants are focused and dedicated (not multitasking), and aligned with the same list of priorities. Bash silos. Ensure that people are focusing on achieving the highest possible business impact with the lowest possible effort and output (working smart is more important than working hard).
 
-
+* **Attention et alignement**. S’assurer que les participants focalisent leur attention et sont y dédiés (pas de multitâches), et alignés sur la même liste de priorités. Silos `bash`. S’assurer que les gens focalisent leur attention sur la réalisation sur l’élément métier le plus important avec le minimum d’effort et de travail (travailler intelligemment est plus important que travailler dur).
 
 * **Impediment removal**. Ensure that waste and impediments are visualized, prioritized, and systematically removed. Encourage teams to own and solve their own impediments whenever possible. Collaborate with other managers and take ownership of impediments that are escalated.
 
-
+* **Suppression des obstacles**. S’assurer que le gâchis et les obstacles soient visualisés, priorisés et systématiquement supprimer. Encourager les équipes à prendre la responsabilité et de supprimer leur propres obstacles dès que possible. Collaborer avec les autres responsables et prenez possession des obstacles qui sont escaladés.
 
 * **Decision enablement**. Ensure that decisions are made in a just-in-time manner and by the people who have the best insight into the matter, decentralized whenever possible. Ensure that nobody (including you) becomes a decision bottleneck. Minimize the number of decisions that have to be made by you.
 
-
+* **Habilitation de la prise de décision**. S’assurer que les décisions sont prises en juste-à-temps et par les personnes qui ont la meilleure perception du dossier, et autant que possible de manière décentralisée. S’assurer que personne (y compris vous) ne devienne un goulot d’étranglement. Minimiser le nombre de décision que vous devez prendre.
 
 * **Visualize status and progress**. Ensure that everyone can see the “big picture” – dashboards and such showing where we are going and why, where we are now, impediments, etc. Keep it at a high level, leave the details to the teams.
 
-
+* **Visualiser le statut et l’avancement**. S’assurer que tout le monde puisse voir “la vision d’ensemble” — des tableaux de bords et ce genre de choses qui montrent où nous allons et pourquoi, où nous en sommes, les obstacles, etc. Laissez-les grosses mailles, laissez-les détails aux équipes.
 
 * **Flow**. Optimize for end-to-end flow of value, not resource utilization. Look for bottlenecks and queues, and apply systems thinking and lean principles to streamline the delivery of business value.
 
-
+* **Flux**. Optimisez le flux de valeur de bout en bout, pas l’utilisation de ressources. Cherchez les goulots d’étranglements et les queues, et appliquez la théorie des systèmes et les principes leans pour simplifier la livraison de la valeur métier.
 
 * **Self-organization and autonomy**. Make the goal and current situation clear so that people can think and act autonomously, with no need for you to tell them what to do.  Ensure people are given problems to solve rather than tasks to execute. Harness the collective intelligence of the group, rather than trying to be a mastermind yourself.
 
-
+* **Auto-organisation et autonomie**. Rendez l’objectif et la situation actuelle claire afin que les personnes puissent penser et agir de manière autonome sans avoir besoin de faire appel à voir pour leurs dire quoi faire. Assurez-vous que les personnes aient des problèmes à résoudre plutôt que des tâches à exécuter. Mettez à profit l’intelligence collective du groupe plutôt que d’essayer d’être un super cerveau vous-même.
 
 * **Staffing and capacity planning**. Work with managers to ensure that the right people and teams are available at the right time to maximize the velocity and chance of success.
 
-
+* **Recrutement et planning de capacité**. Travailler avec les mangers pour s’assurer que les bonnes personnes et les bonnes équipes sont disponibles au bon moment pour maximiser la vélocité et les chances de succès.
 
 * **Budgets and estimates**. Ensure that any budget and contractual constraints are known and managed.  Ensure that estimates are done by the team closest to the work at hand, kept at a high level, and adjusted when necessary. Ensure that estimates are treated as estimates, not promises. Make costs transparent.
 
-
+* **Budgets et estimations**. S’assurer que toutes les contraintes budgets et contractuelles soient connues et gérées. S’assurer que les estimations soient faites par l’équipe la plus proche du travail en cours, uniquement à grosses mailles, et ajustés si nécessaire. S’assurer que les estimations soient traitées comme des estimations, pas comme des promesses. Rendre les coûts transparents. 
 
 * **Dependencies**. Ensure that cross-team and cross-company dependencies are visualized and managed effectively, and that teams aren’t blocked waiting for each other.
 
-
+* **Dépendances**. S’assurer que l’équipe et les contraintes transverse soient connues et gérées de manière efficace, et que les équipes ne soient pas bloqués en s’attendant les unes les autres.
 
 * **Cross-functional collaboration**. Use techniques such as co-location and cross-functional communication channels to reduce siloing and suboptimization.
 
-
+* **Collaboration pluri-fonctionnelle**. Utilisez des techniques comme la co-loaction et les canaux de communication pluri-fonctionnels pour réduire les silos et la sous-optimisation. 
 
 * **Communication**. Create an environment that facilitates high bandwidth face-to-face communication and minimizes the need for unnecessary documents, emails, and other low-bandwidth communication. Documents should be used to support communication, not replace it.
 
-
+* **Communication**. Créez un environnement qui facilite une communication en face-à-face à bande passante élevée et minimisez le besoin d’avoir des documents, des emails, et d’autres moyens de communications à faible bande passante inutiles. Les documents devraient être utilisés pour supporter la communication, pas pour la remplacer.
 
 * **Fast failure**. Create a context where small failures can happen early and often, thereby reducing the risk of a big failure at the end.
 
-
+* **Echec rapide**. Créez un contexte où es petites échecs peuvent se produire rapidement et souvent, réduisant ainsi le risque d’un gros échec à la fin.
 
 Special point: Motivation. **Motivation is the key currency for any creative, complex endeavor** – much more important than man-hours. **Motivated people build better stuff faster**. The difference can be quite mind boggling! But motivation is not a separate point – you can’t just “motivate people”. Instead, people will be intrinsically motivated by things like Autonomy, Mastery, and Purpose.
 
-
+Point spécial : Motivation. **La motivation est la monnaie-clé pour tous les efforts créatifs et complexes** — bien plus important que les jours-hommes. **Des personnes motivées construisent de meilleures choses plus vite**. La différence peut être assez ahurissante ! Mais la motivation n’est pas un point particulier — vous ne pouvez pas simplement “motiver les personnes”. À la place, les gens seront motivés intrinsèquement par des choses comme l’Autonomie, la Maîtrise, et l’Objectif.
 
 A good guiding principle is “**Don’t motivate people – remove the demotivators**”. If people see you removing real impediments and creating a high-trust environment that helps them work effectively – that will probably motivate them a lot more than things like hawaiian t-shirt fridays, free drinks, and ping-pong tables.
 
-
+Un bon principe de guidage est “**Ne motiviez pas les personnes — re-motivez les démotivés**”. Si les personnes vous voient supprimer les vrais obstacles et créer un environnement de confiance qui leur permet de travailler efficacement — cela les motivera probablement plus que des choses comme les chemises hawaïennes du vendredi, les boissons gratuites ou les tables de ping-pong.
 
 ## Uh, that’s a loooong list! Where do I start?
 
-
+## Euh, c’est une loooongue liste ! Par où, est-ce que je commence ?
 
 Distill it into a shorter list for your context!
 
-
+Distillez-la en une liste plus courte dans votre contexte !
 
 For example, get together with some folks, rate each item based on “how important is this for us” and “how well is this working today”. Then **shorten the list to the top 5 things that are important and not working well today**. Use that as a basis for finding a suitable Agile Leader (or for prioritizing your work, if you are the leader).
 
-
+Par exemple, rassemblez-vous avec quelques personnes, notez chaque item basé sur “quelle est son importance pour nous” et “comment se passe la journée de travail aujourd’hui ?”. Puis **réduisez la liste aux 5 choses les plus importantes et qui ne fonctionnent pas bien aujourd’hui**. Utilisez cela comme d’une base pour trouver l’agile leader qui convient (ou pour prioriser votre travail, si vous êtes ce leader).
 
 ## What about accountability?
 
-
+## Qu’est-ce qu’il en est de la responsabilité ?
 
 So is the Agile Leader a single point of accountability? Is this the single wringable neck in case of failure (for some definition of “failure”…)?
 
-
+Est-ce que le leader agile est par conséquence le seul point de responsabilité ? Est-il le seul à qui l’on peut tordre le cou en cas d’échec (quelque soit la définition d’“échec” …) ?
 
 No, certainly not! Everyone involved is accountable. But **people should be accountable for their behaviours, not results**.
 
-
+Non, certainement pas ! Toutes les personnes impliquées sont responsables. Mais les **personnes devraient être responsables pour leurs comportements, pas pour les résultats**.
 
 That may sound crazy at first glance, but think about it for a moment…
 
-
+Cela peut sembler fou au premier coup d’œil, mais pensez-y pendant un moment …
 
 A product may fail to succeed despite all the best efforts of the team – it may fail for random reasons, it may fail because of acts outside of the team’s control. And vice versa, a product may succeed despite crappy efforts from the team and leaders, it may succeed because of blind luck or because there was no competition. This is complicated by the fact that failure and success is usually hard to define, with a big fat gray zone in between.
 
-
+Un produit peut échouer à réussir en dépit des meilleurs efforts déployés par l’équipe — il peut échouer pour tout un tas de raisons, il peut échouer à cause de choses qui sont dehors du contrôle de l’équipe. Et vice versa, un produit peut réussir en dépit des médiocres efforts de l’équipe et de ses leaders, il peut réussir par chance ou parce qu’il n’y a pas de concurrents. C’est d’autant plus compliqué que l’échec ou le succès sont difficiles à définir de part l’existence d’une grande zone grise entre les deux.
 
 An Agile Leader should **ensure that, when things fail, they fail early**! She does that by **building in a fast feedback loop** (frequent delivery to customers, validated learning, etc). She ensures that we learn from the failure and use those learnings in the next product, or next iteration of this product.
 
-
+Un leader agile devrait **s’assurer que, lorsque les choses échouent, elles échouent rapidement** ! Il fait cela en **mettant en place une boucle de feedback rapide** (livraison fréquente aux clients, apprentissage validé, etc). Il s’assure que nous apprenons des échecs et que nous utilisons cet apprentissage pour le prochain produit, ou la prochaine itération de ce produit.
 
 If we punish failure, we incentivize people to hide failure, and thereby minimize learning. If we punish failure, we incentivize people to avoid all risk, and thereby kill innovation. **Failure (and the associated learning), should be celebrated**, not punished! To a limit, of course. Keep the feedback loop short, so failures aren’t fatal…
 
-
+Si nous punissons l’échec, nous incitons les gens à cacher l’échec, et par conséquent minimiser l’apprentissage. Si nous punissons l’échec, nous incitons les gens à éviter tous les risques, et par conséquent nous tuons l’innovation. **L’échec (et l’apprentissage associé), devrait être célébré**, pas puni ! Jusqu’à une certaine limite, bien sûr. Conservez la boucle de circuit courte, afin que les échecs ne soient pas fatals …
 
 So although the Agile Leader may act as the “face” of this project/program/product/whatever to external stakeholders, she is not personally held accountable for success or failure. **She is however, held accountable for behaving in a way that maximises the odds of success**. And this applies to all participants, not just the Agile Leader.
 
-
+Donc, même si le leader agile peut être présenté comme le “visage” du projet/programme/produit/quoi que ce soit d’autre vis-à-vis des parties prenantes, il n’est pas personnellement tenu comme responsable des succès ou des échecs. **Il est, toutefois, tenu responsable pour se comporter d’une manière qui maximise les chances de succès**. Et cela s’applique à tous les participants, pas uniquement au leader agile.
 
 ## What kind of person is suitable for the role?
 
-
+## Quelle genre de personne convient-elle pour ce rôle ?
 
 At the minimum, the Agile Leader needs to (in my opinion):
 
-
+Au minimum, le leader agile doit être (à mon avis) :
 
 1. **Passionate** about the product, customers, users, and business impact.
 
-
+1. **Passionnée** à propos du produit, des clients, des utilisateurs, et des impacts métiers
 
 2. Be **excited about the Agile Leader** role and willing to focus on it 100%
 
-
+2. Être **enthousiasmé par le rôle de leader agile** et volontaire pour s’y consacrer à 100%
 
 3. **Buy into most of the role description** above, and want to grow in that direction.
 
-
+3. **Adhérez à la majorité de ce qui est décrit pour le rôle** ci-dessus, et vouloir grandir dans cette direction
 
 4. Have at least some real-life **leadership experience** (in any context)
 
-
+4. Avoir au moins quelque réelle **expérience de leadership** (dans n’importe quel contexte)
 
 5. Have at least some real-life **experience with agile** ways of working (in any role)
 
-
+5. Avoir au moins quelque réelle **expérience avec les façons de travailler en agilité** (dans n’importe quel contexte)
 
 6. Be willing to get **training/coaching/mentoring** for the skills that are weak or missing
 
-
+6. Être volontaire pour obtenir **de l’entrainement/du coaching/du mentoring** dans les compétences qui sont à renforcer ou qui sont manquantes
 
 7. Be willing spend time **learning and continuously improving** their skills as agile leader.
 
-
+7.  Être volontaire pour passer du temps **à apprendre et à améliorer constamment** ses compétences en tant que leader agile
 
 There is obviously no “perfect” Agile Leader, but below is a “Definition of Awesome”. I don’t expect anyone to fullfill all these points, but the more the better :o)
 
-
+Il n’existe pas évidemment pas de leader agile “parfait”, mais figure ci-dessous une “définition de l’époustouflant”. Je ne m’attends pas que quiconque puisse remplir tous ces points, mais le plus est le mieux :o)
 
 In a perfect world:
 
-
+Dans un monde parfait :
 
 * You are business-minded and passionate about getting people aligned towards a common goal.
 
-
+* Vous avez l’esprit d’entreprise et vous êtes passionné par faire en sorte que les personnes soient focalisés vers un objectif commun.
 
 * You have experience managing large, cross-functional efforts (e.g. spanning functions such as engineering, marketing, content, legal, and others). Agile or not. Some of best leaders I’ve seen come from big failed projects – they know how not to run a project.
 
-
+* Vous avez l’expérience de gérer des efforts grands, pluri-fonctionnels (ex des fonctions pluri-disciplinaires tels que l’ingénierie, le marketing, le contenu, le juridique, et d’autres encore). Agile ou non. Certains des meilleurs leaders que j’ai pu voir viennent de gros projets qui ont échoués — ils savent comment ne pas mener un projet.
 
 * You are flexible and pragmatic about methods and processes, and are able to use your judgment to apply the model and approach that fit best with the context.
 
-
+* Vous êtes flexible et pragmatiques à propos des méthodes et des processus, et vous êtes capables d’user de votre jugement pour appliquer le modèle et l’approche qui ira le mieux par rapport au contexte.
 
 * You have deep understanding and experience of agile and lean thinking, and some experience with concrete frameworks and techniques such as Scrum, Kanban, Lean Startup, and Continuous Delivery.
 
-
+* Vous avez une connaissance et une expérience approfondie de la pensée agile et lean, et quelque expérience avec des cadres de travail et des techniques concrètes tels que Scrum, Kanban, Lean Startup et la livraison continue.
 
 * You steer clear of waterfall projects, but you also understand that Agile doesn’t mean No Planning or No Architecture.
 
-
+* Vous évitez clairement les projets en cascade, mais vous comprenez aussi que l’agilité ne signifie pas nécessairement pas de planning ni pas d’architecture.
 
 * You know how to provide strong leadership and guidance, without become a bottleneck.
 
-
+* Vous savez comment procurer un leadership et un guidage fort, sans devenir un goulot d’étranglement.
 
 * You know how to get people inspired and rallied around a higher purpose.
 
-
+* Vous avez comment faire en sorte que les personnes soient inspirées et se rallient à un objectif plus grand.
 
 * You understand that people are people, not just resources, and that focus and motivation matter a lot more than man-hours.
 
-
+* Vous comprenez que les personnes sont des personnes, pas simplement des ressources, et que cette consécration et cette motivation compte plus que des jours-hommes.
 
 * You understand that people are most motivated and effective when given a problem to solve, rather than a solution to implement.
 
-
+* Vous comprenez que les personnes sont plus motivées et plus efficaces lorsqu’un problème leur est soumis à solutionner, plutôt qu’une solution à implémenter.
 
 * You know how to get people talking with each other across departments and other organizational borders. You aren’t scared off by politics.
 
-
+* Vous savez comment faire en sorte que les personnes se parlent les unes aux autres entre les départements et au-delà des frontières organisationnelles. Vous n’êtes pas effrayé par les politiques.
 
 * You know how to enable self-organization in large cross-functional efforts, and how pull-based scheduling works in practice.
 
-
+* Vous savez comment permettre l’auto-organisation dans le cadre d’efforts globaux pluri-fonctionnels, et comment mettre en œuvre en pratique la réalisation de travaux planifiés en mode tiré. 
 
 * You know how to make the important stuff visible.
 
-
+* Vous savez comment rendre les choses importantes visibles.
 
 * You have a knack for spotting waste and calling it out.
 
-
+* Vous avez le don pour repérer le superflu et le désigner.
 
 * You understand that plans are important, but they are a tool and not a goal, and must be updated as you learn.
 
-
+* Vous comprenez que les plans sont importants, mais qu’ils sont un outil et non un objectif, et qu’ils doivent mis à jour au fur et à mesure que vous apprenez.
 
 * You understand that uncertainty is a fact of life when innovating, and is best managed through a tight feedback loop rather than detailed upfront planning.
 
-
+* Vous comprenez que l’incertitude est un fait de la vie lorsque l’on innove, et il est mieux géré avec un boucle de feedback courte plutôt qu’avec un planning détaillé défini dès le début.
 
 * You hold people accountable for their behaviour more than their results. You reward people for learning rather than punishing them for failing.
 
-
+* Vous tenez les personnes responsables pour leur comportement plus que pour leurs résultats. Vous récompensez les personnes plutôt que les punissez pour leurs échecs.
 
 ## Final words
 
-
+## Conclusion
 
 **I hope this doc helps you improve the success rate of your large multi-team efforts. But don’t forget – scaling is a last resort. Scaling hurts no matter how you do it, so keep things as small as possible (but no smaller…).**
 
-
+**J’espère que ce doc vous aidera à améliorer vos chances de succès dans vos grands efforts multi-équipes. Mais n’oubliez pas — l’escalade est en dernier ressort. L’escalade blesse peu importe comment vous la menez, gardez donc les choses aussi petites que possible (mais pas plus petites …).**
 
 Big thanks to Alistair Cockburn, Mary and Tom Poppendieck, Anders Haugeto, and a bunch of Spotifyers and Crispers who helped improve this article. I’m honoured to have such an awesome group of advisors!
 
-
+De grands merci à Alistair Cockburn, Mary et Tom Poppendieck, Anders Haugeto, et à des tas de Spotifyers et de Crispers qui m’ont aidé à améliorer cet article. Je suis honoré d’avoir un groupe de conseillers aussi époustouflants !
 
 Note that this my personal opinion, my take on what an Agile Leader is (or should be). Some people may disagree, that’s fine. I’m also happy for feedback, although I won’t always have bandwidth to respond.
 
-
+Remarquez bien qu’il s’agit de mon avis personnel, ma vision de ce qu’est un leader agile (ou devrait être). Certaines personnes peuvent ne pas être d’accord, cela me va. Je suis aussi heureux d’avoir du feedback, même si je n’aurai pas la même disponibilité pour répondre.
 
 Further reading (there’s infinite material on agile leadership, but here are some things that I happened to have read and liked):
 
-
+Quelques lectures pour approfondir le sujet (il y a un nombre infini d’ouvrages sur le leadership agile, mais voici certaines choses que j’ai pu lire et apprécier) :
 
 * [Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) (awesome timeless book by Jerry Weinberg)
 
-
+* [Becoming a Technical Leader](http://www.amazon.com/Becoming-Technical-Leader-Problem-Solving-Approach/dp/0932633021) (livre étonnant et intemporel de Jerry Weinberg)
 
 * [Management in Mayberry](http://www.ayeconference.com/managing-in-mayberry-an-examination-of-three-distinct-leadership-styles/) (best leadership article I’ve read)
 
-
+* [Management in Mayberry](http://www.ayeconference.com/managing-in-mayberry-an-examination-of-three-distinct-leadership-styles/) (le meilleur article sur le leadership que j’ai pu lire)
 
 * [Lean-Agile leaders](http://www.scaledagileframework.com/lean-agile-leaders/) (from SAFe)
 
-
+* [Lean-Agile leaders](http://www.scaledagileframework.com/lean-agile-leaders/) (tiré de SAFe)
 
 * [Agile Manifesto](http://www.agilemanifesto.org/) (new to agile? start there, gives you the historical context)
 
-
+* [Le manifeste agile](http://agilemanifesto.org/iso/fr/) (nouveau en agile ? commencez par ici, cela vous donne le contexte historique)
 
 * [Declaration of Interdependence](http://www.pmdoi.org/) (a manifesto for project leaders)
 
-
+* [La déclaration d’interdépendence](http://www.fabrice-aimetti.fr/dotclear/public/traductions/pmdoi-org-fr.html) (un manifest pour les leaders de project)
 
 * [Agile Software Development – the cooperate game](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751) (in-depth book by Alistair Cockburn)
 
+* [Agile Software Development – the cooperate game](http://www.amazon.com/Agile-Software-Development-Cooperative-Edition/dp/0321482751) (un livre pour approfondir l’agilité par Alistair Cockburn)
 
 
 * [Drive – the surprising truth about what motivates us](https://www.youtube.com/watch?v=wdzHgN7_Hs8) (all leaders should see this video!)
 
-
+* [Drive – the surprising truth about what motivates us](https://www.youtube.com/watch?v=wdzHgN7_Hs8) (tous les leaders devraient voir cette vidéo !)
 
 * …. or just google “What is an Agile Leader” and you’ll find lots of interesting articles, mostly saying the same kind of stuff as here. Makes me wonder why I bother :)
 
+* …. ou cherchez dans votre moteur de recherche préféré “Qu’est-ce qu’un leader agile” et vous trouverez un tas d’articles intéressantes, qui pour la plupart, diront la même chose qu’ici. Du coup, je me demande pourquoi je me décarcasse :)
 
 ---  
 Auteur : [Henrik Kniberg](https://www.crisp.se/konsulter/henrik-kniberg)  
@@ -448,7 +451,7 @@ Date de parution originale : 10 Novembre 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction :   
+Date de traduction : 14/12/2015  
 
 ---
 
