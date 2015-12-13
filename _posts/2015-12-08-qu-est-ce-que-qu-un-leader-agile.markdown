@@ -17,7 +17,9 @@ Le développement agile de produit est devenu la norme dans beaucoup d’industr
 
 That’s all fine and dandy. However when things get bigger, with dozens of teams collaborating over organizational boundaries, things obviously get more complex and painful. **Even if the entire organization is neatly organized into scrum teams, you can still end up with an unaligned mess!** Here’s a picture that might feel familiar:
 
-Cela est une très bonne chose en soi. Toutefois lorsque les choses deviennent plus importantes, avec des douzaines d’équipes collaborant au-delà des frontières organisationnelles, les choses devient évidemment plus complexes et plus douloureuse. **Même si la totalité de l’organisation est correctement organisé en équipes scrums, vous pouvez tout de même vous retrouvez dans un bordel innommable !**. Voici une image qui pourrait vous sembler familière.
+Cela est une très bonne chose en soi. Toutefois lorsque les choses deviennent plus importantes, avec des douzaines d’équipes collaborant au-delà des frontières organisationnelles, les choses devient évidemment plus complexes et plus douloureuse. **Même si la totalité de l’organisation est correctement organisé en équipes scrums, vous pouvez tout de même vous retrouvez dans un bordel innommable !**. Voici une image qui pourrait vous sembler familière :
+
+![Mauvais alignement]({{ site.url }}assets/agile_leader/Misaligned_fr.png)
 
 Misaligned teams
 
@@ -46,6 +48,8 @@ L’agilité repose sur l’auto-organisation, qui est super-efficace (lorsqu’
 **Let’s call it the Agile Leader**. And the main job is to create **alignment**!
 
 **Appelons-le un leader agile**. Et son job principal est de créer de l’**alignement** !
+
+![Alignement](({{ site.url }}assets/agile_leader/Wellaligned_fr.png)
 
 Agile Leadership
 
