@@ -5,6 +5,7 @@ date:   2015-12-15 21:00:55
 published: true
 categories: 
 - agile
+- inspiration
 ---
 
 Le développement agile de produit est devenu la norme dans maintes industries (et tout spécialement dans le domaine du logiciel). Cela signifie que les produits sont développés par des équipes réduites, auto-organisées, transverses, livrés en petits incréments et améliorés constamment en fonction des _feedbacks_ de vrais utilisateurs. C’est-à-dire, en gros, selon ce qui est décrit dans le [manifeste agile]((http://agilemanifesto.org/iso/fr/) - mais en remplaçant “logiciel” par “produit” (parce que cela n’est pas vraiment spécifique au domaine du logiciel).
@@ -240,7 +241,7 @@ Date de parution originale : 10 Novembre 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 14/12/2015  
+Date de traduction : 15/12/2015  
 
 ---
 
