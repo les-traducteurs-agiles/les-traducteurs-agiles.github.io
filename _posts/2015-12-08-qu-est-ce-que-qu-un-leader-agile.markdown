@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qu’est-ce qu’un _leader agile_ ?"
+title:  "Qu’est-ce qu’un leader agile ?"
 date:   2015-12-15 21:00:55
 published: true
 categories: 
