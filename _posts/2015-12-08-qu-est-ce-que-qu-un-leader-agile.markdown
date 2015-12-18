@@ -188,19 +188,11 @@ Dans un monde parfait :
 
 * Vous savez comment faire en sorte que les personnes se parlent les unes aux autres entre les départements et au-delà des frontières organisationnelles. Vous n’êtes pas effrayé par les politiques
 
-* You know how to enable self-organization in large cross-functional efforts, and how pull-based scheduling works in practice
-
 * Vous savez comment permettre l’auto-organisation dans le cadre d’efforts globaux pluri-fonctionnels, et comment mettre en œuvre en pratique la réalisation de travaux planifiés en mode tiré
-
-* You know how to make the important stuff visible
 
 * Vous savez comment rendre les choses importantes visibles
 
-* You have a knack for spotting waste and calling it out
-
 * Vous avez le don pour repérer le superflu et le désigner
-
-* You understand that plans are important, but they are a tool and not a goal, and must be updated as you learn
 
 * Vous comprenez que les plans sont importants, mais qu’ils sont un outil et non un objectif, et qu’ils doivent mis à jour au fur et à mesure que vous apprenez
 
