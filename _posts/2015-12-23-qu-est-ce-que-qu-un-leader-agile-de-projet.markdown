@@ -54,8 +54,6 @@ Donc, pour faire court : **N’utilisez pas les projets pour n’importe quoi �
 
 ## Alors qu’est-ce-qu’un leader agile de projet ?
 
-This started out as a fairly long article. Then I realized that the role I was describing was really about agile leadership in general, and not specific to the project model at all.
-
 Tout cela avait bien démarré pour donner naissance à un article sacrément long. Puis j’ai réalisé que le rôle que j’étais en train de décrire était en réalité sur le leadership agile en général, et pas seulement sur le mode projet en particulier.
 
 Un leader agile de projet est simplement un leader agile qui se trouve à travailler dans un contexte de projet. Donc j’ai déplacé la description du rôle dans un article à part, afin de ne pas faire peur aux personnes qui sont allergiques au mode projet :)
