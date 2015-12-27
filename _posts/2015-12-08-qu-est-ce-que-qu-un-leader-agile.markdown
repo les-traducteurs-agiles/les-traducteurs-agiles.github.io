@@ -44,9 +44,7 @@ Alors, pour faire court : **essayez de minimiser le besoin d’efforts important
 
 ## Ne s’agit-il pas d’un chef de projet ?
 
-Peut-être mais pas nécessairement. **Un “projet”, c’est seulement une des multiples manières d’organiser le travail, et qui se révèle souvent inappropriée pour le développement de produit**. Toutefois, si vous travaillez sous la forme de projet, et que les projets sont suffisamment importants et complexes et impliquent la synchronisation de plusieurs équipes et organisations, alors le _leader agile_ est effectivement un _leader agile_ de projet. J’ai écris un article dédié à ce sujet et intitulé [Qu’est-ce qu’un _leader agile_ de projet ?](http://blog.crisp.se/2015/11/10/henrikkniberg/what-is-an-agile-project-leader) [^1] comportant quelques sujets de discussions sur le modèle projet en général. Mais pour la description réelle du rôle de _leader agile_ en tant que tel, ce deuxième article re-pointe par ici. Ne restez pas coincé dans la boucle :) 
-
-[^1]: bientôt traduit :)
+Peut-être mais pas nécessairement. **Un “projet”, c’est seulement une des multiples manières d’organiser le travail, et qui se révèle souvent inappropriée pour le développement de produit**. Toutefois, si vous travaillez sous la forme de projet, et que les projets sont suffisamment importants et complexes et impliquent la synchronisation de plusieurs équipes et organisations, alors le _leader agile_ est effectivement un _leader agile_ de projet. J’ai écris un article dédié à ce sujet et intitulé [Qu’est-ce qu’un _leader agile_ de projet ?](http://www.les-traducteurs-agiles.org/agile/inspiration/2015/12/27/qu-est-ce-que-qu-un-leader-agile-de-projet.html) comportant quelques sujets de discussions sur le modèle projet en général. Mais pour la description réelle du rôle de _leader agile_ en tant que tel, ce deuxième article re-pointe par ici. Ne restez pas coincé dans la boucle :) 
 
 À nouveau, le choix de la manière d’appeler ce rôle est grandement contextuel. L’objectif de cet article est juste de clarifier quel type de leader vous aurez besoin pour le remplir d’une manière agile.
 
