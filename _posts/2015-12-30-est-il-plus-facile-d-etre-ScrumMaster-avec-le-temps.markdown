@@ -15,17 +15,17 @@ Pour répondre à cette question, prenons comme hypothèse que tout ce qui a tra
 
 ## Le _ScrumMaster_ en tant que coach
 
-Pour avoir une réponse, commençons par examiner l’analogie du _ScrumMaster_ en tant que coach d’équipe. Et nous allons donc pour cela, prendre les coaches d’un vrai sport. Je vais utiliser le football, ou le soccer car c’est son nom ici aux États-Unis. Ne vous inquiétez pas , vous n’avez pas vraiment besoin de connaître quoi que ce soit au sujet du football pour suivre le raisonnement qui va suivre. Après tout, étant américain, je ne connais rien au football. ;) 
+Pour avoir une réponse, commençons par examiner l’analogie du _ScrumMaster_ en tant que coach d’équipe. Et nous allons donc pour cela, prendre les coachs d’un vrai sport. Je vais utiliser le football, ou le soccer car c’est son nom ici aux États-Unis. Ne vous inquiétez pas , vous n’avez pas vraiment besoin de connaître quoi que ce soit au sujet du football pour suivre le raisonnement qui va suivre. Après tout, étant américain, je ne connais rien au football. ;) 
 
 Donc considérons deux coachs de football : l’un est le coach d’une équipe jouant la coupe du monde et l’autre est le coach d’une équipe d’enfants de 6 ans apprenant à jouer. Lequel de ces deux coachs a t’il le travail le plus difficile ?
 
 OK, je sais que le coach de l’équipe jouant la coupe du monde est probablement debout jusqu’à minuit occupé à étudier la vidéo de l’équipe adverse afin d’en trouver les faiblesses. Et ce coach a un travail vraiment difficile. Mais, mille sabords, ma sympathie va au pauvre parent qui est probablement le coach des enfants de 6 ans. C’est un putain de boulot !
 
-Je sais que j’exagère un peu ici sur les critères permettant d’indiquer quel travail est vraiment le plus difficile. Mais le coach de ces jeunes enfants passe vraiment des heures difficiles à entraîner l’équipe dans les capacités dont elle a besoin pour jouer. 
+Je sais que j’exagère un peu ici sur les critères permettant d’indiquer quel travail est vraiment le plus difficile. Mais le coach de ces jeunes enfants passe vraiment des heures difficiles à entraîner l’équipe dans les différentes compétences sportives dont elle a besoin pour jouer. 
 
 Le travail du coach de l’équipe jouant la coupe du monde est rendu difficile en raison de la pression, du niveau de compétitivité, et de choses comme ça. Le travail de ce coach est rendu plus facile parce que les joueurs ont pris eux-mêmes certaines de ses responsabilités. Si le coach est en retard pour l’entraînement, les joueurs de la coupe du monde savent comment commencer l’entraînement.
 
-L’équipe des enfants de 6 ans ne saurait pas faire cela. Ils iraient probablement jouer aux abords du terrain. Ils ne savent pas comment s’entraîner seuls. Ni non plus une équipe entièrement novice en _Scrum_. Mais une équipe expérimentée connaît les règles et se sent à l’aise pour indiquer à chacun ce qui ne va pas quand ça arrive.
+L’équipe des enfants de 6 ans ne saurait pas faire cela. Ils iraient probablement jouer aux abords du terrain. Ils ne savent pas comment s’entraîner seuls. Ni d’ailleurs, une équipe complètement novice en _Scrum_. Mais une équipe expérimentée connaît les règles et se sent à l’aise pour indiquer à chacun ce qui ne va pas quand ça arrive.
 
 Lorsque quelqu’un joue à la coupe du monde, il sait ce qu’il ou elle fait. Les joueurs ont toujours besoin d’un coach, mais ils peuvent observer leurs propres performances jusqu’à un certain point. Mais ce n’est pas le cas d’un joueur qui débute. Lorsque mes enfants avaient 6 ans et qu’ils jouaient au football, leur coach courait le long de la ligne de touche en criant, “Frappe et cours !” Pouvez-vous imaginer un coach de coupe du monde criant “Frappe et cours” ? 
 
