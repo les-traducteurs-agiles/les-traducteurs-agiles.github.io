@@ -14,6 +14,8 @@ Cette version française du guide du facilitateur a été rédigée à par
 
 Il s'agit d'un "serious game", créé par [Russell Healy](https://twitter.com/getkanban), qui simule le fonctionnement d'un processus Kanban sur une production de logiciel. C'est une introduction par la pratique dont l'objectif consiste pour une équipe de 4 à 8 personnes à maximiser le chiffre d'affaires du développement d'une application web.
 
+À lire et à télécharger [ici](getkanban-guide_du_facilitateur.pdf).
+
 ---
 Auteur : [Russell Healy](https://twitter.com/getkanban)  
 Source : [getKanban - Facilitator's Guide ](http://getkanban.com/pages/facilitators-guide)  
