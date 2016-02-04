@@ -92,6 +92,17 @@ permalink: /traductions_categories/
 </ul>
 
 <ul class="post-list">
+  <h1>User Stories</h1>
+  <li>
+    {% for post in site.categories.user-stories %}
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+    {% endfor %}
+  </li>
+</ul>
+
+<ul class="post-list">
   <h1>Conception</h1>
   <li>
     {% for post in site.categories.conception %}
