@@ -7,7 +7,7 @@ categories:
 - user-stories
 ---
 
-<div align="left" style="float:left; padding-left:30px" >
+<div align="left" style="float:left; padding-right:30px" >
   <img title="Eléphants" src="{{ site.url }}assets/stories_sont_pas_exigences/elephants.jpg" />
 </div>
 
@@ -19,7 +19,7 @@ D’autres signes de cette idée fausse est de donner aux _user stories_ un iden
 
 Mettre des _user stories_ dans un contrat c’est montrer sans ambiguïté cette manière de penser en tant d’exigences ; le plus dingue dans tout ça c’est qu’une _user stories_ n’est pas aussi précise qu’une exigence et qu’un tel contrat ne possède que peu de valeur. Et bien sûr les exigences restent sujet à interprétation malgré les techniques utilisées pour les écrire qui s’efforçent avec acharnement d’en lever toutes les ambiguïtés. Faisant donc partie intégrant des contrats pour les projets, les exigences sont aussi par nature résistantes à tout changement. Pour changer ou ajouter des exigences, vous devez les faire valider au CP, comité de pilotage. Pour en savoir plus sur cette partie contractuelle, reportez-vous à la section qui y est dédiée.
 
-<div align="left" style="float:left; padding-left:30px" >
+<div align="left" style="float:left; padding-right:30px" >
   <img title="Eléphants" src="{{ site.url }}assets/stories_sont_pas_exigences/girafes.jpg" />
 </div>
 
