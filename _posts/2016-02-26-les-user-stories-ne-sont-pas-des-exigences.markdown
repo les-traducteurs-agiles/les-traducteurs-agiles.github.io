@@ -60,7 +60,7 @@ Spécification par l’exemple :
 Plus d’informations sur ce sujet dans cet article sur  [Wikipedia](https://en.wikipedia.org/wiki/Specification_by_example) et bien sûr [notre formation](https://crisp.se/kurser/kurstyper/specification-by-example) donnée par Gojki Adzic lui-même.
 
 
-[^1]: FDA : Food and Drug Administration - Administration américaine réglementant notamment l’activité médicale aux États-Unis
+[^1]: FDA : Food and Drug Administration - Administration américaine responsable de la santé publique aux États-Unis
 
 ---  
 Auteur : [Per Lundholm](https://www.crisp.se/konsulter/per-lundholm)  
