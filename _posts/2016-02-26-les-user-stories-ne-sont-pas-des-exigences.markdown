@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les user stories ne sont pas des exigences"
-date:   2016-02-26 19:15:55
+date:   2016-02-27 11:15:55
 published: true
 categories: 
 - user-stories
@@ -69,7 +69,7 @@ Date de parution originale : 07 Janvier 2016
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 26/02/2016  
+Date de traduction : 27/02/2016  
 
 ---
 

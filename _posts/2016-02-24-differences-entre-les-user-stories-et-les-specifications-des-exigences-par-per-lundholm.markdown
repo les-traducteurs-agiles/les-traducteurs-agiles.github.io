@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Per Lundholm"
-date:   2016-02-26 18:26:55
+date:   2016-02-27 10:26:55
 published: true
 categories: 
 - user-stories
@@ -42,7 +42,7 @@ Date de parution originale : 23 Juillet 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 26/02/2016  
+Date de traduction : 27/02/2016  
 
 ---
 
