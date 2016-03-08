@@ -2,7 +2,7 @@
 layout: post
 title:  "Anomalies, corrections et demandes de supports - pour une user story, c’est beaucoup trop petit"
 date:   2016-02-27 10:26:55
-published: true
+published: false
 categories: 
 - user-stories
 ---
