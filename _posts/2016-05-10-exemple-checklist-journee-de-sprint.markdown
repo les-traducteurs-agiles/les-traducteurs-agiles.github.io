@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Un exemple de checklist d’une journée de sprint"
+title:  "Checklist d’une journée spéciale sprint"
 date:   2016-05-10 10:30:55
 published: true
 categories: 
 - scrum
 - outils
 ---
-On me demande souvent comment des équipes peuvent organiser leurs sprints. En cliquant sur ce [lien]({{ site.url }}assets/sprint_checklist/un-exemple-de-checklist-d-une-journee-de-sprint.pdf), vous trouverez ci-dessous un exemple de calendrier et de checklist qu’une équipe utilise pour revoir, réfléchir et planifier leurs sprints de manière efficace.
+On me demande souvent comment des équipes peuvent organiser leurs sprints. En cliquant sur ce [lien]({{ site.url }}assets/sprint_checklist/un-exemple-de-checklist-journee-speciale-sprint.pdf), vous trouverez ci-dessous un exemple de calendrier et de checklist qu’une équipe utilise pour revoir, réfléchir et planifier leurs sprints de manière efficace.
 
-![Exemple de calendrier]({{ site.url }}assets/sprint_checklist/vous-voulez-quoi.png)
+![Exemple de calendrier]({{ site.url }}assets/sprint_checklist/exemple-de-calendrier-de-sprint.png)
 
 ---
 Auteur : [Clinton Keith](http://clintonkeith.com/)  
