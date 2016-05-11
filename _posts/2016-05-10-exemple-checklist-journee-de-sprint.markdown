@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Checklist d’une journée spéciale sprint"
-date:   2016-05-10 10:30:55
+date:   2016-05-11 10:30:55
 published: true
 categories: 
 - scrum
@@ -18,7 +18,7 @@ Date de parution originale : 29 Mars 2016
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 10/05/2016  
+Date de traduction : 11/05/2016  
 
 ---
 
