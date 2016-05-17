@@ -6,7 +6,6 @@ published: true
 categories: 
 - agile
 - outils
-- cartes de collaboration
 ---
 
 À découvrir en cliquant sur ce [lien]({{ site.url }}assets/cartes_collaboration/ameliorez-la-collaboration-en-un-clin-d-oeil.pdf).
