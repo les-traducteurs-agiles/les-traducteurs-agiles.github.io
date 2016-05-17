@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Améliorez la collaboration en un clin d'oeil"
+title:  "Améliorez la collaboration en un clin d'oeil"
 date:   2016-05-18 11:00:55
 published: true
 categories: 
