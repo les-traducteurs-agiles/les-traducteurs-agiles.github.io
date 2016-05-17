@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Améliorez la collaboration en un clin d'oeil"
-date:   2016-05-18 11:00:55
+date:   2016-05-17 11:00:55
 published: true
 categories: 
 - agile
@@ -20,7 +20,7 @@ Date de parution originale : Janvier 2016
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 18/05/2016  
+Date de traduction : 17/05/2016  
 
 ---
 
