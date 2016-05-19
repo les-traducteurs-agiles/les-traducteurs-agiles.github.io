@@ -16,7 +16,7 @@ Notes du traducteur :
 
 1. pour plus d’informations sur l’utilisation des cartes, n’hésitez pas à lire notre traduction [Améliorez la collaboration en un clin d'oeil](http://www.les-traducteurs-agiles.org/agile/outils/2016/05/17/ameliorez-la-collaboration-en-un-clin-d-oeil.html)
 
-2. l’aspect visuel, le nombre et le contenu des cartes ont évolué depuis leur première édition en mai 2010, la présente traduction se base sur la dernière version des cartes fournies gracieusement par l’auteur
+2. un lecteur curieux qui irait consulter l’article original, s’apercevra que l’aspect visuel, le nombre et le contenu des cartes ont évolué depuis leur première édition en mai 2010 ; la présente traduction se base sur la dernière version des cartes fournie gracieusement par l’auteur
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
