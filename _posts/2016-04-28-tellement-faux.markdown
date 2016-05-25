@@ -10,19 +10,19 @@ categories:
 
 I shouldn’t do this, it raises my blood pressure, I have better things to do, I have better things to blog about but I can’t help myself….
 
-Je ne devrais pas faire ça, cela fait monter ma tension, j’ai mieux à faire, il y a de bien meilleurs sujets sur lesquels blogguer mais je ne peux pas m’en empêcher.
+Je ne devrais pas faire ça, cela fait monter ma tension, j’ai beaucoup mieux à faire, il y a de bien meilleurs sujets sur lesquels blogguer mais je ne peux pas m’en empêcher.
 
 I made the mistake of opening a mail from a recruitment agent, the title: “Agile Project Manager/Scrum Master”, let me dissect it for you…
 
-J’ai commis l’erreur d’ouvrir le message d’un recruteur intitulé “Responsable agile de projet/Scrum Master”, laissez-moi vous le disséquer.
+J’ai commis l’erreur d’ouvrir le message d’un recruteur intitulé “Responsable agile de projet/Scrum Master”, laissez-moi le disséquer pour vous.
 
 > “My client based in the West Midlands are looking for an Agile Project Manager/Scrum Master for a long term project opportunity starting in May.”
 
-> “Mon client basé dans les West Midlands recherche un Responsable agile de projet/Scrum Master dans le cadre d’un projet à long terme qui débutera en mai prochain.”
+> “Mon client basé dans les West Midlands recherche un Responsable agile de projet/Scrum Master dans le cadre d’un projet à long terme débutant en mai prochain.”
 
 _Agile Project Manager/Scrum Master?_ - this is a pretty confused role, it is one thing or another, its one thing for a good project manager to act as a facilitator or for a Scrum Master to take on project responsibilities but to start out like this, well is just messed up.
 
-_Responsable agile de projet/Scrum Master ?_ - c’est un rôle plutôt assez confus, c’est une chose ou l’autre, c’est une chose pour un bon responsable de projet d’agir en tant que facilitateur ou pour un Scrum Master de prendre la responsabilité d’un projet  mais commencer l’annonce comme ça, c’est un peu mettre les choses sens dessus dessous.
+_Responsable agile de projet/Scrum Master ?_ - c’est plutôt un rôle assez confus, c’est une chose ou l’autre, c’est une chose pour un bon responsable de projet d’agir en tant que facilitateur ou pour un Scrum Master de prendre la responsabilité d’un projet  mais commencer l’annonce comme ça, c’est un peu mettre les choses sens dessus dessous.
 
 Long term project? - there is no such thing, projects are temporary!
 
@@ -30,7 +30,7 @@ Un projet à long terme ? - une telle chose n’existe pas, les projets sont tem
 
 > “The successful Agile Project Manager will be responsible for the planning, organising and managing of IT projects within this matrix resource environment. My client is looking for a technical Project Manager with strong experience in leading and managing multiple complex projects in agile environments. To be suitable you MUST have strong process and project management skills with experience in SCRUM.”
 
-> “Le responsable agile de projet retenu sera responsable de la planification, de l’organisation et de la gestion des projets informatiques au sein d’une organisation matricielle. Mon client recherche un responsable technique de projet ayant une grande expérience dans la conduite et la gestion de projets complexes multiples au sein d’environnements agiles. Pour postuler à ce poste, vous DEVEZ avoir de grandes compétences dans la gestion de projet et de processus ainsi que de l’expérience en SCRUM.”
+> “Le responsable agile de projet retenu sera responsable de la planification, de l’organisation et de la gestion des projets informatiques au sein d’un environnement matriciel. Mon client recherche un responsable technique de projet ayant une grande expérience dans la conduite et la gestion de projets complexes, multiples dans des environnements agiles. Pour postuler à ce poste, vous DEVEZ avoir de fortes compétences dans la gestion de projet et de processus et de l’expérience en SCRUM.”
 
 _Planning, organising and managing of IT projects…?_ - what happened to self-organizing, empirical control?
 
@@ -42,7 +42,7 @@ Et remarquez la mention “projets” et non projet (comme cela avait pu être m
 
 _Matrix resource environment?_ - Matrix management, this organization has shot itself in the foot already.
 
-_Environnement matriciel ?_ - Organisation matricielle, cette organisation vient dores et déjà de se tirer une balle dans le pied.
+_Environnement matriciel ?_ - De la gestion matricielle, cette organisation vient dores et déjà de se tirer une balle dans le pied.
 
 _Technical Project Manager?_ - so this person is a Scrum Master, a Project Manager and Technical, do they also make the tea and wash up?
 
@@ -92,11 +92,11 @@ Toute personne qui prendra le poste aura, dès le premier jour, les mains liées
  
 Fully Agile environments don’t have projects, Scrum Masters don’t run Agile teams and “maintain project plans and schedules” sounds distinctly Gantt chart-ish.
 
-Les environnements entièrement agiles n’ont pas de projets, les Scrum Master ne gèrent pas des équipes agiles et ne “maintiennent pas les plans projets et les plannings”, cela ressemble bien trop du Gantt.
+Les environnements entièrement agiles n’ont pas de projets, les Scrum Master ne gèrent pas des équipes agiles et ne “maintiennent pas les plans projets et les plannings”, cela ressemble bien trop à du Gantt.
 
 Saying “all SCRUM ceremonies” sounds like the people doing the asking don’t actually know what the ceremonies are, just they must be “adhered to”. Anyway, Scrum isn’t a full lifecycle model so good luck here!
 
-En disant “toutes les cérémonies SCRUM”, on dirait que les personnes rédigeant l’annonce ne savent pas vraiment ce que sont ces cérémonies, simplement que les personnes doivent y “adhérer”. De toute manière, Scrum n’est pas un modèle de gestion de l’ensemble du cycle de vie, alors bonne chance en tout cas dans le cas présent !
+En disant “toutes les cérémonies SCRUM”, on dirait que les personnes rédigeant l’annonce ne savent pas ce que sont ces cérémonies, simplement que les personnes doivent y “adhérer”. De toute manière, Scrum n’est pas un modèle de gestion de l’ensemble du cycle de vie, alors bonne chance en tout cas dans le cas présent !
 
 What is interesting here is what is not said:
 
@@ -148,9 +148,9 @@ En conclusion :
 2. Don’t blame the recruiter, their industry is based on failure, most recruitment agents are failed real estate agents.
 3. The organization requesting this role have such a poor understanding of what they need they shouldn’t actually be allowed to hire anyone.
 
-1. Malheureusement dans l’état actuel de notre industrie, c’est ce que font et veulent bon nombre d’organisations. Mais c’est loin, trèsloin de ce que font les meilleurs équipes.
-2. Ne blâmez pas le recruteur, leur industrie repose sur l’échec, la plupart des recruteurs sont en fait des agents immobiliers ratés.
-3. L’organisation qui a besoin de ce rôle a une compréhension si mauvaise de ce dont ils ont besoin qu’ils ne devraient pas être autorisés à embaucher qui que ce soit.
+1. Malheureusement dans l’état actuel de notre industrie, c’est ce que font et veulent bon nombre d’organisations. Mais c’est loin, très loin de ce que font les meilleurs équipes.
+2. Ne blâmez pas le recruteur, leur métier repose sur l’échec, la plupart des recruteurs sont en fait des agents immobiliers ratés.
+3. L’organisation qui fait le recrutement de ce poste a une compréhension si mauvaise de ce dont elle a besoin qu’elle ne devrait même pas être autoriséé à embaucher qui que ce soit.
 
 ---  
 Auteur : [Allan Kelly](http://www.agileforall.com/author/richard/)  
