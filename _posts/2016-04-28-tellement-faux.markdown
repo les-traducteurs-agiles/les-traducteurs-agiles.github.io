@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Responsable agile de projet/Scrum Master - Faux, tellement, tellement faux"
-date:   2016-04-28 10:30:55
+date:   2016-05-26 10:30:55
 published: true
 categories: 
 - agile
@@ -150,7 +150,7 @@ En conclusion :
 
 1. Malheureusement dans l’état actuel de notre industrie, c’est ce que font et veulent bon nombre d’organisations. Mais c’est loin, très loin de ce que font les meilleurs équipes.
 2. Ne blâmez pas le recruteur, leur métier repose sur l’échec, la plupart des recruteurs sont en fait des agents immobiliers ratés.
-3. L’organisation qui fait le recrutement de ce poste a une compréhension si mauvaise de ce dont elle a besoin qu’elle ne devrait même pas être autoriséé à embaucher qui que ce soit.
+3. L’organisation, qui fait ce recrutement, a une compréhension si mauvaise du rôle dont elle dit avoir besoin qu’elle ne devrait même pas être autoriséé à embaucher qui que ce soit.
 
 ---  
 Auteur : [Allan Kelly](http://www.agileforall.com/author/richard/)  
@@ -159,7 +159,7 @@ Date de parution originale : 14 Avril 2016
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 26/04/2016  
+Date de traduction : 26/05/2016  
 
 ---
 
