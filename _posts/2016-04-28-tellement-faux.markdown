@@ -5,7 +5,6 @@ date:   2016-05-26 10:30:55
 published: true
 categories: 
 - agile
-- coup de gueule
 ---
 
 Je ne devrais pas m’occuper de ça, cela fait monter ma tension, j’ai beaucoup mieux à faire, il existe de bien meilleurs sujets sur lesquels blogguer mais je ne peux pas m’en empêcher.
@@ -81,7 +80,7 @@ En conclusion :
 3. L’organisation, qui fait ce recrutement, a une compréhension si mauvaise du rôle dont elle dit avoir besoin qu’elle ne devrait même pas être autoriséé à embaucher qui que ce soit.
 
 ---  
-Auteur : [Allan Kelly](http://www.agileforall.com/author/richard/)  
+Auteur : [Allan Kelly](https://plus.google.com/100764776730700311542/posts)  
 Source : [Agile Project Manager/Scrum Master - Wrong, so, so wrong](http://allankelly.blogspot.fr/2016/04/agile-project-managerscrum-master-wrong.html)  
 Date de parution originale : 14 Avril 2016  
 
