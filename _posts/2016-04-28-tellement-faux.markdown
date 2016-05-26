@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Responsable agile de projet/Scrum Master - C’est à côté de la plaque, complètement à côté de la plaque"
+title:  "Responsable agile de projet/Scrum Master - C’est faux, complètement faux"
 date:   2016-05-26 10:30:55
 published: true
 categories: 
