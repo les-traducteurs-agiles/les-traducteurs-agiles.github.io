@@ -28,7 +28,7 @@ Durée de la présentation : environ 180 minutes
 
 Présentation à lire au format : [PPTX](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.pptx), [ODG](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.odp), [PDF](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.pdf)
 
-![article]({{ site.url }}assets/usm/tout_est_dans_la_manière_dont_vous_le_découpez.png)
+![article]({{ site.url }}assets/usm/tout_est_dans_la_maniere_dont_vous_le_decoupez.png)
 
 Article à lire au format [PDF](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Tout_est_dans_la_mani%C3%A8re_dont_vous_d%C3%A9coupez.pdf)
 
