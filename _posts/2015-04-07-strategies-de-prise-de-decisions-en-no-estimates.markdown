@@ -9,12 +9,12 @@ categories: agile pratique
     son coût...
 
 
-La suite à lire [ici](http://www.infoq.com/fr/news/2015/03/business-model)  
+La suite à lire [ici](https://www.infoq.com/fr/news/2015/04/no-estimate)  
   
   
 ---
 Auteur : [Savita Pahuja](http://www.infoq.com/author/Savita-Pahuja)  
-Source : [Decision Making Strategies of No Estimates ](http://www.infoq.com/news/2015/03/business-model)  
+Source : [Decision Making Strategies of No Estimates ](https://www.infoq.com/news/2015/03/no-estimate)  
 Date de parution originale : 23 Mars 2015  
 
 ---
