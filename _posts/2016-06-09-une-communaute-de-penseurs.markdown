@@ -20,6 +20,9 @@ Au fur et à mesure que nous discutions, nous avons découvert quelque chose. No
 
 Je suis membre d’une communauté de personnes qui réfléchissent. Et vous aussi.
 
+---
+&nbsp;  
+
 ## Une communauté de personnes qui réfléchissent
 
 Je suis membre d’une communauté de personnes qui réfléchissent.
@@ -42,11 +45,9 @@ Je suis un membre d’une communauté de personnes qui réfléchissent. S’il a
 
 “Une communauté de personnes qui réfléchissent” par Liz Keogh, Jean Tabaka et Eric Willeke est sous licence [Creative Commons Attribution-Share Alike 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/). Veuillez donner crédit à la personne auprès de qui vous avez récupérer ce texte ou une version modifiée de ce texte.
 
-À propos de l’auteur : Jean Tabaka est amateure de vin, auteure et agiliste fervente chez Rally Software Development.
+---  
 
----
-
-Note du traducteur : En hommage à Jean Tabaka
+`Note du traducteur : En hommage à Jean Tabaka`
 
 ---
 Auteur : [Jean Tabaka](https://www.rallydev.com/blog/agile/community-thinkers)  
