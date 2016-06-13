@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Une communautté de personnes qui réfléchissent"
+title:  "Une communauté de personnes qui réfléchissent"
 date:   2016-06-10 20:00:55
 published: true
 categories: 
