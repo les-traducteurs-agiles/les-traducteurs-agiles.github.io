@@ -5,7 +5,6 @@ date:   2016-06-19 00:00:01
 published: true
 categories: 
 - scrum
-- coup de gueule
 ---
 
 Je ne suis pas un commercial avant-vente, ni même un aficionados de Scrum et pourtant je me trouve à nouveau en train de prendre sa défense (ou du moins à apparaître comme tel). Il y a quelques semaines, une étude intitulée “Où est le problème avec scrum, et comment pouvons-nous corriger cela ?” (tout en lettres capitales) a été rendue public. Les résultats ont donc eté publiés et me voici donc de nouveau à endosser le rôle de défenseur de scrum.
