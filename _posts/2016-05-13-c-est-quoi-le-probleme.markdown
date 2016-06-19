@@ -51,7 +51,7 @@ Les personnes qui ont fait cette étude ont fait un excellent travail de collect
 
 ---
 Auteur : [Dave Nicolette](https://davenicolette.wordpress.com/about/)  
-Source : [What’s the problem with “What’s the problem with Scrum?”](https://davenicolette.wordpress.com/2016/04/14/whats-the-problem-with-whats-the-problem-with-scrum/)  
+Source : [What’s the problem with “What’s the problem with Scrum?”](http://neopragma.com/index.php/2016/04/14/whats-the-problem-with-whats-the-problem-with-scrum/)  
 Date de parution originale : 14 avril 2016  
 
 ---
