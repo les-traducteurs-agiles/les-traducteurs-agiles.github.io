@@ -10,7 +10,7 @@ categories:
 
 ![Story agile : les fondamentaux]({{ site.url }}assets/quickrefs/story_agile_les_fondamentaux.png)
 
-Les fondamentaux sur les user stories sur 2 pages à lire [ici](https://dl.dropboxusercontent.com/u/50968566/quickrefs/story_agile_les_fondamentaux.pdf)
+Les fondamentaux des user stories en 2 pages à lire [ici](https://dl.dropboxusercontent.com/u/50968566/quickrefs/story_agile_les_fondamentaux.pdf)
 
 ---  
 Auteur : [Jeff Patton](http://jpattonassociates.com/about-jeff-patton/)  
@@ -23,7 +23,7 @@ Date de traduction : 21/07/2016
 
 ---
 
-Le document original est © jeffpattons&associates
+Le document original est © jeffpattons&associates  
 Traduit avec l’aimable autorisation de Jeff Patton.
 
 ---
