@@ -21,12 +21,12 @@ categories:
 
 <p><span style="font-size:20px"> Ceci étant dit, bien que nous reconnaissons que les éléments figurant à gauche aient l’air sympa en théorie, nous somme une entreprise, et il n’est pas question que nous laissions tomber les éléments figurant à droite.</span></p>
 
-<p style="font-size:12px;color:dimgray">Concocté un samedi matin avant le petit déjeuner par <a href="http://kerrybuckley.org/">Kerry Buckler</a> <a href="http://twitter.com/kerryb">@kerryb</a>, d’après un <a href="http://xprogramming.com/articles/beyond-agile-new-principles/">article</a> de Ron Jeffries et cette <a href="http://twitter.com/Eastmad/status/20276560010">suggestion</a> d’Eastmad.</p>
+<p style="font-size:12px;color:dimgray">Concocté un samedi matin avant le petit déjeuner par <a href="http://kerrybuckley.org/">Kerry Buckley</a> <a href="http://twitter.com/kerryb">@kerryb</a>, d’après un <a href="http://xprogramming.com/articles/beyond-agile-new-principles/">article</a> de Ron Jeffries et cette <a href="http://twitter.com/Eastmad/status/20276560010">suggestion</a> d’Eastmad.</p>
 
 </div>
 
 ---  
-Auteur : [Kerry Buckler](http://www.kerrybuckley.org/about-me/)  
+Auteur : [Kerry Buckley](http://www.kerrybuckley.org/about-me/)  
 Source : [Manifesto for Half-Arsed Agile Software Development](http://www.halfarsedagilemanifesto.org/)  
 Date de parution originale : 28 Août 2010  
 
