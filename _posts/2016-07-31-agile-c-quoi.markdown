@@ -15,7 +15,7 @@ Tout le reste c’est sur la manière de rendre cela soutenable pour les équipe
 [^1]: ici comme dans le texte original, le mot agile est utilisé comme un nom et non comme un adjectif - l’auteur faisant référence à l’approche agile et au [manifeste agile](http://agilemanifesto.org/iso/fr/manifesto.html) - NdT
 
 ---  
-Auteur : [Tim Ottinger](https://www.symphonious.net/about-me/)  
+Auteur : [Tim Ottinger](https://plus.google.com/+TimOttinger)  
 Source : [What is “Agile”?](http://agileotter.blogspot.fr/2016/07/what-is-agile.html)  
 Date de parution originale : 01 Juillet 2016  
 
