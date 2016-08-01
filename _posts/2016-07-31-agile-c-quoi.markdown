@@ -4,7 +4,7 @@ title:  " “Agile”, c’est quoi ?"
 date:   2016-08-01 00:00:01
 published: true
 categories: 
-- story
+- agile
 ---
 
 Agile[^1], c’est principalement, livrer _plus tôt_ et beaucoup plus _souvent_, afin que vous soyez en mesure d’intégrer les désirs et le _feedback_ du client dans votre travail quotidien.
