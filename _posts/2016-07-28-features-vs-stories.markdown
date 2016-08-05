@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fonctionnalités vs. stories"
-date:   2016-08-05 00:00:01
+date:   2016-08-06 00:00:01
 published: true
 categories: 
 - agile
