@@ -16,6 +16,8 @@ voici quelques exemples de nos traductions présentes sur le site du [wiki ayeba
 * [Lean depuis les tranchées](http://ayeba.wikispaces.com/Lean+depuis+les+tranch%C3%A9es)
 * [Coaching Agile](http://www.fabrice-aimetti.fr/2014/03/11/coaching-agile-la-traduction/)
 * [Confessions d'un Serial Product Owner](http://ayeba.wikispaces.com/Confessions+d%27un+serial+product+owner)  
+* [Scrum Guide - Édition 2013](http://wiki.ayeba.fr/Guide+Scrum+2013) _traduction non officielle_ : [PDF](http://bit.ly/1lHGfaH), [Epub v2](http://bit.ly/1hWMg2D), [Epub v3](http://bit.ly/PKIezU), [ZIP (PDF + Epub v2 + Epub v3)](http://bit.ly/1eo4CoB)
+* **[Scrum Guide - Édition 2016](http://wiki.ayeba.fr/Guide+Scrum+2016)** _traduction non officielle_ : [PDF](http://bit.ly/2cm0bAt)
 
 ### <a name="jeux"></a> Jeux sérieux (ludo-pédagogique)
 * [LEGO pour une simulation Scrum](http://ayeba.wikispaces.com/LEGO+pour+une+simulation+Scrum)
