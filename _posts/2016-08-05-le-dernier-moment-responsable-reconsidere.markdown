@@ -209,8 +209,8 @@ I accidentally autotyped much better names for the 3 periods:
 * **Having Nightmares**
 
 ---  
-Auteur : []()  
-Source : []()  
+Auteur : [Alistair Cockburn]()  
+Source : [Last Responsible Moment Reconsidered](http://alistair.cockburn.us/Last+Responsible+Moment+reconsidered)  
 Date de parution originale : 28 Août 2010  
 
 ---
