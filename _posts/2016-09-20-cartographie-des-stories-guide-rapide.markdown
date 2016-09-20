@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Présentation de la cartographie des user stories"
+title:  "Cartographie des user stories - Concepts & Processus"
 date:   2016-09-20 00:00:01
 published: true
 categories: 
