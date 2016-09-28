@@ -1,221 +1,140 @@
 ---
 layout: post
 title:  "Le dernier moment responsable reconsidéré"
-date:   2016-08-05 00:00:01
-published: false
+date:   2016-09-28 00:00:01
+published: true
 categories: 
-- agile
+- lean
 ---
 
-These days, many designers are citing the phrase “Decide at the Last Responsible Moment” as some sort of project management advice. It sounds good, it’s memorable, but does it contain good advice?
+>**Avant-propos du traducteur** : pour les lectrices et lecteurs les moins averti(e)s par rapport au concept du dernier moment responsable, nous vous proposons de lire au préalable notre traduction de l’article [le dernier moment responsable](http://www.les-traducteurs-agiles.org/lean/2016/06/28/le-dernier-moment-responsable.html) de Jeff Atwood (il est assez court, je vous rassure) qui vous permettra d’avoir des éléments d’informations pour comprendre et apprécier la présente traduction. 
 
-De nos jours, certains concepteurs citent la phrase “Décider au dernier moment responsable” comme un espèce de conseil en gestion de projet  
+Il est une phrase qui est citée de nos jours par beaucoup de concepteurs comme d’une espèce de recommandation en matière de gestion de projet :  “Décider au dernier moment responsable”.  Cela sonne bien, c’est marquant, mais est-elle de bon conseil ? 
 
-I decided to look more closely at it to see what it really means and whether it is good advice…
+J’ai décidé d’y regarder de plus près pour voir ce que cette phrase signifie vraiment et voir s’il s’agit vraiment d’un bon conseil.
 
-J’ai décidé d’y regarder de plus près pour voir ce qu’elle signifie vraiment et s’il s’agit d’un bon conseil.
+En bref, il ne s’agit pas d’un bon conseil, en fait il ne s’agit même pas d’une phrase ayant du sens ; ce qui est encore pire, c’est que si celle-ci avait une quelconque signification, elle n’est pas actionnable ; et s’elle était actionnable, alors il ne s’agirait pas un bon conseil.
 
-The short of the story is that it isn’t good advice, in fact it isn’t even a meaningful phrase; what is worse, if it were meaningful, it isn’t actionable; and if it were actionable, then it wouldn’t be good advice.
+… vous êtes sceptique ? Poursuivez donc votre lecture, cher lecteur, et voyons ce que vous en penserez à la fin …
 
-En résumé, il ne s’agit pas d’un bon conseil, en fait il ne s’agit même pas d’une phrase ayant du sens ; ce qui est encore pire, c’est que si celui-ci avait une signification, il n’est pas actionnable ; et si il était actionnable, alors il ne s’agirait pas un bon conseil.
+Mes partenaires dans cette étude sont les consultants de CRISP de Stockholm, les participants de mon [cours avancé Agile](http://alistair.cockburn.us/Advanced+Agile+class), et les personnes du [groupe de discussion agile de Salt Lake City](http://alistair.cockburn.us/Salt+Lake+City+agile+round+table+protocol) (c’est ce dernier groupe qui m’a donné bien sûr le plus de fil à retordre). Tous, avaient pris comme position que le DMR (Dernier Moment Responssable) est de bon conseil, ou du moins un bon heuristique.
 
-... read on, dear skeptical reader, and see what you think by the end …
+Tout d’abord, cette expression n’a aucune signification. Pour être significative, nous devrions avoir un “moment” qui soit le “dernier” de quelque chose. Mais “responsable” — dans presque toutes les situations auxquelles vous pourriez penser — n’est pas une fonction [^1] connaissant un changement brusque. Sa pente est légère. Il y a des moments où choisir entre A et B est de toute évidence “responsable” (je vous laisserai même décider de la signification de ça) puis il y a un moment lorsque quelqu’un a annoncé que c’est le dernier moment responsable, où en réalité il ne le soit pas — il s’agit juste d’un moment que quelqu’un a annoncé. Le coût réel de retarder ou de revoir une décision se déplace légèrement vers le haut jusqu’à un certain moment, qui est clairement “hasardeux”, “coûteux” ou, pour garder un langage métaphorique, “irresponsable”.
 
-… poursuis donc ta lecture, cher lecteur sceptique, et voyons ce que tu en penseras à la fin …
+Mais il n’existe pas de “dernier” de ces moments, seulement un déplacement léger et approximatif des coûts. Donc il n’existe pas de “dernier moment responsable” — cette phrase est simplement de la fiction.
 
-My partners in this endeavor were the consultants at CRISP in Stockholm, the participants in my Advanced Agile class, and the people at the Salt Lake City agile round table (discussion: Re: Salt Lake City agile round table protocol) (who gave me the hardest time, of course). They all took the position that LRM is good advice, or at least a good heuristic.
+Deuxièmement, elle n’est pas actionnable. Je veux dire par là que vous ne pouvez pas l’appliquer. Vous ne pouvez pas savoir lorsqu’arrive réellement ce dernier moment, si ce n’est qu’après, lorsqu’il est trop tard. Vous pouvez dire que vous l’avez raté, mais vous ne pouvez pas dire à l’avance quand est-ce qu’il arrivera. Donc vous ne pouvez pas vraiment appliquer ce conseil. Dans mon expérience le DMR est principalement utilisé pour atteindre quelqu’un en pleine tête lorsque vous souhaitez le blâmer pour ne pas avoir bien décidé. Bref, un mauvais outil.
 
-Mes partenaires dans cette étude sont les consultants de CRISP de Stockholm, les participants de mon [cours avancé Agile](http://alistair.cockburn.us/Advanced+Agile+class), et les personnes du [groupe de discussion agile de Salt Lake City](http://alistair.cockburn.us/Salt+Lake+City+agile+round+table+protocol) (qui m’a donné le plus de fil à retordre bien sûr). Tous, avaient pris comme position que le DMR (Dernier Moment Responssable) est de bon conseil, ou du moins un bon heuristique.
+Enfin, il ne s’agit pas vraiment d’un bon conseil. Si vous laissez toutes vos décisions ouvertes jusqu’à un DMR hypothétique, votre cerveau sera alors complètement encombré par ces décisions ouvertes et vous ne serez plus capable de toutes les suivre. Heureusement, beaucoup de décisions sont prises longtemps à l’avance, et vous n’aurez tout simplement plus à y penser après. Cela vous permet de bien dormir pendant la nuit — la décision a déjà été prise, et vous n’avez qu’à vivre avec les conséquences. D’autres décisions sont prises heureusement dans un “moment irresponsable à mi-chemin” — suffisamment tard pour avoir des conséquences fâcheuses, effrayantes ou avoir un certain coût, mais lorsque vous concluez finalement que (a) vous n’obtiendrez aucune information supplémentaire, et (b) que ce soit maintenant ou plus tard alors vous trouverez que le coût sera simplement trop élevé. Il ne s’agit donc pas du DMR, parce qu’il est profondément ancré dans le territoire effrayant/coûteux/ennuyeux.
 
-First, it is not a meaningful. To be meaningful, we’d have to have a “moment” that is the “last” of something. But “responsible” – in almost all circumstances you can name – isn’t a function that has an abrupt change. It has a soft slope. There is a time when choosing between A and B is obviously “responsible” (I’ll even let you decide your meaning to that), then there is a moment when someone has announced is the last responsible moment, but in fact isn’t – it’s just a time someone announced. The actual cost of delaying or revising the decision shifts slowly upward until at some indistinct moment, it is clearly in the “hazardous”, “costly” or, to keep to the metaphoric language, “irresponsible”.
+Le DRM, s’il existe, se situerait à un point quelconque où la fonction coût commencerait à changer — suffisamment tard pour vous permettre d’obtenir plus d’information, suffisamment tôt pour vous permettre de clarifier la décision — là où il peut exister une espèce de sommet ou de point d’inflexion dans cette fonction coût complexe à plusieurs variables.
 
-Tout d’abord, cette expression n’a aucune signification. Pour être significative, nous devrions avoir un “moment” qui soit le “dernier” de quelque chose. Mais “responsable” — dans presque toutes les situations auxquelles vous pourriez penser — n’est pas une élément reflétant un changement soudain. Il s’agit d’une pente douce. Il y a des moments où choisir entre A et B est toute évidence “responsable” (je vous laisserai même décider de la signification de cela) donc il y a un moment quand quelqu’un a annoncé que c’est le dernier moment responsable, qu’en réalité il ne le soit pas — il s’agit juste d’un moment que quelqu’un a annoncé. Le coût réel de retarder ou de revoir une décision se déplace légèrement vers le haut jusqu’à un certain moment, qui est clairement “hasardeux”, “coûteux” ou, pour garder un langage métaphorique, “irresponsable”.
-
-But there is no “last” of these moments, just a gentle, indistinct shifting of costs. So there is no “last responsible moment” – the phrase is just a fiction.
-
-Mais il n’existe aucun “dernier” de ces moments, simplement un léger déplacement approximatif de coût. Donc il n’y a pas de “dernier moment responsable” — cette phrase est juste de la fiction.
-
-Second, it is not actionable. By this I mean that you can’t apply it. You can’t know when the actual Last such moment is until after the fact, when it is too late. You can tell you missed it, but you can’t tell in advance when it will be. So you can’t actually apply this advice. In my experience LRM is mostly used to hit someone over the head later when wishing to blame them for not deciding well. Bad tool.
-
-Deuxièmement, elle n’est pas actionnable. Je veux dire par là que vous ne pouvez pas l’appliquer. Vous ne pouvez pas savoir lorsqu’arrive un tel dernier moment si ce n’est après, lorsque cela est trop tard. Vous pouvez dire que vous l’avez raté, mais vous ne pouvez pas dire à l’avance quand est-ce qu’il arrivera. Donc vous ne pouvez pas vraiment appliquer ce conseil. Dans mon expérience le DMR est principalement utilisé pour atteindre quelqu’un en plein tête lorsque vous souhaitez le blâmer pour ne pas avoir bien décidé. Mauvais outil.
-
-Finally, it is not actually good advice. If you keep all decisions open until the hypothetical LRM, then your brain will be completely cluttered with open decisions and you won’t be able to keep track of them all. Many decisions are happily made long in advance, just so you won’t have to think about them anymore. It lets you sleep quieter at night – the decision’s already been made, just live with the consequences. Other decisions are happily made in a “Middle Irresponsible Moment” – late enough to be annoying, scary or have a certain cost, but when you finally conclude that (a) you aren’t going to get any more information, and (b) any later and the cost will be simply too high. This is not the LRM, because it is deep in the scary/costly/annoying territory.
-
-Enfin, il ne s’agit pas vraiment d’un bon conseil. Si vous laissez toutes vos décisions ouvertes jusqu’à un DMR hypothétique, votre cerveau sera alors complètement encombré par ces décisions ouvertes et vous ne serez plus capable de toutes les suivre. Beaucoup de décisions sont heureusement prises longtemps à l’avance, et vous n’aurez simplement plus à y penser après. Cela vous permet de dormir tranquille la nuit — la décision a déjà été prise, vous n’avez qu’à vivre avec les conséquences. D’autres décisions sont heureusement prises dans un “moment irresponsable à mi-parcours” — suffisamment tard pour être ennuyeux, effrayant ou avoir un certain coût, mais lorsque vous concluez finalement que (a) vous n’obtiendrez aucune information supplémentaire, et (b) le coût sera simplement trop élevé si cela intervient plus tard. Il ne s’agit pas du DMR, parce qu’il est profondément ancré dans le territoire effrayant/coûteux/ennuyeux.
-
-The LRM, if it did exist, would sit at a place where the cost function starts to change shape – late enough to let you get more information, early enough to clear the decision – where there is some sort of cusp or inflection point in the complicated multi-variable cost function.
-
-Le DRM, s’il existe, se situerait quelque part où la fonction coût commencerait à changer — suffisamment tard pour vous permettre d’obtenir plus d’information, suffisamment tôt pour vous permettre de clarifier la décision — là où il peut exister une espèce de sommet ou de point d’inflexion dans cette fonction coût complexe à plusieurs variables.
-
-What I got from all the debates we had was:
-
-Voici ce que j’ai eu des différents débats que nous avons eu :
-
-1. Decide early, then sleep soundly.
-2. Delay until some amorphous point when you feel danger start to threaten, to gain more information.
-3. Delay until all your personal “Danger! Will Robinson” alarm bells are going off, so you have the maximum information and at least some decent chance of executing your choice.
+Voici les résultats j’ai eu des différents débats que nous avons eu :
 
 1. Décider au plus tôt, puis dormir à poing fermé
 2. Différer jusqu’à un certain point où le danger se fera sentir et viendra à menacer, pour obtenir plus d’information
-3. Différer jusqu’à ce que vos alarmes personnelles “Danger ! Will Robinson” se déclenchent, afin que vous ayez le maximum d’information et au moins une chance décente pour mettre en œuvre celle de votre choix
+3. Différer jusqu’à ce que vos alarmes personnelles “Danger ! Will Robinson” [^2] se déclenchent, et vous aurez donc le maximum d’information et au moins une chance décente pour mettre en œuvre celle de votre choix
 
-… and running under all of this is the topic of Real Options, where you pay early in order to not have to decide at all … Introducing Real-Options thinking complicates it all more
+… et derrière tout cela, il y a le concept des options réelles [^3], où vous payez tôt afin de ne pas avoir à décider du tout … Parler de la théorie des options réelles complique encore plus les choses.
 
-… et derrière tout cela vient en fait le sujet des options réelles, où vous payez tôt afin de ne pas avoir à décider du tout … Parler de la théorie des options réelles complique encore plus les choses.
-
-I’ll write more, add examples, etc. over time, but gotta run right now.
-
-Je continuerai à écrire sur ce sujet, à ajouter des exemples, etc. mais pour l’instant le temps est écoulé, je dois y aller maintenant.
-
-Your thoughts?
-Alistair
+Je vais continuer à écrire sur ce sujet, à ajouter des exemples, etc. mais pas aujourd’hui, je dois y aller maintenant.
 
 Et vous, qu’en pensez-vous ?
 Alistair
 
 ---
 
-**Postscript 1**, a few hours later, and finding already nice comments below and on Twitter: Karl Scotland and Chris Matts have already been down this path, Chris wrote his first at [http://decision-coach.com/lean-and-real-options](http://decision-coach.com/lean-and-real-options) , where he writes these great words:
+**Postscript 1**, quelques heures après, et après avoir trouvé des commentaires sympa ici et ailleurs sur Twitter : Karl Scotland et Chris Matts ont déjà commencé à descendre le long du chemin, Chris a écris le premier  [http://decision-coach.com/lean-and-real-options](http://decision-coach.com/lean-and-real-options), dans lequel il a écrit ces phrases très intéressantes :
 
-**Postscript 1**, quelques heures après, et après avoir trouvé des commentaires sympa ci-dessous ainsi que sur Twitter : Karl Scotland et Chris Matts ont déjà montré la voie, Chris a écris le premier [http://decision-coach.com/lean-and-real-options](http://decision-coach.com/lean-and-real-options), dans lequel il a écrit ces phrases très intéressantes :
+> “Différer l’engagement” est une directive indiquant que l’engagement devrait être différer jusqu’au “dernier moment responsable”. Dans les options réelles, on ne dit pas autre chose (“Ne jamais vous engager trop tôt à moins que vous ne sachiez pourquoi”) par contre, vous pouvez vous engager de manière précoce si et seulement si vous avez l’information dont vous avez besoin pour prendre cet engagement. Bien que cela ne soit pas significatif, c’est quand même une nette amélioration par rapport à un “engagement différé” car cela nous oblige à trouver l’information qui nous permettra de prendre des engagements de manière anticipé. Prendre des engagements ainsi peut rendre les choses plus simples car nous n’aurons pas à gérer des options inutiles et que cela nous donne des informations dont nous avons désespérément besoin.
 
-> “Defer Commitments” is a directive that commitments should be deferred to the “Last Responsible Moment”. Real options says something similar (“Never commit early unless you know why”) except that you can make a commitment earlier if you have the information you need to make that commitment. Although not significant, it is an improvement over “Defer Commitment” because it directs us to find information that allows us to make commitments early. Making commitments early can make things much simpler as we do not have to carry unnecessary options and provide us with much needed information.
+> Une des plus grandes différences entre le Développement logiciel lean et les options réelles est que lean parle du “Dernier Moment Responsable” alors que les options réelles parle de “l’expiration des options”. Le “DMR” devrait sembler aller de soi. Les défenseurs du lean parleront du “Point Optimal” pour prendre un engagement. L’“expiration des options” signifie qu’après un certain point, le moyen d’atteindre un objectif (ou une option) n’est plus disponible, il expire, ou meurt. Cet état de fait est déterminé par un processus clairement défini. Le problème avec le “DMR” est que, lorsque vous demandez à quelqu’un de différer un engagement, ou simplement de “différer l’engagement” jusqu’au “dernier moment responsable”, cela le plonge dans l’incertitude avec très peu de contrôle sur la situation.
 
-> “Différer l’engagement” est une directive où l’engagement devrait être différer jusqu’au “dernier moment responsable”
+puis Karl Scotland [http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment](http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment) écrivit
 
-> One of the more significant differences between Lean Software Development and real options is that Lean talks about the “Last Responsible Moment” whereas real options talk about “Options expire”. The “LRM” would seem to be self evident. Lean proponents will talk about the “Optimal Point” to make a commitment. “Options expire” means that after a certain point, a way of achieving a goal ( or option ) is no longer available, it expires, or dies. It is determined by a clearly defined process. The problem with “LRM” is that when asking someone to defer a commitment, asking them to simply “defer the commitment” to the “Last responsible moment” leaves them with a lot of uncertainty and very little control.
+> Je définirai le Dernier Moment Responsable (DMR) en terme de coût du retard, tel qu’il est défini par Don Reinertsen, et de bénéfice du retard, un terme connexe employé conjointement avec Julian Everett lors d’un échange par messagerie électronique. En bref, le Dernier Moment Responsable intervient juste avant que le coût du retard ne dépasse le bénéfice du retard. Il n’est pas nécessaire d’être capable de quantifier les coût et bénéfices de manière très précise, toute évaluation étant meilleure qu’aucune !
 
+Karl et Chris ont vraiment fait une superbe analyse, probablement meilleure que la mienne :) Je pense que le point de vue de Chris à prendre en compte concernant une prise de décision anticipée est la meilleure.
 
-
-and Karl Scotland at [http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment](http://availagility.co.uk/2010/04/06/defining-the-last-responsible-moment) writes:
-
-
-
-> I will define the Last Responsible Moment (LRM) in terms of Cost of Delay, as used by Don Reinertsen, and Benefit of Delay, a related term that came up in an email conversation with Julian Everett. In short, the Last Responsible Moment is just before the Cost of Delay outweighs the Benefit of Delay. Its not necessary to be able to quantify the costs and benefits very accurately because any evaluation is going to be better than none!
-
-
-
-Superb analysis by both of these people, probably better than mine :). I think Chris’ takes the early decision making into account better.
-
-
-
-I still don’t like “Last”, and frankly don’t like “Responsible” either, but I do direct anyone interested to consider Karl and Chris’s versions.
-
-
+Je continue à ne pas aimer le terme “dernier” et je n’aime franchemant pas non plus le terme “responsable” , mais j’orienterai volontiers toute personne qui serait intéressée par prendre en considération les versions de Karl et de Chris. 
 
 ---
 
-**Postscript 2**, after the end of the roundtable yesterday, one person said (to the general effect),
+**Postscript 2**, hier, après la fin du tour de table, une personne a dit (à la surprise générale),
 
+>”Les gars, vous rendez ça trop compliqué. C’est uniquement du bon sens — vous savez que vous vous ferez du mouron en attendant plus longtemps et vous savez que vous dormirez mieux en choisissant maintenant. Utilisez donc votre tête, bande de nazes.”
 
-
->“You guys are making this too complicated. It is just common sense – you know when you will get hurt by waiting longer, and you know when you’ll sleep better by choosing now. Use your heads. Silly people.”
-
-
-
-Another great response. Thanks Phil.
-
-
+Merci Phil pour cette autre bonne réponse.
 
 ---
 
-**Postscript 3**, the example I use is ordering lunch for the class.
+**Postscript 3**, l’exemple que j’utilise c’est la commande d’un déjeuner pour un groupe de stagiaires.
 
+Au restaurant, il est indiqué : choisissez le menu 1 ou le menu 2 avant 10:30 pour le déjeuner de 12:30. Quand devons-nous demander aux personnes de faire leurs choix.
 
+* A. Au moment où ils choisissent le stage
+* B. Au début du stage le premier jour
+* C. Au début de chaque journée de stage
+* D. À 10:30
+* E. À n’importe quelle moment entre 10:15 et 11:00
+* F. À 11:00
+* G. À 11:30
+* H. À 12:30 lorsque nous arrivons pour déjeuner.
 
-Restaurant says, choose menu 1 or 2 by 10:30 for lunch at 12:30. When do we ask people to sign up for their choice?
+Le problème, c’est que les stagiaires peuvent être au milieu d’exercice ou d’une explication à 10:30.
 
+Réfléchissez à quel pourrait être votre choix, et préparez vous à l’argumenter. Le DMR est, en théorie, 10:30, mais ce n’est pas vraiment un bon moment pour choisir. Personnellement je choisirai n’importe lequel des options C, E, F. E qui se rapproche le plus du DMR, tout en restant fidèle à mon avis sur le sujet : il n’y a pas de “moment” et il n’y a pas de “dernier”.
 
-
-* A. At the time they sign up for the class
-* B. At the start of class on the 1st day
-* C. At the start of class on each day
-* D. At 10:30
-* E. Anywhere between 10;15 and 11:00
-* F. At 11:00
-* G. At 11:30
-* H. At 12:30 when we show up.
-
-
-
-The problem is that the class is likely to be in the middle of an exercise or a lecture at 10:30.
-
-
-
-Think about your choice, and learn to argue for it. LRM is 10:30, in theory, but that’s actually probably not a really good choice point. Personally, I choose any of C, E, F. E is the closest to LRM, but in keeping with my views on the subject, there is no “moment” and there is no “last”.
-
-
-
-LRM is still a terrible phrase, no matter how I look at it. To my mind, Chris Matts’ way of talking about it makes the most sense, so far.
-
-
+Le DMR reste à mes yeux une expression épouvantable, peu importe l’angle sous lequel je la regarde. À mon avis, la manière d’en parler de Chris Mattreste est celle ayant jusqu’à présent le plus de sens.
 
 ---
 
-**Postscript 4**: Then over dinner with Cory Foy and Jonathan House and Ghennipher Weeks we kept arguing.
+**Postscript 4**: Et nous avons continuer de débattre pendant le diner avec Cory Foy, Jonathan House et Ghennipher Weeks.
 
+Cory introduisit l’idée du “goût du risque” pour parler des alarmes personnelles. Ghennipher rebondit sur cette idée, Jonathan exprima son désaccord. Après quelques échanges, je finis par conclure que la vision des courbes du risque et du coût permettent d’aborder de façons pseudo-scientifiques les peurs personnelles et les préférences risques/dégâts de chacun … ce qui conduit à l’idée que dans une équipe avertie, les membres discuteront explicitement de leurs goûts du risque respectifs, de leurs niveaux de peur, et apprendront à émettre des jugements sur le fait de savoir quand se prononcer pour prendre une décision basée sur leur compréhension respective des choses en question.
 
-
-Cory introduced the idea of “Risk Appetite”, which is a way of talking about those personal alarms. Ghennipher picked up on that, Jonathan resisted, and after a few more battings about, I ended up with the view that the risk and cost curves are pseudo-scientific ways of talking about personal fears and risk/damage preferences… which led to the idea that on a self-aware team, the members will explicitly discuss their relative risk appetites and fear threshholds, and learn to make their judgements about when to call for a decision based on their understandings of their respective those things.
-
-
-
-This is a very nice place to sit – that what we are after is that people become aware of their respective risk/fear threshholds and share those with others, and take those into account when making decisions.
-
-
+C’est un bel endroit pour s’asseoir et discuter — l’objet de notre discussion est de savoir si les gens deviennent conscients de leurs propres niveaux de risques/peur, s’ils les font partager aux autres, et s’ils prennent cela en compte dans leur prise de décision.
 
 ---
 
-**Postscript 5**: Jonathan maintains still that LRM appies only to a subset of decisions, not to all.
+**Postscript 5**: Jonathan continue de maintenir que le DMR s’applique uniquement à un sous-ensemble de décisions et non à toutes les décisions.
 
-
-
-I can accept that, except we are faced with addition problems of defining now: which decisions, what is Responsible, what is the Last Moment? Hmm, worse off than before.
-
-
+Cet argument est tout à fait acceptable, sauf que maintenant nous avons de nouveaux problèmes : Quelles décisions ? Qu’est-ce que Responsable ? quel est le Dernier Moment ? Hmm, c’est bien pire qu’avant. 
 
 ---
 
-**Postscript 6**: Person (A) added “the moment when you are so scared you can almost feel the pee running down your leg” (OK, there were some beers involved in this conversation). A person (B) who wishes at this moment to remain anonymous called it the Unique Responsible Implementation Negation Echelon moment. (you are welcome to substitute some of the words). That moment is possibly captured in the Calvin and Hobbes comic: ![http://rcrosing.home.xs4all.nl/images/ch_lm_panic.gif](http://rcrosing.home.xs4all.nl/images/ch_lm_panic.gif)
+**Postscript 6** : Dans la conversation, une personne (appelons-la A) ajouta “il s’agit du moment où vous avez tellement peur que vous pouvez presque sentir la pisse couler le long de votre jambe” (Bon d’accord, pendant la discussion, quelques bières sont passées par là). Un autre personne (appelons-la B) qui souhaite pour l’instant restée anonyme l’appelle le moment clé de négation de l’implémentation unique (vous êtes libre de changer tout ou partie des mots de cette phrase). La bande dessinée Calvin and Hobbes nous montre quelque chose qui s’en rapproche beaucoup : 
+![À la dernière minute]({{ site.url }}assets/dernier_moment/ch_lm_panic_fr.png)
 
-
-
-I’ve been in this conversation nonstop for 36 hours and sorely tired of it, but excited to have discovered so many things. “Responsible” still remains undefinable IMHO, “Last…Moment” doesn’t exist, so LRM is still a hoax, but SLEEP EASY timing and URINE timing make good sense, and there is something interesting about the group-fear timing (which will interact with Chris Matts real-options-purchase strategy, when we get around to integrating that).
-
-
-
+Je participe à cette discussion depuis 36 heures non-stop et je commence à être épuisé, mais je suis ravi d’avoir découvert beaucoup de choses. Le terme “Responsable” demeure à mon humble avis indéfinissable, le “Dernier … moment” n’existe
+pas, donc le DMR reste un canular, mais aller au lit au bon moment pour BIEN DORMIR, aller aux toilettes au bon moment pour URINER a du sens, et il y a quelque chose d’intéressant sur la peur au niveau d’un groupe sur le bon moment (qui interagit avec la stratégie d’acquisition d’options réelles de Chris Matts, lorsque nous y regardons de plus près).
 ---
 
-**Postscript 7**: Playing now with **decision periods** instead of decision moments, because I think moments are a doomed concept. So far, it seems to be all about people’s emotional relationship to what is going on, not anything objective and computable. That produces three periods, something like:
+**Postscript 7** : Je joue désormais avec la notion de **périodes de temps où sont prises les décisions** plutôt qu’au les moments où sont pris les décisions, parce que je pense que le moment est un mauvais concept. Jusqu’à maintenant, il semble que tout soit lié à l’état émotionnel des personnes par rapport à la situation, rien qui soit objectif et utilisable. Donc cela donne en gros trois périodes comme ça :
 
+* La période **Dormir tranquille** — prendre la décision maintenant et assumer toutes les conséquences qui s’ensuivront — J’en ai marre d’y penser et je ne veux plus continuer à me prendre la tête à ce sujet pour le reste de la journée.
+* La période **être de plus en plus mal à l’aise** — les prises de décisions sont faites tardivement pour prendre en compte l’arrivée d’informations en continue — les décisions sont prises selon le “goût du risque” (merci Cory) et le niveau de peur acceptable des personnes.
+* La période **en avoir des cauchemars** connu aussi sous le nom de “pisser dans mon pantalon” ou “connaître la panique à vous en tordre les boyaux” — vous vous retenez le plus longtemps possible jusqu’à ce qu’au moment critique où vous craquez et où vous décrochez le téléphone.
 
+Que pensez-vous de l’utilisation de ces périodes de temps à la place des moments ?
 
-* The **Sleep Easy** period – make the decision now and take whatever consequences come – I’m done thinking about it and don’t want it hanging over me for the duration.
-* The **Increasingly Queasy** period – late decision-making to capture ongoing arrival of information – the decision gets made according to the “risk appetite” (thanks Cory) and fear threshold of the people
-* The **Having Nightmares** aka **About to pee down my pants leg** or **Gut wrenching panic** period – you’re holding off as long as possible, until total fear of missing the critical moment drives you to cave in and make the call.
+Sans faire exprès, j’ai trouvé des noms bien meilleurs pour désigner ces 3 périodes :
 
+* **Dormir tranquille**
+* **Être de plus en plus mal à l’aise**
+* **En avoir des cauchemars**
 
-
-what do you think about using periods of time instead of moments?
-
-
-
-I accidentally autotyped much better names for the 3 periods:
-
-
-
-* **Sleep Easy**
-* **Increasingly Queasy**
-* **Having Nightmares**
-
+[^1]:Ici l’auteur prend comme métaphore, celle de la représentation graphique d’une fonction mathématique
+[^2]:Phrase bien connue de la série Lost In Space - NdT
+[^3]:Outil financier d’aide à la décision en matière d’investissement, voir cet [article](https://fr.wikipedia.org/wiki/Analyse_par_les_options_r%C3%A9elles) sur Wikipedia pour plus d’informations - NdT
 ---  
-Auteur : [Alistair Cockburn]()  
+Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
 Source : [Last Responsible Moment Reconsidered](http://alistair.cockburn.us/Last+Responsible+Moment+reconsidered)  
-Date de parution originale : 28 Août 2010  
+Date de parution originale : 07 Octobre 2011  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 29/07/2016  
+Date de traduction : 28/09/2016  
 
 ---
 
