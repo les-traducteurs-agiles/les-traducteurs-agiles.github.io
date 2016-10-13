@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Modèle A3"
+date:   2016-10-13 00:00:01
+published: true
+categories: 
+- lean
+- pratique
+---
+Un des fondements essentiels de la pensée Lean c’est le Kaizen — le processus d’amélioration continue. Toyota, une des entreprises les plus performantes au monde, attribue une grande part de son succès à son approche très cadrée de résolution de problème. Cette approche est appelée quelques fois raisonnement A3 (tiré du format de la feuille de papier A3 utilisé pour y consigner par écrit la connaissance relative à chaque effort de résolution de problème)
+
+Vous trouverez à télécharger ci-après un modèle A3 ainsi qu’un exemple réel de résolution de problème.
+
+* [Modèle A3 au format PDF](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.pdf)
+* [Modèle A3 au format Powerpoint (pptx)](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.pptx)
+* [Modèle A3 au format LibreOffice (odp)](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.odp)
+
+
+![A3]({{ site.url }}assets/A3/A3.png)
+
+Pour toute question, consultez la FAQ accompagnant le modèle.
+
+Cet exemple a été réalisé par Tom Poppendieck et Henrik Kniberg. Il a utilisé lors des conférences [Deep Lean 2009](http://blog.crisp.se/2009/04/27/henrikkniberg/1240823760000) à Stockholm et Agile 2009 à Chicago.
+L’exemple est basé sur un cas réel, et est utilisé régulièrement lors de séances d’apprentissage et de coaching de techniques de résolution de problèmes.
+
+Note du traducteur : la version précédente (1.1) du modèle A3 avait été traduite par Olivier Patou et est présente sur son site internet à cette [page](http://opatou.blogspot.fr/2012/04/modele-a3-toyota.html)
+---  
+Auteurs : [Henrik Kniberg](https://www.crisp.se/konsulter/henrik-kniberg) et [Tom Poppendieck](http://www.poppendieck.com/people.htm) 
+Source : [A3 Template](https://www.crisp.se/gratis-material-och-guider/a3-template)  
+Date de parution originale (version 1.2) : 28 Avril 2015  
+
+---
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 13/10/2016  
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
+{% include share_buttons.html %}
+
