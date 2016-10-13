@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Modèle A3"
+title:  "Le modèle A3"
 date:   2016-10-13 00:00:01
 published: true
 categories: 
@@ -18,16 +18,18 @@ Vous trouverez à télécharger ci-après un modèle A3 ainsi qu’un exemple r�
 
 ![A3]({{ site.url }}assets/A3/A3.png)
 
-Pour toute question, consultez la FAQ accompagnant le modèle.
+Vous avez des questions sur le modèle A3 ? Vous trouverez toutes les réponses dans la FAQ qui accompagne le modèle.
 
-Cet exemple a été réalisé par Tom Poppendieck et Henrik Kniberg. Il a utilisé lors des conférences [Deep Lean 2009](http://blog.crisp.se/2009/04/27/henrikkniberg/1240823760000) à Stockholm et Agile 2009 à Chicago.
-L’exemple est basé sur un cas réel, et est utilisé régulièrement lors de séances d’apprentissage et de coaching de techniques de résolution de problèmes.
+L’exemple a été développé par Tom Poppendieck et Henrik Kniberg. et utilisé lors des conférences [Deep Lean 2009](http://blog.crisp.se/2009/04/27/henrikkniberg/1240823760000) à Stockholm et Agile 2009 à Chicago.
+Il est basé sur un cas réel, et nous l’utilisons régulièrement lors de séances d’apprentissage et de coaching de techniques de résolution de problèmes.  
 
-Note du traducteur : la version précédente (1.1) du modèle A3 avait été traduite par Olivier Patou et est présente sur son site internet à cette [page](http://opatou.blogspot.fr/2012/04/modele-a3-toyota.html)
+> **Note du traducteur** : La présente traduction est celle de la version 1.2 du modèle A3.  
+> La version 1.1 du modèle A3 avait été traduite par Olivier Patou et est disponible sur son blog à cette [page](http://opatou.blogspot.fr/2012/04/modele-a3-toyota.html)  
+
 ---  
-Auteurs : [Henrik Kniberg](https://www.crisp.se/konsulter/henrik-kniberg) et [Tom Poppendieck](http://www.poppendieck.com/people.htm) 
+Auteurs : [Henrik Kniberg](https://www.crisp.se/konsulter/henrik-kniberg) et [Tom Poppendieck](http://www.poppendieck.com/people.htm)  
 Source : [A3 Template](https://www.crisp.se/gratis-material-och-guider/a3-template)  
-Date de parution originale (version 1.2) : 28 Avril 2015  
+Date de parution originale (version 1.2): 28 Avril 2015  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
