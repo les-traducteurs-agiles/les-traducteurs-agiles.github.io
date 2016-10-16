@@ -18,7 +18,7 @@ permalink: /traducteurs/
 <div class="thumbnails">
   <img src="/assets/lta/blue-Icon.png" />  
 
-  <h4> Claude Aubry  </h4>
+  <h4> Claude Aubry </h4>
   <p>Twitter : <a href="https://twitter.com/claudeaubry">@claudeaubry</a></p>
   <p>Web : <a href="http://www.aubryconseil.com/">Scrum, Agilité, ... et Rock'n roll</a></p>
   <p>&nbsp;</p>
@@ -43,6 +43,15 @@ permalink: /traducteurs/
 </div>
 
 <div class="thumbnails">
+  <img src="http://www.gravatar.com/avatar/a7562607fd2dda9889bd3ecc70d98beb?s=180" />  
+
+  <h4> Agnès Crépet </h4>
+  <p>Twitter : <a href="https://twitter.com/agnes_crepet">@agnes_crepet</a></p>
+  <p>Web : <a href="http://ninja-squad.fr/">Ninja Squad</a></p>
+  <p>&nbsp;</p>
+</div>
+
+<div class="thumbnails">
   <img src="http://www.gravatar.com/avatar/1f997170569f6150ae82919e4f2e3659?s=180" />  
 
   <h4> Pierre Fauvel </h4>
@@ -56,7 +65,6 @@ permalink: /traducteurs/
 
   <h4> Sylvain Fraïssé </h4>
   <p>Twitter : <a href="https://twitter.com/sfui">@sfui</a></p>
-  <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
 </div>
