@@ -1,74 +1,46 @@
 ---
 layout: post
 title:  "Racontez vos problèmes au canard"
-date:   2015-10-19 00:00:01
+date:   2016-10-19 00:00:01
 published: true
 categories: 
 - agile
 - inspiration
 ---
 
-[Linda Rising](http://lindarising.org/) gave a great talk last night at Agile New England. Her topic was problem-solving and decision-making.
+[Linda Rising](http://lindarising.org/) a donné une très belle conférence la nuit dernière à Agile New England. Le sujet était la résolution de problème et la prise de décision.
 
-[Linda Rising](http://lindarising.org/) a fait une très belle intervention la nuit dernière à Agile New England. Le sujet était sur la résolution de problème et la prise de décision.
+L’un des points abordés était le fait d’évoquer les problèmes, à voix haute. Lorsque vous parlez, vous utilisez une partie de votre cerveau différente de celle utilisée lorsque vous pensez. Pour nous extravertis, qui parlons pour penser, cela n’est peut être pas une surprise. (Je dis souvent que la manière dont je fais mes interventions est pour ainsi dire sans importance. Je sais ce que je vais dire. Je me nourris de l’énergie de la pièce. Et les choses qui sortent de ma bouche arrive même à me surprendre).
 
-One of her points was to discuss the problem, out loud. When you talk, you engage a different part of your brain than when you think. For us extroverts, who speak in order to think, this might not be a surprise. (I often say that my practice for my talks is almost irrelevant. I know what I’m going to say. And, I feed off the energy in the room. Things come out of my mouth that surprise me.)
-
-L’un des points abordés était de discuter des problèmes, à voix haute. Lorsque vous parlez, vous utilisez une partie de votre cerveau qui est différente de celle qui est utilisée lorsque vous pensez. Pour nous extravertis, qui parlons afin de penser, cela pourrait ne pas être une surprise. (Je dis souvent que la manière dont je fais mes interventions n’est pas pertinente. Je sais ce que je vais dire. Et, je me nourris de l’énergie de la pièce. Il y a même des choses sortent de ma bouche qui arrivent à me surprendre).
-
-If you’re an introvert, you might be surprised. In fact, since you think so well inside your head, you might scoff at this. Yes, speech and problem-solving both work in your frontal lobe. And, your brain processes thought and speech differently.
-
-Si vous êtes un introverti, cela pourrait vous surprendre. En fait, étant donné que vous êtes tellement au chaud dans votre tête, vous pourriez tourner cela en dérision. Eh oui, la parole et la résolution de problème se situe tous les deux dans votre lobe frontal. Et votre cerveau traite différemment la pensée et la parole.
-
-Long ago, I was stuck on a problem. I went to my boss and he told me to talk to the duck.
+Si vous êtes un introverti, cela pourrait vous surprendre. En fait, étant donné que vous êtes en pleine possession de vos moyens dans votre tête, vous pourriez vous en moquer. Eh oui, la parole et la résolution de problème sont traitées tous les deux dans votre lobe frontal. Et votre cerveau ne traite pas les deux de la même manière.
 
 <div align="left" style="float:left; padding-right:30px" >
   <img title="canard" src="{{ site.url }}assets/johanna/rubber-ducks-197x300.jpeg" />
 </div>
 
-Il y a bien longtemps, j’étais resté bloqué sur un problème. Je suis allé voir mon patron et il m’a dit de parler au conard.
+Il y a bien longtemps, je suis restée bloquer sur un problème. Je suis allée voir mon patron et il m’a dit de parler au conard.
 
-“The duck?” I asked. I thought he’d lost his mind.
-
-“Le canard ?” ai-je demandé. Je pensais qu’il avait perdu la tête.
-
-“Yes, this duck.” He pulled out a yellow rubber duck off his shelf. “Talk to the duck.”
+“Le canard ?” ai-je demandé. J’ai pensé qu’il avait perdu la tête.
 
 “Oui, ce canard.” Il pris un canard jaune en plastique d’une de ses étagères. “Parles au canard”.
 
-I looked at him.
-
 Je l’ai regardé.
 
-“What are you waiting for? Do you want to take the duck back to your office? That’s okay.”  He turned back to his computer.
+“Qu’est-ce que tu attends ? Tu veux prendre le canard dans ton bureau ? C’est d’accord”. Il est retourné sur son ordinateur.
 
-“Qu’est-ce que tu attends ? Tu veux prendre le canard dans ton bureau ? C’est d’accord ?”. Il retourna à son ordinateur.
+Je suis resté assise quelques secondes.
 
-I sat there for a few seconds.
+“Tu ne dois pas faire une prière au canard. Tu parles au canard. Alors maintenant, soit tu commences à parler au canard soit tu prends le canard. Mais, parles au canard.”
 
-Je resta assise quelques secondes.
+Je suis heureuse de dire que ça a marché pour moi de parler au canard. Depuis, j’ai souvent utilisé cette technique.
 
-“You don’t pray to the duck. You talk to the duck. Now, either start talking to the duck or take the duck. But, talk to the duck.”
+Quelques fois, je parle quelqu’un. Tout ce qu’il doit dire c’est “Oh” ou “Uh huh” ou tout autre signe montrant qu’il est encore en vie et qu’il respire. Si je parle à la même personne trop souvent, je pense qu’au fond elle préfère que je parle au canard. 
 
-“Tu ne fais pas une prière au canard. Tu parles au canard. Alors maintenant, soit tu commences à parler au canard soit tu prends le canard. Mais, parles au canard.”
+Si vous êtes bloqués sur un problème, ne continuez pas à faire ce que vous faisiez les 20 dernières minutes. (C’est le temps maximum que je me donne lorsque je suis bloquée. Le votre est peut être plus long). Parlez au canard.
 
-I am happy to say that talking to the duck worked for me. I have used that technique often.
 
-Je suis heureuse de dire que ça a marché pour moi de parler au canard. Depuis, j’ai utilisé cette technique souvent.
-
-Sometimes, I talk to a person. All they have to do is say, “Oh,” or “Uh huh,” or some other acknowledgement that they still live and breathe. If I use one person too often, I suspect they prefer if I talked to a duck.
-
-Quelques fois, je parle à une personne. Tous ce qu’elle doit dire c’est “Oh” ou “Uh huh” ou un quelconque autre signe montrant qu’ils sont encore en vie et qu’ils respirent. Si je parle à une personne trop souvent, je pense que quelque part ils préfèrent que je parle au canard. 
-
-If you are stuck on a problem, don’t do the same thing you did for the past 20 minutes. (That’s my maximum time to be stuck. Yours might be longer.) Talk to the duck.
-
-Si vous êtes bloqués sur un problème, ne continuez pas à faire ce que vous faisiez les 20 dernières minutes. (C’est le temps maximum que je me donne lorsque je suis bloquée. Le votre pourrait être plus long). Parlez au canard.
-
-If you want the wikipedia reference, here it is: [Rubber Duck Debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging). Talk on.
-
-Au cas où vous voudriez un lien vers un article sur wikipedia, le voici : [Méthode du canard en plastique](https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique).
-
-Parlez-lui.
+Au cas où vous voudriez un lien vers un article sur wikipedia qui en parle, le voici : [Méthode du canard en plastique](https://fr.wikipedia.org/wiki/M%C3%A9thode_du_canard_en_plastique).
+Et soyez prêt à lui parler.
 
 ---  
 Auteur : [Johanna Rothman](https://plus.google.com/+TimOttinger)  
