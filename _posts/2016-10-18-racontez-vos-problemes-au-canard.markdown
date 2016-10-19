@@ -43,7 +43,7 @@ Au cas où vous voudriez un lien vers un article sur wikipedia qui en parle, le 
 Et soyez prêt à lui parler.
 
 ---  
-Auteur : [Johanna Rothman](https://plus.google.com/+TimOttinger)  
+Auteur : [Johanna Rothman](http://www.jrothman.com/about/)  
 Source : [Tell Your Problems to the Duck](http://www.jrothman.com/mpd/thinking/2016/06/tell-your-problems-to-the-duck/)  
 Date de parution originale : 03 Juin 2016  
 
