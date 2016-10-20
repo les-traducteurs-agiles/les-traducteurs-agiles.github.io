@@ -18,7 +18,7 @@ Si vous êtes un introverti, cela pourrait vous surprendre. En fait, étant donn
   <img title="canard" src="{{ site.url }}assets/johanna/rubber-ducks-197x300.jpeg" />
 </div>
 
-Il y a bien longtemps, je suis restée bloquer sur un problème. Je suis allée voir mon patron et il m’a dit de parler au conard.
+Il y a bien longtemps, je suis restée bloquer sur un problème. Je suis allée voir mon patron et il m’a dit de parler au canard.
 
 “Le canard ?” ai-je demandé. J’ai pensé qu’il avait perdu la tête.
 
