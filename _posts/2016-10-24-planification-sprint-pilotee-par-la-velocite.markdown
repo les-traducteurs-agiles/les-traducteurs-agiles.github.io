@@ -10,7 +10,7 @@ categories:
 
 Il existe généralement deux approches pour planifier les sprints : la planification pilotée par la vélocité et la planification pilotée par l’engagement. Au cours des trois prochains articles, je décrirai chacune de ces approches, et j’expliquerai laquelle je préfère et pourquoi.
 
-<div align="right" style="float:right; padding-right:30px" >
+<div align="right" style="float:right; padding-left:30px" >
   <img title="Vélocité" src="{{ site.url }}assets/mountain_goat/velocity.jpg" />
 </div>
 
