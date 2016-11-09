@@ -91,7 +91,7 @@ Toutefois, finir tout ce qu’ils ont dit qu’ils feraient 100% du temps ne dev
 ---  
 Auteur : [Mike Cohn](https://www.mountaingoatsoftware.com/company/about-mike-cohn)  
 Source : [Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning)  
-Date de parution originale : 21 Octobre 2014  
+Date de parution originale : 28 Octobre 2014  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
