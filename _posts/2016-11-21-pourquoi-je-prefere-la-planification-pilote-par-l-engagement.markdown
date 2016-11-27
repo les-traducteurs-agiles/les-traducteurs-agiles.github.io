@@ -94,7 +94,7 @@ Si vous avez déjà fait des planifications de sprints basées sur la vélocité
 ---  
 Auteur : [Mike Cohn](https://www.mountaingoatsoftware.com/company/about-mike-cohn)  
 Source : [Why I Prefer Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/why-i-prefer-commitment-driven-sprint-planning)  
-Date de parution originale : 21 Octobre 2014  
+Date de parution originale : 04 Novembre 2014  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
