@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pourquoi je préfère la planification pilotée par l’engagement"
-date:   2016-11-26 00:00:01
+date:   2016-11-27 00:00:01
 published: true
 categories: 
 - scrum
@@ -11,7 +11,7 @@ categories:
 Ces dernières semaines, j’ai décris deux approches alternatives de la planification de sprint : 
 
 <div align="right" style="float:right; padding-left:30px" >
-  <img title="Main" src="https://www.mountaingoatsoftware.com/uploads/blog/boxer-tattoos.jpg" />
+  <img title="Main" src="{{ site.url }}assets/mountain_goat/boxer-tattoos.jpg" />
 </div>
 
 * [La planification de sprint pilotée par la vélocité](http://www.les-traducteurs-agiles.org/scrum/planification/2016/10/25/planification-sprint-pilotee-par-la-velocite.html)
@@ -27,7 +27,7 @@ Dans la planification de sprint pilotée par la vélocité, l’équipe sélecti
 
 Dans la planification de sprint pilotée par l’engagement, l’équipe s’engage sur un item du _product backlog_ en identifiant et en estimant grosso modo les tâches qui y sont rattachées, et elle arrête ce processus lorsqu’elle estime que le sprint est remplit.
 
-Comme l’“engagement” est souvent confondu avec “garantie”, cette approche est plus connue sous le nom de planification de sprint basée sur la capacité
+Comme l’ “engagement” est souvent confondu avec “garantie”, cette approche est plus connue sous le nom de planification de sprint basée sur la capacité.
 
 ### La vélocité est fluctuante
 
@@ -43,11 +43,11 @@ Par exemple, la plupart des équipes qui font des estimations en points de story
 
 Dans le long terme, cela ne sera sans doute pas un problème, la loi des grands nombres peut se manifester et les choses pourront alors être se lisser dans le temps. Dans le court terme, toutefois, cela peut créer des problèmes.
 
-### Ancrage
+### Ancrage[^1]
 
 Un deuxième problème avec la planification de sprint basée sur la vélocité est due à l’effet d’ancrage. L’ancrage est la propension pour une estimation à être influencée de manière indue par une information parvenue précédemment.
 
-Un bon exemple d’ancrage qui me vient à l’esprit, c’est lorsque approche les fêtes de Noël. Supposez que vous allez dans un magasin et que vous voyez une veste qui vous plait. Il y a une étiquette indiquant $400 mais le prix est barré et un nouveau prix de $200 est marqué. Votre cerveau pense instantanément “Super ! Une veste de $400 pour seulement $200 !”. Et c’est bien la raison pour laquelle le magasin vous a indiqué l’ancien prix.
+Un bon exemple d’ancrage qui me vient à l’esprit, c’est lors de l’approche des fêtes de Noël. Supposez que vous allez dans un magasin et que vous voyez une veste qui vous plait. Il y a une étiquette indiquant $400 mais le prix est barré et un nouveau prix de $200 est marqué. Votre cerveau pense instantanément “Super ! Une veste de $400 pour seulement $200 !”. Et c’est bien la raison pour laquelle le magasin vous a indiqué l’ancien prix.
 
 Qui se préoccupe de savoir à quel prix se vendait cette veste avant ? C’est $200 aujourd’hui. C’est tout ce qui devrait compter dans votre décision d’acheter ou pas. Toutefois, une fois que l’information du prix de $400 est entrée dans votre cerveau, il est difficile de l’ignorer. Elle s’est insinuée dans votre esprit pour vous dire que vous faisiez une bonne affaire avec cette veste à $200.
 
@@ -67,7 +67,7 @@ Donc, à cause de l’ancrage, une équipe avec une vélocité moyenne de 20 est
 
 Cela conduira parfois les équipes à en faire moins qu’elles ne pourraient en faire. Cela pourrait aussi mener parfois les équipes à en faire plus. Mais dans ces cas de figure, mon expérience montre que les équipes sont plus enclines à laisser tomber un ou deux items de backlog. De manière générale, mon expérience montre aussi que les équipes ont plutôt tendance à abandonner des items plutôt qu’à en ajouter.
 
-### La vélocité est très utile dans le cadre d’une planification à long terme
+### La vélocité est très utile dans le cadre d’une planification sur le long terme
 
 J’imagine que vous pensez maintenant que je suis plutôt contre la planification de sprint pilotée par la vélocité. C’est seulement à moitié vrai. Même si je ne suis pas un grand fan de l’utilisation de la vélocité pour planifier un sprint, je suis sûrement l’un de ses plus grands fans au monde pour l’utilisation de la vélocité pour le long terme. Et j’ai certainement écris plus que quiconque à ce sujet.
 
@@ -85,10 +85,11 @@ Le quota est utile de la même manière que la vélocité peut l’être : sur l
 
 La vélocité est utile dans le long terme, pas dans le court terme. Une équipe avec 30 items dans le _product backlog_ à livrer peut faire la somme des estimations de ces items et prévoir quand ils seront terminés. Une équipe avec trois items dans le _product backlog_ à terminer aurait tout intérêt à faire la bonne vieille décomposition en tâches de ces trois items plutôt que de se reposer sur la vélocité.
 
-### Et maintenant, quoi ?
+### Et maintenant, je fais quoi ?
 
 Si vous avez déjà fait des planifications de sprints basées sur la vélocité et que cela fonctionne pour vous, ne changez rien. Toutefois, si votre équipe ou vous-même êtes novices en Scrum ou si votre équipe connaît certaines des difficultés que j’ai pu décrire ici, alors je vous recommande d’utiliser la planification de sprint basée sur l’engagement.
 
+[^1]: une définition simple de l’ancrage est disponible sur [Wikipedia](https://fr.wikipedia.org/wiki/Ancrage_(psychologie)) (NdT)
 
 ---  
 Auteur : [Mike Cohn](https://www.mountaingoatsoftware.com/company/about-mike-cohn)  
@@ -97,7 +98,7 @@ Date de parution originale : 21 Octobre 2014
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 26/11/2016
+Date de traduction : 27/11/2016
 
 ---
 
