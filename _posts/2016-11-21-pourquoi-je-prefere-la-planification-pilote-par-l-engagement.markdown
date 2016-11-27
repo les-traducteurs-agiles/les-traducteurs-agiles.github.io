@@ -33,7 +33,7 @@ Comme l’ “engagement” est souvent confondu avec “garantie”, cette appr
 
 Pour commencer à comprendre pourquoi je préfère l’approche pilotée par l’engagement pour la planification de sprint, considérons le diagramme ci-dessous nous montrant les vélocités d’une équipe sur une période de neuf sprints. La première chose que vous devriez remarquer est que la vélocité n’est pas stable. Elle fluctue de sprint en sprint.
 
-![Diagramme de représentation de la vélocité par rapport aux sprints]({{ site.url }}assets/mountain_goat/velocite_sprint_pourquoi.jpg)
+![Diagramme de représentation de la vélocité par rapport aux sprints]({{ site.url }}assets/mountain_goat/velocite_sprint_pourquoi.jpeg)
 
 Un premier inconvénient majeure d’une planification pilotée par la vélocité est que la vélocité fluctue trop pour vraiment être fiable dans une planification à court terme (c’est-à-dire au niveau du sprint). Mon expérience montre que la vélocité fluctue de plus ou moins 20%. Cela signifie qu’une équipe dont la vélocité est de 20 pourrait facilement se retrouver avec une vélocité de 16 sur un sprint puis 24 au prochain sprint, ou avoir une toute autre fluctuation tout aussi aléatoire.
 
