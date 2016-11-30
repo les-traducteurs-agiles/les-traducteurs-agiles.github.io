@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Il est victime de son succès : le Dark Scrum"
-date:   2016-11-27 00:00:01
+title:  "Scrum, victime de son succès : le Dark Scrum"
+date:   2016-11-30 00:00:01
 published: true
 categories: 
 - scrum
@@ -16,7 +16,7 @@ En même temps que le cadre de travail connaît une forte croissance, il y a de 
 
 Malheureusement, cette croissance rapide fait venir plus vite d’adeptes, qu’elle ne fait venir plus vite une compréhension approfondie du cadre de travail. Il y a de plus en plus de membres, mais la compréhension moyenne diminue.
 
-`Nous avons du succès. Nous sommes seulement pas très bon, du moins en moyenne. Notre moyenne diminue. Aucun de nos enfants n’est maintenant au-dessus de la moyenne[^1].`
+> Nous avons du succès. Simplement, nous sommes pas très bon, enfin du moins en moyenne. Notre moyenne diminue. Aucun de nos enfants n’est maintenant au-dessus de la moyenne [^1].
 
 Et ces bonnes idées rencontrent un tel succès qu’il y a une demande pour avoir des gens pouvant aider à guider les autres dans le cadre de travail. Nous créons des formateurs et des coachs qui, malgré la meilleure volonté du monde dont ils peuvent faire preuve, ne possèdent pas eux-mêmes une grande expérience avec. Ils ne comprennent pas tout à fait les problématiques les plus cruciales. Mais, parce que la demande est élevée, ils rencontreront probablement un certain succès, pour amèner de plus en plus de personnes dans le giron.
 
@@ -32,12 +32,12 @@ Moins de 2% de tous les ScrumMasters certifiés sont devenus des professionnels 
 
 Cela semble avoir du sens.
 
-`Scrum, c’est bien.
+> Scrum, c’est bien.
 Les ScrumMasters certifiés, c’est bien.
 Nous avons besoin de davantage de ScrumMasters certifiés.
 Nous avons besoin de davantage de formateurs de ScrumMasters certifiés.
 Les formateurs de ScrumMasters certifiés rapportent pas mal d’argent.
-Relisez à nouveau`
+Relisez à nouveau
 
 Et pendant ce temps-là, le niveau moyen de compétence des pratiquants Scrum est tiré vers le bas par la seule présence de l’arrivée d’un nombre croissant de débutants. Cela devient difficile de leur vendre davantage de formations. C’est même risqué de le faire. Il est moins risqué de donner la formation de ScrumMaster certifié. Il y a une forte demande là-dessus, après tout.
 
@@ -49,7 +49,7 @@ Nous voyons la même chose avec “Agile”. Un certain nombre des personnes ave
 
 ### Un espoir qui vient de l’entreprise ?
 
-Oh, il y a bien quelques personnes qui offrent de l’espoir. Il y a une attention croissante de pousser les idées “Agile” au cœur de l’entreprise. Il y a un intérêt dans le “Leadership Agile”. Apparemment un “Leader Agile” suffisamment haut placé peut diffuser et imprégner davantage de personnes des véritables valeurs, principes et pratiques qui permettent d’arriver à un réel succès. Avec le temps, cette démarche peut descendre le long des ramifications jusqu’aux feuilles de l’arbre de l’organisation dans lesquelles le travail est véritablement fait. Lorsque cela arrive, de plus en plus de travail sera transformé, et de plus en plus de personnes qui travaillent verront leurs vies s’améliorer.
+Oh, il y a bien quelques personnes qui offrent de l’espoir. Il y a une attention croissante pour pousser les idées “Agile” au cœur de l’entreprise. Il y a un intérêt dans le “Leadership Agile”. Apparemment un “Leader Agile” suffisamment haut placé peut diffuser et imprégner davantage de personnes des véritables valeurs, principes et pratiques qui permettent d’arriver à un réel succès. Avec le temps, cette démarche peut descendre le long des ramifications jusqu’aux feuilles de l’arbre de l’organisation dans lesquelles le travail est véritablement fait. Lorsque cela arrive, de plus en plus de travail sera transformé, et de plus en plus de personnes qui travaillent verront leurs vies s’améliorer.
 
 Du moins c’est la théorie. Je trouve cela un peu difficile de voir pourquoi un dirigeant haut placé ferait sien les valeurs et les principes d’Agile sans avoir expérimenter la réactivité face au changement que ces valeurs et principes promettent. Je vois donc deux résultats possibles :
 
@@ -59,8 +59,6 @@ Ensuite, lorsque Scrum est mal appliqué, il n’apporte que peu de valeurs, mê
 
 Certains de mes compagnons co-auteurs du Manifeste pourraient dire que le cheval est déjà sellé. Et peut être l’est-il effectivement.
 
-I didn’t get into this stuff to help the enterprise continue itself. I got into it because doing XP and Scrum can improve productivity of teams, produce better products, and make people’s work lives more enjoyable. Is that still possible? I hope so. We’ll explore more possibilities as this series continues. Meanwhile …
-
 Je ne suis pas rentré dans ce boulot pour aider les entreprises à continuer à faire pareil. Je m’y suis mis parce que XP et Scrum peuvent aider à améliorer la productivité des équipes, à produire de meilleurs produits, et à rendre la vie des gens au travail meilleure. Est-ce que c’est toujours possible ? Je l’espère bien. Nous allons continuer d’explorer d’autres possibilités tout au long de cette série d’articles. En attendant …
 
 ### En résumé
@@ -69,7 +67,7 @@ D’une manière ou d’une autre, ce qui a commencé comme étant, pour un grou
 
 Scrum et “Agile” sont une très grande réussite en terme de chiffres, mais les avantages réels ne sont pas aussi mirobolants, et en sont même très loins. C’est un bon business. C’est tout de même un peu mieux pour le métier. Et bien trop souvent, c’est toujours pas bon pour les personnes qui font le boulot.
 
-Et le Dark Scrum continue de se développer. Mais les rapports Jira semblent bons. C’est cool.
+Et le Dark Scrum continue de se développer. Mais les rapports Jira semblent bons. C’est cool, hein.
 
 [^1]: Peut-être devrions-nous appeler cela l’effet Keillor, d’après le nom du grand Garrison Keillor ([écrivain et humoriste américain](https://fr.wikipedia.org/wiki/Garrison_Keillor) - NdT)
 
@@ -89,7 +87,7 @@ Date de parution originale : 13 Septembre 2016
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 20/11/2016  
+Date de traduction : 30/11/2016  
 
 ---
 
