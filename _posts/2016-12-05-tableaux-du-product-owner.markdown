@@ -5,6 +5,7 @@ date:   2016-12-07 00:00:01
 published: true
 categories: 
 - scrum
+- product-owner
 ---
 
 L’équipe a un radiateur d’information avec son tableau Scrum et c’est une excellente manière pour avoir une vue globale sur le sprint. Mais, et nous les _product owners_ ? N’avons-nous pas besoin d’en avoir un aussi ? Bien sûr que oui, nous avons nous aussi besoin d’avoir une vue globale de notre travail et de diffuser de l’information. Aux parties prenantes qui passent par là et qui demandent “qu’est-ce qu’il y aura dans le prochain sprint ?”, “quand est-ce que nous allons migrer”, nous aimerions leur répondre d’un simple geste de la main vers le mur pour leur indiquer que c’est là, affiché aux yeux de tous.
@@ -22,7 +23,7 @@ Chacun des deux tableaux sont dessinés l’un à côté de l’autre sur un tab
 Il est sûr que maintenant vous êtes déjà allé vers le bas de la page pour voir les images des tableaux. Il m’est impossible de vous montrer les vrais tableaux donc vous devrez vous contenter de ces maquettes.
 
 ![Tableau 1 Projets et Produits]({{ site.url }}assets/per_lundholm/Tableau1.png)  
-Tableau 1 Projets et Produits
+Tableau 1 - Projets et Produits
 
 C’était le premier tableau. Nous trouvons ensuite les projets dans le second tableau.
 
