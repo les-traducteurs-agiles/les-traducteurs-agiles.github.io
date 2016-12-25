@@ -11,7 +11,7 @@ categories:
 
 Le poster suivant a été fait dans le cadre d’un cours d’introduction sur l’Agile animé lors de la session Hyper Island Digital Business 2017 par mon collègue Per Lundholm et moi-même la semaine dernière. Le niveau de cette formation d’une quarantaine de personnes était assez hétérogène allant de quelques personnes expertes à une grosse majorité novice sur le sujet, ce qui est généralement, pour un formateur ou un coach, une situation des plus délicate. Mais cette session s’est bien passée, peut être pas totalement grâce au poster mais ce dernier a sûrement facilité les choses à la fois pour moi, pour Per en tant que formateurs et aussi pour les stagiaires qui pouvaient prendre des notes et suivre plus facilement.
 
-Le poster est à téléchargerà partir de ce [lien]({{ site.url }}assets/mia_kolmodin/Agile-en-resume-poster-2016-ver11-fr.png)
+Le poster est à télécharger à partir de ce [lien]({{ site.url }}assets/mia_kolmodin/Agile-en-resume-poster-2016-ver11-fr.pdf)
 
 ![Poster “Agile en résumé”]({{ site.url }}assets/mia_kolmodin/Agile_en_resume.png)
 
