@@ -40,7 +40,7 @@ Annotation n°2 : Je veux simplement dire merci après tous les retours positifs
 ---
 Auteur : [Mia Kolmodin](https://www.crisp.se/konsulter/mia-kolmodin/)  
 Source : [Poster on Agile in a Nutshell – with a spice of Lean UX](http://blog.crisp.se/2016/10/09/miakolmodin/poster-on-agile-in-a-nutshell-with-a-spice-of-lean)  
-Date de parution originale : 19 Mai 2015  
+Date de parution originale : 09 Octobre 2016  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
