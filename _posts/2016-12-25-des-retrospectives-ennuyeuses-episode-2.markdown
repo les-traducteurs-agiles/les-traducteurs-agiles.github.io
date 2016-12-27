@@ -20,7 +20,7 @@ Si vous choisissez l’option 2, il existe de bons exercices pouvant aider votre
 
 Pour les débutants, je conseille le livre [Agile Retrospectives](http://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649) d’Esther Derby & Diana Larsen. Ce livre contient une liste de pratiques que vous pouvez utiliser pour apporter de la variété dans vos rétrospectives et qui vous donneront de l’inspiration pour y apporter vos propres variantes.
 
-En voici une utilisée récemment et que j’ai nommé “actions au centre”. Elle est basée sur la pratique “prise de la température”. De manière similaire à l’exercice de [l’étoile de mer](fsdfd), elle a changé notre point de vue et par voie de conséquence elle nous a permis de trouver de nouveaux domaines d’amélioration.
+En voici une utilisée récemment et que j’ai nommé “actions au centre”. Elle est basée sur la pratique “prise de la température”. De manière similaire à l’exercice de [l’étoile de mer](http://www.les-traducteurs-agiles.org/agile/retrospective/2016/12/14/des-retrospectives-ennuyeuses-episode-1.html), elle a changé notre point de vue et par voie de conséquence elle nous a permis de trouver de nouveaux domaines d’amélioration.
 
 Voici comme ça marche.
 
