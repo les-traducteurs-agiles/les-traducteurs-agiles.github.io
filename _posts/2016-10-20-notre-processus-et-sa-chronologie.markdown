@@ -30,6 +30,8 @@ Si nous voulons affiner notre modèle économique et en apprendre davantage, nou
 
 ![image]({{ site.url }}assets/process_timeline/AONW_6_fr.png)
 
+Cliquer [ici]({{ site.url }}assets/process_timeline/AONW_6_fr.png) pour télécharger l’image.
+
 Et pour être certain de notre efficacité dans notre processus, le [lean](https://fr.wikipedia.org/wiki/Lean#Lean_software_development) est notre allié pour l’analyser constamment, supprimer tout gaspillage, responsabiliser l’équipe et réduire notre temps de cycle.
 
 ---  
