@@ -30,7 +30,7 @@ Si nous voulons affiner notre modèle économique et en apprendre davantage, nou
 
 ![image]({{ site.url }}assets/process_timeline/AONW_6_fr.png)
 
-Cliquer [ici]({{ site.url }}assets/process_timeline/AONW_6_fr.png) pour télécharger l’image.
+Cliquer [sur ce lien]({{ site.url }}assets/process_timeline/AONW_6_fr.png) pour télécharger l’image de notre processus.
 
 Et pour être certain de notre efficacité dans notre processus, le [lean](https://fr.wikipedia.org/wiki/Lean#Lean_software_development) est notre allié pour l’analyser constamment, supprimer tout gaspillage, responsabiliser l’équipe et réduire notre temps de cycle.
 
@@ -42,6 +42,7 @@ Date de parution originale : 07 Février 2012
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relecteur : [Sylvain Fraïsse](http://www.les-traducteurs-agiles.org/traducteurs/)
 Date de traduction : 31/12/2016  
 
 ---
