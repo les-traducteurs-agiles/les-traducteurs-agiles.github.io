@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le modèle INVEST - I comme des _stories_ Indépendantes"
+title:  "Le modèle INVEST - I comme stories Indépendantes"
 date:   2017-02-21 00:00:01
 published: true
 tags: 
