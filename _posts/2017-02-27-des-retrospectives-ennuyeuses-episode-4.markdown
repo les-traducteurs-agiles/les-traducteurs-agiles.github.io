@@ -8,47 +8,26 @@ tags:
 - retrospective
 ---
 
-The previous weeks have been quite busy and the result was that I couldn’t keep up with my goal to write at least one blog post a week.
-
-Ces dernières semaines furent assez chargées et cela a eu comme conséquence que je n’ai pas été capable de tenir mon objectif d’écrire au moins un article sur ce blog par semaine.
-
-Let me try to make it up.
+Ces dernières semaines ont été assez chargées et cela a eu comme conséquence que je n’ai pas été capable de tenir mon objectif d’écrire au moins un article sur ce blog par semaine.
 
 Je vais essayer de rattraper cela.
 
-This is a post in the series of ‘Boring Retrospectives’ where I try to share an interesting idea or exercise that can bring some variation into the meeting.
+Voici un article qui s’inscrit dans la série “Rétrospectives ennuyeuses” dans laquelle j’essaye de partager des idées intéressantes ou des exercices pouvant apporter quelques variantes à cette réunion.
 
-Voici un article qui s’inscrit dans la série “Rétrospectives ennuyeuses” dans laquelle j’essaye de partager des idées intéressantes ou des exercices pouvant apporter un peu de variété à cette réunion.
-
-If you feel that your team is stuck in the same discussions over and over again, you might want to try brainwriting.
-
-Si vous sentez que votre équipe est engluée encore et encore dans les mêmes discussions, vous pourriez donner sa chance au  _brainwriting_.
-
-This technique has a bit of anonymity to it that often helps people to share their true feelings.
+Si vous sentez que votre équipe est engluée encore et encore dans les mêmes discussions, vous pourriez alors envisager de donner sa chance au  _brainwriting_.
 
 Cette technique, bien que moins connue que d’autres, permet souvent d’aider les gens à pouvoir partager ce qu’ils ressentent vraiment.
 
-I often apply it like this:
-
 Je l’utilise souvent de la manière suivante :
-
-* When you have distilled a number of improvement areas, write each one of them on the top of an index card or large post it.
-* Then we hand one over to each team member.
-* For 2 minutes everyone reflects and writes down his personal thoughts on the index card.
-* When time’s up, we each hand over our index card to our neighbor and start again with the new one, over and over again until we have seen each improvement area.
-* Then, one at a time, we go over the post-its, and discuss as a group.
 
 * Quand vous avez évoqué un certain nombre de domaines à améliorer, écrivez chacun d’eux en haut d’une fiche cartonnée ou sur une grande note adhésive. 
 * Puis donnez-en une à chacun des membres de l’équipe.
 * Chaque personne réfléchit pendant 2 minutes et inscrit ses réflexions personnelles sur la fiche.
-* Lorsque le temps s’est écoulé, chacun passe sa carte à son voisin et c’est repartit pour un tour avec cette nouvelle carte en main, et on continu jusqu’à ce que tout le monde ait vu chaque domaine à améliorer.
-* Ensuite, une fiche à la fois, nous passons en revue ce qui est écrit dessus et en discutons en groupe.
+* Lorsque le temps s’est écoulé, chacun passe sa carte à son voisin et c’est repartit pour un tour avec cette nouvelle carte en main, et on continue jusqu’à ce que tout le monde ait vu chaque domaine à améliorer.
+* Ensuite, une fiche à la fois, nous passons en revue ce qui est écrit dessus et nous en discutons en groupe.
 
-You ‘ll be amazed by how many different ideas are written onto the post it at the end.
-Different views lead to different opinions, which in group are not always discussed.  By using brainwriting as a technique, you might discover new stuff to improve.
-
-Vous serez surpris à la fin du nombre d’idées différentes qui peuvent être inscrites sur une fiche.
-Différents points de vues mènent à différentes opinions, qui ne pas toujours évoqués en groupe. En utilisant la technique du _brainwriting_, vous pourriez découvrir de nouvelles choses à améliorer.
+À la fin, vous serez surpris du nombre d’idées différentes qui peuvent être inscrites sur une fiche.
+Différents points de vues mènent à différentes opinions, ceux-ci ne sont pas toujours évoqués en groupe. En utilisant la technique du _brainwriting_, vous pourriez découvrir de nouvelles choses à améliorer.
 
 <div align="center">
   <img title="brainwriting" src="{{ site.url }}assets/retrospectives_ennuyeuses/brainwriting1_fr.png" />
