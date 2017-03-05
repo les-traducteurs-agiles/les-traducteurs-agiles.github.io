@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le développement Agile & Scrum en résumé"
+title:  "Le développement Agile & Scrum - les fondamentaux"
 date:   2017-03-05 00:00:01
 published: true
 tags: 
