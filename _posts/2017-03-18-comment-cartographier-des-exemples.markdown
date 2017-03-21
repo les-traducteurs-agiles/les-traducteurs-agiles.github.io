@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Présentation de la carte des exemples"
-date:   2017-03-18 00:00:01
+title:  "Présentation de la cartographie des exemples"
+date:   2017-03-21 00:00:01
 published: true
 tags: 
 - user story
@@ -16,7 +16,7 @@ Certaines personnes le font pendant leurs sessions d’affinage de _backlog_ ou 
 
 Peu importe le nom que vous donnez à cette conversation, un certain nombre d’équipes éprouvent des difficultés à la tenir : la conversation n’est pas structurée, elle est trop longue et ennuyeuse. Par conséquent, ces réunions ne sont pas faites régulièrement ou systématiquement, ou abandonnées tout simplement.
 
-J’ai découvert une méthode simple, rudimentaire pour faire en sorte que cette conversation demeure la plus brève possible tout en restant très productive. Je la nomme la [carte des exemples](https://twitter.com/search?q=%23ExampleMapping).
+J’ai découvert une méthode simple, rudimentaire pour faire en sorte que cette conversation demeure la plus brève possible tout en restant très productive. Je la nomme la [cartographie des exemples](https://twitter.com/search?q=%23ExampleMapping).
 
 ## Comment ça marche ?
 
@@ -26,7 +26,7 @@ Les exemples concrets sont des moyens formidables pour nous permettre d’explor
 * des _questions_ sur des scénarii dont personne ne sait quel devrait être le résultat. Ou des _hypothèses_ que nous faisons au fur et à mesure que nous avançons.
 * de nouvelles _user stories_ que nous découvrons, affinons ou écartons sur ce périmètre.
 
-Pour faire une carte des exemples, il vous faut un [paquet de fiches cartonnées de 4 couleurs différentes](http://www.staples.com/Staples-Assorted-Color-Index-Cards/product_SS1037669) et des stylos pour noter les différents types d’information qui arrivent pendant la conversation. Au cours de la discussion, nous les notons sur les fiches cartonnées et nous les organisons sous la forme d’une carte :
+Pour faire une carte des exemples, il vous faut un [paquet de fiches bristol de 4 couleurs différentes](http://www.staples.com/Staples-Assorted-Color-Index-Cards/product_SS1037669) et des stylos pour noter les différents types d’information qui arrivent pendant la conversation. Au cours de la discussion, nous les notons sur les fiches cartonnées et nous les organisons sous la forme d’une carte :
 
 ![Carte des exemples]({{ site.url }}assets/cartographier_exemples/cartographie_exemple_fr.jpg)
 
@@ -98,7 +98,7 @@ Lorsqu’une conversation comme celle-ci tourne en rond, c’est parce que vous 
 
 À la place de laisser chacun faire part de son opinion sur ce qu’il pense que le résultat devrait être, essayez simplement de noter la question et de poursuivre. Félicitations ! Vous avez simplement transformé quelque chose d’inconnu inconnu en _inconnu connu_. C’est un net progrès.
 
-Beaucoup de personnes me disent que ce seul aspect de la carte des exemples a transformé leurs atelier de découverte de randonnée sans fin et ennuyeuses à des sessions éclairs de remues-méninges productives.
+Beaucoup de personnes me disent que ce seul aspect de la cartographie des exemples a transformé leurs atelier de découverte de randonnée sans fin et ennuyeuses à des sessions éclairs de remues-méninges productives.
 
 ## Qui devrait venir ?
 
@@ -157,7 +157,7 @@ Date de parution originale : 08 Décembre 2015
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 21/3/2017  
+Date de traduction : 21/03/2017  
 
 ---
 
