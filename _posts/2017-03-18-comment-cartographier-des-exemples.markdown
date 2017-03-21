@@ -8,7 +8,7 @@ tags:
 - outils
 ---
 
-![Cartes et stylos]({{ site.url }}assets/cartographier_exemples/titre_cartographie_exemple.png)
+![Cartes et stylos]({{ site.url }}assets/cartographier_exemples/titre_cartographie_exemple.jpg)
 
 Avant de mettre en développement une _user story_, avoir une [conversation pour clarifier et valider](http://wiki.ayeba.fr/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation) les critères d’acceptation est vital.
 
@@ -78,17 +78,19 @@ Je pense que le véritable objectif, est d’obtenir une _compréhension partag�
 
 Donc à la place de vouloir obtenir des scenarii Gherkin complets et formels, essayez seulement de noter une liste d’_exemples bruts_, en utilisant la convention de nommage dite des _épisodes de Friends_[^5].
 
+![Carte verte]({{ site.url }}assets/cartographier_exemples/carte_verte.jpg)
+
 Par exemple :
 
 * Celui dans lequel le client a perdu sa facture
 * Celui dans lequel le produit est endommagé
 * Celui dans lequel le produit a été acheté il y a quinze jours
 
-Certaines fois, lorsque l’incertitude monte, instinctivement vous pourriez vouloir  avoir quelque chose de plus concret. À ce niveau-là, vous n’avez pas toujours pas besoin pour l’instant d’avoir recours à la structure rigide _Give When Then_[^6] (Étant donné Quand Alors en VF) :
+Certaines fois, lorsque l’incertitude monte, instinctivement vous pourriez vouloir  avoir quelque chose de plus concret. À ce niveau-là, vous n’avez pas toujours pas besoin pour l’instant d’avoir recours à la structure rigide _Give When Then_[^6] :
 
-![Carte verte]({{ site.url }}assets/cartographier_exemples/carte_verte.jpg)
+![Carte verte]({{ site.url }}assets/cartographier_exemples/carte_verte_exemple.jpg)
 
-Lorsque le résultat (Then ou Alors en VF) n’est pas clair, alors c’est que vous n’avez pas un exemple mais que vous avez une question.
+Lorsque le résultat (Then[^6]) n’est pas clair, alors c’est que vous n’avez pas un exemple mais que vous avez une question.
 
 ## Inconnus connus
 
@@ -148,7 +150,7 @@ Vous trouverez que les règles font des lignes de fractures naturelles pour frac
 
 [^5]: Tous les titres des épisodes de la série Friends commencent par The One Where … soit Celui dans lequel - NdT
 
-[^6]: Les mots Given When Then sont les mots-clés utilisés dans la syntaxe Gherkin - NdT
+[^6]: Les mots Given When Then sont les mots-clés utilisés dans la syntaxe Gherkin - Given correspond à Etant donné (un certain contexte) Quand (je fais une certaine action) Alors (il doit se passer ceci ou cela) NdT
 
 ---
 Auteur : [Matt Wynne](https://cucumber.io/#company)  
