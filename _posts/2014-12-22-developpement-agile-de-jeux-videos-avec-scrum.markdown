@@ -7,9 +7,7 @@ categories: Scrum equipe
 
 ---
 Note du traducteur :  Ce chapitre est extrait du livre Agile Game Development (ISBN 0321618521, copyright 2010 Clinton Keith), il est reproduit et traduit avec la permission de l'auteur et de Pearson Education.  
-Cette traduction existe également au format  [epub](https://dl.dropboxusercontent.com/u/50968566/AgileGameDevelopmentWithScrum-FR/Developpement%20agile%20de%20jeux%20videos%20avec%20Scrum.epub
-) et [pdf](https://dl.dropboxusercontent.com/u/50968566/AgileGameDevelopmentWithScrum-FR/Developpement%20agile%20de%20jeux%20videos%20avec%20Scrum.pdf
-).  
+Cette traduction existe également au format  [epub](https://www.dropbox.com/s/b9tx8taesforbuc/Developpement%20agile%20de%20jeux%20videos%20avec%20Scrum.epub?dl=0) et [pdf](https://www.dropbox.com/s/hx5q5kwd5ar6o7o/Developpement%20agile%20de%20jeux%20videos%20avec%20Scrum.pdf?dl=0).  
 
 ---
 <p>&nbsp;</p>  
