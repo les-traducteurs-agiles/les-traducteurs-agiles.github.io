@@ -7,7 +7,7 @@ categories: agile fiche outil
 
 ![Les bases de la gestion de configuration]({{ site.url }}assets/une_page/gestion_configuration.jpg)
 
-À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/La_gestion_de_configuration_sur_une_page.pdf)  
+À télécharger [ici](https://www.dropbox.com/s/7x69gd5eg4t33vy/La_gestion_de_configuration_sur_une_page.pdf?dl=0)  
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
