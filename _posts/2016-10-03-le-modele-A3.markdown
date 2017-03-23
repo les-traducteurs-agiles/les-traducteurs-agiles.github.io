@@ -11,9 +11,9 @@ Un des fondements essentiels de la pensée Lean c’est le Kaizen — le process
 
 Vous trouverez à télécharger ci-après un modèle A3 ainsi qu’un exemple réel de résolution de problème.
 
-* [Modèle A3 au format PDF](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.pdf)
-* [Modèle A3 au format Powerpoint (pptx)](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.pptx)
-* [Modèle A3 au format LibreOffice (odp)](https://dl.dropboxusercontent.com/u/50968566/A3/A3%20problem%20solving%20template%20fr.odp)
+* [Modèle A3 au format PDF](https://www.dropbox.com/s/4yiztqp9ay6wvfw/A3%20problem%20solving%20template%20fr.pdf?dl=0)
+* [Modèle A3 au format Powerpoint (pptx)](https://www.dropbox.com/s/8etzk80aoffl7ni/A3%20problem%20solving%20template%20fr.pptx?dl=0)
+* [Modèle A3 au format LibreOffice (odp)](https://www.dropbox.com/s/c8860xphz6pkm2v/A3%20problem%20solving%20template%20fr.odp?dl=0)
 
 
 ![A3]({{ site.url }}assets/A3/A3.png)
