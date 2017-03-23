@@ -15,12 +15,12 @@ Un canevas d’opportunité est un simple document d’une page que j’aime uti
 
 À cause de la masse d’idées de nouvelles fonctionnalités que nous pourrions ajouter au produit, nous devrions prendre en considération les problèmes spécifiques des utilisateurs que nous sommes amener à solutionner, et à la manière à laquelle nous pensons qu’ils pourraient utiliser notre solution . Et comme il ne s’agit pas seulement que des utilisateurs, nous devrions discuter de la manière dont les utilisateurs remettent en question et bousculent votre entreprise, et par conséquent comment les aider eux, permet d’aider également votre entreprise. Tout ceci permet de comprendre comment nous mesurons le succès du produit. La canevas d’opportunité aide à mener cette discussion.
 
-Si vous voulez l’essayez et lui donner sa chance, allez-y et [téléchargez-le pdf ici](https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_fr.pdf).
+Si vous voulez l’essayez et lui donner sa chance, allez-y et [téléchargez-le pdf ici](https://www.dropbox.com/s/nm2rl61p2po7lp9/opportunity_canvas_fr.pdf?dl=0).
 
 Si vous voulez l’adaptez à vos besoins, voici le document original. Il est sous Powerpoint sans aucune fioriture.
 
-* À télécharger au format pdf : [https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_fr.pdf](https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_fr.pdf)
-* À télécharger au format pptx : [https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_editable_en_fr_jp.pptx](https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_editable_en_fr_jp.pptx)
+* À télécharger au format pdf : [https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_fr.pdf](https://www.dropbox.com/s/nm2rl61p2po7lp9/opportunity_canvas_fr.pdf?dl=0)
+* À télécharger au format pptx : [https://dl.dropboxusercontent.com/u/50968566/quickrefs/opportunity_canvas_editable_en_fr_jp.pptx](https://www.dropbox.com/s/nx2mfm2c1eddvvb/opportunity_canvas_editable_en_fr_jp.pptx?dl=0)
 
 ## Restez au courant
 
