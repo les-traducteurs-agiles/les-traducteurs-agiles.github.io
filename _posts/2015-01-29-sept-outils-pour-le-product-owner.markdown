@@ -7,7 +7,7 @@ categories: outil
 
 ![7 outils pour le Product Owner]({{ site.url }}assets/7_outils_po/7_outils_pour_le_product_owner.png)
 
-À télécharger en [pdf](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.pdf) ou en [odt](https://dl.dropboxusercontent.com/u/50968566/7_outils_po/7%20outils%20pour%20le%20Product%20Owner.odt)  
+À télécharger en [pdf](https://www.dropbox.com/s/915013ixv4ctqbt/7%20outils%20pour%20le%20Product%20Owner.pdf?dl=0) ou en [odt](https://www.dropbox.com/s/suwu6s7s2poom45/7%20outils%20pour%20le%20Product%20Owner.odt?dl=0)  
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
