@@ -12,7 +12,7 @@ categories:
   <img title="Miniature" src="{{ site.url }}assets/quickrefs/story_mapping_fr.png" />
 </div>
 
-À lire au format PDF en cliquant [ici](https://dl.dropboxusercontent.com/u/50968566/quickrefs/cartographie_de_stories_guide_rapide.pdf).
+À lire au format PDF en cliquant [ici](https://www.dropbox.com/s/ai01o6nnlyyrp32/cartographie_de_stories_guide_rapide.pdf?dl=0).
 
 
 ---  
