@@ -11,7 +11,8 @@ voici quelques exemples de nos traductions présentes sur le site du [wiki ayeba
 * [XP, l'essentiel - Carte, Conversation, Confirmation](http://ayeba.wikispaces.com/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation)
 * [Éviter l'itération zéro](http://ayeba.wikispaces.com/Eviter+l%27it%C3%A9ration+z%C3%A9ro)
 * [La rétrospective en étoile de mer](http://ayeba.wikispaces.com/La+r%C3%A9trospective+en+%C3%A9toile+de+mer)
-* [Scrum, le guide du maître](http://www.les-traducteurs-agiles.org/equipe/scrum/2014/07/03/scrum-le-guide-du-maitre.html) : [PDF](https://www.dropbox.com/s/wnkpowhigy0aw43/Scrum-Le-guide-du-ma%C3%AEtre.pdf?dl=0), [Epub](https://www.dropbox.com/s/9hbmyj457o4mr2x/Scrum-Le-guide-du-ma%C3%AEtre.epub?dl=0)  
+* [Scrum, le guide du maître](http://www.les-traducteurs-agiles.org/equipe/scrum/2014/07/03/scrum-le-guide-du-maitre.html) : [PDF](https://www.dropbox.com/s/wnkpowhigy0aw43/Scrum-Le-guide-du-ma%C3%AEtre.pdf?dl=0), [Epub](https://www.dropbox.com/s/9hbmyj457o4mr2x/Scrum-Le-guide-du-ma%C3%AEtre.epub?dl=0)
+* [L’estimation est malfaisante](http://www.les-traducteurs-agiles.org/estimation/scrum/xp/2014/06/04/l-estimation-est-malfaisante.html) : [PDF](https://www.dropbox.com/s/wybc3bbbjed13xd/L-estimation-est-malfaisante.pdf?dl=0), [Epub](https://www.dropbox.com/s/pb88bs595u1qrp8/L-estimation-est-malfaisante.epub?dl=0)  
 
 ### <a name="livres"></a> (Mini) livres
 * [Lean depuis les tranchées](http://ayeba.wikispaces.com/Lean+depuis+les+tranch%C3%A9es)
