@@ -7,7 +7,7 @@ categories: xp fiche outil
 
 ![XP sur une page]({{ site.url }}assets/une_page/xp.jpg)
 
-À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/XP_sur_une_page.pdf)  
+À télécharger [ici](https://www.dropbox.com/s/wfa5z525soedzbb/XP_sur_une_page.pdf?dl=0)  
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
