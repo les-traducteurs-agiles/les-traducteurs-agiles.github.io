@@ -26,11 +26,11 @@ Durée de la présentation : environ 180 minutes
 
 ![présentation]({{ site.url }}assets/usm/cartographies_des_user_stories.png)
 
-Présentation à lire au format : [PPTX](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.pptx), [ODG](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.odp), [PDF](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Cartographie_des_user_stories.pdf)
+Présentation à lire au format : [PPTX](https://www.dropbox.com/s/hlplmj904yphm2d/Cartographie_des_user_stories.pptx?dl=0), [ODP](https://www.dropbox.com/s/jg67j5msg1ri1jn/Cartographie_des_user_stories.odp?dl=0), [PDF](https://www.dropbox.com/s/u4k8fa8a70s6b1j/Cartographie_des_user_stories.pdf?dl=0)
 
 ![article]({{ site.url }}assets/usm/tout_est_dans_la_maniere_dont_vous_le_decoupez.png)
 
-Article à lire au format [PDF](https://dl.dropboxusercontent.com/u/50968566/Cartographie_user_stories/Tout_est_dans_la_mani%C3%A8re_dont_vous_d%C3%A9coupez.pdf)
+Article à lire au format [PDF](https://www.dropbox.com/s/dbr40nhbr3yl8tw/Tout_est_dans_la_mani%C3%A8re_dont_vous_d%C3%A9coupez.pdf?dl=0)
 
 ---  
 Auteur : [Jeff Patton](http://jpattonassociates.com/about-jeff-patton/)  
