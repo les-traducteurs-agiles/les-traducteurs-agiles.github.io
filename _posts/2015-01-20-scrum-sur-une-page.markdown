@@ -7,7 +7,7 @@ categories: scrum fiche outil
 
 ![Scrum sur une page]({{ site.url }}assets/une_page/scrum.jpg)
 
-À télécharger [ici](https://dl.dropboxusercontent.com/u/50968566/sur_une_page/Scrum_sur_une_page.pdf)  
+À télécharger [ici](https://www.dropbox.com/s/8grqjneoaq12l92/Scrum_sur_une_page.pdf?dl=0)  
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
