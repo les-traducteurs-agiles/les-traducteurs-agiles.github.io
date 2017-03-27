@@ -41,7 +41,7 @@ Faites donc un essai. Au pire des cas, vous aurez au moins eu une rétrospective
 ---
 Auteur : [Nick Oostvogels](https://skycoach.be/ss/)  
 Source : [Boring retrospectives - part 6](https://skycoach.be/2011/10/10/boring-retrospectives-part-5-reverse-timeline/)  
-Date de parution originale : 10 Octobre 2010  
+Date de parution originale : 10 Octobre 2011  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
