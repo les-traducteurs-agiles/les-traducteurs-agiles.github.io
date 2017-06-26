@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Faire du Scrum sans être agile"
-date:   2017-06-25 00:00:01
+date:   2017-06-26 00:00:01
 published: true
 tags: 
 - agile
@@ -73,9 +73,7 @@ Ces raisons ne s’en vont pas du jour au lendemain d’un coup de baguette magi
 * En passant d’énormes conception détaillées à des résultats basés sur des objectifs détaillés à court terme
 * En remplaçant des documents écrits par des conversations en face à face
 
-There is a slow transformation away from managing for components to managing for player outcomes that doesn't occur overnight, but this transformation can begin immediately and the benefits can be seen every iteration.
-
-Passer de la gestion de composants à la gestion des résultats des joueurs est le fruit d’une transformation lente qui ne peut se produire d’un simple claquement de doigts, mais cette transformation peut commencer immédiatement et les bénéfices constatées à chaque itération.
+Passer de la gestion de composants à la gestion des résultats des joueurs est le fruit d’une transformation lente qui ne peut se produire d’un simple claquement de doigts, mais cette transformation peut commencer immédiatement et les bénéfices constatés à chaque itération.
 
 ---
 Auteur : [Clinton Keith](http://clintonkeith.com/)  
@@ -84,7 +82,7 @@ Date de parution originale : 29 Mai 2017
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 25/06/2017  
+Date de traduction : 26/06/2017  
 
 ---
 
