@@ -21,7 +21,7 @@ Cliquez sur l’image ci-dessous pour télécharger la traduction :
 
 ---
 Auteur : [Ken Schwaber](https://kenschwaber.wordpress.com/about/)  
-Source : [Scrum Development Process](The Scrum Development Process)  
+Source : [Scrum Development Process](https://www.scrum.org/resources/scrum-development-process)  
 Date de parution originale : 1995  
 
 ---
