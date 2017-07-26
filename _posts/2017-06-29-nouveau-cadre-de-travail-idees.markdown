@@ -101,8 +101,7 @@ Il y aura, sans aucun doute, d’autres aspects qui verront le jour avec le temp
 
 [^2]:NdT : Traduction temporaire à défaut de mieux pour l’instant de l’expression Agile Fluency Model.
 
-[^3]:”une idée peut sembler être bonne si on la compare à un homme de paille”  
-![Homme de paille]({{ site.url }}assets/ron_jeffries/strawman.jpg)  
+[^3]:”une idée peut sembler être bonne si on la compare à un homme de paille” - ![Homme de paille]({{ site.url }}assets/ron_jeffries/strawman.jpg)  
 
 ---
 Auteur : [Ron Jeffries](http://ronjeffries.com/about.html)  
