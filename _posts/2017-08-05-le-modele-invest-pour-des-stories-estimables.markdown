@@ -125,7 +125,7 @@ Le développement logiciel recèle de nombreuses inconnues.
 
 * **The Domain**: When we don’t know the domain, it’s easier to have misunderstandings with our customer, and it can be harder to have deep insights into better solutions.
 
-* **Le domaine** : Lorsque nous ne connaissons pas le domaine, les occasions d’incompréhensions avec notre client sont plus nombreuses, et il est plus difficile d’avoir une connaissance approfondie en vue d’avoir de meilleures solutions.
+* **Le domaine** : Quand nous ne connaissons pas le domaine, les occasions d’incompréhensions avec notre client sont plus nombreuses, et il est plus difficile d’avoir une bonne vision des solutions les plus adaptées.
 
 * **Level of Innovation**: We may be operating in a domain where we need to do things we have never done before; perhaps nobody has.
 
@@ -133,7 +133,7 @@ Le développement logiciel recèle de nombreuses inconnues.
 
 * **The Details of a Story**: We often want to estimate a story before it is fully understood; we may have to predict the effects of complicated business rules and constraints that aren’t yet articulated or even anticipated.
 
-* **Les détails de la story** : nous voulons souvent estimer une story avant que nous soyons en mesure de la comprendre complètement ; nous pouvons avoir à prédire les effets de règles métiers et de contraintes compliquées qui ne sont ni complètement articulées ni même anticipées.
+* **Les détails de la story** : Nous voulons souvent estimer une story avant que nous soyons en mesure de la comprendre tout à fait ; nous pouvons avoir à prédire les effets de règles métiers et de contraintes compliquées qui ne sont ni complètement articulées ni même anticipées.
 
 * **The Relationship to Other Stories**: Some stories can be easier or harder depending on the other stories that will be implemented.
 
@@ -141,11 +141,11 @@ Le développement logiciel recèle de nombreuses inconnues.
 
 * **The Team**: Even if we have the same people as the last project, and the team stays stable throughout the project, people change over time. It’s even harder with a new team.
 
-* **L’équipe** : Même si nous disposons des mêmes personnes qu’au précédent projet, et que l’équipe reste stable tout au long du projet, les gens changent avec le temps. C’est encore plus dur avec une équipe nouvelle.
+* **L’équipe** : Même si nous disposons des mêmes personnes que lors du précédent projet, et que l’équipe reste stable tout au long du projet, les gens changent avec le temps. C’est encore plus dur avec une équipe nouvelle.
 
 * **Technology**: We may know some of the technology we’ll use in a large project, but it’s rare to know it all up-front. Thus our estimates have to account for learning time.
 
-* **Technologie** : Il est possible que nous connaissions la technologie que nous serons amené à utiliser pour le prochain projet, mais il est rare de tout savoir à l’avance. Par conséquent, nous estimations doivent pouvoir prendre en compte le temps d’apprentissage de celle-ci.
+* **Technologie** : Peut être connaissons-nous la technologie que nous serons amené à utiliser pour le prochain projet, mais il est rare de tout savoir à l’avance. Par conséquent, nous estimations devront prendre en compte ce temps d’apprentissage.
 
 * **The Approach to the Solution**: We may not yet know how we intend to solve the problem.
 
@@ -157,11 +157,11 @@ Le développement logiciel recèle de nombreuses inconnues.
 
 * **The Rate of Change**: We may need to estimate not just “What is the story now?” but also “What will it be by the end?”
 
-* **Le taux de changement** : Il se peut que ayons à estimer non seulement le “Quelle est la story maintenant ?” mais aussi “Comment sera-t-elle à la fin ?”
+* **Le taux de changement** : Il se peut que nous ayons à estimer non seulement le “Quelle est la story maintenant ?” mais aussi “Comment sera-t-elle à la fin ?”
 
 * **Dysfunctional Games**: In some environments, estimates are valued mostly as a tool for political power-plays; objective estimates may have little use. (There’s plenty to say about estimates vs. commitments, schedule chicken, and many other abuses but I’ll save that for another time.)
 
-* **Jeux dysfonctionnels** : Dans certains environnements, les estimations sont vues essentiellement comme des outils dans des jeux de pouvoirs politiques ; des estimations objectives ne sont que de peu d’utilité; (Il y aurait beaucoup à dire sur estimations vs. engagements, le planning de la poule mouillée, et encore beaucoup d’autres choses dont je parlerai une autre fois.)
+* **Jeux dysfonctionnels** : Dans certains environnements, les estimations sont perçues essentiellement comme des outils dans des jeux de pouvoirs politiques ; dans ce cas, les estimations objectives ne sont que de peu d’utilité; (Il y aurait beaucoup à dire sur estimations vs. engagements, le planning de la poule mouillée, et encore beaucoup d’autres choses dont je parlerai une autre fois.)
 
 * **Overhead**: External factors affect estimates. If we multi-task or get pulled off to side projects, things will take longer.
 
@@ -169,7 +169,7 @@ Le développement logiciel recèle de nombreuses inconnues.
 
 Sitting in a planning meeting for a day or a week and ginning up a feeling of commitment won’t overcome these challenges.
 
-S’assoir à une réunion de planification pendant une journée ou une semaine et extorquer un sentiment d’engagement ne permettront pas de surmonter aucun des défis mentionnés ci-dessus.
+S’assoir à une réunion de planification pendant une journée ou une semaine et se faire extorquer un sentiment d’engagement ne permettront pas de surmonter aucun des défis mentionnés ci-dessus.
 
 ## Flaws In Estimating
 
@@ -177,7 +177,7 @@ S’assoir à une réunion de planification pendant une journée ou une semaine 
 
 We tend to speak as if estimates are concrete and passive: “Given this story, what is the estimate?”
 
-Nous avons tendance à parler comme si les estimations étaient concrètes et à la voix passive : “Étant donné cette story, quelle est l’estimation ?”
+Nous avons tendance à parler comme si les estimations étaient concrètes et à la voix passive : “Étant donné que … cette story, quelle est l’estimation ?”
 
 But it’s not that simple:
 
@@ -185,27 +185,27 @@ Mais ce n’est pas si simple :
 
 * “[N for Negotiable](http://xp123.com/articles/negotiable-stories-in-the-invest-model/)” suggests that flexibility in stories is beneficial: flexible stories help us find bargains with the most value for their cost. But the more variation you allow, the harder it is to estimate.
 
-* [N pour négociable](http://www.les-traducteurs-agiles.org/2017/03/12/le-modele-invest-les-stories-negociables.html) suggère que la flexibilité des stories est bénéfique : des stories flexibles nous aident à trouver des marges de négociation nous permettant de tirer un maximum valeur par rapport au coût. Mais plus vous vous autorisé de variation, plus la storie sera difficile à estimer.
+* Dans le modèle INVEST, le [N pour négociable](http://www.les-traducteurs-agiles.org/2017/03/12/le-modele-invest-les-stories-negociables.html) suggère que la flexibilité des stories est bénéfique : des stories flexibles nous aident à trouver des marges de négociation nous permettant de tirer un maximum valeur par rapport au coût. Mais plus vous vous autorisé de variation, plus la storie sera difficile à estimer.
 
 * “[I for Independent](http://xp123.com/articles/independent-stories-in-the-invest-model/)” suggests that we create stories that can be independently estimated and implemented. While this is mostly true, it is a simplification of reality: sometimes the cost of a story depends on the order of implementation or on what else is implemented. It may be hard to capture that in estimates.
 
-* [I pour indépendante](http://www.les-traducteurs-agiles.org/2017/02/21/le-modele-invest-les-stories-independantes.html) suggère que nous créons les stories qui peuvent être estimées et implémentées indépendamment; Bien que ce soit vrai dans la plupart des cas, c’est une simplification de la réalité : quelque fois le coût d’une story dépend de l’ordre de l’implémentation ou ce sur la chose implémentée. Cela peut être difficile à cerner dans les estimations. 
+* Le [I pour indépendante](http://www.les-traducteurs-agiles.org/2017/02/21/le-modele-invest-les-stories-independantes.html) suggère que nous créons des stories qui peuvent être estimées et implémentées indépendamment. Bien que cela s’avère exactdans la plupart des cas, c’est une simplification de la réalité : quelque fois le coût d’une story dépend de l’ordre de l’implémentation ou ce sur la chose implémentée. Cela peut être difficile à cerner dans les estimations. 
 
 * Factors that make it hard to estimate are **not stable over time**. So even if you’re able to take all those factors into account, you also have to account for their instability.
 
-* Les facteurs qui rendent les estimations difficiles à réaliser ne sont **pas stables dans le temps**. Même si vous êtes capables de prendre tous ces facteurs en compte, vous devez aussi prendre en compte leur instabilité.
+* Les facteurs qui rendent les estimations difficiles à réaliser ne sont **pas toujours stables dans le temps**. Même si vous êtes capables de prendre tous ces facteurs en compte, vous devez aussi prendre en compte leur instabilité.
 
 Is estimating hopeless? If you think estimation is a simple process that will yield an exact (and correct!) number, then you are on a futile quest. If you just need enough information from estimates to guide decisions, you can usually get that.
 
-Faire des estimations est-il sans espoir ? Si vous pensez que l’estimation est un processus simple qui amène à un nombre exact (et correct !), alors votre quête est futile. Si vous avez seulement besoin d’assez d’informations de la part des estimations pour guider vos décisions, vous aurez généralement ce dont nous avons discuté précédemment.
+Faire des estimations est-il sans espoir ? Si vous pensez que l’estimation est un processus simple qui amène à un nombre exact (et correct !), alors votre quête s’avère futile. Si vous avez seulement besoin d’assez d’informations de la part des estimations pour guider vos décisions, vous aurez généralement ce dont nous avons discuté précédemment.
 
 Some projects need detailed estimates, and are willing to spend what it takes to get them. In general, though, Tom DeMarco has it right: “Strict control is something that matters a lot on relatively useless projects and much less on useful projects.”
 
-Certains projets ont besoin d’estimations détaillées, et sont prêt à prendre le temps nécessaire pour les avoir. En général, toutefois, Tom DeMarco nous dit que : “Un contrôle strict est quelque chose qui compte beaucoup sur les projets relativement futile et beaucoup moins sur les projets utiles.”
+Certains projets ont besoin d’estimations détaillées, et sont prêt à prendre le temps nécessaire pour les avoir. En général, toutefois, Tom DeMarco nous dit que : “Un contrôle strict est quelque chose qui compte énormément pour des projets relativement futiles et beaucoup moins sur les projets utiles.”
 
 Where does that leave things? The best way is to use as light an estimation process as you can tolerate.
 
-Où est-ce que cela nous mène ? La meilleure solution est d’utiliser un processus d’estimation aussi léger que vous pouvez le tolérer. 
+Où est-ce que cela nous mène ? La meilleure solution est d’utiliser un processus d’estimation tellement léger que vous pourrez le tolérer. 
 
 We’ll explore three approaches: counting stories, historical estimates, and rough order of magnitude estimates.
 
@@ -225,7 +225,7 @@ Voici un petite expérience :
 
 * Take a bunch of numbers representing the true sizes of stories
 
-* Prenez quelques nombres représentant les vraies tailles des stories
+* Prenez quelques nombres représentant la tailles réelle des stories
 
 * Take a random sample
 
@@ -233,7 +233,7 @@ Voici un petite expérience :
 
 * The average of the sample is an approximation of the average of the original set, so use that average as the estimate of the size of every story (“Call it a 1”)
 
-* La moyenne de l’échantillon est une approximation de la moyenne de l’ensemble pris à l’origine, utilisez donc cette moyenne comme estimation pour chaque story (“appelez la un 1”)
+* La moyenne de l’échantillon est une approximation de la moyenne de l’ensemble pris à l’origine, utilisez alors cette moyenne comme estimation pour chaque story (“appelez la un 1”)
 
 * The estimate for the total is the number of stories times the sample average
 
@@ -245,19 +245,19 @@ Pourquoi est-ce que cela ne pourrait pas marcher ?
 
 * If stories are highly inter-dependent, and the order they’re done in makes a dramatic difference to their size, the first step is void since there’s no such thing as the “true” size.
 
-* Si les stories sont très interdépendantes, et que l’ordre dans lequel elles sont réalisées fait une grande différence par rapport à leur taille, la première étape est alors vide de sens car la “vraie” taille n’existera pas.
+* Si les stories sont très interdépendantes, et que l’ordre dans lequel elles sont réalisées fait une réelle différence par rapport à leur taille, la première étape est alors vide de sens car la taille “réelle” n’existera pas.
 
 * If you cherry-pick easy or hard stories rather than a random set, you will bias the estimate.
 
-* Si vous choisissez au compte goutte des stories faciles ou difficiles au lieu de le faire aléatoirement, vous allez biaiser l’estimation
+* Si vous choisissez des stories faciles ou difficiles au lieu de le faire aléatoirement, vous allez biaiser l’estimation
 
 * If your ability to make progress shifts over time, the estimates will diverge. (Agile teams try to reduce that risk with refactoring, testing, and simple design.)
 
-* Si votre capacité à avancer fluctue avec le temps, les estimations divergerons. (Les équipes agiles essayent de réduire ce risque avec le _refactoring_, le test, et un conception simple.)
+* Si votre capacité à avancer fluctue avec le temps, les estimations divergerons. (Les équipes agiles essayent de réduire ce risque avec du _refactoring_, des test, et une conception simple.)
 
 I’ve seen several teams use a simple approach: they figure out a line between “small enough to understand and implement” and “too big”, then require that stories accepted for implementation be in the former range.
 
-J’ai vu plusieurs équipes utiliser une approche simple : elles ont pu déterminer une ligne entre “suffisamment petite à comprendre et à implémenter” et “trop grosse”, puis ont exigé que les stories acceptées pour une prochaine implémentation soient de la 1ère catégorie.
+J’ai vu plusieurs équipes utiliser une approche simple : elles ont pu déterminer une ligne entre des stories “suffisamment petites à comprendre et à implémenter” et “trop grosses”, ont exigé par la suite que les stories acceptées en vue d’une prochaine implémentation soient de la 1ère catégorie.
 
 ## Historical Estimates (ala Kanban)
 
@@ -269,11 +269,11 @@ Pour beaucoup d’équipes, la taille des stories n’est pas le facteur essenti
 
 A good measure is total lead time (also known as cycle time or various other names): how long from order to delivery. Kanban approaches often use this measure, but other methods can too.
 
-Un bon indicateur est la durée totale de traversée (connu aussi sous le nom de temps de cycle ou aussi sous d’autres noms) : quelle durée de la commande à la livraison. Les approches Kanban utilise souvent cette mesure, mais d’autres méthodes peuvent le faire aussi.
+Un bon indicateur est la durée totale de traversée (connu aussi sous le nom de temps de cycle ou aussi sous d’autres noms) : quelle durée de la commande à la livraison. Les approches Kanban utilisent souvent cette mesure, mais d’autres méthodes peuvent le faire aussi.
 
 If we track history, we can measure the cycle times and look for patterns. If we see that the average story takes 10 days to deliver and that 95% of the stories take 22 or fewer days to deliver, we get a fairly good picture of the time to deliver the next story.
 
-Si nous enregistrons les données au fur et à mesure, nous pouvons mesurer les temps de cycle et rechercher des modèles statistiques. Si nous voyons qu’une story prend en moyenne 10 jours à être livré et que 95% des stories prennent 22 jours ou moins à livrer, nous aurons une image plutôt fidèle de la durée à livrer la prochaine story.
+Si nous enregistrons les données au fur et à mesure, nous pouvons mesurer les temps de cycle et rechercher des modèles statistiques. Si nous voyons qu’une story prend en moyenne 10 jours à être livrée et que 95% des stories prennent 22 jours ou moins à être livrées, nous aurons une image plutôt fidèle de la durée à livrer pour la prochaine story.
 
 This moves the estimation question from “How big is this?” to “How soon can I get it?”
 
@@ -281,7 +281,7 @@ Cela change la question de l’estimation de “Quelle est sa taille ?” à “
 
 When WIP is high, it is the dominant factor in delivery performance; as WIP approaches 0, the size of the individual item becomes significant.
 
-Lorsque le TEC est haut, c’est le facteur dominant dans la performance de la livraison ; lorsque le TEC approche de 0, la taille d’un item individuel devient alors significatif.
+Lorsque le TEC est haut, c’est le facteur dominant dans la performance de la livraison ; lorsque le TEC approche de 0, la taille d’un item à titre individuel devient alors significatif.
 
 ## Rough Order of Magnitude
 
@@ -335,7 +335,7 @@ Whatever approach you take, spend as little as you can to get good-enough estima
 
 Quelque soit l’approche que vous choisirez, prenez juste ce qu’il faut de temps pour avoir des estimations suffisamment bonnes.
 
-[^1]: NdT - estimatable - néologisme inventé par l’auteur
+[^1]: NdT - estimatable - néologisme inventé par l’auteur - traduit par estimabilité - autre néologisme
 
 [^2]: NdT - SWAG ou Scientific wild-ass guess, terme venant des États-Unis en langage familier indiquant un avis approximatif donné par un expert d’un domaine particulier
 
