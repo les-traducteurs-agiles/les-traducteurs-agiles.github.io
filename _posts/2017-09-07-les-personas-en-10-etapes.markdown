@@ -10,7 +10,7 @@ tags:
 
 Cliquer sur l’image ci-dessous ou sur ce [lien](https://www.dropbox.com/s/69bov36fj50nojb/Les%20personas%20en%2010%20%C3%A9tapes.pdf?dl=0) pour télécharger le poster.
 
-[![Les personas en 10 étapes]({{ site.url }}assets/persona/personas.jpg)]((https://www.dropbox.com/s/69bov36fj50nojb/Les%20personas%20en%2010%20%C3%A9tapes.pdf?dl=0)
+[![Les personas en 10 étapes]({{ site.url }}assets/persona/personas.jpg)](https://www.dropbox.com/s/69bov36fj50nojb/Les%20personas%20en%2010%20%C3%A9tapes.pdf?dl=0)
 
 
 ---
