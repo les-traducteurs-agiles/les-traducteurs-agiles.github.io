@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les personas en 10 étapes"
+title:  "Les personas en 10 étapes (poster)"
 date:   2017-09-07- 00:00:01
 published: true
 tags: 
