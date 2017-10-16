@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "Le modèle INVEST - S comme stories Suffisamment petites, eScalable "
+title:  "Le modèle INVEST - S comme stories Suffisamment petites, extenSible "
 date:   2017-10-16 00:00:01
 published: true
 tags: 
 - user stories
 ---
 
-Le **S** du modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est pour “Suffisamment petites”. J’utilise désormais ce **S** pour quelque chose d’autre qui je pense capture cette idée encore mieux : plaStique[^1]. 
+Le **S** du modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est pour “Suffisamment petites”. J’utilise désormais ce **S** pour quelque chose d’autre qui je pense capture cette idée encore mieux : extenSible. 
 
-_Scalable_[^2] signifie “pouvoir changer de taille ou d’échelle”, ce qui est plutôt pratique dans une _storie_. Nous voulons des _stories_ taillées selon ce que nous essayons de faire.
+Extensible signifie “pouvoir changer de taille ou d’échelle”, ce qui est plutôt pratique dans une _storie_. Nous voulons des _stories_ taillées selon ce que nous essayons de faire.
 
 Envisager les _stories_ sur trois niveaux différents - haut, intermédiaire et bas - s’avère plutôt pratique.
 
 ## Les _stories_ de haut niveau : Thèmes et activités
 
-La vue de haut niveau nous permet d’appréhender la forme et la portée du système dont nous avons besoin.
+Le niveau le plus haut nous permet d’appréhender la forme et la portée du système dont nous avons besoin.
 
 Ce type d’élément est si gros que la plupart des gens ne les appellent pas des _stories_. Vous les connaissez peut-être sous le nom de “Thèmes” (Kent Beck), d’“activités” (Jeff Patton), d’“épiques” (SaFE), ou de “niveau cerf-volant” (Alistair Cockburn). (Nous n’irons pas plus loin dans les détails).
 
@@ -26,11 +26,11 @@ Par exemple, supposons que nous voulons créer un nouveau système de location d
 * Retour de véhicules
 * Statistiques
 
-En regardant cette liste, nous pourrions réaliser tout d’un coup que nous n’avions pas pensé aux “Vols et Accidents” : que se passe t’il si un véhicule est volé ou endommagé ? Peut-être que le concept devrait être “Gestion de flotte” et qu’il devrait inclure la préparation des véhicules.
+En regardant cette liste, nous pourrions réaliser tout d’un coup que nous n’avions pas pensé aux “Vols et accidents” : que se passe t’il si un véhicule est volé ou endommagé ? Peut-être que le concept devrait être “Gestion de flotte” et qu’il devrait inclure la préparation des véhicules.
 
 Je ne suis pas un expert en location de véhicules, mais il y a sûrement d’autres domaines importants à envisager pour ce système. À ce niveau de vision, ce nombre est sans doute plus proche de la douzaine que de la centaine.
 
-Il ne s’agit donc pas du type de _stories_ que quelqu’un peut implémenter dans la foulée. Nous utilisons ce type de _stories_ pour répondre à la question “Avons-nous oublier quelque chose d’important ?”
+Il ne s’agit donc pas du type de _stories_ que quelqu’un peut implémenter directement. Nous utilisons ce type de _stories_ pour répondre à la question “Avons-nous oublier quelque chose d’important ?”
 
 ## Les _stories_ de de niveau intermédiaire : les gros titres 
 
@@ -44,7 +44,7 @@ Il n’est pas nécessaire que les gros titres suivent un modèle en particulier
 * Action - ce qu’il se passe
 * Contexte [optionnel] - quand, où, et/ou comment
 
-_Exemple_ : un client achète un article
+_Exemple_ : un client achète un article  
 _Exemple_ : un client achète un article avec une carte bancaire
 
 Certaines équipes écrivent des gros titres et des _stories_ super détaillés, mais  qui couvrent une partie d’une action du système seulement. Ne procédez pas de cette manière - vos _stories_ doivent décrire une interaction complète (tout en restant si possible concise) et qui apporte quelque chose. Gardez pour plus tard les détails.
@@ -55,9 +55,9 @@ De manière assez ironique, les gens créés parfois des “stories techniques�
 
 Les _stories_ qui ont de l’importance aux yeux des utilisateurs et sur lesquelles il est possible d’avoir plusieurs niveaux de détails offrent beaucoup de plus souplesse dans un modèle de livraison agile. Si nous pouvons rassembler les _stories_ les plus critiques et les livrer d’une manière minimaliste, nous pourrons ainsi avoir rapidement une version opérationnelle du système (cf. le concept d’Alistair Cockburn du [Squelette qui marche](http://alistair.cockburn.us/Walking+skeleton).)
 
-Une fois que le système est opérationnelle même s’il n’est pas parfait, nous pouvons commencer à l’utiliser, tout en l’améliorant simultanément au fur et mesure des usages. Cela peut nous permettre de commencer à en tirer quelques revenus (eh ouais !) mais cela nous apportera en tout cas des retours d’informations bien plus vite.
+Une fois que le système est opérationnel même s’il n’est pas parfait, nous pouvons commencer à l’utiliser, tout en l’améliorant simultanément au fur et mesure des usages. Cela peut nous permettre de commencer à en tirer quelques revenus (eh ouais !) mais cela nous apportera en tout cas des retours d’informations bien plus vite.
 
-Nous avons besoin de ces retours d’informations … car, que nous le voulions ou non, nous sommes ignorants. Nous avons sans doute des théories sur ce qui est valable, mais nous n’avons pas pu les vérifier jusqu’à présent. Nous avons construit un château de cartes basé sur nos propres suppositions. (Lisez donc ceci si vous voulez approfondir au sujet des [Produits minimum viables](https://www.amazon.fr/Lean-Startup-Adoptez-linnovation-continue/dp/2744066400).)
+Nous avons besoin de ces retours d’informations … car, que nous le voulions ou non, nous sommes ignorants. Nous avons sans doute des théories sur ce qui est valable, mais nous n’avons pas pu les vérifier jusqu’à présent. Nous avons construit un château de cartes basé sur nos propres suppositions. (Lisez donc [ceci](https://www.amazon.fr/Lean-Startup-Adoptez-linnovation-continue/dp/2744066400) si vous voulez approfondir le sujet des produits minimum viables.)
 
 Je suis sûr et certain qu’il y a des domaines où les _Product Owners_ savent pertinemment la valeur des choses qu’ils demandent, mais j’avoue que je n’en rencontre pas souvent. Dans les endroits où j’interviens, souvent les gens n’ont que peu de données sur l’utilisation des applications, les ventes, etc. Et même lorsqu’ils ont des données sur ce que les utilisateurs et les clients font, ils ont tendance à essayer de prédire l’avenir et ce qui pourrait plaire aux personnes qui ne sont pas (encore) des utilisateurs ou pas (encore) des clients.
 
@@ -69,7 +69,7 @@ Par exemple : _**Un client achète un article**_
 
 Cette _story_ peut être faite de plusieurs manières.
 
-Par exemple, j’ai l’habitude d’acheter des cartouches de gaz pour soda sur un site web auquel vous pouvez envoyer votre commande simplement par messagerie électronique avec votre numéro de téléphone. Ensuite Joe vous rappelle pour récupérer vos informations de paiement et de livraisons.
+Par exemple, j’ai l’habitude d’acheter des cartouches de gaz pour soda sur un site web sur lequel il est possible d’envoyer sa commande simplement par courriel en indiquant votre numéro de téléphone. Ensuite Joe vous rappelle pour récupérer vos informations de paiement et de livraisons.
 
 Cette _story_ pourrait fonctionner aussi de l’une des manières suivante :
 
@@ -79,15 +79,15 @@ Cette _story_ pourrait fonctionner aussi de l’une des manières suivante :
 
 * Quand vous achetez quelque chose sur Amazon.com, votre carte de crédit est déjà enregistré (suite à un achat précédent), et Amazon essaye de vous vendre des produits connexes ou des produits de gamme supérieure lors de la finalisation de votre commande. (Votre achat d’ailleurs viendra alimenter différente tableaux et statistiques, quis sont décrits peut-être dans d’autres _stories_.)
 
-De nombreuses variations peuvent naître d’un seul gros titre. C’est ça la plasticité des _stories_.
+De nombreuses variations peuvent naître d’un seul gros titre. C’est ça des _stories_ extensibles.
 
 Nous allons dans différents types de magasins pour pouvoir faire les choses de manière différentes, mais nous oublions quelque fois que nos implémentations peuvent évoluer elles-aussi.
 
-> Différentes variations peuvent naître d’un seul gros titre. _C’est_ ça la plasticité des _stories_.
+> Différentes variations peuvent naître d’un seul gros titre. _C’est_ ça des _stories_ extensibles.
 
 Vous avez reconnu peut-être la nature [itérative](http://jpattonassociates.com/dont_know_what_i_want/) de cette approche. Ce qui est itératif ce n’est pas seulement l’implémentation logicielle mais aussi les détails de la _story_
 
-## Plasticité et décomposition
+## Extensibilité et décomposition
 
 Un gros titre peut couvrir plusieurs _stories_ potentielles.
 
@@ -97,15 +97,13 @@ Mais la décomposition peut s’avérer traumatisante : vous avez bâti une desc
 
 Ce processus peut amener un _product owner_ au bord des larmes.
 
-C’est là où la plasticité entre en jeu. Pensez à l’[intensité](http://xp123.com/articles/intensifying-stories-running-with-the-winners/) d’une story comme d’un cadran : squelettique, minimal, naturel, élaboré, excessive. (Ce sont des niveaux d’intensité dont les contours ne sont pas complètement définis)
+C’est là où l’extensibilité entre en jeu. Pensez à l’[intensité](http://xp123.com/articles/intensifying-stories-running-with-the-winners/) d’une story comme d’un cadran : squelettique, minimale, naturelle, élaborée, excessive. (Ce sont des niveaux d’intensité dont les contours ne sont pas complètement définis)
 
 ![échelle d’intensité]({{ site.url }}assets/bill_wake/intensityScale-fr.png)
 
 Passez de la _décomposition_ des _stories_ à l’__**intensification**___ des _stories_.
 
 > Passez de la _décomposition_ des _stories_ à l’__**intensification**___ des _stories_.
-
-As a product owner, work from the scaling-up perspective. Start small — smaller than you might expect — and grow your stories over time as you deliver.
 
 En tant que _product owner_, travailler graduellement. Démarrez petit - encore plus petit que vous ne pourriez l’imaginer - et faites grandir vos _stories_  - 
 
@@ -131,7 +129,7 @@ Est-ce que des _stories_ peuvent devenir trop petites ? Tout à fait. J’aime b
 
 Comment pouvez-vous gérer des _stories_ trop petites ? Fusionnez-les. (C’est l’une des raisons pour lesquelles j’aime bien voir les _stories_ sous la perspective des “gros” titres - vous pouvez avoir des _stories_ couvrant différents niveaux de détails, en les généralisant et en les fusionnant par la suite, elles seront à même de parler des gros titres et de l’état actuel de l’implémentation.)
 
-Malheureusement, un certain nombre d’outils “agiles” de planification prennent une vue hiérarchique, atomisée, et n’aide pas beaucoup à penser en terme de _stories_ plastiques. Cela fait du boulot de maintenir une vision d’ensemble.
+Malheureusement, un certain nombre d’outils “agiles” de planification prennent une vue hiérarchique, atomisée, et n’aide pas beaucoup à penser en terme de _stories_ extensibles. Cela fait du boulot de maintenir une vision d’ensemble.
 
 ## Conclusion
 
@@ -145,19 +143,12 @@ Rappelez-vous les trois niveaux vus précédemment :
 
 Plutôt que de décomposer des _stories_ trop grosses, entraînez-vous à démarrer avec des versions plus petites, puis à les étendre et à les intensifier. Si vous devez les décomposer, faites-le d’un point de vue utilisateur et non d’un point de vue technique.
 
-Vous trouverez que des _stories_ plastiques vont vous :
+Vous trouverez que des _stories_ extensibles vont vous :
 
 * Aider à rendre l’avancement visible
 * Donner une utilité immédiate
 * Donner du retour pour vous aider à aller vers un résultat ayant plus de valeur
 * Aider à réduire le risque commercial et technique
-
-[^1]: NdT - la lettre S dans l’acronyme INVEST est Small puis comme l’indique l’auteur a acquis une nouvelle signification Scalable.
-Pour Small, la traduction vers petit(e) était facile même s’il a fallu trouver une astuce pour conserver le S de l’acronyme INVEST avec Suffisamment Petite car cela respectait bien l’esprit de l’article.
-Pour Scalable, la traduction est ici plus problématique, il suffit de regarder la [page de discussion de Wikipedia pour un essai de francisation de ce terme](https://fr.wikipedia.org/wiki/Discussion:Scalability) même si pour l’acronyme le terme Scalabilité serait bien pratique mais je n’y retrouve pas exactement le sens du texte. C’est la même chose pour évolutivité, extensibilité … Après réflexion (toujours par rapport au sens du texte) pour le côté malléable de la _story_ tel que l’auteur semble l’exprimer, le terme plaStique me semble approprié - et en plus il y a un S pour l’acronyme ;)
-
-[^2]: NdT - terme conservé en vo - cf. NdT précédente
-
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
