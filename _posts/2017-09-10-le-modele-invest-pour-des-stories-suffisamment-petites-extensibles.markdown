@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Le modèle INVEST - S comme stories Suffisamment petites, extenSible "
+title:  "Le modèle INVEST - S comme stories Suffisamment petites, extenSibles "
 date:   2017-10-16 00:00:01
 published: true
 tags: 
