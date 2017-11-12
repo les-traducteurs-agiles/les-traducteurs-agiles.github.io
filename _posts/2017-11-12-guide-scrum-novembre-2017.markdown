@@ -7,15 +7,9 @@ tags:
 - scrum
 ---
 
-À télécharger et à lire
+À télécharger et à lire : [PDF](http://bit.ly/2zyFEri), [Epub v2](http://bit.ly/2yTQQ2n) et [ZIP (PDF + Epub v2)](http://bit.ly/2zS6jQz).
 
 [![Guide Scrum, édition novembre 2017]({{ site.url }}assets/guide_scrum/couverture.png)](http://bit.ly/2zyFEri)
-
-au choix au format
-
-- [PDF](http://bit.ly/2zyFEri)
-- [Epub v2](http://bit.ly/2yTQQ2n)
-- [ZIP (PDF + Epub v2)](http://bit.ly/2zS6jQz)
 
 ---
 Auteur : [Jeff Sutherland](http://scrumguides.org/jeff.html), [Ken Schwaber](http://scrumguides.org/ken.html)  
