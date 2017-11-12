@@ -18,8 +18,9 @@ voici quelques exemples de nos traductions présentes sur le site du [wiki ayeba
 * [Lean depuis les tranchées](http://ayeba.wikispaces.com/Lean+depuis+les+tranch%C3%A9es)
 * [Coaching Agile](http://www.fabrice-aimetti.fr/2014/03/11/coaching-agile-la-traduction/)
 * [Confessions d'un Serial Product Owner](http://ayeba.wikispaces.com/Confessions+d%27un+serial+product+owner)  
+* **[Scrum Guide - Édition 2017](http://wiki.ayeba.fr/Guide+Scrum+2017)** _traduction non officielle_ : [PDF](http://bit.ly/2zyFEri), [Epub v2](http://bit.ly/2yTQQ2n), [ZIP (PDF + Epub v2](http://bit.ly/2zS6jQz)
+* [Scrum Guide - Édition 2016](http://wiki.ayeba.fr/Guide+Scrum+2016) _traduction non officielle_ : [PDF](http://bit.ly/2ntSWwr), [Epub v2](http://bit.ly/2n1qYdH), [ZIP (PDF + Epub v2)](http://bit.ly/2nbPCsR)
 * [Scrum Guide - Édition 2013](http://wiki.ayeba.fr/Guide+Scrum+2013) _traduction non officielle_ : [PDF](http://bit.ly/2m1zwSM), [Epub v2](http://bit.ly/2mu4luv), [Epub v3](http://bit.ly/2nbYJcV), [ZIP (PDF + Epub v2 + Epub v3)](http://bit.ly/2ntv63Y)
-* **[Scrum Guide - Édition 2016](http://wiki.ayeba.fr/Guide+Scrum+2016)** _traduction non officielle_ : [PDF](http://bit.ly/2ntSWwr), [Epub v2](http://bit.ly/2n1qYdH), [ZIP (PDF + Epub v2)](http://bit.ly/2nbPCsR)
 
 ### <a name="jeux"></a> Jeux sérieux (ludo-pédagogique)
 * [LEGO pour une simulation Scrum](http://ayeba.wikispaces.com/LEGO+pour+une+simulation+Scrum)
