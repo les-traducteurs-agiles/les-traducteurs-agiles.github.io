@@ -40,8 +40,6 @@ Puis nous avons essayé de regrouper les éléments par similarité ou par caté
 
 En fin de réunion, j’ai consolidé l’ensemble dans une **carte heuristique**. De cette façon, nous étions en mesure de pouvoir **facilement réutiliser** l’ensemble lors de futures rétrospectives. 
 
-![Mindmap](https://noostvog.files.wordpress.com/2012/10/idealstate.png?w=300&h=245)
-
 ![Carte heuristique]({{ site.url }}assets/retrospectives_ennuyeuses/carte_heuristique_etat_ideal.png)
 
 ## Utilisation en tant qu’exercice de démarrage
