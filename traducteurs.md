@@ -88,6 +88,15 @@ permalink: /traducteurs/
 </div>
 
 <div class="thumbnails">
+  <img src="/assets/lta/nmingo.png" />  
+
+  <h4> Nicolas Mingo </h4>
+  <p>Twitter : <a href="https://twitter.com/nicolas_mingo">@nicolas_mingo</a></p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+<div class="thumbnails">
   <img src="http://www.gravatar.com/avatar/ac87535638d337617c0325298007228e?s=180" />  
 
   <h4> Antoine Vernois </h4>

@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Doing It – Management 3.0"
+date:   2017-11-27- 12:00:02
+published: true
+tags: 
+- management 3.0
+---
+
+À télécharger gratuitement (PDF 9Mo) et à lire à partir de ce [lien](https://agilestrides.com/doing-it-management-3-0/) ou en cliquant sur l’image qui vous renverra vers le site de l’auteur où la traduction est téléchargeable après remplissage d’un formulaire.
+
+[![Livre Doing it! M3.0 experiences]({{ site.url }}assets/m30/doing-it-m30-experiences.png)](https://agilestrides.com/doing-it-management-3-0/)
+
+
+---
+Auteur : [Ralph van Roosmalen](https://agilestrides.com/about/ralph-van-roosmalen/)  
+Source : [Book “Doing It – Management 3.0”](https://agilestrides.com/doing-it-management-3-0/)  
+Date de parution originale : Avril 2017  
+
+---
+Traducteur : [Nicolas Mingo](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relectrice et relecteur : [Alice Barralon](https://twitter.com/a_barralon), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
+Date de traduction : 27/11/2017  
+
+---
+
+L’ouvrage original est Copyright   ©   2017   Ralph   van   Roosmalen.   Tout   droit   réservé.
+
+---
+
+{% include share_buttons.html %}
+
+
+
+
