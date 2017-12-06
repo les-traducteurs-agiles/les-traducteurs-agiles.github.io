@@ -4,7 +4,7 @@ title:  "Le pouvoir magique du chiffre pi pour les chefs de projets"
 date:   2017-12-06- 00:00:01
 published: true
 tags: 
-- agile
+- estimations
 - pi
 ---
 
