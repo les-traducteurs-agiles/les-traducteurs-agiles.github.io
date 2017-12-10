@@ -33,7 +33,7 @@ La plupart des problèmes organisationnels que l’on retrouve habituellement pe
 
 **Les priorités sont quelque chose de différent.**
 
-![Priorités en cascade]({{ site.url }}assets/henrik_kniberg/Cascading-priorities-fr.png)
+![Priorités en cascade]({{ site.url }}assets/henrik_kniberg/Cascading-priorities-fr.jpg)
 
 * Les priorités sont les **principes généraux qui sont là pour nous aider à décider quel nouveau TEC est à traiter** (lorsque nos limites du TEC le permettent), et quelles choses sont à refuser ou à reporter. Sans priorités claires, nous risquons des prises d’initiatives incohérentes ou une sous-optimisation. 
   
