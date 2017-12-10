@@ -95,7 +95,7 @@ Date de parution originale : 25 Septembre 2014
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : --/11/2017  
+Date de traduction : 10/12/2017  
 
 ---
 
