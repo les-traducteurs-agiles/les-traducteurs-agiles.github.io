@@ -7,7 +7,7 @@ tags:
 - scrum
 ---
 
-À télécharger et à lire : [PDF](http://bit.ly/2zyFEri), [Epub v2](http://bit.ly/2yTQQ2n) et [ZIP (PDF + Epub v2)](http://bit.ly/2zS6jQz).
+À télécharger et à lire : [PDF](http://bit.ly/2zyFEri), [Epub v2](http://bit.ly/2yTQQ2n) et [ZIP (PDF + Epub v2)](http://bit.ly/2CB0Yuv).
 
 [![Guide Scrum, édition novembre 2017]({{ site.url }}assets/guide_scrum/couverture.png)](http://bit.ly/2zyFEri)
 
