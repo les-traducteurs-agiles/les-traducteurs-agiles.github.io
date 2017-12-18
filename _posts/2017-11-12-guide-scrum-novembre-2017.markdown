@@ -18,7 +18,7 @@ Date de parution originale : 07 Novembre 2017
 
 ---
 Traducteurs : [Fabrice Aimetti](https://plus.google.com/+FabriceAimetti), [Claude Aubry](http://www.aubryconseil.com/pages/Auteur), [Laurent Carbonnaux](https://plus.google.com/109250238413629432949), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Nouvelle relecture en décembre 2017 par Bertrand UHRIGH
+Nouvelle relecture en décembre 2017 par Bertrand UHRIGH  
 Date de traduction : 12/11/2017  
 
 ---
