@@ -11,13 +11,13 @@ Salut !
 
 Voici une collection de tableaux kanban venant d’en dehors du domaine de l’informatique : gestion de portefeuille produits, juridique …
 
-[![10 tableaux kanban]({{ site.url }}assets/mattias_skarin/10_tableaux_kanban.png)]({{ site.url }}assets/mattias_skarin/10 tableaux kanban et leur contexte - mskarin - A4.pdf.pdf)
+[![10 tableaux kanban]({{ site.url }}assets/mattias_skarin/10_tableaux_kanban.png)]({{ site.url }}assets/mattias_skarin/10 tableaux kanban et leur contexte - mskarin - A4.pdf)
 
 
-Pour télécharger le document au format PDF, cliquez sur ce [lien]({{ site.url }}assets/mattias_skarin/10 tableaux kanban et leur contexte - mskarin - A4.pdf.pdf) ou directement sur l’image
+Pour télécharger le document au format PDF, cliquez sur ce [lien]({{ site.url }}assets/mattias_skarin/10 tableaux kanban et leur contexte - mskarin - A4.pdf) ou directement sur l’image
 
 ---
-Auteurs : [Mattias Skarin](https://crisp.se/konsulter/mattias-skarin)  
+Auteur : [Mattias Skarin](https://crisp.se/konsulter/mattias-skarin)  
 Source : [10 kanban boards and their context updated – v1.5 ](http://blog.crisp.se/2016/07/04/mattiasskarin/10-kanban-boards-and-their-context-updated-v1-5)  
 Date de parution originale : 04 Juillet 2016  
 
