@@ -16,7 +16,7 @@ En tant que facilitateur de rétrospective, vous devez aider les personnes à en
 
 Lors de l’une des réunions de notre communauté agile chez mon client actuel, les personnes présentes ont participé aux **exercices** suivants :
 
-##3 questions
+## 3 questions
 
 ![YingYang]({{ site.url }}assets/retrospectives_ennuyeuses/yinyang.png)
 
@@ -32,7 +32,7 @@ Donnez 2mn à chaque personne pour qu’elles réfléchissent à ces questions.
 
 L’objectif de cet objectif est d’explorer les attentes et les ressentis, mais aussi d’amener les gens à parler. De cette façon, elles seront plus susceptibles de participer activement plus tard.
 
-##Lancer de balle
+## Lancer de balle
 
 ![baseball]({{ site.url }}assets/retrospectives_ennuyeuses/baseball.jpg)
 
@@ -42,7 +42,7 @@ Continuer à faire cela pendant quelques minutes, assurez-vous que tous les part
 
 L’objectif de cet exercice est de donner de l’énergie aux participants, de faire le vide et d’ouvrir leurs esprits à la pensée créative.
 
-##1 positive, 1 négative
+## 1 positive, 1 négative
 
 ![question]({{ site.url }}assets/retrospectives_ennuyeuses/question.jpg)
 
