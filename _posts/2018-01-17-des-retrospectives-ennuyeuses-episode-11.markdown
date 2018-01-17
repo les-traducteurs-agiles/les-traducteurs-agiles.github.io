@@ -56,7 +56,7 @@ L’objectif de ce jeu est d’aider les gens à retrouver l’état d’esprit 
 
 Ces 3 exercices s’utilisent habituellement au démarrage d’une rétrospective en guise d’échauffement.
 
-_photo credit:_ [CarbonNYC B Tal cc](http://www.flickr.com/photos/carbonnyc/3380611523/)  
+_crédit photos :_ [CarbonNYC B Tal cc](http://www.flickr.com/photos/carbonnyc/3380611523/)  
 
 
 ---
