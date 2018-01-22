@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cher client : de la vérité à propos des projets informatiques"
+title:  "Chère cliente, cher client : de la vérité à propos des projets informatiques"
 date:   2018-01-22 00:00:01
 published: true
 tags: 
@@ -12,7 +12,7 @@ En résumé :
 
 > Dans cette lettre ouverte aux clients et toute personnelle, Allan dit tout haut ce que certains pensent tout bas et expliquent pourquoi les projets informatiques ne se déroulent pas toujours bien pour l’ensemble des parties concernées.
 
-Cher client(e),
+Chère client, cher client,
 
 Je pense qu’il est temps que nous, qui sommes dans l’industrie informatique, soyons clair sur la manière dont nous vous facturons, pourquoi nos factures sont quelques fois un peu plus élevées que ce à quoi vous vous attendez, et pourquoi le résultat de certains projets informatiques sont une déception. La vérité est que lorsque nous commençons un projet informatique, nous ignorons la durée et la quantité d’efforts nécessaire pour le réaliser. Par conséquence, nous ne savons pas combien cela va coûter. Ce n’est peut-être pas le genre de message que vous aimez entendre, particulièrement si vous êtes absolument certain de savoir ce que vous voulez.
 
