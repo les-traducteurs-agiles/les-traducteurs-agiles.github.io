@@ -3,7 +3,7 @@ layout: post
 title:  "Cartographie de l’expérience"
 date:   2018-01-31 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - pratique
 ---
