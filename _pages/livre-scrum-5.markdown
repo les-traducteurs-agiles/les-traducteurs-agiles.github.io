@@ -1,9 +1,8 @@
 ---
 layout: page
+title: "Livre Scrum 5ème édition"
 permalink: /livre-scrum-5ed/
 ---
-
-# Livre Scrum Ed5
 
 ![livre scrum 5ème édition]({{ site.url }}assets/claude_aubry/scrum-le-guide-pratique-cover_72.png)
 
