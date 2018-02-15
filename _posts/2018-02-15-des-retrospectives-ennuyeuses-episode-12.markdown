@@ -34,7 +34,7 @@ Lorsque toutes les personnes de l'équipe ont fini de faire les nominations, le 
 
 Lors de cette conversation, le facilitateur consigne objectivement et pousse l'équipe à prendre des **actions** [_SMART_](https://fr.wikipedia.org/wiki/Objectifs_et_indicateurs_SMART)
 
-![StoryOscars]({{ site.url }}assets/A3/storyoscars.png)
+![StoryOscars]({{ site.url }}assets/retrospectives_ennuyeuses/storyoscars.png)
 
 <u>Conclusion</u> :
 
