@@ -42,7 +42,7 @@ Bonus :
 
 ### <a name="ch03"></a> Chapitre 3 : Amener l'équipe à se sublimer
 
-1. La FORCE, pour les valeurs de Scrum : [Les valeurs de Scrum](http://ayeba.wikispaces.com/Les+Valeurs+de+Scrum+%28la+F.O.R.C.E.%29)
+1. La FORCE, acronyme pour les valeurs de Scrum : [Les valeurs de Scrum](http://ayeba.wikispaces.com/Les+Valeurs+de+Scrum+%28la+F.O.R.C.E.%29)
 2. Le modèle de Tuckman montrant les étapes de la vie d'une équipe : avec [un dessin](http://ayeba.wikispaces.com/Mod%C3%A8le+de+Tuckman) ou avec [du texte](http://ayeba.wikispaces.com/Les+cinq+%C3%A9tapes+de+d%C3%A9veloppement+d%27une+%C3%A9quipe+et+le+r%C3%B4le+du+chef+de+projet)
 3. La taille d'une équipe : [l'approche à deux pizzas](http://ayeba.wikispaces.com/L%27approche+des+deux+pizzas+pour+un+travail+d%27%C3%A9quipe+productif)
 
