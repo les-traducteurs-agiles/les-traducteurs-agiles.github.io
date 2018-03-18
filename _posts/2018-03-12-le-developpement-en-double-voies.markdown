@@ -86,7 +86,7 @@ Nous voulons apprendre aussi rapidement, aussi peu cher, et aussi sans encombres
 
 Parce que l'objectif est d'apprendre, et non d'avoir un logiciel opérationnel, la boucle d'apprentissage de la découverte ressemble à peu près à cela.
 
-![Cycle de découverte]{{ site.url }}assets/jeff_patton/discovery-cycle-768x257-fr.jpg)
+![Cycle de découverte]({{ site.url }}assets/jeff_patton/discovery-cycle-768x257-fr.jpg)
 
 Cela commence par décrire :
 
@@ -128,9 +128,9 @@ Ce serait super si nous pouvions tous nous concentrer sur les travaux de découv
 
 > Les travaux de découverte se déroulent de manière concurrente et continue aux travaux de développement.
 
-J'ai dessiné dernièrement ce modèle uni de la manière suivante :
+J'ai dessiné dernièrement ce modèle unifié de la manière suivante :
 
-![Diagramme double voie]({{ site.url }}assets/jeff_patton/dual-track-diagram-768x433-fr.jpg)
+![Diagramme double voie]({{ site.url }}assets/jeff_patton/dual-track-diagram-1024x577-fr.jpg)
 
 Les travaux de découverte ont des cycles de longueurs irrégulières. C'est "Lean" dans le sens où nous essayons d'avoir un cycle de découverte aussi court que possible. Les idées dans ces moments-là changent et sont très souvent abandonnées. La meilleure manière d'avancer est de passer délibéremment en cycle de développement. Je ne suis pas certain de savoir comment montrer tout cela en un seul dessin. Mais, c'est que ce j'essaie de faire dans l'illustration ci-dessus.
 
