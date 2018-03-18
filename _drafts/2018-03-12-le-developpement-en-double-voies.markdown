@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Le développement à double voies n'est pas un duel de voies"
+title: "Le développement à double voie n'est pas un duel de voies"
 date: "2018-03-18 00:01"
 ---
 
@@ -22,10 +22,10 @@ Si vous n'avez jamais entendu parler du terme "développement à double voie", c
 * Keep measuring and learning even after you ship.
 
 * Le travail de développement se focalise sur la prédictabilité et la qualité
-* Le travail de découverte se focalise sur l'apprentissage rapide et la validation
-* La découverte et le développement peuvent être vus sous la forme d'une double voies parce qu'il s'agit de deux différents types de travail et de deux différentes manières d'appréhender les choses.
+* Le travail de découverte se focalise sur un apprentissage  et une validation à partir de ce que nous avons appris rapide
+* La découverte et le développement peuvent être vus sous la forme d'une double voie parce qu'il s'agit de deux différents types de travail et de deux différentes manières d'appréhender les choses.
 * La découverte est une partie essentielle du développement produit. Appliquez-la avec les mêmes principes agiles et lean à l'esprit.
-* Si nous faisons le travail de découverte correctement, nous modifions substantiellement et éliminons pas mal d'idées.
+* Si nous faisons le travail de découverte correctement, nous modifions substantiellement et pouvons éliminer pas mal d'idées.
 * Tandis qu'un responsable produit, un concepteur ou ingénieur peuvent tout à fait  être capable de conduire et d'orchestrer le travail de découverte, ils doivent impliquer l'ensemble de l'équipe dans ce travail dès que cela est possible. Il est nécessaire que le travail de découverte et son avancée reste visible de l'ensemble de l'équipe.
 * Après la livraison, continuez de mesurer et d'apprendre   
 
@@ -37,20 +37,20 @@ Maintenant, si quelqu'un vous demande le sujet de cet article, vous pouvez répo
 
 ## No one really named it dual-track
 
-## Personne ne l'appelle vraiment à double voies
+## Personne ne l'appelle vraiment à double voie
 
 
 Years ago, I was teaching a class with my friend [Marty Cagan](http://svpg.com/). It was really just my stuff and his stuff mashed together in a 3-day class. But, during my part I put up a model that I normally show when talking about how Agile thinking and product thinking work together in the same process. The model looked a little like this:
 
-Il y a quelques années, je faisais une formation avec mon ami Marty Cagan](http://svpg.com/). C'était juste le contenu de ma formation et de la sienne réunis ensemble pour une formation 3 jours. Mais lors de mon intervention, j'ai affiché un modèle que je montre habituellement lorsque j'aborde le sujet de comment la pensée Agile et la pensée produit fonctionnent ensemble dans le même processus. Ce modèle ressemble à peu près à cela :
+Il y a quelques années, je faisais une formation avec mon ami [Marty Cagan](http://svpg.com/). C'était juste le contenu de ma formation et de la sienne réunis ensemble pour une formation 3 jours. Mais lors de mon intervention, j'ai affiché un modèle que je montre habituellement lorsque j'aborde le sujet de comment la pensée Agile et la pensée produit fonctionnent ensemble dans le même processus. Ce modèle ressemble à peu près à cela :
 
-![Modèle à double voies de Sy](https://jpattonassociates.com/wp-content/uploads/2017/05/sy-dual-track-model.png)
+![Modèle à double voie de Sy](https://jpattonassociates.com/wp-content/uploads/2017/05/sy-dual-track-model.png)
 
 
 
 I’d hand-drawn my own version of the model, so it did’t look exactly like this. But, Marty asked me where this model came from. I opened the original paper from Desiree Sy (pronounced See) called [Adapting Usability Investigations for Agile User-centered Design](https://uxpa.org/sites/default/files/agile-ucd_0.pdf)
 
-J'ai dessiné ma propre version de ce modèle, donc il ne ressemble pas tout à fait à ça. Mais, Marty m'a demandé d'où venait ce modèle. J'ai ouvert le document original de Desiree Sy (prononcé See) dénommé [Adapting Usability Investigations for Agile User-centered Design](https://uxpa.org/sites/default/files/agile-ucd_0.pdf)
+J'avais dessiné ma propre version de ce modèle, donc il ne ressemble pas tout à fait à ça. Mais, Marty m'a demandé d'où venait ce modèle. J'ai ouvert le document original de Desiree Sy (prononcé Si) dénommé [Adapting Usability Investigations for Agile User-centered Design](https://uxpa.org/sites/default/files/agile-ucd_0.pdf)
 
 ![Desiree Sy](https://jpattonassociates.com/wp-content/uploads/2017/05/desiree-sy-200x200.jpg)
 
@@ -62,7 +62,7 @@ Voici Desiree. Vous allez l'aimer. C'est quelqu'un de vraiment très intelligent
 
 Her 2007 article describes a common pattern which lots of people doing rigorous design and validation work in Agile development had already arrived at. Because, it’s really the only way this stuff can work. At the time, Desiree was working with Alias, now an Autodesk company, and she and her colleagues there had this working pretty smoothly. They were doing what most people at the time considered somewhere between super-hard and impossible. But, for them it seemed natural. Not easy, but it worked.
 
-Son article de 2007 décrit un schéma réccurent auquel un certain nombre de personnes faisant de manière très rigoureuse des travaux de conception et de validation en développement agile sont arrivés à la même conclusion. Parce qu'il s'agit vraiment de la seule manière qui peut fonctionner. À l'époque, Desiree travaillait chez Alias désormais filiale d'Autodesk ; elle et ses collègues travaillaient de manière plutôt fluide. Elle et ses collègues faisaient ce que la plupart des personnes de l'époque considéraient quelque chose situé entre super-difficile et impossible. Mais, pour eux, cela semblait naturel. Pas forcément facile, mais ça marchait.
+Son article de 2007 décrit un schéma réccurent auquel un certain nombre de personnes qui font des travaux de conception et de validation de manière très rigoureuse en développement agile sont arrivés à la même conclusion. Parce qu'il s'agit de la seule manière qui peut vraiment fonctionner. À l'époque, Desiree travaillait chez Alias désormais filiale d'Autodesk ; elle et ses collègues travaillaient de manière assez fluide. Ensemble, ils faisaient ce que la plupart des personnes de l'époque considéraient comme quelque chose situé entre super-difficile et impossible. Mais, pour eux, cela semblait naturel. Pas forcément facile, mais ça marchait.
 
 Marty asked me “what’s this model called?”
 
@@ -70,11 +70,11 @@ Marty m'a demandé "Comment s'appelle ce modèle ?"
 
 “It doesn’t really have a name” I said. “It’s just the way it’s done.”
 
-"Il n'a pas vraiment de modèle" ai-je dit. "C'est simplement la manière dont ça marche"
+"Il n'a pas vraiment de nom" ai-je dit. "C'est simplement la manière dont ça marche"
 
 “What does she call it?” Marty asked.
 
-"Comment est-ce qu'elle l'appelle ?" demanda Marty.
+"Comment l'appelle t'elle ?" demanda Marty.
 
 We scanned the paper and found this paragraph:
 
@@ -90,11 +90,11 @@ Si je ne garde que la partie importante, voici ce que dit le texte
 
 > “… we work with developers very closely through design and development. Although the dual tracks depicted seem separate, in reality, designers need to communicate every day with developers.”
 
-> "… nous travaillons avec les développeurs de manière très étroite tout au long de la conception et du développement. Même si les deux voies semble séparées, en réalité, les concepteurs doivent communiquer tous les jours avec les développeurs."
+> "… nous travaillons étroitement avec les développeurs tout au long de la conception et du développement. Bien que les deux voies semblent séparées, en réalité, les concepteurs doivent communiquer tous les jours avec les développeurs."
 
 And that was it. Marty began using this term in his teaching to product managers. And since I often teach to the same people I began using that term. And gradually others began using that term.
 
-Et c'est tout. Marty a commencé à utiliser ce terme dans ses formations aux responsables produit. Et étant donné que je fais des formations souvent aux mêmes personnes j'ai commencé à utiliser ce terme. Puis petit à petit d'autres ont commencé à utiliser ce terme.
+Et c'est tout. Marty a commencé à utiliser ce terme dans ses formations à destination des responsables produit. Et étant donné que je fais des formations souvent aux mêmes personnes j'ai commencé à utiliser ce terme. Puis petit à petit d'autres ont commencé à utiliser ce terme.
 
 Now I need to tell you I hate the term, and here’s why.
 
@@ -102,23 +102,23 @@ Maintenant je dois vous dire que je déteste ce terme, et je vais vous dire pour
 
 ## It’s Dual Track, not Duel Track
 
-## C'est deux voies et non un duel de voies
+## C'est double voie et non un duel de voies
 
 People just don’t read. It’s a miracle you’ve read this far yourself. Congratulations.
 
-La plupart des gens ne lisent pas. C'est d'ailleurs un miracle que vous ayez lu jusque là. Félicitations.
+La plupart des gens ne lisent pas. C'est d'ailleurs un miracle que vous ayez lu jusque-là. Félicitations.
 
 But people do look at pictures. And that picture of dual track seems to suggest different jobs for different people – like product managers and designers figuring out what to build, and developers building it. And in the worst of cases, you may interpret it as developers needing to wait weeks for product managers and designers to get their sh*t done.  It’s not supposed to be that way. If the whole team is responsible for product success, not just getting things built, then the whole team understands and contributes to both kinds of work.
 
-Mais les gens regardent les images. Et l'image des deux voies semblent suggérer différents types de travaux faits par différentes personnes - comme les responsables produits et les concepteurs d'un côté essayant de deviner ce qu'il y a à mettre en place, et les développeurs essayant de deviner ce qu'il y a à construire. Et dans le pire des cas, vous pourriez l'interprêter en vous disant que les développeurs doivent attendre pendant plusieurs semaines que les responsables produit et les designeurs aient fini leur m\***. Ce n'est censé fonctionné comme cela. Si toute l'équipe doit être responsable du succès du produit, pas simplement de le construire, alors toute l'équipe doit comprendre et contribuer aux deux différents types de travaux.
+Mais les gens regardent les images. Et l'image d'une double voie semblent suggérer différents types de travaux faits par différentes personnes - comme les responsables produits et les concepteurs d'un côté essayant de deviner ce qu'il y a à mettre en place, et les développeurs essayant de deviner ce qu'il y a à construire. Et dans le pire des cas, vous pourriez l'interprêter en vous disant que les développeurs doivent attendre pendant plusieurs semaines que les responsables produit et les designeurs aient fini leur m\***. Ce n'est pas censé fonctionner comme cela. Si toute l'équipe doit être responsable du succès du produit, pas simplement de le construire, alors toute l'équipe doit comprendre et contribuer aux deux différents types de travaux.
 
 I’d love a different term, and a different picture. But, I don’t have a better term or picture right now. Although I’ll try to draw a few more pictures to supplement this one.
 
-J'aimerais un terme différent et une image différente. Mais, je n'ai pas de meilleur terme ou de meilleure image pour l'instant. Toutefois, je vais essayer de dessiner quelques illustrations pour compléter celle-là.
+J'aimerais un terme différent et une image différente. Mais, je n'ai pas de meilleur terme ou de meilleure image pour l'instant. Toutefois, je vais essayer de dessiner quelques illustrations afin de compléter celle-là.
 
 ## There are two kinds of work, and there’s no way around it
 
-## Il y a deux types de travaux et il n'y aucun moyen de faire autrement
+## Il y a bien deux types de travaux et il n'y aucun moyen de faire autrement
 
 ### Development work
 
@@ -134,7 +134,7 @@ Si vous avez déjà travailler en mode agile avant, vous savez que les équipes 
 
 When you’re delivering production quality stuff, quality is super important. If we’re putting software into production, quality, scalability, performance, localization, and lots of other concerns are important. So, finished development work should be built, tested, and reviewed by others to look after all these concerns. Agile teams will talk a lot about “potentially shippable software” which really means that they may not have built enough of it to ship yet, but once they do, the quality is high enough that they could ship it confidently.
 
-Quand vous livrez quelque chose qui doit aller en production, la qualité est très importante. Si vous mettez du logiciel en production, la qualité, la scalabilité, la performance, la traduction, et plein d'autres sujets sont importants. Donc, des travaux de développement aboutis devraient être construits, testés, et revus par autrui pour vérifier tous ces éléments. Les équipes agiles parlent énormément de "logiciel potentiellement livrable" ce qui signifie en réalité qu'elles n'ont peut être pas suffisamment travaillés pour livrer, mais une fois qu'elles ont fini, la qualité est d'un niveau suffisant pour qu'elles puissent livrer en toute confiance.
+Quand vous livrez quelque chose qui doit aller en production, la qualité est très importante. Si vous mettez du logiciel en production, la qualité, la scalabilité, la performance, la traduction, et plein d'autres sujets sont importants. Donc, le fruit des travaux de développement devrait être compilé, testé, puis revu par autrui pour vérifier tous ces éléments. Les équipes agiles parlent énormément de "logiciel potentiellement livrable" ce qui signifie en réalité qu'elles n'ont peut être pas suffisamment travaillé pour livrer, mais une fois qu'elles ont fini, la qualité est d'un niveau suffisant pour qu'elles puissent livrer en toute confiance.
 
 > Development work focuses on predictability and quality
 
@@ -142,19 +142,19 @@ Quand vous livrez quelque chose qui doit aller en production, la qualité est tr
 
 ### Discovery work
 
-### Les travaux sur la découverte
+### Les travaux de découverte
 
 One of the tragedies in software development, and all product development for that matter, is that much of what we build doesn’t succeed. It doesn’t deliver the benefit we’d hoped. So, that’s a problem. But, even before that, it takes a bit of time to learn enough about the problems we’re solving to make good decisions about what we should build. We use discovery work to do all that. To answer questions, to test ideas, and to avoid – as much as possible – wasting time over-investing in quality stuff we shouldn’t have built in the first place.
 
-L'une des tragédies dans le développement logiciel, et pour ce que cela vaut dans toutes les activités de développement produit, est que la plupart de ce que nous réalisons ne rencontrent pas le succès escompté. Nous n'obtenons pas le bénéfice attendu. C'est donc un problème. Mais, même avant ça, cela prend du temps pour en savoir suffisamment sur les problèmes que nous essayons de résoudre pour prendre les bonnes décisions sur ce que nous devrions construire. Nous utilisons les travaux sur la découverte pour faire tout ça. Pour répondre aux questions, tester des idées, et éviter - autant que possible -  perdre du temps en surinvestissant sur la qualité que nous ne devrions pas faire pour commencer.
+L'une des tragédies dans le développement logiciel, et pour ce que cela vaut dans toutes les activités de développement produit, est que la plupart de ce que nous faisons ne rencontrent pas le succès escompté. Nous n'obtenons pas le bénéfice attendu. C'est donc un problème. Mais, même avant ça, cela prend du temps pour en savoir suffisamment sur les problèmes que nous essayons de résoudre afin de prendre les bonnes décisions sur ce que nous devrions construire. Nous utilisons les travaux sur la découverte pour faire tout ça. Pour répondre aux questions, tester des idées, et éviter - autant que possible -  perdre du temps en surinvestissant sur des travaux de très bonne qualité que nous ne devrions pas faire tout simplement.
 
 We want to learn as quickly, cheaply, and safely as we can. So velocity is important during discovery too – but this is learning velocity.
 
-Nous voulons apprendre aussi rapidement, aussi peu cher, et aussi sans encombres que nous le pouvons. Donc la vélocité est importante aussi pendant lors de la découverte - mais il s'agit d'une vélocité d'apprentissage.
+Nous voulons apprendre aussi rapidement, aussi peu cher, et aussi sans encombres que possible. La vélocité est donc importante aussi lors de la découverte - mais il s'agit d'une vélocité d'apprentissage.
 
 > Discovery work focuses on fast learning and validation
 
-> Les travaux sur la découverte se concentrent sur un apprentissage et une validation rapides.
+> Les travaux sur la découverte se concentrent sur un apprentissage rapide et une validation de nos hypothèses rapide.
 
 Because the goal is learning, not working software, a discovery learning loop looks a bit like this:
 
@@ -178,7 +178,7 @@ Cela commence par décrire :
 
 That’s our bet, our best guess, our belief, our hypothesis. All of those are uncomfortable words for people who believe they’re building the right thing. But, the truth is, we’re always making a bet that we’ll get value. Embedded in that bet are lots of assumptions, risks, and maybe some questions. To focus our learning, we’ll choose the assumption, risk, or question that scares us the most and identify an experiment or method to learn. Then do it. Then use what we’ve learned to change all those going-in beliefs about problems and solutions.
 
-C'est notre pari, notre intuition, notre croyance, notre hypothèse. Tous ces mots inconfortables que les gens qui pensent construire ce qui est correct. Mais, à vrai dire, nous faisons toujours le pari que nous allons gagner. Dans ce pari, il y a beaucoup de supposition, de risques, et peut être même de questions. Pour concentrer notre apprentissage, nous allons choisir la supposition, le risque, ou la question qui nous effraye le plus et allons identifier une expérience ou une méthode pour apprendre. Puis la faire. Puis utiliser ce que nous avons appris pour changer toutes ces croyances à propos des problèmes et des solutions.
+C'est notre pari, notre intuition, notre croyance, notre hypothèse. Tous ces mots inconfortables que les gens qui pensent construire ce qui est correct. Mais, à vrai dire, nous faisons toujours le pari que nous allons gagner. Dans ce pari, il y a beaucoup de suppositions, de risques, et peut-être même de questions. Pour concentrer notre apprentissage, nous allons choisir la supposition, le risque, ou la question qui nous effraye le plus et allons identifier une expérience ou une méthode pour apprendre. Puis l'appliquer. Puis utiliser ce que nous avons appris pour changer toutes ces croyances à propos des problèmes et des solutions.
 
 Sadly, one of the most time consuming and expensive ways to learn is to build potentially shippable software. So we don’t – unless we really can’t come up with any other way to learn, or we’re really confident our bet is good. Remember, we’re not betting we can build it on time. We’re betting that people have the problem we’re solving and will happily try, use, and adopt our solution.
 
@@ -198,15 +198,15 @@ C'est de cette manière que fonctionne la boucle d'apprentissage. Et voici un ce
 
 **Discovery work often results in killing ideas.** At the end of every test you’ve got a decision to make: build it, kill it, or keep learning. Yes, what I’m really saying here is discovery work can and should result in killing ideas. Not everything goes forward. This can make some folks really uncomfortable.
 
-**Les résultats des travaux de découverte ont comme conséquence d'éliminer les idées.** À la fin de chaque test, vous avez une décision à prendre : construire, éliminer ou continuer à apprendre. Oui, tout à fait, ce que je suis en train de dire ici est que les travaux de découverte peuvent et devraient avoir comme résultat d'éliminer des idées. Tout ne doit pas continuer. Certaines personnes peuvent se sentir mal à l'aise avec ceci.
+**Les résultats des travaux de découverte ont comme conséquence d'éliminer les idées.** À la fin de chaque test, vous avez une décision à prendre : construire, éliminer ou continuer à apprendre. Oui, tout à fait, ce que je suis en train de dire ici est que les travaux de découverte peuvent et devraient avoir comme résultat d'éliminer des idées. Tout ne doit pas continuer. Certaines personnes peuvent se sentir mal à l'aise avec ça.
 
 **We time-box discovery cycles.** To keep discovery costs from running away from us, we’ll timebox a test or experiment from a few hours to a few days.
 
-**Nous donnons une durée impartie aux cycles de découverte.** Pour éviter que les coûts liés aux travaux de découverte ne nous échappent, nous allons donner une durée impartie à un test ou à une expérience allant de quelques heures à quelques jours.
+**Nous donnons une durée fixe aux cycles de découverte.** Pour éviter que les coûts liés aux travaux de découverte ne nous échappent, nous allons donner une durée fixe à un test ou à une expérience allant de quelques heures à quelques jours.
 
 **We can’t predict what we’ll need to learn next** – not easily. When we learn something really valuable, it tends to really change our going-in beliefs, and really change what our next biggest assumption or question is. This can really suck.
 
-**Nous ne pouvons pas prévoir ce que nous allons apprendre demain** - du moins pas facilement. Lorsque nous apprenons quelque chose de vraiment valable, cela à tendance à changer réellement nos croyances du moment, et cela change vraiment ce que sera notre prochaine grosse supposition ou notre prochaine grosse question. Cela peut vraiment mettre le bordel.
+**Nous ne pouvons pas prévoir ce que nous allons apprendre demain** - du moins pas aisément. Lorsque nous apprenons quelque chose de vraiment valable, cela à tendance à changer en profondeur nos croyances du moment, et cela change vraiment ce que sera notre prochaine grosse supposition ou notre prochaine grosse question. Ça peut vraiment mettre le bordel.
 
 Discovery loops chain together a little like this:
 
@@ -222,7 +222,7 @@ Désormais, il devrait être clair qu'à la fois les travaux de développement e
 
 ### OK, it’s really 3 kinds of work…
 
-### OK, c'est en fait 3 différentes sortes de travail …
+### OK, c'est en fait 3 types de travail différents …
 
 To actually start building work software, you’ll need to make a lot of tactical design decisions. These may not be the risky decisions that need validation, but they still need to be made. It’s often designers that need to spend time ahead of development to refine and finish design work in preparation for writing code.
 
@@ -230,7 +230,7 @@ Pour commencer à réaliser un logiciel, vous aurez besoin de prendre beaucoup d
 
 > If you’ve validated the product is worth building, you’ll likely need to finish some detailed design work before you write code
 
-Si vous avez validé que le produit vaut le coup d'être réalisé, vous aurez sûrement besoin de finir quelques travaux de conception avant de commencer à écrire du code.
+> Si vous validez qu'un produit vaut le coup d'être réalisé, vous aurez probablement besoin de faire des travaux de conception détaillée avant de commencer à écrire du code
 
 ## It’s happening all at once
 
@@ -242,11 +242,11 @@ Ce serait super si nous pouvions tous nous concentrer sur les travaux de découv
 
 > Discovery work happens concurrently and continuously with development work.
 
-> Les travaux de la découverte se déroule de manière concurrente et continue aux travaux de développement.
+> Les travaux de découverte se déroulent de manière concurrente et continue aux travaux de développement.
 
 I draw the conjoined model a little like this these days.
 
-J'ai dessiné le modèle conjoint de la manière suivante ces jours-ci
+J'ai dessiné dernièrement ce modèle conjoint de la manière suivante :
 
 ![Dual track diagram](https://jpattonassociates.com/wp-content/uploads/2017/05/dual-track-diagram-768x433.png)
 
@@ -254,7 +254,7 @@ J'ai dessiné le modèle conjoint de la manière suivante ces jours-ci
 
 Discovery work uses irregular cycle lengths. It’s “Lean” in that we’re trying to make the discovery cycle as short as possible. Ideas in discovery mutate and very often get abandoned. The best move forward into more deliberate development cycles. I’m not sure how to show all that stuff in a single drawing. But, I’m trying to in the one above.
 
-Les travaux de la découverte ont des cycles de longueurs irrégulières. C'est "Lean" dans le sens où nous essayons d'avoir un cycle de la découverte aussi court que possible. Les idées dans ces moments-là changent et sont très souvent abandonnées. La meilleure manière d'avancer est de passer délibéremment en cycle de développement. Je ne suis pas certain de savoir comment montrer tout cela en un seul dessin. Mais, c'est que ce j'essaie de faire dans l'illustration ci-dessus.
+Les travaux de découverte ont des cycles de longueurs irrégulières. C'est "Lean" dans le sens où nous essayons d'avoir un cycle de découverte aussi court que possible. Les idées dans ces moments-là changent et sont très souvent abandonnées. La meilleure manière d'avancer est de passer délibéremment en cycle de développement. Je ne suis pas certain de savoir comment montrer tout cela en un seul dessin. Mais, c'est que ce j'essaie de faire dans l'illustration ci-dessus.
 
 > Discovery and development are shown in two tracks because they’re two kinds of work, and two kinds of thinking
 
@@ -282,7 +282,7 @@ Il y a généralement assez de travaux de découverte à faire et plusieurs mani
 
 Let me hit the biggest misconceptions people have with the model again.
 
-Laissez-moi mettre à bas à nouveau les plus gros malentendus que les gens ont sur ce modèle.
+Laissez-moi disperser à nouveau les plus gros malentendus que les gens ont sur ce modèle.
 
 Myth: Discovery is a process that precedes agile development. It shouldn’t.
 
@@ -302,11 +302,11 @@ Mythe : Tous les travaux passent de la découverte au développement. Non, ce n'
 
 Myth: The discovery team is different than the development team. It shouldn’t be.
 
-Mythe : L'équpe de découverte est différente de celle de développement. Cela ne devrait pas être le cas.
+Mythe : L'équipe de découverte est différente de celle de développement. Cela ne devrait pas être le cas.
 
 > While a product manager, designer, and senior engineer may lead and orchestrate discovery, they must Involve the whole team in discovery tasks wherever possible. Keep discovery work and progress visible to the whole team.
 
-> Tandis qu'un responsable produit, un designeur ou ingénieur peuvent tout à fait  être capable de conduire et d'orchestrer le travail de découverte, ils doivent impliquer l'ensemble de l'équipe dans ce travail dès que cela est possible. Il est nécessaire que le travail de découverte et son avancée reste visible de l'ensemble de l'équipe.
+> Tandis qu'un responsable produit, un concepteur ou ingénieur peuvent tout à fait  être capable de conduire et d'orchestrer le travail de découverte, ils doivent impliquer l'ensemble de l'équipe dans ce travail dès que cela est possible. Il est nécessaire que le travail de découverte et son avancée reste visible de l'ensemble de l'équipe.
 
 Myth: Once you move from discovery to development, discovery work done. It’s not.
 
@@ -314,7 +314,7 @@ Mythe : Une fois que vous êtes passé de la découverte au développement, les 
 
 This misconception is something that really bugs my friend Jeff Gothelf. He sees the production-quality software we build as our last-best experiment.
 
-Ce malentendu est quelque chose qui emmerde vraiment mon ami Jeff Gothelf. Il perçoit le logiciel de qualité-production que nous venons de réaliser comme notre dernière meilleure expérience.
+Ce dernier malentendu emmerde vraiment mon ami Jeff Gothelf. Pour lui, le logiciel de qualité-production que nous venons de réaliser et qui a atteint un niveau de qualité de production, est considéré comme étant simplement notre dernière meilleure expérience.
 
 > Keep measuring and learning even after you ship.
 
@@ -330,18 +330,18 @@ Du point de vue de Jeff Gothelf, tout est découverte and nous apprenons à part
 
 I’ve talked conceptually about what discovery and development work is, and why you combine them in the same process. But, I’ve said very little about how you do this in practice. You should be feeling a little unsatisfied. Sorry about that.
 
-J'ai parlé conceptuellement sur ce que sont les travaux de découverte et de développement, et pourquoi vous devez les combiner en un seul processus. Mais, j'en ai dit très peu dit sur comment vous le faites en pratique. Vous devez vous sentir légèrement insatisfait. Désolé pour ça.
+J'ai parlé conceptuellement sur ce que sont les travaux de découverte et de développement, et pourquoi vous devez les combiner en un seul processus. Mais, j'en ai dit très peu dit sur comment vous le faites en pratique. Vous devez vous sentir légèrement frustré. Désolé pour ça.
 
 But, this is the first article in a series I’m writing. Next articles will cover:
 
-Mais il s'agit du tout premier article d'une série que je suis en train d'écrir. Les prochains articles aborderont :
+Mais il s'agit du tout premier article d'une série que je suis en train d'écrire. Les prochains articles aborderont :
 
 * How to keep discovery visible in a typical Agile process like Scrum
 * How to adjust typical Agile planning, standup, and review meetings so they focus on both discovery and development
 * How to think through your next best experiment and scale discovery investment along with confidence
 
 * Comment maintenir la découverte visible dans un processus agile-type tel que Scrum
-* Comment adapter une planification, un standup, ou des revues agiles types afin qu'elles abordent à la fois la découverte et le développement
+* Comment adapter une planification, un standup, ou des revues agiles-types afin qu'elles abordent à la fois la découverte et le développement
 * Comment envisager votre prochaine super expérience et étaler l'investissement de la découverte tout au long du projet en toute confiance
 
 
@@ -351,8 +351,29 @@ Quelles sont les questions pouvant restant en suspens de votre côté ? Quel est
 
 ## Shameless plug
 
-## Publicité éhontée
+## Publicité éhontée[^1]
 
 I teach classes in Scrum Product Ownership. But, they’re really classes about product management and design in an Agile context. Because, do you really need yet another class on Scrum? I’ve got upcoming classes scheduled with my friend Jeff Gothelf, author of Lean UX and Sense & Respond. The two of us tackle product thinking, discovery work, and this sticky dual-track stuff head-on. You should consider coming. Or tell someone in your organization that needs to understand this stuff about the workshop.
 
-Je donne des formations sur le Product Ownership Scrum. Et, il s'agit de formations qui sont vraiment sur la gestion et la conception agile de produit dans un contexte agile. En effet, avez-vous vraiment besoin d'une autre formation sur Scrum ? Avec mon agmi Jeff Gothel, auteur de Lean UX et de Sense & Respond, nous donnerons prochainement des formations. Nous abordons la pensée produit, les travaux de découverte, et ce sujet de processus à double voies. Vous devriez envisager d'y venir. Ou la recommander à quelqu'un de votre organisation qui a besoin de comprendre tout ce qui tout à genre de chose.
+Je donne des formations sur le Product Ownership Scrum. Il s'agit de formations réellement sur la gestion et la conception de produit dans un contexte agile. Est-ce que vous avez vraiment besoin d'une formation supplémentaire sur Scrum ? Avec mon ami et confrère Jeff Gothelf, auteur de Lean UX et de Sense & Respond, nous donnons régulièrement des formations. Nous y abordons la pensée produit, les travaux de découverte, et ce sujet de processus à double voie. Vous devriez peut-être envisager d'y venir. Ou la recommander à quelqu'un de votre organisation qui a besoin de comprendre tout ce qui tout à genre de chose.
+
+[^1]: publicité éhontée de l'auteur et non du traducteur qui lui n'a rien à vendre ;)
+
+
+---  
+Auteur : [Jeff Patton](http://jpattonassociates.com/about-jeff-patton/)  
+Source : [Dual Track Development is not Duel Track](https://jpattonassociates.com/dual-track-development/)  
+Date de parution originale : 10 Juillet 2017  
+
+---
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 18/03/2018  
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
+{% include share_buttons.html %}
+
