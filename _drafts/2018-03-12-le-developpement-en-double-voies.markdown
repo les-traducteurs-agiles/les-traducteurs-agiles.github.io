@@ -180,12 +180,6 @@ Mais il s'agit du tout premier article d'une série que je suis en train d'écri
 
 Quelles sont les questions pouvant restant en suspens de votre côté ? Quel est votre plus grand défi lorsque vous faites ça ? Dites-moi quels sont les sujets que je devrais aborder et que je n'ai pas mentioné ci-dessus.
 
-## Publicité éhontée[^1]
-
-Je donne des formations sur le Product Ownership Scrum. Il s'agit de formations réellement sur la gestion et la conception de produit dans un contexte agile. Est-ce que vous avez vraiment besoin d'une formation supplémentaire sur Scrum ? Avec mon ami et confrère Jeff Gothelf, auteur de Lean UX et de Sense & Respond, nous donnons régulièrement des formations. Nous y abordons la pensée produit, les travaux de découverte, et ce sujet de processus à double voie. Vous devriez peut-être envisager d'y venir. Ou la recommander à quelqu'un de votre organisation qui a besoin de comprendre tout ce qui tout à genre de chose.
-
-[^1]: publicité éhontée de l'auteur et non du traducteur qui lui n'a rien à vendre ;)
-
 ---  
 Auteur : [Jeff Patton](http://jpattonassociates.com/about-jeff-patton/)  
 Source : [Dual Track Development is not Duel Track](https://jpattonassociates.com/dual-track-development/)  
