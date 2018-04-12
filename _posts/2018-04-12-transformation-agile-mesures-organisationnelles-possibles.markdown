@@ -10,11 +10,11 @@ tags:
 
 “What should I measure???” is one of the questions I see when I work with people going through an agile transformation. Too often, managers measure people as individuals. (Traditional measurements focus on resource efficiency instead of [flow efficiency](http://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/).) Resource efficiency measures don’t measure what the organization delivers or what prevents the organization from delivering.
 
-
+“Qu’est-ce que je devrais mesurer ???” est l’une des questions à laquelle je suis confrontée lorsque je travaille avec des gens dans le cadre d’une transformation agile. Trop souvent, les responsables mesure les gens en tant qu’individu. (Les mesures traditionnelles se focalise sur l’efficacité de la ressource à la place de se focaliser sur l’[efficacité du flux](http://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/).) Les mesures de l’efficience des ressources ne mesurent pas ce que l’organisation livre ou ce qui empêche l’organisation de livrer.
 
 This measurement question can be the prompt that changes your [culture and your system](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-see-system-culture-part-3/). It might help people realize there are reasons for [change](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/) and help them create small, safe-to-fail experiments. I like to see the questions reflect the [why](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-introduction-answering-part1/) for _your_ organization’s agile transformation.
 
-
+Cette question de la mesure peut être le curseur qui change votre [culture et votre système](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-see-system-culture-part-3/). Cela pourrait aider les gens de réaliser qu’il y a des raisons pour [changer]((http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/)) et les aider à créer de petites expériences sans risques. J’aime voir ces questions refléter le [pourquoi](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-introduction-answering-part1/) de la transformation agile de votre organisation.
 
 First, consider asking yourself these questions:
 
