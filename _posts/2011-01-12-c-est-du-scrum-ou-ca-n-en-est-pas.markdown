@@ -32,7 +32,7 @@ Source : [Scrum is, Scrum is not](http://kenschwaber.wordpress.com/2011/08/11/sc
 Date de parution originale : 11 Janvier 2011  
 
 ---
-Traducteur : [Fabrice Aimetti]((http://www.les-traducteurs-agiles.org/traducteurs/))  
+Traducteur : [Fabrice Aimetti](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 12/01/2011  
 
 ---

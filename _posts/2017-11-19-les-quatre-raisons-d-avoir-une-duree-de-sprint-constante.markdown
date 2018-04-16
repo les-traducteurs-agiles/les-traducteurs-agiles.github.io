@@ -9,7 +9,7 @@ tags:
 - sprint
 ---
 
-![Quatre raisons pour avoir une durée de sprint constante]({{ site.url }}assets/dossier/four-reasons-to-have-consistent-sprint-length-blue-quote_fr.png)  
+![Quatre raisons pour avoir une durée de sprint constante]({{ site.url }}assets/mountain_goat/four-reasons-to-have-consistent-sprint-length-blue-quote_fr.png)  
 
 Une équipe agile doit conserver une durée de sprint constante. Malheureusement, lorsque j'ai commencé le développement itératif et incrémental (avant même que l'on appelle cela du développement agile), j'ai fait l'erreur de ne pas adopter des sprints de la même longueur.
 
