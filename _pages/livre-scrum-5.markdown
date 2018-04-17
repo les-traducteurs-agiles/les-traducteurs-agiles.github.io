@@ -121,7 +121,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch19"></a> Chapitre 19 : Ajouter les pratiques de développement XP
 
-1. [Manifeste pour artisanat du logiciel](http://ayeba.wikispaces.com/Manifeste+pour+l%27Artisanat+Logiciel) (craftmanship)
+1. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
 
 
 ### <a name="ch20"></a> Chapitre 20 : Appliquer Kanban sur Scrum
