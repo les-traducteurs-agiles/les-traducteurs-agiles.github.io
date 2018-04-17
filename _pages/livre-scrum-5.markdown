@@ -66,7 +66,7 @@ Bonus :
 ### <a name="ch07"></a> Chapitre 7 : Affiner le backlog
 
 1. Le guide Scrum, cette fois pour bien montrer que grooming a disparu du guide depuis plusieurs années : [Guide Scrum](http://www.les-traducteurs-agiles.org/2017/11/12/guide-scrum-novembre-2017.html)
-2. [L'acronyme INVEST](http://ayeba.wikispaces.com/INVESTissez+dans+de+bonnes+stories+et+dans+des+t%C3%A2ches+SMART), qui provient d'un article de Bill Wake (2003); auquel je préfère le pattern des 6D
+2. [L'acronyme INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html), qui provient d'un article de Bill Wake (2003); auquel je préfère le pattern des 6D
 
 
 ### <a name="ch08"></a> Chapitre 8 : S'accorder sur la définition de fin
