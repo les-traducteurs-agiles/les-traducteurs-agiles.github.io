@@ -8,9 +8,9 @@ tags:
 - à grande échelle
 ---
 
-[![Le guide Scrum@Scale]({{ site.url }}assets/scrum/le-guide-scrum-at-scale.png)](https://www.dropbox.com/s/l2511vern2ck853/Guide%20Scrum%40Scale.pdf?dl=0)
+[![Le guide Scrum@Scale]({{ site.url }}assets/scrum/le-guide-scrum-at-scale.png)](http://bit.ly/2qzTYtg)
 
-À télécharger à partir de ce [lien](https://www.dropbox.com/s/l2511vern2ck853/Guide%20Scrum%40Scale.pdf?dl=0) ou en cliquant directement sur l’image
+À télécharger à partir de ce [lien](http://bit.ly/2qzTYtg) ou en cliquant directement sur l’image
 
 ---
 Auteur : [Dr. Jeff Sutherland](https://www.scruminc.com/about-us/)  
