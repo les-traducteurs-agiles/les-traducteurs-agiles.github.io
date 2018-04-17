@@ -1,0 +1,168 @@
+---
+layout: post
+title:  "Scrum-ban"
+date:   2011-07-01 00:01
+published: true
+tags: 
+- kanban
+- scrum
+---
+
+Comme de plus en plus de gens s'intéressent aux idées Lean et à leur application dans la gestion des connaissances et des projets, il est utile de trouver des moyens pour que ce soit plus facile de démarrer ou d'apprendre quelques notions de base qui peuvent mener à une compréhension plus profonde un peu plus tard. Pour ceux qui sont curieux au sujet de Kanban dans un contexte bureau, il n'est pas rare de trouver des gens qui sont soit actuellement en train d'utiliser Scrum, ou qui ont une certaine perception de Scrum en tant que représentant de la pensée Agile. D'une façon ou d'une autre, les utilisateurs de Scrum composent une part importante de l'audience Kanban. Puisque Scrum peut être décrit comme une instance dans la langue que nous utilisons pour décrire les systèmes Kanban, il est également assez facile d'élaborer et de décrire des hybrides Scrum / Kanban. Cela peut être utile pour les équipes Scrum existantes qui cherchent à changer de taille ou améliorer leur capacité. Cela peut également être utile pour des nouveaux utilisateurs plus prudents qui trouvent un réconfort dans une méthode "établie".
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Simple tableau de tâches" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-001.jpg" />
+</div> 
+
+L'idée d'utiliser un simple tableau de tâches avec des cartes ou des post-its est aussi vieille que l'Agilité elle-même. Une présentation simple est un workflow A faire -> En cours -> Fini. Les cartes représentent des items de travail à traiter dans le périmètre actuel. Des noms peuvent être associés aux cartes pour indiquer qui travaille sur quoi. Les équipes agiles ont eu recours à ce genre de méthode depuis longtemps, et quelques personnes ont remarqué dès le départ que cela avait une certaine ressemblance avec la notion de kanban dans les systèmes lean.
+
+Bien sûr, divers outils électroniques existent qui remplissent ces fonctions, mais le simple tableau de tâches représente quelques principes Lean que je trouve à forte valeur ajoutée, simple technologiquement' parlant et d'un point de vue contrôle visuel. L'utilité d'une telle méthode simple de gestion de workflow, c'est qu'elle est facile à gérer, et plus important encore, elle est facile à changer. Se blottir autour d'un écran d'ordinateur, même très grand, ne peut en aucune façon remplacer l'interactivité tactile et sociale qui accompagne la manipulation d'un grand tableau de tâches. Peut-être qu'un jour ce sera le cas. Mais pas aujourd'hui. Les outils électroniques sont bons pour gérer des listes de choses, comme les backlogs et les bugs, et produire des rapports. Des outils simples peuvent constituer un concept difficile à expliquer aux fanatiques de technologie, mais c'est ensuite que l'on comprend leur valeur.
+
+<div align="left" style="float:left; padding-right:30px" >
+  <img title="Grosse pile de travail en cours" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-002.jpg" />
+</div>
+
+Un problème avec le tableau de tâches et ses post-its, c'est qu'il n'y a rien pour vous empêcher d'accumuler une grosse pile de travail en cours. Le timeboxing, de par sa nature, établit une limite de TAF sur ce qui peut être traité, mais il peut encore aller plus loin que souhaitable.
+
+Si un kanban est un objet qui représente une demande de travail, et que notre tableau de tâches échappe à tout contrôle, quel est le véritable problème ? Le problème c'est que le kanban représente davantage qu'une simple demande de travail sur une carte, et mettre des post-its sur un tableau blanc n'est pas suffisant pour mettre en œuvre un système à flux tiré.
+
+## Un kanban est plus qu'une carte
+
+<div align="left" style="float:left; padding-right:30px" >
+  <img title="5 euros" src="{{ site.url }}assets/corey_ladas/ladas-eur5.jpg" />
+</div>
+
+Dans une économie moderne, la production et la distribution de biens et de services rares sont régulées par un système monétaire basé sur les prix. Le monétaire peut être représenté par des billets de banque, qui ont peu de valeur intrinsèque, mais qui par convention, peuvent être échangés contre des biens et des services réels. L'existence d'un support neutre d'échange rend possible un système de calcul économique de la rareté relative de l'offre de biens dans une économie. Un tel système basé sur les prix est ce qu'on appelle un marché. Les marchés communiquent à leurs participants la valeur économique de la production et de la distribution.
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Monnaie du Zimbabwe" src="{{ site.url }}assets/corey_ladas/ladas-zimbabwenote.jpg" />
+</div>
+
+Un kanban représente une partie de la capacité de production de certaines économies internes proches. C'est un support d'échange pour les biens et les services fournis par les exploitants d'un système de ressources productives. L'offre de kanban en circulation est contrôlée par une fonction de régulation qui renforce sa valeur. Autrement dit, un kanban est une sorte de monnaie privée et le manager de l'atelier est la banque qui l'émet, à des fins de calcul économique.
+
+Si vous allez encore plus loin dans l'analogie monétaire, alors vous pouvez dire que Kanban ne concernent pas du tout les post-its. Tout comme l'argent ne concernent pas les billets. Kanban traite des limites, la quantité en circulation. La façon dont cela est représentée dans une transaction est accessoire.
+
+Une règle simple pour comprendre tout cela pourrait être :
+
+Un post-it tâche sans limite n'est pas un kanban, de la même manière que la photocopie d'un billet d'un dollar n'est pas de l'argent.
+
+Si vous utilisez un objet résistant comme une carte en plastique, alors c'est facile à gérer : contrôlez le nombre de cartes en circulation. Si toutes les cartes disponibles sont déjà en circulation alors la personne suivante qui vient en chercher un, devra attendre qu'une carte revienne. C'est le but même du système kanban. Toutefois, si vous utilisez un support jetable, comme des cartes ou des post-its, alors vous avez besoin d'un autre mécanisme pour réguler "l'offre argent". Dans notre cas, nous écrivons simplement la quantité de kanban en circulation sur le tableau de tâches, et nous allouons de nouvelles cartes en fonction de cette limite.
+
+Cela signifie qu'un kanban dessert deux fonctions : il s'agit d'une demande pour faire quelque chose en particulier, mais c'est aussi la permission de faire quelque chose en général. Les gens, qui se forment à la pensée lean, ont beaucoup de mal avec cette deuxième notion de permission. Mais c'est précisément de cette manière là que vous pouvez "optimiser l'ensemble" ou "subordonner l'ensemble à la contrainte".
+
+## Croquant à l'extérieur, moelleux à l'intérieur
+
+Tout comme un post-it non régulé sur un panneau de liège n'est pas un kanban, un planning d'itération timeboxé n'est pas un système à flux tiré. Aucune interprétation raisonnable du Lean ne consiste à construire une prévision d'un mois à moins que le temps de cycle pour chaque ordre de travail soit aussi d'un mois. L'équivalent d'un mois de trucs en cours de travail représente bien entendu une taille de lot beaucoup plus petite que 3 mois ou 18 mois, mais si votre backlog d'itération contient 20 items de travail, alors c'est encore 19 de trop pour que ce soit un système à flux tiré.
+
+Néanmoins, il n'est pas difficile d'ajouter à Scrum quelques pratiques simples qui nous permettent d'obtenir quelque chose qui ressemble plus à un workflow lean. Le plus évident c'est de réduire la longueur de l'itération, même si cela n'est pas sans problème. Comme nous le verrons, il est possible d'améliorer progressivement Scrum avec des fonctionnalités de plus en plus orientées flux tiré si bien qu'il ne restera plus à la fin que les vestiges du processus original. L'approche simple est de commencer avec des itérations à la mode Scrum et un processus de planification d'itération, puis de commencer à ajouter des fonctionnalités orientées flux tiré au processus interne de l'équipe.
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Tableau avec limite" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-003.jpg" />
+</div>
+
+Une technique simple qui nous rapproche beaucoup plus de notre définition du kanban c'est de fixer une limite au multitâches pour chaque individu. Vous pourriez avoir un principe simple comme : préférez finir le travail plutôt que d'en commencer un nouveau, ou vous pourriez l'exprimer comme une règle qui dit : essayez de travailler sur un seul item de travail à la fois, mais si vous êtes bloqué, alors vous pouvez travailler sur un deuxième item de travail, mais pas plus. Dans notre exemple, cette règle nous donne une limite de TAF de 6.
+
+Une autre technique courante est de prendre les tâches le plus tard possible. Certaines équipes vont pré-affecter l'ensemble des tâches connues lors de la planification de l'itération. Ce n'est généralement pas une bonne idée, parce que cela crée artificiellement un chemin critique. Attendre le "dernier moment responsable" pour assigner des tâches aux personnes maximise l'apprentissage et vous rapproche davantage d'un système à flux tiré.
+
+<div align="left" style="float:left; padding-right:30px" >
+  <img title="Autre tableau avec limite" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-004.jpg" />
+</div>
+
+Ce n'est pas parce qu'un individu peut avoir plus d'un item de travail affecté dans le processus que cela signifie que tout le monde doit se voir affecter plus d'un item de travail dans le processus. Le problème avec notre règle sur le multitâches c'est qu'elle optimise localement sans prendre en considération l'ensemble. Une limite implicite sur le TAF total de 6 c'est devoir probablement tolérer encore trop de TAF pour nos trois personnes. Une limite de 4 sur 5 items de travail au total à un instant donné dans le processus permet encore de gérer des exceptions au multitâches, mais n'autorise pas cet évident dysfonctionnement qui consiste à ce que chacun porte deux items de travail. Ici, nous avons dépassé le stade de la règle sur les individus et nous venons en fait d'énoncer une règle sur les post-its/tâches elles-mêmes. Ca y est, nos cartes sont dans l'esprit du kanban.
+
+Une autre amélioration que nous pouvons apporter à notre précédent tableau c'est d'ajouter une file d'attente "Prêt" entre le backlog et les travaux en cours. La file d'attente "Prêt" contient des éléments qui sont en attente dans le backlog, mais qui ont une priorité haute. Nous n'avons pas encore affecté de personne à ces tâches, mais dès que quelqu'un deviendra disponible, il pourra prendre l'une de ces tâches au lieu de choisir quelque chose en dehors du backlog. Cela nous permet de découpler le processus d'affectation des travaux du processus de priorisation des travaux, de plus il simplifie l'affectation. La file d'attente "Prêt" a aussi une limite kanban, et elle devrait avoir une limite faible, puisque son seul but est d'indiquer quels items de travail doivent être ensuite démarrés.
+
+A partir de là, nous pouvons commencer à voir certains des mécanismes de flux tiré :
+
+![Utilisation du tableau 1]({{ site.url }}assets/corey_ladas/ladas-scrumban-005.jpg)
+1. David termine une tâche et la déplace dans la colonne "fini".
+
+![Utilisation du tableau 2]({{ site.url }}assets/corey_ladas/ladas-scrumban-005a.jpg)
+2. David tire un nouveau kanban de la file d'attente "Prêt" et commence à travailler.
+
+![Utilisation du tableau 3]({{ site.url }}assets/corey_ladas/ladas-scrumban-006.jpg)
+3. L'équipe répond à l'événement et sélectionne le prochain item de travail prioritaire pour le placer dans la file d'attente "Prêt".
+
+À ce stade, nous exploitons désormais un kanban à flux tiré très simple. Nous avons toujours notre itération timeboxée et le cycle de planification, nous pourrions donc peut-être appeler une telle chose un système Scrumban !
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Scrumban" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-007.jpg" />
+</div>
+
+Maintenant que nous avons développé une sensation de capacité et de flux tiré, il est naturel de penser au flux. Avoir rompu notre nébuleux état "en cours" en états mieux définis peut donner plus de visibilité sur les forces, faiblesses et santé globale de l'équipe. Même des workflows Agile comme l'Extreme Programming ont des rôles et des états relativement bien définis, et un flux de travail fluide entre ces états est tout aussi important que la fluidité du travail à travers l'ensemble du processus.
+
+Ici, nous avons décomposé l'état en cours en deux : Spécifier et Exécuter. "Spécifier" consiste à définir les critères nécessaires pour déterminer quand l'item de travail peut être considéré comme fini. "Exécuter" consiste à réaliser le travail nécessaire pour amener cet item de travail dans un état qui satisfasse ces critères. Nous avons réparti notre précédente limite de TAF de 5 entre ces deux états. Nous avons considéré que "Spécifier" prend moins de temps ici, soit une limite de 2. "Exécuter" consomme le reste de la limite, soit 3. Nous pourrions modifier cette répartition en fonction du temps et de nos variations de performance.
+
+Puisque nous réfléchissons maintenant davantage en mode flux, ces détails supplémentaires du workflow nous invite fortement à utiliser un Diagramme de Flux Cumulé pour suivre les travaux et mesurer notre performance. Un simple burndown vous dira si vous êtes effectivement ou non en train de livrer de la valeur, mais pas vraiment sur les raisons. Le CFD (Cumulative Flow Diagram = Diagramme de Flux Cumulé) communique beaucoup plus d'informations supplémentaires sur le lead time et sur les stocks, ce qui peut permettre de diagnostiquer des problèmes ou même les prévenir.
+
+En définissant un peu mieux notre workflow, nous pouvons aussi tenir compte d'une part de spécialisation fonctionnelle. Dans ce cas, on pourrait parler de spécialisation légère, c'est-à-dire le cas où certains d'entre nous préfèrent faire un type de travail plus qu'un autre, même si nous sommes capables de tout faire. Il est important de comprendre que ce genre de système à flux tiré autorise la spécialisation mais ne l'impose pas. L'équipe est propriétaire du travail et du workflow, et c'est à l'équipe de découvrir comment le faire avec efficacité.
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Scrumban 2" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-008.jpg" />
+</div>
+
+Si nous laissons la personne qui est la meilleure pour réaliser la plupart des tâches à "Spécifier", alors nous devrons également prévoir et coordonner le transfert de connaissances entre nous. Ajouter la colonne Fini de spécifier communique à l'équipe qu'un item de travail qui était auparavant dans l'état "Spécifier" est maintenant prêt à être tiré par quiconque souhaite le déplacer dans l'état "Exécuter". Le travail qui est toujours dans l'état "Spécifier" n'est pas candidat pour être tiré dans ce cas. Si le propriétaire d'un ticket dans l'état "Spécifier" veut le passer à quelqu'un d'autre en aval, il doit le mettre dans le buffer "Fini de spécifier". S'il ne veut pas le passer à quelqu'un d'autre en aval, donc le garder, il peut le mettre directement dans l'état "Exécuter", tant que la capacité le permet. Il se pourrait effectivement que l'état "Exécuter" soit plein, et que le seul travail possible soit de tirer un autre ticket de la file d'attente "Prêt" et de le déplacer dans "Spécifier".
+
+Puisque nous avons ajouté une nouvelle colonne pour bufferiser ce qui est fini, nous avons également légèrement augmenté la limite de WIP. Le compromis c'est que l'augmentation du lead time lié à ce nouveau stock devrait normalement être compensée par la diminution du lead time en raison de l'avantage de la spécialisation. Nous avons également atténué l'impact de ce nouveau stock en partageant la limite de WIP avec l'état précédent. Cela a pour conséquence bénéfique de considérer le buffer "Fini de spécifier" comme un goulot d'étranglement à géométrie variable pour l'état précédent. Plus le travail s'empile dans le buffer "Fini de spécifier", moins vous pouvez traiter de travail en cours dans l'état "Spécifier", jusqu'à ce que ce ne soit plus possible du tout. Mais nous l'avons compris, ce n'est pas "juste par hasard".
+
+Si nous autorisons la spécialisation dans le workflow et les transferts de connaissance qui en découlent, alors nous aurons aussi besoin de nous mettre d'accord sur les résultats attendus à chaque transfert de connaissances. Nous pouvons le faire en définissant de simples procédures standards pour chaque état. Ces dernières n'ont pas besoin d'être compliquées ou même exhaustives. Dans notre exemple, il s'agit de simples check-lists rédigées directement sur le tableau de tâches. Elles ont seulement besoin d'être suffisantes pour éviter tout malentendu entre les producteurs et les consommateurs. Ces standards sont définis par et pour l'équipe, et ses membres peuvent les changer autant que nécessaire, selon le principe du kaizen. Les afficher sur un support tel qu'un tableau blanc ou un wiki renforce le sentiment de propriété partagée par l'équipe.
+
+## Scrumban niveau 2
+
+Dans la version de base de Scrumban décrite jusqu'ici, la revue d'itération et le cycle de planification se déroulent typiquement comme dans Scrum. Mais comme notre processus de production a mûri, nous nous sommes aussi donnés des outils pour rendre le processus de planification plus efficace, plus réactif et mieux intégré au métier qu'il dessert.
+
+Avec ce système à flux tiré, notre flux va se lisser au fur et à mesure que notre capacité s'améliore. Nous pouvons utiliser nos buffers inter-processus et diagrammes de flux cumulés pour montrer les faiblesses de notre processus et les opportunités de kaizen. Au fur et à mesure que nous nous rapprochons de la production, nous allons nous sentir de moins en moins concernés par le burndown et de plus en plus concernés par le temps de cycle, étant donné que l'un est la conséquence et l'autre la cause. Le lead time et le temps de cycle moyen vont devenir les principaux objectifs de performance. Si le temps de cycle est maîtrisé et que la capacité de l'équipe est équilibrée selon la demande, alors le lead time sera également maîtrisé. Si le temps de cycle est maîtrisé, alors les burndowns sont prédictibles et sans intérêt. Si les burndowns sont sans intérêt, alors le fait de se fixer des objectifs et déployer des efforts héroïques risqués devient inutile. Si les burndowns sont sans intérêt, alors les backlogs d'itération sont simplement des stocks pour planifier régulièrement et alimenter le système à flux tiré. En tant que tel, ces stocks doivent être le plus petit possible pour optimiser les coûts de planification.
+
+Puisque l'équipe tire maintenant son travail depuis une petite file d'attente "Prêt" avant de le tirer dans l'encours, alors du point de vue de l'équipe, l'utilité du backlog d'itération c'est qu'il contient toujours quelque chose qui vaut la peine d'être réalisée ensuite. Par conséquent, nous devrions utiliser le mécanisme le moins coûteux qui saura satisfaire cette condition simple.
+
+<div align="right" style="float:right; padding-left:30px" >
+  <img title="Scrumban 3" src="{{ site.url }}assets/corey_ladas/ladas-scrumban-009.jpg" />
+</div>
+
+Un mécanisme simple qui remplit l'objectif est de limiter la taille du backlog itération. Plutôt que de passer par le douloureux travail d'estimation du périmètre de chaque itération, fixez juste la taille du backlog qui tombera parfois à zéro en atteignant la fin de l'itération. C'est un calcul simple. C'est simplement le nombre moyen de choses livrées à chaque itération, qui à son tour est juste un multiple du temps de cycle moyen. Donc si vous avez 5 choses dans votre processus, en moyenne, et qu'il faut 5 jours pour finir quelque chose, en moyenne, alors vous finirez 1 chose par jour, en moyenne. Si votre durée d'itération est de deux semaines, soit 10 jours de travail, alors la taille de votre backlog d'itération sera de 10. Vous pouvez ajouter un ou deux si vous vous souciez de tomber en panne de travail. La communauté Scrum s'est un peu égarée sur ce point : il n'est jamais nécessaire d'estimer la taille particulière des choses dans le backlog. Il est uniquement nécessaire d'estimer la taille moyenne des choses dans le backlog. La plupart des efforts consacrés à l'estimation dans Scrum constituent un gaspillage.
+
+Dans notre incarnation finale de Scrumban, la planification d'itération se tient toujours à intervalle régulier, synchronisée avec la revue et la rétrospective de l'itération, mais l'objectif de la planification est de remplir les cases disponibles, pas de remplir toutes les cases, et certainement pas de déterminer le nombre de cases. Ceci réduit considérablement les efforts et la cérémonie de planification de l'itération. Le temps consacré à estimer durant la planification de l'itération peut être réutiliser pour contrôler la qualité du travail qui arrive dans la file d'attente "Prêt". Si un item de travail est de mauvaise qualité alors il est rejeté, et les récidivistes devront menés une analyse des causes racines.
+
+## Sans les roulettes !
+
+Si vous en êtes arrivé à ce stade dans votre évolution, vous devrez probablement réaliser que les mécanismes originaux de Scrum ne vous apportent plus grand chose. Scrum peut être utile pour aider les membres de l'équipe au départ à travailler ensemble pendant que vous mettez en place une solution plus optimisée. À un certain moment vous pouvez enlever le cocon et permettre au système à flux tiré de déployer ses ailes et prendre son envol.
+
+La première étape au-delà de Scrum est de découpler les périodes de planification et de release. Il peut y avoir un période où vous regroupez les fonctionnalités à livrer, et une autre période qui consiste à regrouper les gens pour planifier. Si nous avons une méthode de planification au plus juste pilotée par les flux tirés, il n'y a vraiment aucune raison pour que ces deux périodes soient les mêmes. Votre équipe d'exploitation pourrait souhaiter livrer une fois par mois, et vos chefs produits pourraient souhaiter mettre en place une cérémonie de priorisation hebdomadaire. Aucune raison de ne pas s'adapter.
+
+Une fois que vous avez brisé la timebox, vous pouvez commencer à construire au plus juste le backlog. L'Agilité implique une capacité à répondre à la demande. Le backlog devrait refléter aussi souvent que possible la compréhension actuelle que vous avez de la situation du métier. C'est-à-dire que le backlog devrait être piloté par les événements. La planification timeboxée d'un backlog n'est que ça, sauf que l'événement est une minuterie, et une fois que nous voyons les choses de cette façon, nous pouvons imaginer d'autres sortes d'événements qui nous permettent de répondre plus rapidement aux nouvelles priorités. Puisque notre système a déjà fait ses preuves sur du flux tiré, le fait d'augmenter notre réactivité ne devrait générer aucun coût supplémentaire et augmenter notre efficacité.
+
+Le problème que nous essayons de résoudre est le suivant :
+
+_Le processus de planification du travail idéal devrait toujours fournir à l'équipe de développement la meilleure chose sur laquelle travailler ensuite, ni plus ni moins._
+
+Une planification plus poussée n'ajoute pas de valeur et est donc un gaspillage. La planification timeboxée type Scrum prévoit généralement un backlog beaucoup plus grand que ce qui est strictement nécessaire pour récupérer l'item de travail suivant, et en tant que tel, il s'agit d'un stock inutile et donc d'un gaspillage inutile.
+
+Le prochain événement que nous pourrions envisager pour planifier des activités de planification est le concept d'un point de commande. Un point de commande est un niveau de stock qui déclenche un processus pour commander de nouveaux matériaux. Au fur et à mesure que nous tirons des items du backlog vers le processus, le backlog va diminuer jusqu'à ce que le nombre d'items de travail restant passe en dessous du point de commande. Lorsque cela arrive, une notification est transmise aux parties responsables pour organiser la prochaine réunion de planification. Si notre backlog actuel est de 10, notre débit de 1/jour, et que nous avons défini un point de commande de 5, alors la planification sera réalisée une fois par semaine.
+
+Une fois par semaine peut être raisonnable si les gens sont difficilement mobilisables ou s'ils ont besoin d'un peu de lead time pour prioriser. Toutefois, s'ils sont davantage disponibles, nous pouvons alors définir un point de commande inférieur. Si les planificateurs peuvent répondre dans la journée, alors peut-être pouvons-nous définir un point de commande à 2. Si le point de commande est 2, alors il n'y aura peut-être pas besoin de conserver un backlog de 10. Peut-être pourrons-nous réduire le backlog à 4... et réduire notre lead time à 6 jours dans le processus.
+
+L'état final de cette évolution est le fait de tirer, ou de prioriser à la demande. Si les planificateurs peuvent prendre une bonne décision assez rapidement, et qu'il n'y a aucune économie d'échelle dans le fait de regrouper des décisions prioritaires, alors la taille du backlog ne doit être que de 1. Au moment où l'item de travail est tiré par l'équipe de développement, on signale à l'équipe de planification de commencer à sélectionner l'item de travail suivant. Si l'équipe de planification est assez rapide dans ses réponses, alors l'équipe de développement ne décrochera jamais. S'il y a une certaine variation ou retard dans la réponse, alors un backlog de 2 pourrait être nécessaire pour prévenir des décrochages. Mais 2 cela reste encore assez petit et lissé par rapport à 10, ou 20, ou 50... ce qui est quelque chose que j'ai vu plus souvent que je ne le voudrais.
+
+Le même type de logique peut être appliquée à la période de livraison. Il y a une taille de lot optimale pour les livraisons et nous devrions d'abord essayer de la trouver, puis essayer de l'améliorer. Le résultat de nos efforts finira par être des fonctionnalités à la demande.
+
+Même à ce niveau, nous avons encore un système kanban assez basique. A partir de là, nous pouvons ajouter la décomposition des items de travail (couloirs), ou la dépendance entre les flux si l'on change d'échelle. Avec une division du travail éclairée , c'est la façon dont nous pensons que le Lean montre la voie pour dimensionner l'Agilité au niveau de l'entreprise.
+
+
+---
+Auteur : Corey Ladas  
+Source : [Scrum-ban](http://leansoftwareengineering.com/ksse/scrum-ban/)  
+Date de parution originale : Juillet 2008  
+
+---
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 01/07/2011  
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
+{% include share_buttons.html %}
+
+
