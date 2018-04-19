@@ -24,43 +24,43 @@ Vous trouverez ici la liste des articles du wiki Ayeba et du site des Traducteur
 ### <a name="ch01"></a> Chapitre 1 : Situer Scrum dans le mouvement agile
 
 1. L'article de Ken Schwaber de 1995, le premier article publié sur Scrum : [le processus de développement Scrum](http://www.les-traducteurs-agiles.org/2017/07/20/le-processus-de-developpement-SCRUM.html)
-2. Le premier article à utiliser la métaphore de la mêlée, par des chercheurs japonais, Takeuchi & Nonaka (1986) : [Les nouvelles règles de développement d'un nouveau produit](http://ayeba.wikispaces.com/Les+nouvelles+r%C3%A8gles+de+d%C3%A9veloppement+d%27un+nouveau+produit)
+2. Le premier article à utiliser la métaphore de la mêlée, par des chercheurs japonais, Takeuchi & Nonaka (1986) : [Les nouvelles règles de développement d'un nouveau produit](http://www.les-traducteurs-agiles.org/2009/06/07/les-nouvelles-regles-de-developpement-d-un-nouveau-produit.html)
 3. Le Guide Scrum, version 2017, de Schwaber & Sutherland: [Guide Scrum](http://www.les-traducteurs-agiles.org/2017/11/12/guide-scrum-novembre-2017.html)
-4. Le Manifeste Agile, une traduction franco-québécoise : [Le Manifeste Agile](http://ayeba.wikispaces.com/Manifeste+pour+le+d%C3%A9veloppement+Agile+de+logiciels)
+4. Le Manifeste Agile, une traduction franco-québécoise : [Le Manifeste Agile](http://www.les-traducteurs-agiles.org/2011/01/01/manifeste-pour-le-developpement-agile-de-logiciels.html)
 
 Bonus :
 
-* [C'est du Scrum ou ça n'en est pas](http://ayeba.wikispaces.com/C%27est+du+Scrum+ou+%C3%A7a+n%27en+est+pas) par Ken Schwaber en 2011
+* [C'est du Scrum ou ça n'en est pas](http://www.les-traducteurs-agiles.org/2011/01/12/c-est-du-scrum-ou-ca-n-en-est-pas.html) par Ken Schwaber en 2011
 * et un [article de Dave Nicolette](http://www.les-traducteurs-agiles.org/scrum/2016/06/19/c-est-quoi-le-probleme.html) à propos d'un article faisant du Scrum bashing sur des notions non Scrum
 
 
 ### <a name="ch02"></a> Chapitre 2 : Rythmer le développement par les sprints
 
-1. Un article de Mike Cohn sur l'intérêt d'avoir une durée de sprint fixe : [Les quatre raisons d'avoir une durée de sprint constante](http://ayeba.wikispaces.com/Les+quatre+raisons+d%27avoir+une+dur%C3%A9e+de+sprint+constante)
-2. Développement itératif et incrémental, par Alistair Cockburn : [Utiliser les développements incrémental et itératif ensemble](http://ayeba.wikispaces.com/Utiliser+les+d%C3%A9veloppements+incr%C3%A9mental+et+it%C3%A9ratif+ensemble)
+1. Un article de Mike Cohn sur l'intérêt d'avoir une durée de sprint fixe : [Les quatre raisons d'avoir une durée de sprint constante](http://www.les-traducteurs-agiles.org/2017/11/19/les-quatre-raisons-d-avoir-une-duree-de-sprint-constante.html)
+2. Développement itératif et incrémental, par Alistair Cockburn : [Utiliser les développements incrémental et itératif ensemble](http://www.les-traducteurs-agiles.org/2009/11/16/utiliser-les-developpements-incremental-et-iteratif-ensemble.html)
 
 
 ### <a name="ch03"></a> Chapitre 3 : Amener l'équipe à se sublimer
 
-1. La FORCE, acronyme pour les valeurs de Scrum : [Les valeurs de Scrum](http://ayeba.wikispaces.com/Les+Valeurs+de+Scrum+%28la+F.O.R.C.E.%29)
-2. Le modèle de Tuckman montrant les étapes de la vie d'une équipe : avec [un dessin](http://ayeba.wikispaces.com/Mod%C3%A8le+de+Tuckman) ou avec [du texte](http://ayeba.wikispaces.com/Les+cinq+%C3%A9tapes+de+d%C3%A9veloppement+d%27une+%C3%A9quipe+et+le+r%C3%B4le+du+chef+de+projet)
-3. La taille d'une équipe : [l'approche à deux pizzas](http://ayeba.wikispaces.com/L%27approche+des+deux+pizzas+pour+un+travail+d%27%C3%A9quipe+productif)
+1. La FORCE, acronyme pour les valeurs de Scrum : [Les valeurs de Scrum](http://www.les-traducteurs-agiles.org/2016/07/22/les-valeurs-de-scrum.html)
+2. Le modèle de Tuckman montrant les étapes de la vie d'une équipe : avec [un dessin](http://www.les-traducteurs-agiles.org/2016/10/16/modele-de-tuckman.html) ou avec [du texte](http://www.les-traducteurs-agiles.org/2017/12/20/les-cinq-etapes-de-developpement-d-une-equipe-et-le-role-du-chef-de-projet.html)
+3. La taille d'une équipe : [l'approche à deux pizzas](http://www.les-traducteurs-agiles.org/2014/11/03/l-approche-des-deux-pizzas-pour-un-travail-d-equipe-productif.html)
 
 
 ### <a name="ch04"></a> Chapitre 4 : Tenir le rôle Product Owner
 
-1. Un mini-livre écrit en 2009 par Anna Fors : [Confessions d'un Serial Product Owner](http://ayeba.wikispaces.com/Confessions+d%27un+serial+product+owner)
+1. Un mini-livre écrit en 2009 par Anna Fors : [Confessions d'un Serial Product Owner](http://www.les-traducteurs-agiles.org/2013/07/24/confessions-d-un-serial-product-owner.html)
 
 
 ### <a name="ch05"></a> Chapitre 5 : Tenir le rôle de Scrum Master
 
-1. Un article de Mike Cohn : [Le Scrum Master est un facilitateur, pas un entonnoir](http://ayeba.wikispaces.com/Le+ScrumMaster+est+un+Facilitateur%2C+pas+un+Entonnoir)
-2. Un autre article de Mike Cohn sur l'évolution du rôle : [La carrière professionnelle d'un Scrum Master](http://ayeba.wikispaces.com/La+carri%C3%A8re+professionnelle+d%27un+ScrumMaster)
+1. Un article de Mike Cohn : [Le Scrum Master est un facilitateur, pas un entonnoir](http://www.les-traducteurs-agiles.org/2016/10/06/le-scrummaster-est-un-facilitateur-pas-un-entonnoir.html)
+2. Un autre article de Mike Cohn sur l'évolution du rôle : [La carrière professionnelle d'un Scrum Master](http://www.les-traducteurs-agiles.org/2017/05/16/la-carriere-professionnelle-d-un-scrummaster.html)
 
 
 ### <a name="ch06"></a> Chapitre 6 : Structurer le backlog
 
-1. L'article de Ron Jeffries : [les 3C](http://ayeba.wikispaces.com/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation)
+1. L'article de Ron Jeffries : [les 3C](http://www.les-traducteurs-agiles.org/2009/11/12/xp-l-essentiel-carte-conversation-confirmation.html)
 
 
 ### <a name="ch07"></a> Chapitre 7 : Affiner le backlog
@@ -71,7 +71,7 @@ Bonus :
 
 ### <a name="ch08"></a> Chapitre 8 : S'accorder sur la définition de fin
 
-1. [Définition de la dette technique](http://ayeba.wikispaces.com/D%C3%A9finition+de+la+dette+technique) par l'inventeur du terme, Ward Cunningham
+1. [Définition de la dette technique](http://www.les-traducteurs-agiles.org/2017/06/19/definition-de-la-dette-technique.html) par l'inventeur du terme, Ward Cunningham
 
 
 ### <a name="ch09"></a> Chapitre 9 : Planifier le sprint
@@ -89,12 +89,12 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch12"></a> Chapitre 12 : S'améliorer avec la rétrospective
 
-1. [La rétrospective en étoile de mer](http://ayeba.wikispaces.com/La+r%C3%A9trospective+en+%C3%A9toile+de+mer)
+1. [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
 
 
 ### <a name="ch13"></a> Chapitre 13 : Composer le prélude de Scrum
 
-1. Les principes éthiques de la permaculture définis par David Holmgren : [éthique permacole](http://ayeba.wikispaces.com/Les+valeurs+de+la+Permaculture)
+1. Les principes éthiques de la permaculture définis par David Holmgren : [éthique permacole](http://www.les-traducteurs-agiles.org/2017/08/28/les-valeurs-de-la-permaculture.html)
 
 
 ### <a name="ch14"></a> Chapitre 14 : Contextualiser Scrum
@@ -108,7 +108,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch16"></a> Chapitre 16 : Planifier à moyen terme
 
-1. La présentation du Planning Poker par Mike Cohn : [Planning Poker](http://ayeba.wikispaces.com/Planning+Poker+-+Une+technique+de+planification+et+d%27estimation+agile)
+1. La présentation du Planning Poker par Mike Cohn : [Planning Poker](http://www.les-traducteurs-agiles.org/2017/07/21/planning-poker-une-technique-de-planification-et-d-estimation-agile.html)
 
 
 ### <a name="ch17"></a> Chapitre 17 : Tirer profit des outils
@@ -126,6 +126,6 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch20"></a> Chapitre 20 : Appliquer Kanban sur Scrum
 
-1. [ScrumBan](http://ayeba.wikispaces.com/Scrum-ban), l'article de Corey Ladas (2008)
-2. Le minilivre [Kanban et Scrum, tirer le meilleur des deux](http://ayeba.wikispaces.com/Kanban+et+Scrum+-+tirer+le+meilleur+des+deux)
-3. Le minilivre [Lean depuis les tranchées](http://ayeba.wikispaces.com/Lean+depuis+les+tranch%C3%A9es)
+1. [ScrumBan](http://www.les-traducteurs-agiles.org/2011/07/01/scrum-ban.html), l'article de Corey Ladas (2008)
+2. Le minilivre [Kanban et Scrum, tirer le meilleur des deux](http://www.les-traducteurs-agiles.org/2010/01/18/kanban-et-scrum-tirer-le-meilleur-des-deux.html)
+3. Le minilivre [Lean depuis les tranchées](http://www.les-traducteurs-agiles.org/2012/03/20/lean-depuis-les-tranchees.html)
