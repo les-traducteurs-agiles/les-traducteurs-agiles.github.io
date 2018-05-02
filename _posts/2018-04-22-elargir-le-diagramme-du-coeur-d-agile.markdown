@@ -14,7 +14,7 @@ La suite à lire par [ici](http://heartofagile.com/elargir-le-diagramme/)
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
-Source : [he Heart of Agile Begins](http://heartofagile.com/)  
+Source : [Expanding the diagram](http://heartofagile.com/expanding-the-diagram/)  
 Date de parution originale : 28 Septembre 2015  
 
 ---

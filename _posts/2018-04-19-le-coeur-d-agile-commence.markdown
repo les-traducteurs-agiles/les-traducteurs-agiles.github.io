@@ -15,7 +15,7 @@ La suite à lire par [ici](http://heartofagile.com/le-coeur-dagile-commence/)
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
-Source : [he Heart of Agile Begins](http://heartofagile.com/)  
+Source : [The Heart of Agile Begins](http://heartofagile.com/)  
 Date de parution originale : 24 Mars 2014  
 
 ---

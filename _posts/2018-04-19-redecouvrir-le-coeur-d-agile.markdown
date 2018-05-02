@@ -16,7 +16,7 @@ La suite à lire par [ici](http://heartofagile.com/redecouvrir-le-coeur-de-lagil
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
-Source : [he Heart of Agile Begins](http://heartofagile.com/)  
+Source : [Rediscovering the “Heart” of agile](http://heartofagile.com/rediscovering-the-heart-of-agile/)  
 Date de parution originale : 24 Mars 2014  
 
 ---
