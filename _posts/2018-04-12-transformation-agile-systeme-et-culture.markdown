@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transformation agile - épisode 3 - Comprendre votre culture et votre système"
-date:   2018-04-24 00:01
+date:   2018-05-02 00:01
 published: true
 tags: 
 - agile
