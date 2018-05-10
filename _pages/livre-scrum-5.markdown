@@ -137,4 +137,8 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch21"></a> Chapitre 21 : Développer un produit avec plusieurs équipes
 
+1. Le portail LeSS a été traduit en français, cela donne des dizaines de pages à parcourir : [LeSS](http://ayeba.wikispaces.com/Portail+LeSS)
+2. L'article de référence sur la notion de "Feature teams", que je présente comme équipe fonctionnalités dans le §21.2 : [équipe feature](http://ayeba.wikispaces.com/Equipe+Feature)
+3. L'expérience Spotify, souvent décontextualisée : [Agilité à grande échelle chez Spotify](http://ayeba.wikispaces.com/Agilit%C3%A9+%C3%A0+grande+%C3%A9chelle+chez+Spotify)
+
 ### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
