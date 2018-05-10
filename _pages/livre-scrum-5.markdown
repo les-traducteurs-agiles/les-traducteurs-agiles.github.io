@@ -9,7 +9,7 @@ exclude: true
 
 &nbsp;  
 
-Source : livre Scrum : le guide pratique (5e édition) de Claude Aubry
+Source : livre Scrum, pour une pratique vivante de l'agilité (5e édition) de Claude Aubry
 
 ---
 &nbsp;  
