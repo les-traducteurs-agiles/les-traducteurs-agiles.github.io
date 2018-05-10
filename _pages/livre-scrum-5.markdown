@@ -9,7 +9,7 @@ exclude: true
 
 &nbsp;  
 
-Source : livre Scrum, pour une pratique vivante de l'agilité (5e édition) de Claude Aubry
+Source : le livre Scrum, pour une pratique vivante de l'agilité (5e édition) de Claude Aubry
 
 ---
 &nbsp;  
@@ -119,7 +119,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 &nbsp;  
 
 
-### <a name="ch19"></a> Chapitre 19 : Ajouter les pratiques de développement XP
+### <a name="ch19"></a> Chapitre 19 : Unir les pratiques d'ingénierie à Scrum
 
 1. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
 
@@ -129,3 +129,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 1. [ScrumBan](http://www.les-traducteurs-agiles.org/2011/07/01/scrum-ban.html), l'article de Corey Ladas (2008)
 2. Le minilivre [Kanban et Scrum, tirer le meilleur des deux](http://www.les-traducteurs-agiles.org/2010/01/18/kanban-et-scrum-tirer-le-meilleur-des-deux.html)
 3. Le minilivre [Lean depuis les tranchées](http://www.les-traducteurs-agiles.org/2012/03/20/lean-depuis-les-tranchees.html)
+
+### <a name="ch21"></a> Chapitre 21 : Développer un produit avec plusieurs équipes
+
+### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
