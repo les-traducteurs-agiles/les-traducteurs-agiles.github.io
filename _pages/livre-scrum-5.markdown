@@ -16,9 +16,9 @@ Source : le livre Scrum, pour une pratique vivante de l'agilité (5e édition) d
 
 _Références :_
 
-Vous trouverez ici la liste des articles du wiki Ayeba et du site des Traducteurs Agiles qui sont référencés dans le livre Scrum.
+Vous trouverez ici la liste des articles du wiki Ayeba et du site des Traducteurs Agiles qui sont référencés dans le livre Scrum ou simplement conseillés en complément à sa lecture.
 
-**Chapitres** [1](#ch01) [2](#ch02) [3](#ch03) [4](#ch04) [5](#ch05) [6](#ch06) [7](#ch07) [8](#ch08) [9](#ch09) [10](#ch10) [11](#ch11) [12](#ch12) [13](#ch14) [15](#ch15) [16](#ch16) [17](#ch17) [18](#ch18) [19](#ch19) [20](#ch20)  
+**Chapitres** [1](#ch01) [2](#ch02) [3](#ch03) [4](#ch04) [5](#ch05) [6](#ch06) [7](#ch07) [8](#ch08) [9](#ch09) [10](#ch10) [11](#ch11) [12](#ch12) [13](#ch14) [15](#ch15) [16](#ch16) [17](#ch17) [18](#ch18) [19](#ch19) [20](#ch20) [21](#ch21) [22](#ch22)
 
 
 ### <a name="ch01"></a> Chapitre 1 : Situer Scrum dans le mouvement agile
