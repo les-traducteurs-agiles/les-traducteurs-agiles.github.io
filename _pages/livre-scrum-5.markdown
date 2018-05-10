@@ -125,7 +125,8 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch19"></a> Chapitre 19 : Unir les pratiques d'ingénierie à Scrum
 
-1. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
+1. Par Poum, la traduction de l'article fondateur de Dan North sur le BDD : [Qu'y a t'il dans une histoire ?](http://ayeba.wikispaces.com/Qu%27y+a-t%27il+dans+une+histoire+%28une+Story%29+%3F)
+2. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
 
 
 ### <a name="ch20"></a> Chapitre 20 : Appliquer Kanban sur Scrum
