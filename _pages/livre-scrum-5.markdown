@@ -116,7 +116,11 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 
 ### <a name="ch18"></a> Chapitre 18 : Améliorer la visibilité avec les indicateurs
-&nbsp;  
+
+1. Des idées d'indicateurs avec Scrum, même si je ne suis pas partisan de toutes celles proposées : [Indicateurs Scrum](http://ayeba.wikispaces.com/Indicateurs+Scrum)
+2. Un modèle utilisé chez Spotify : [Bilan de santé de la brigade](http://ayeba.wikispaces.com/Bilan+de+sant%C3%A9+de+la+brigade+%28mod%C3%A8le%29)
+3. Un article de Mike Cohn sur la difficulté à mesurer la valeur métier : [Les problèmes liés à l'estimation de la valeur métier](http://ayeba.wikispaces.com/Les+probl%C3%A8mes+li%C3%A9s+%C3%A0+l%27estimation+de+la+valeur+m%C3%A9tier)
+
 
 
 ### <a name="ch19"></a> Chapitre 19 : Unir les pratiques d'ingénierie à Scrum
