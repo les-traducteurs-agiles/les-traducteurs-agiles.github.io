@@ -105,14 +105,15 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 
 ### <a name="ch15"></a> Chapitre 15 : Élaborer le backlog initial
-&nbsp;  
 
+1. Un exemple de carte des impacts par son créateur : [Exemple Impact Mapping](http://ayeba.wikispaces.com/Exemple+Impact+Mapping)
+2. Un exemple de carte des stories : [Exemple de User Story Mappging](http://ayeba.wikispaces.com/Exemple+de+User+Story+Mapping+%284%29)
 
 ### <a name="ch16"></a> Chapitre 16 : Planifier à moyen terme
 
 1. La présentation du Planning Poker par Mike Cohn : [Planning Poker](http://www.les-traducteurs-agiles.org/2017/07/21/planning-poker-une-technique-de-planification-et-d-estimation-agile.html)
 
-
+tr
 ### <a name="ch17"></a> Chapitre 17 : Tirer profit des outils
 &nbsp;  
 
