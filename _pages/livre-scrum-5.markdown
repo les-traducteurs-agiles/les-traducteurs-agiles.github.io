@@ -96,7 +96,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch13"></a> Chapitre 13 : Composer le prélude de Scrum
 
-1. Les principes éthiques de la permaculture définis par David Holmgren : [éthique permacole](http://www.les-traducteurs-agiles.org/2017/08/28/les-valeurs-de-la-permaculture.html)
+1. Les principes éthiques de la permaculture, définis par David Holmgren : [Les valeurs de la permaculture](http://www.les-traducteurs-agiles.org/2017/08/28/les-valeurs-de-la-permaculture.html)
 
 
 ### <a name="ch14"></a> Chapitre 14 : Contextualiser Scrum
