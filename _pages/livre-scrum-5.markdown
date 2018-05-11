@@ -90,7 +90,8 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch12"></a> Chapitre 12 : S'améliorer avec la rétrospective
 
-1. [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
+1. Un des premiers formats de rétrospective que j'ai utilisé, par James Shore : [Un format de rétrospective](http://ayeba.wikispaces.com/Un+Format+de+R%C3%A9trospective)
+2. Celle que j'ai le plus utlisé : [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
 
 
 ### <a name="ch13"></a> Chapitre 13 : Composer le prélude de Scrum
