@@ -84,7 +84,8 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 
 ### <a name="ch11"></a> Chapitre 11 : Partager les résultats lors de la revue
-&nbsp;  
+
+1. Un article de Mike Cohn pour dire que la revue, ce n'est pas qu'une démo : [Arrêtez de renommer la réunion de revue de sprint](http://ayeba.wikispaces.com/Arr%C3%AAtez+de+renommer+la+r%C3%A9union+de+Revue+de+Sprint)
 
 
 ### <a name="ch12"></a> Chapitre 12 : S'améliorer avec la rétrospective
