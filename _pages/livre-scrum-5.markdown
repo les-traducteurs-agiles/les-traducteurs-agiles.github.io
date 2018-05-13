@@ -5,7 +5,7 @@ permalink: /livre-scrum-5ed/
 exclude: true
 ---
 
-![livre scrum 5ème édition]({{ site.url }}assets/claude_aubry/scrum-le-guide-pratique-cover_72.png)
+![livre scrum 5ème édition]({{ site.url }}assets/claude_aubry/scrum-le-guide-pratique-cover_72.jpg)
 
 &nbsp;  
 
@@ -85,12 +85,12 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch11"></a> Chapitre 11 : Partager les résultats lors de la revue
 
-1. Un article de Mike Cohn pour dire que la revue, ce n'est pas qu'une démo : [Arrêtez de renommer la réunion de revue de sprint](http://ayeba.wikispaces.com/Arr%C3%AAtez+de+renommer+la+r%C3%A9union+de+Revue+de+Sprint)
+1. Un article de Mike Cohn pour dire que la revue, ce n'est pas qu'une démo : [Arrêtez de renommer la réunion de revue de sprint](http://www.les-traducteurs-agiles.org/2016/08/31/arretez-de-renommer-la-reunion-de-revue-de-sprint.html)
 
 
 ### <a name="ch12"></a> Chapitre 12 : S'améliorer avec la rétrospective
 
-1. Un des premiers formats de rétrospective que j'ai utilisé, par James Shore : [Un format de rétrospective](http://ayeba.wikispaces.com/Un+Format+de+R%C3%A9trospective)
+1. Un des premiers formats de rétrospective que j'ai utilisé, par James Shore : [Un format de rétrospective](http://www.les-traducteurs-agiles.org/2011/02/27/un-format-de-retrospective.html)
 2. Celle que j'ai le plus utlisé : [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
 
 
@@ -106,8 +106,8 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch15"></a> Chapitre 15 : Élaborer le backlog initial
 
-1. Un exemple de carte des impacts par son créateur : [Exemple Impact Mapping](http://ayeba.wikispaces.com/Exemple+Impact+Mapping)
-2. Un exemple de carte des stories : [Exemple de User Story Mappging](http://ayeba.wikispaces.com/Exemple+de+User+Story+Mapping+%284%29)
+1. Un exemple de carte des impacts par son créateur : [Exemple Impact Mapping](http://www.les-traducteurs-agiles.org/2014/11/18/exemple-impact-mapping.html)
+2. Un exemple de carte des stories : [Exemple de User Story Mappging](http://www.les-traducteurs-agiles.org/2017/04/24/exemple-de-user-story-mapping.html)
 
 ### <a name="ch16"></a> Chapitre 16 : Planifier à moyen terme
 
