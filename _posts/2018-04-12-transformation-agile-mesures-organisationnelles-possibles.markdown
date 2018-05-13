@@ -1,56 +1,36 @@
 ---
 layout: post
-title:  "Transformation agile - épisode 4 - Mesures organisationnelles possibles"
-date:   2018-04-09 11:55
+title:  "Transformation agile - épisode 4 - Indicateurs organisationnelles possibles"
+date:   2018-05-13 00:01
 published: false
 tags: 
 - agile
 - transformation
 ---
 
-“What should I measure???” is one of the questions I see when I work with people going through an agile transformation. Too often, managers measure people as individuals. (Traditional measurements focus on resource efficiency instead of [flow efficiency](http://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/).) Resource efficiency measures don’t measure what the organization delivers or what prevents the organization from delivering.
+“Qu’est-ce que je devrais évaluer ???” est l’une des questions à laquelle je suis confrontée lorsque je travaille dans le cadre d’une transformation agile. Trop souvent, les responsables évaluent le personnel uniquement individuellement. (Les indicateurs traditionnels se focalisent sur l’efficacité de la ressource à la place de se focaliser sur l’[efficacité du flux](http://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/).) Les indicateurs de l’efficience des ressources n’évaluent pas ce que l’organisation livre ou ce qui empêche l’organisation de livrer.
 
-“Qu’est-ce que je devrais mesurer ???” est l’une des questions à laquelle je suis confrontée lorsque je travaille avec des gens dans le cadre d’une transformation agile. Trop souvent, les responsables mesure les gens en tant qu’individu. (Les mesures traditionnelles se focalise sur l’efficacité de la ressource à la place de se focaliser sur l’[efficacité du flux](http://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/).) Les mesures de l’efficience des ressources ne mesurent pas ce que l’organisation livre ou ce qui empêche l’organisation de livrer.
+Cette question des indicateurs peut s’avérer être le curseur qui changera votre [culture et votre système](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-see-system-culture-part-3/). Cela pourrait aider le personnel à réaliser qu’il y a des raisons pour [changer]((http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/)) et les aider à faire de petites expériences en toute sécurité. J’aime bien voir les questions refléter le [pourquoi](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-introduction-answering-part1/) de la transformation agile de votre organisation.
 
-This measurement question can be the prompt that changes your [culture and your system](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-see-system-culture-part-3/). It might help people realize there are reasons for [change](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/) and help them create small, safe-to-fail experiments. I like to see the questions reflect the [why](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-introduction-answering-part1/) for _your_ organization’s agile transformation.
-
-Cette question de la mesure peut être le curseur qui changera votre [culture et votre système](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-see-system-culture-part-3/). Cela pourrait aider les gens de réaliser qu’il y a des raisons pour [changer]((http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/)) et les aider à créer de petites expériences sans risques. J’aime voir ces questions refléter le [pourquoi](http://www.jrothman.com/mpd/agile/2018/02/agile-transformation-introduction-answering-part1/) de la transformation agile de votre organisation.
-
-First, consider asking yourself these questions:
-
-D’abord, envisagez de vous posez les questions suivantes :
-
-1. What do we want more of? (I often discover the answers are about throughput and collaboration.)
+Tout d’abord, envisagez de vous posez les questions suivantes :
 
 1. Que voulons-nous de plus ? (J’ai découvert assez souvent que les réponses sont le débit et la collaboration.)
 
-2. What do we want less of? (These questions often lead me to think about defects and delays.)
-
 2. Que voulons-nous de moins ? (Ces questions m’amènent souvent à penser aux anomalies et aux retards.)
 
-That might lead us to consider these possible measures:
+Cela pourrait nous amener à considérer les indicateurs possibles suivants :
 
-Cela pourrait nous amener à considérer les mesures possibles suivantes :
+* À quelle fréquence arrivons-nous à livrer-nous quelque chose dont nos clients ont besoin ? (tendance du temps de traversée)
 
-* How often do we deliver something our customers need? (Lead time trends)
+* Sommes-nous en capacité de livrer ce que nous voulons quand nous le voulons ? (un indicateur simpliste qualitatif de l’agilité organisationnelle)
 
-* À quelle fréquence livrons-nous quelque chose dont nos clients ont besoin ? (tendance du temps de traversée)
-
-* Can we deliver what we want when we want? (A simplistic qualitative measure of organizational agility)
-
-* Sommes-nous en capacité de livrer ce que nous voulons quand nous le voulons ? (une mesure simpliste qualitative de l’agilité organisationnel)
-
-* Do we have work as inventory, stuck somewhere? (Where are our bottlenecks?)
-
-* Avons-nous du travail sur les bras bloqué quelque part sous la forme de stock ? (Où sont nos goulots d’étranglements ?)
-
-* Do we incur costs because we don’t release that inventory of work? (Cost of Delay)
+* Avons-nous un stock de travail sur les bras bloqué quelque part ? (Où sont nos goulots d’étranglements ?)
 
 * Avons-nous des coûts induits parce que nous n’avons pas livré ce stock de boulot ? (coût du délai)
 
 * Do we know our flow, our value stream, and where we add value and where we wait? (More about wait states and adding value)
 
-* Connaissons-nous notre flux, notre chaîne de valeur, où nous ajoutons de la valeur et où nous attendons ? `(More about wait states and adding value)`
+* Connaissons-nous notre flux, notre chaîne de valeur, où nous ajoutons de la valeur et où nous attendons ? `(More about [wait](https://www.jrothman.com/htp/hiring-process/2017/07/creating-agile-hr-part-3-possible-agile-hiring-metrics/) states and adding value)`
 
 * Do our employees (all of them) like working here? (This is a partial measure of engagement. I find it telling when the senior managers like working here and the individual contributors don’t. One reason might be because they are “individual” contributors.)
 
