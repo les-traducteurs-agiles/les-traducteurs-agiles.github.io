@@ -9,16 +9,16 @@ exclude: true
 
 &nbsp;  
 
-Source : livre Scrum : le guide pratique (5e édition) de Claude Aubry
+Source : le livre Scrum, pour une pratique vivante de l'agilité (5e édition) de Claude Aubry
 
 ---
 &nbsp;  
 
 _Références :_
 
-Vous trouverez ici la liste des articles du wiki Ayeba et du site des Traducteurs Agiles qui sont référencés dans le livre Scrum.
+Vous trouverez ici la liste des articles du wiki Ayeba et du site des Traducteurs Agiles qui sont référencés dans le livre Scrum ou simplement conseillés en complément à sa lecture.
 
-**Chapitres** [1](#ch01) [2](#ch02) [3](#ch03) [4](#ch04) [5](#ch05) [6](#ch06) [7](#ch07) [8](#ch08) [9](#ch09) [10](#ch10) [11](#ch11) [12](#ch12) [13](#ch14) [15](#ch15) [16](#ch16) [17](#ch17) [18](#ch18) [19](#ch19) [20](#ch20)  
+**Chapitres** [1](#ch01) [2](#ch02) [3](#ch03) [4](#ch04) [5](#ch05) [6](#ch06) [7](#ch07) [8](#ch08) [9](#ch09) [10](#ch10) [11](#ch11) [12](#ch12) [13](#ch14) [15](#ch15) [16](#ch16) [17](#ch17) [18](#ch18) [19](#ch19) [20](#ch20) [21](#ch21) [22](#ch22)
 
 
 ### <a name="ch01"></a> Chapitre 1 : Situer Scrum dans le mouvement agile
@@ -84,17 +84,19 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 
 ### <a name="ch11"></a> Chapitre 11 : Partager les résultats lors de la revue
-&nbsp;  
+
+1. Un article de Mike Cohn pour dire que la revue, ce n'est pas qu'une démo : [Arrêtez de renommer la réunion de revue de sprint](http://ayeba.wikispaces.com/Arr%C3%AAtez+de+renommer+la+r%C3%A9union+de+Revue+de+Sprint)
 
 
 ### <a name="ch12"></a> Chapitre 12 : S'améliorer avec la rétrospective
 
-1. [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
+1. Un des premiers formats de rétrospective que j'ai utilisé, par James Shore : [Un format de rétrospective](http://ayeba.wikispaces.com/Un+Format+de+R%C3%A9trospective)
+2. Celle que j'ai le plus utlisé : [La rétrospective en étoile de mer](http://www.les-traducteurs-agiles.org/2011/11/13/la-retrospective-en-etoile-de-mer.html)
 
 
 ### <a name="ch13"></a> Chapitre 13 : Composer le prélude de Scrum
 
-1. Les principes éthiques de la permaculture définis par David Holmgren : [éthique permacole](http://www.les-traducteurs-agiles.org/2017/08/28/les-valeurs-de-la-permaculture.html)
+1. Les principes éthiques de la permaculture, définis par David Holmgren : [Les valeurs de la permaculture](http://www.les-traducteurs-agiles.org/2017/08/28/les-valeurs-de-la-permaculture.html)
 
 
 ### <a name="ch14"></a> Chapitre 14 : Contextualiser Scrum
@@ -103,25 +105,28 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 
 ### <a name="ch15"></a> Chapitre 15 : Élaborer le backlog initial
-&nbsp;  
 
+1. Un exemple de carte des impacts par son créateur : [Exemple Impact Mapping](http://ayeba.wikispaces.com/Exemple+Impact+Mapping)
+2. Un exemple de carte des stories : [Exemple de User Story Mappging](http://ayeba.wikispaces.com/Exemple+de+User+Story+Mapping+%284%29)
 
 ### <a name="ch16"></a> Chapitre 16 : Planifier à moyen terme
 
 1. La présentation du Planning Poker par Mike Cohn : [Planning Poker](http://www.les-traducteurs-agiles.org/2017/07/21/planning-poker-une-technique-de-planification-et-d-estimation-agile.html)
 
-
 ### <a name="ch17"></a> Chapitre 17 : Tirer profit des outils
-&nbsp;  
 
+Pas de lien, allez plutôt voir le wiki Agile Games France pour les jeux.
 
 ### <a name="ch18"></a> Chapitre 18 : Améliorer la visibilité avec les indicateurs
-&nbsp;  
 
+1. Des idées d'indicateurs avec Scrum, même si je ne suis pas partisan de toutes celles proposées : [Indicateurs Scrum](http://ayeba.wikispaces.com/Indicateurs+Scrum)
+2. Un modèle utilisé chez Spotify : [Bilan de santé de la brigade](http://ayeba.wikispaces.com/Bilan+de+sant%C3%A9+de+la+brigade+%28mod%C3%A8le%29)
+3. Un article de Mike Cohn sur la difficulté à mesurer la valeur métier : [Les problèmes liés à l'estimation de la valeur métier](http://ayeba.wikispaces.com/Les+probl%C3%A8mes+li%C3%A9s+%C3%A0+l%27estimation+de+la+valeur+m%C3%A9tier)
 
-### <a name="ch19"></a> Chapitre 19 : Ajouter les pratiques de développement XP
+### <a name="ch19"></a> Chapitre 19 : Unir les pratiques d'ingénierie à Scrum
 
-1. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
+1. Par Poum, la traduction de l'article fondateur de Dan North sur le BDD : [Qu'y a t'il dans une histoire ?](http://ayeba.wikispaces.com/Qu%27y+a-t%27il+dans+une+histoire+%28une+Story%29+%3F)
+2. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
 
 
 ### <a name="ch20"></a> Chapitre 20 : Appliquer Kanban sur Scrum
@@ -129,3 +134,14 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 1. [ScrumBan](http://www.les-traducteurs-agiles.org/2011/07/01/scrum-ban.html), l'article de Corey Ladas (2008)
 2. Le minilivre [Kanban et Scrum, tirer le meilleur des deux](http://www.les-traducteurs-agiles.org/2010/01/18/kanban-et-scrum-tirer-le-meilleur-des-deux.html)
 3. Le minilivre [Lean depuis les tranchées](http://www.les-traducteurs-agiles.org/2012/03/20/lean-depuis-les-tranchees.html)
+
+### <a name="ch21"></a> Chapitre 21 : Développer un produit avec plusieurs équipes
+
+1. Le portail LeSS a été traduit en français, cela donne des dizaines de pages à parcourir : [LeSS](http://ayeba.wikispaces.com/Portail+LeSS)
+2. L'article de référence sur la notion de "Feature teams", que je présente comme équipe fonctionnalités dans le §21.2 : [équipe feature](http://ayeba.wikispaces.com/Equipe+Feature)
+3. L'expérience Spotify, souvent décontextualisée : [Agilité à grande échelle chez Spotify](http://ayeba.wikispaces.com/Agilit%C3%A9+%C3%A0+grande+%C3%A9chelle+chez+Spotify)
+
+### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
+
+1. Dan Mezick porpose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://ayeba.wikispaces.com/Portail%20Le%C3%A7ons%20de%20coaching%20agile)
+2. Un modèle proposé par Michael Sahota en 2012, discutable dans sa taxonomie : [Guide de survie à l'adoption ou la transformation agile](http://ayeba.wikispaces.com/Guide+de+Survie+%C3%A0+l%27Adoption+ou+Transformation+Agile)
