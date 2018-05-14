@@ -115,7 +115,7 @@ Pas de référence au wiki Ayeba dans ce chapitre. Pourtant on trouve des articl
 
 ### <a name="ch17"></a> Chapitre 17 : Tirer profit des outils
 
-Pas de lien, allez plutôt voir le wiki Agile Games France pour les jeux.
+Pas de lien, allez plutôt voir le [wiki Agile Games France](http://www.agilegamesfrance.fr/index.php?title=Accueil) pour les jeux.
 
 ### <a name="ch18"></a> Chapitre 18 : Améliorer la visibilité avec les indicateurs
 
