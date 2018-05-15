@@ -9,7 +9,7 @@ tags:
 - scrum
 ---
 
-[Lean depuis les tranchées (pdf)](http://www.fabrice-aimetti.fr/dotclear/public/traductions/Lean_depuis_les_tranchees.pdf)
+[Lean depuis les tranchées (pdf)]({{ site.url }}assets/fabrice_aimetti/Lean_depuis_les_tranchees.pdf)
 
 _5 avril 2012 - Le Pavillon d'Or à Kyōto_
 ![Le Pavillon d'Or à Kyōto]({{ site.url }}assets/fabrice_aimetti/20120405-Golden_Pavilion.JPG)

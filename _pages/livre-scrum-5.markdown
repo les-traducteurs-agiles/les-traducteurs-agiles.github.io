@@ -143,5 +143,5 @@ Pas de lien, allez plutôt voir le [wiki Agile Games France](http://www.agilegam
 
 ### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
 
-1. Dan Mezick porpose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://ayeba.wikispaces.com/Portail%20Le%C3%A7ons%20de%20coaching%20agile)
+1. Dan Mezick propose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://ayeba.wikispaces.com/Portail%20Le%C3%A7ons%20de%20coaching%20agile)
 2. Un modèle proposé par Michael Sahota en 2012, discutable dans sa taxonomie : [Guide de survie à l'adoption ou la transformation agile](http://ayeba.wikispaces.com/Guide+de+Survie+%C3%A0+l%27Adoption+ou+Transformation+Agile)

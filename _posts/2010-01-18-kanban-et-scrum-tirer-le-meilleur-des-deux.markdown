@@ -10,7 +10,7 @@ tags:
 
 [![Kanban et Scrum]({{ site.url }}assets/fabrice_aimetti/kanban-et-scrum.png)](http://fr.slideshare.net/faimetti/kanban-et-scrum-tirer-le-meilleur-des-deux-44930502)
 
-[Kanban et Scrum : tirer le meilleur des deux](http://fr.slideshare.net/faimetti/kanban-et-scrum-tirer-le-meilleur-des-deux-44930502)
+[Kanban et Scrum : tirer le meilleur des deux]({{ site.url }}assets/fabrice_aimetti/KanbanAndScrum-French.pdf)
 
 ---
 Auteurs : [Henrik Kniberg](https://www.crisp.se/konsulter/henrik-kniberg) et [Mattias Skarin](https://crisp.se/konsulter/mattias-skarin)  
