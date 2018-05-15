@@ -34,7 +34,7 @@ Bonus :
 * et un [article de Dave Nicolette](http://www.les-traducteurs-agiles.org/scrum/2016/06/19/c-est-quoi-le-probleme.html) à propos d'un article faisant du Scrum bashing sur des notions non Scrum
 
 
-### <a name="ch02"></a> Chapitre 2 : Rythmer le développement par les sprints
+### <a name="ch02"></a> Chapitre 2 : Rythmer le flux avec les sprints
 
 1. Un article de Mike Cohn sur l'intérêt d'avoir une durée de sprint fixe : [Les quatre raisons d'avoir une durée de sprint constante](http://www.les-traducteurs-agiles.org/2017/11/19/les-quatre-raisons-d-avoir-une-duree-de-sprint-constante.html)
 2. Développement itératif et incrémental, par Alistair Cockburn : [Utiliser les développements incrémental et itératif ensemble](http://www.les-traducteurs-agiles.org/2009/11/16/utiliser-les-developpements-incremental-et-iteratif-ensemble.html)
