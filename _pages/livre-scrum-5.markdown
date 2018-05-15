@@ -125,7 +125,7 @@ Pas de lien, allez plutôt voir le [wiki Agile Games France](http://www.agilegam
 
 ### <a name="ch19"></a> Chapitre 19 : Unir les pratiques d'ingénierie à Scrum
 
-1. Par Poum, la traduction de l'article fondateur de Dan North sur le BDD : [Qu'y a t'il dans une histoire ?](http://ayeba.wikispaces.com/Qu%27y+a-t%27il+dans+une+histoire+%28une+Story%29+%3F)
+1. Par Poum, la traduction de l'article fondateur de Dan North sur le BDD : [Qu'y a t'il dans une histoire ?](http://www.les-traducteurs-agiles.org/2012/02/06/Qu-y-a-t-il-dans-une-histoire.html)
 2. [Manifeste pour artisanat du logiciel](http://manifesto.softwarecraftsmanship.org/#/fr-fr) (craftmanship)
 
 
@@ -138,10 +138,10 @@ Pas de lien, allez plutôt voir le [wiki Agile Games France](http://www.agilegam
 ### <a name="ch21"></a> Chapitre 21 : Développer un produit avec plusieurs équipes
 
 1. Le portail LeSS a été traduit en français, cela donne des dizaines de pages à parcourir : [LeSS](http://ayeba.wikispaces.com/Portail+LeSS)
-2. L'article de référence sur la notion de "Feature teams", que je présente comme équipe fonctionnalités dans le §21.2 : [équipe feature](http://ayeba.wikispaces.com/Equipe+Feature)
-3. L'expérience Spotify, souvent décontextualisée : [Agilité à grande échelle chez Spotify](http://ayeba.wikispaces.com/Agilit%C3%A9+%C3%A0+grande+%C3%A9chelle+chez+Spotify)
+2. L'article de référence sur la notion de "Feature teams", que je présente comme équipe fonctionnalités dans le §21.2 : [équipe feature](http://www.les-traducteurs-agiles.org/2011/06/18/equipe-feature.html)
+3. L'expérience Spotify, souvent décontextualisée : [Agilité à grande échelle chez Spotify](http://www.les-traducteurs-agiles.org/2012/11/15/agilite-a-grande-echelle-chez-spotify.html)
 
 ### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
 
 1. Dan Mezick propose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://ayeba.wikispaces.com/Portail%20Le%C3%A7ons%20de%20coaching%20agile)
-2. Un modèle proposé par Michael Sahota en 2012, discutable dans sa taxonomie : [Guide de survie à l'adoption ou la transformation agile](http://ayeba.wikispaces.com/Guide+de+Survie+%C3%A0+l%27Adoption+ou+Transformation+Agile)
+2. Un modèle proposé par Michael Sahota en 2012, discutable dans sa taxonomie : [Guide de survie à l'adoption ou la transformation agile](http://www.les-traducteurs-agiles.org/2013/02/17/guide-de-survie-a-l-adoption-ou-transformation-agile.html)
