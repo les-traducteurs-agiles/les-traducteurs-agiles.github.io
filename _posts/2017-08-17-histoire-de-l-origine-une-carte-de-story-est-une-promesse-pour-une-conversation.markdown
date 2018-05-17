@@ -27,15 +27,13 @@ Comme pour dire, laissons-les se parler entre eux, hein ?
 
 Cela a plutôt bien fonctionné. La phrase est devenu un _meme_, a fait son entré en 2001 dans le livre de Ron Jeffries et de Chet Hendrickson sur XP (Extreme Programming Installed), et est couramment associé aux _user stories_.
 
-Ron et Chet ont remarqué que la “conversation” était seulement un élément de la séquence globale d’une _user story_, et ont inventé le trio [Carte, Conversation, Confirmation](http://wiki.ayeba.fr/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation)[^1]. Avec ce trio, ils capturèrent les allers-retours que j’ai mentionné précédemment :
+Ron et Chet ont remarqué que la “conversation” était seulement un élément de la séquence globale d’une _user story_, et ont inventé le trio [Carte, Conversation, Confirmation](http://www.les-traducteurs-agiles.org/2009/11/12/xp-l-essentiel-carte-conversation-confirmation.html). Avec ce trio, ils capturèrent les allers-retours que j’ai mentionné précédemment :
 
 * l’écriture en tant que telle de la carte, la promesse de la ou des conversations à venir
 * la conversation pour comprendre qu’est ce qu’il y a derrière celle-ci
 * la boucle développement/présentation dans laquelle les détails prennent vie et corrigés au fur et à mesure.
 
-Au fil des ans, je vois des personnes demander d’où vient la  phrase “une carte de _story_ est une promesse pour une conversation”. D’où cette petite note. Maintenant vous avez l’article de référence que vous pourrez mentionné la prochaine fois que quelqu’un pose la question sur Twitter ou quelque part ailleurs sur l’origine de cette phrase.
-
-[^1]: NdT - le lien fourni est celui de la traduction de Fabrice Aimetti de l’article de Ron Jeffries dont voici le [lien](http://ronjeffries.com/xprog/articles/expcardconversationconfirmation/) à toute fin utile  
+Au fil des ans, je vois des personnes demander d’où vient la  phrase “une carte de _story_ est une promesse pour une conversation”. D’où cette petite note. Maintenant vous avez l’article de référence que vous pourrez mentionné la prochaine fois que quelqu’un pose la question sur Twitter ou quelque part ailleurs sur l’origine de cette phrase.  
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
