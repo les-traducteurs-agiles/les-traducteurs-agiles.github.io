@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Transformation agile - épisode 4 - Indicateurs organisationnelles possibles"
+title:  "Transformation agile - épisode 4 - Indicateurs organisationnels possibles"
 date:   2018-05-24 00:01
 published: true
 tags:
