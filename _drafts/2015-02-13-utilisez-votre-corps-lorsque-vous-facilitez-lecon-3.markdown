@@ -7,11 +7,11 @@ tags:
 - coaching
 ---
 
-LEÇONS DE COACHING AGILE
-
 <div align="left" style="float:left; padding-right:30px" >
   <img title="Daniel Mezick" src="{{ site.url }}assets/daniel_mezick/daniel-mezick-001.png" />
 </div>
+LEÇONS DE COACHING AGILE
+
 Le facilitateur est un serviteur, toujours au service de la personne ou du groupe qui l'y autorise. Lorsque vous êtes au service du groupe, il est essentiel que vous leur fassiez comprendre clairement pour qui vous travaillez, avant de commencer à faciliter une réunion.
 
 Vous devez être explicite sur l'origine réelle de votre autorisation à faciliter. Annoncez qui est l'Organisateur réel (le "meeting owner"), vous aide à faire votre travail, parce que les personnes comprennent qui (et ce que) vous servez. Elles comprennent votre rôle.
@@ -61,7 +61,7 @@ Une fois que vous devenez conscient que les personnes attribuent un sens à votr
 Le facilitateur est un serviteur, quelqu'un qui sert toujours la personnes ou le groupe qui l'y a autorisé.
 
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-posture-est-votre-message-lecon-2) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)]()
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-posture-est-votre-message-lecon-2) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/l-auto-organisation-est-de-l-auto-gestion-lecon-4.html)  
 
 
 ---

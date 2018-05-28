@@ -7,11 +7,11 @@ tags:
 - coaching
 ---
 
-LEÇONS DE COACHING AGILE
-
 <div align="left" style="float:left; padding-right:30px" >
   <img title="Daniel Mezick" src="{{ site.url }}assets/daniel_mezick/daniel-mezick-001.png" />
 </div>
+LEÇONS DE COACHING AGILE
+
 Si vous êtes un Coach Agile, il est essentiel que vous signaliez à toute personne (au sein de l'organisation du client) que vous n'avez aucune autorité. Point à la ligne. Les équipes projettent automatiquement une autorité sur vous, et il est essentiel que non seulement vous refusiez de l'accepter, mais aussi que vous reflétiez immédiatement à l'équipe qu'on vous offre cette autorité.
 
 Pour que cela fonctionne, deux choses doivent se passer :

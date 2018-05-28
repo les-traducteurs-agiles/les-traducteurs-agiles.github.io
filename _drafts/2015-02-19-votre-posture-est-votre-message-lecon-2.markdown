@@ -7,11 +7,11 @@ tags:
 - coaching
 ---
 
-LEÇONS DE COACHING AGILE
-
 <div align="left" style="float:left; padding-right:30px" >
   <img title="Daniel Mezick" src="{{ site.url }}assets/daniel_mezick/daniel-mezick-002.png" />
 </div>
+LEÇONS DE COACHING AGILE
+
 Si vous pensez que les gens ne font pas attention à la façon dont vous bougez, où vous vous placez, vous asseyez, où vous regardez, comment vous vous tenez, etc... vous négligez une information qui peut vous aider à être bien plus performant. Le choix de vos postures, de vos habits, vos mouvements, vos positions, où vous vous asseyez durant les réunions, tout cela est lié à votre message... notamment en terme d'autorité, de pouvoir.
 
 On a découvert que les gens lisaient ces signaux tout le long de la journée sans même y faire attention. Notamment les signaux d'autorité.
@@ -29,7 +29,7 @@ Enfin, et c'est le plus important, vous pourrez facilement avoir un contact visu
 
 (1) Note du traducteur : dans la culture anglo-saxonne la tête de table est le lieu qui indique l'autorité. En France c'est historiquement le milieu de la table. Disons pour aller dans le sens de Dan Mezick qu'il faut éviter les deux. (D'où aussi la table ronde du Roi Arthur et de ses chevaliers...)
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/17/signalez-que-vous-n-avez-aucune-autorite-lecon-1.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/13/utilisez-votre-corps-lorsque-vous-facilitez-lecon-3)
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/17/signalez-que-vous-n-avez-aucune-autorite-lecon-1.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/13/utilisez-votre-corps-lorsque-vous-facilitez-lecon-3)  
 
 
 ---
