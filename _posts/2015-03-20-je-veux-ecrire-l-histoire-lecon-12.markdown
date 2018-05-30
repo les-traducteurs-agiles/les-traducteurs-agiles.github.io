@@ -51,7 +51,7 @@ Rien de moins pour gagner à ce jeu.
 
 Parce que : si vous vous présentez à eux avec une conduite du changement prédéterminée, DEJÀ créée, déjà écrite, une recette toute cuite ... sans leur _consentement_... vous allez _perdre les gens mêmes qui auraient pu, (et auraient voulu) réaliser cette agilité à grande échelle dans l'entreprise_.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/21/encouragez-les-managers-a-encourager-l-experimentation-lecon-11.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/03/29/lorsqu-ils-disent-non-reduisez-la-demande-de-moitie-lecon-13.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/21/encouragez-les-managers-a-encourager-l-experimentation-lecon-11.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/03/29/lorsqu-ils-disent-non-reduisez-la-demande-de-moitie-lecon-13.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

@@ -53,7 +53,7 @@ Votre travail en tant que coach est, pour partie, de tenter l'expérience d'enco
 
 Question : que faites-vous en la matière ?
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/03/21/je-veux-ecrire-l-histoire-lecon-12.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/03/21/je-veux-ecrire-l-histoire-lecon-12.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

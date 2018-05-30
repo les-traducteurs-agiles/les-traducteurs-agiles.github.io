@@ -27,6 +27,9 @@ Livres publiés par cet auteur :
 --|--
 ![The culture game]({{ site.url }}assets/daniel_mezick/TheCulturegameBookCover-201x300.jpg)  | ![The open agile adoption handbook]({{ site.url }}assets/daniel_mezick/OAA-Handbook-CoverImage-232x300.png)
 
+&nbsp;  
+
+&nbsp;  
 
 LEÇONS DE COACHING AGILE : TABLE DES MATIERES
 
@@ -41,7 +44,7 @@ LEÇONS DE COACHING AGILE : TABLE DES MATIERES
 * Leçon 09 : [Commencez dans le Forum Ouvert](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html)
 * Leçon 10 : [Le Forum Ouvert raconte une histoire](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html)
 * Leçon 11 : [Encouragez les managers à encourager l'expérimentation](http://www.les-traducteurs-agiles.org/2015/03/21/encouragez-les-managers-a-encourager-l-experimentation-lecon-11.html)
-* Leçon 12 : [Je veux écrire l'histoire](http://www.les-traducteurs-agiles.org/2015/03/21/je-veux-ecrire-l-histoire-lecon-12.html) (et être DANS l'histoire...)
+* Leçon 12 : [Je veux écrire l'histoire](http://www.les-traducteurs-agiles.org/2015/03/20/je-veux-ecrire-l-histoire-lecon-12.html) (et être DANS l'histoire...)
 * Leçon 13 : [Lorsqu'ils disent non, réduisez la demande de moitié](http://www.les-traducteurs-agiles.org/2015/03/29/lorsqu-ils-disent-non-reduisez-la-demande-de-moitie-lecon-13.html)
 * Leçon 14 : [L'engagement est tout](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html)
 * Leçon 15 : [Les véritables leaders y vont en premier](http://www.les-traducteurs-agiles.org/2016/01/26/etape-1-les-leaders-y-vont-en-premier-lecon-15.html)
@@ -49,7 +52,7 @@ LEÇONS DE COACHING AGILE : TABLE DES MATIERES
 * Leçon 17 : [POUSSER l'Agile provoque des "Transe-formations"](http://www.les-traducteurs-agiles.org/2017/06/16/pousser-l-agile-provoque-des-transe-formations-lecon-17.html)
 * Leçon 18 : [Les définitions sont des accords](http://www.les-traducteurs-agiles.org/2017/06/17/les-definitions-sont-des-accords-lecon-18.html)
 * Leçon 19 : [Agile est un jeu. Mettez-vous d'accord sur les règles](http://www.les-traducteurs-agiles.org/2017/07/20/agile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html)
-* Leçon 20 : [Seul celui qui est engagé peut s'auto-organiser](http://www.les-traducteurs-agiles.org/2017/06/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html)
+* Leçon 20 : [Seul celui qui est engagé peut s'auto-organiser](http://www.les-traducteurs-agiles.org/2017/07/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html)
 * Leçon 21 : [Finir par un forum ouvert](http://www.les-traducteurs-agiles.org/2017/07/21/finir-par-un-forum-ouvert-lecon-21.html)
 * Leçon 22 : [Obtenez-le par écrit](http://www.les-traducteurs-agiles.org/2017/12/23/obtenez-le-par-ecrit-lecon-22.html)
 * _à suivre_
@@ -61,6 +64,9 @@ LEÇONS DE COACHING AGILE : TABLE DES MATIERES
 </div>
 Si vous trouvez que ces textes sont dignes d'intérêt, n'hésitez pas à me suivre sur [twitter](https://twitter.com/DanielMezick) et/ou à rejoindre le [groupe Open Agile Adoption sur Facebook](https://www.facebook.com/groups/openagileadoption/).
 
+&nbsp;  
+
+&nbsp;  
 
 ---
 Auteur : [Daniel Mezick](http://newtechusa.net/dan-mezick/)  

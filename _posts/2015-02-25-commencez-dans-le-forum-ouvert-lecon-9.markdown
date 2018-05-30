@@ -34,7 +34,7 @@ Et donc : si vous démarrez votre adoption Agile dans le Forum Ouvert, "_prépar
 
 Commencez dans le Forum Ouvert.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/22/les-pratiques-changent-pas-les-principes-lecon-8.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/22/les-pratiques-changent-pas-les-principes-lecon-8.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html)  
 
 ---
 Auteur : [Daniel Mezick ](https://twitter.com/danielmezick)  

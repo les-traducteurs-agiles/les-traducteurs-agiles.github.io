@@ -37,7 +37,7 @@ On peut imposer des pratiques agiles aux équipes sans respecter leurs opinions,
 
 Vous voyez pourquoi ?
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/29/lorsqu-ils-disent-non-reduisez-la-demande-de-moitie-lecon-13.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2016/01/26/etape-1-les-leaders-y-vont-en-premier-lecon-15.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/29/lorsqu-ils-disent-non-reduisez-la-demande-de-moitie-lecon-13.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2016/01/26/etape-1-les-leaders-y-vont-en-premier-lecon-15.html)  
 
 
 ---

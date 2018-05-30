@@ -33,7 +33,7 @@ Note du Traducteur :
 
   &nbsp;
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/13/utilisez-votre-corps-lorsque-vous-facilitez-lecon-3) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/18/l-autogestion-c-est-l-autorite-distribuee-par-consentement-lecon-5.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/13/utilisez-votre-corps-lorsque-vous-facilitez-lecon-3) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/18/l-autogestion-c-est-l-autorite-distribuee-par-consentement-lecon-5.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/DanielMezick)  

@@ -66,7 +66,7 @@ Au niveau de l'entreprise.
 
 Avec tout le monde.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/12/23/obtenez-le-par-ecrit-lecon-22.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/12/23/obtenez-le-par-ecrit-lecon-22.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

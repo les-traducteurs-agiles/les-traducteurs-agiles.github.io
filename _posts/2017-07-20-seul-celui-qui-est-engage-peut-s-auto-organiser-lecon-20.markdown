@@ -44,7 +44,7 @@ Ainsi, _inviter_ est un outil nécessaire et essentiel dans le coaching agile.
 
 Vous pouvez voir pourquoi ?
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/07/20/agile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/21/finir-par-un-forum-ouvert-lecon-21.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/07/20/agile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/21/finir-par-un-forum-ouvert-lecon-21.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

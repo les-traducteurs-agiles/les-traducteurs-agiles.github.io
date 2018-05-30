@@ -49,7 +49,7 @@ Ensuite vous pouvez passer à l'étape suivante en ajoutant un grain de folie, e
 
 Un jeu vraiment sérieux. un jeu auquel tout le monde peut gagner ensemble. Un jeu de coopération.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/16/pousser-l-agile-provoque-des-transe-formations-lecon-17.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/20/gile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/16/pousser-l-agile-provoque-des-transe-formations-lecon-17.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/20/gile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

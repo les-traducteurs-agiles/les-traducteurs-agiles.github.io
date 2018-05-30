@@ -47,7 +47,7 @@ Parce que prendre des décisions, _et les **mettre en oeuvre** elles mêmes_ est
 
 Quelques uns d'entre eux vont vite comprendre, et vont rapidement écrire ces histoires, ce récit. Histoires qui vous survivront et seront le fil directeur de cette transformation...longtemps après votre départ.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/20/invitez-a-la-facilitation-lecon-7.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/20/invitez-a-la-facilitation-lecon-7.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/DanielMezick)  

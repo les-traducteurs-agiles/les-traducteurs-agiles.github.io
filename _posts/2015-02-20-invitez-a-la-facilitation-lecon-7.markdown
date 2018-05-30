@@ -38,7 +38,7 @@ Comme vous démontrez et invitez à faciliter avec excellence, voici quelques qu
 Vos résultats à long terme fourniront une réponse très détaillée à chacune de ces questions.
 
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-style-autoritaire-tue-l-auto-organisation-lecon-6.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/22/les-pratiques-changent-pas-les-principes-lecon-8.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-style-autoritaire-tue-l-auto-organisation-lecon-6.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/22/les-pratiques-changent-pas-les-principes-lecon-8.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/DanielMezick)  

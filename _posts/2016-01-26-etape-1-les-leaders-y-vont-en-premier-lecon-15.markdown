@@ -30,7 +30,7 @@ Si vous, le soi-disant "coach Agile", ne pouvez aider les leaders officiels à a
 
 Cela ne vas pas se produire. Savez-vous pourquoi ?
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2016/12/28/alignez-les-equipes-sur-leurs-valeurs-fondamentales-des-que-possible-lecon-16)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2016/12/28/alignez-les-equipes-sur-leurs-valeurs-fondamentales-des-que-possible-lecon-16)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

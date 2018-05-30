@@ -56,7 +56,7 @@ Ce fait a des implications énormes sur la façon dont vous pourriez être en me
 
 De plus, cela implique que vous pourriez encourager l'utilisation _d'événements périodiques de type Open Space_ à l'échelle de l'entreprise au service d'une transformation authentique et véritable à l'échelle de l'entreprise... (eh eh...)
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/l-auto-organisation-est-de-l-auto-gestion-lecon-4.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-style-autoritaire-tue-l-auto-organisation-lecon-6.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/l-auto-organisation-est-de-l-auto-gestion-lecon-4.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-style-autoritaire-tue-l-auto-organisation-lecon-6.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/DanielMezick)  

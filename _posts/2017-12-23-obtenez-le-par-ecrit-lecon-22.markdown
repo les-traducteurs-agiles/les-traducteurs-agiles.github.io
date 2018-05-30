@@ -61,7 +61,7 @@ Et donc, ma recommandation à ce sujet est très simple : **obtenez-le par écri
 
 Parce que pour vous dire la vérité, vous allez en avoir besoin plus tard.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/07/21/finir-par-un-forum-ouvert-lecon-21.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/07/21/finir-par-un-forum-ouvert-lecon-21.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html)  
 
 
 ---
