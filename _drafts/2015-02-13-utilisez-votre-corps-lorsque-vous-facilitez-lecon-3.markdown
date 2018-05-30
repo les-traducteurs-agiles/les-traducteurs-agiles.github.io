@@ -2,7 +2,7 @@
 layout: post
 title:  "Utilisez votre corps lorsque vous facilitez (leçon 3)"
 date:   2015-02-13 00:01
-published: false
+published: true
 tags:
 - coaching
 ---

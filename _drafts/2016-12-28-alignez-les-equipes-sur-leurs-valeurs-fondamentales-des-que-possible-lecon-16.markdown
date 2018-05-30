@@ -53,13 +53,13 @@ Déroulé
 [(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2016/01/26/etape-1-les-leaders-y-vont-en-premier-lecon-15.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/06/16/pousser-l-agile-provoque-des-transe-formations-lecon-17.html)  
 
 ---
-Auteur : [Prénom_Nom](url_bio)  
-Source : [Titre_article_en_vo](url_article_en_vo)  
-Date de parution originale : jj_MMMM_yyyy  
+Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  
+Source : [Align Teams on Core Values ASAP](http://newtechusa.net/agile/align-core-values-asap/)  
+Date de parution originale : 09 Novembre 2016  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  
-Date de traduction : jj/mm/yyyy  
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 28/12/2016  
 
 ---
 

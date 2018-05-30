@@ -2,7 +2,7 @@
 layout: post
 title:  "Votre posture est votre message (leçon 2)"
 date:   2015-02-19 00:01
-published: false
+published: true
 tags:
 - coaching
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "L'auto-organisation est de l'auto-gestion (leçon 4)"
 date:   2015-02-19 00:01
-published: false
+published: true
 tags:
 - coaching
 ---

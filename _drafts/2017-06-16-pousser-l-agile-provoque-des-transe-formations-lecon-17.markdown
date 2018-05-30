@@ -42,7 +42,7 @@ Parce que les équipes sont réellement engagées dans cette difficile tâche qu
 
 Voir aussi : [Effet Hawthorne](https://fr.wikipedia.org/wiki/Effet_Hawthorne)
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2016/12/28/alignez-les-equipes-sur-leurs-valeurs-fondamentales-des-que-possible-lecon-16.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/06/17/les-definitions-sont-des-accords-lecon-18.html)
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2016/12/28/alignez-les-equipes-sur-leurs-valeurs-fondamentales-des-que-possible-lecon-16.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/06/17/les-definitions-sont-des-accords-lecon-18.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

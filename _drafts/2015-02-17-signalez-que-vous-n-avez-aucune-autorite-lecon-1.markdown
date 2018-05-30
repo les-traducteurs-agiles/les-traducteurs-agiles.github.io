@@ -2,7 +2,7 @@
 layout: post
 title:  "Signalez que vous n'avez aucune autorité (leçon 1)"
 date:   2015-02-17 00:01
-published: false
+published: true
 tags:
 - coaching
 ---
@@ -28,7 +28,7 @@ Donc :
 
 Vous comprenez pourquoi ?
 
-[(<-- Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-posture-est-votre-message-lecon-2)
+[(<-- Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-posture-est-votre-message-lecon-2)  
 
 
 ---

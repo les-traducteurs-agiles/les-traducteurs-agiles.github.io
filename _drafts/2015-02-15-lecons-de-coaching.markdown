@@ -2,7 +2,7 @@
 layout: post
 title:  "Leçons de coaching"
 date:   2015-02-15 00:01
-published: false
+published: true
 tags:
 - coaching
 ---
