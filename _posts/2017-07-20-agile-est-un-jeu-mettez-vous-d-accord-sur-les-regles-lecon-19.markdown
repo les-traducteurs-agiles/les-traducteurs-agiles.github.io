@@ -70,7 +70,7 @@ Surtout les TROIS PREMIÈRES étapes.
 
 Vous pouvez voir pourquoi ?
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/17/les-definitions-sont-des-accords-lecon-18.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/06/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/17/les-definitions-sont-des-accords-lecon-18.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/20/seul-celui-qui-est-engage-peut-s-auto-organiser-lecon-20.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

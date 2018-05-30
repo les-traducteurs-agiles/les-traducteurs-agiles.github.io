@@ -50,7 +50,7 @@ Le forum ouvert raconte l'histoire d'une véritable auto-organisation. A grande 
 
 Le forum ouvert raconte l'entière histoire.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/26/le-forum-ouvert-raconte-une-histoire-lecon-10.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/03/21/encouragez-les-managers-a-encourager-l-experimentation-lecon-11.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  

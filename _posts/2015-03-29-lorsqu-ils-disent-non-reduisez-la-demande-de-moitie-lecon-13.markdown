@@ -75,7 +75,7 @@ S'ils disent "non", réduisez alors l'engagement de 50%... et demandez à nouvea
 
 **AVERTISSEMENT** : cette technique peut considérablement réduire le nombre de jours de coaching nécessaires pour obtenir un changement durable.
 
-[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/21/je-veux-ecrire-l-histoire-lecon-12.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html)  
+[(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/03/20/je-veux-ecrire-l-histoire-lecon-12.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html)  
 
 ---
 Auteur : [Daniel Mezick](https://twitter.com/danielmezick)  
