@@ -244,83 +244,83 @@ Toutefois, étant donné la nature d'Agile, il y a des éléments clés qui doiv
 
 * Our customer sees benefit of having a “product owner” (as described above) working directly with the development team to negotiate and trade-off scope, optimise value and provide easy access to other SME’s as required by the team;
 
-* Notre client voit les bénéfices d'avoir un "_product owner_" (tel que décrit précédemment) travaillant directement avec l'équipe de développement pour négocier et faire des compromis sur le périmètre, optimisant la valeur et offrant un accès plus facile à d'autres experts métiers comme demandé par l'équpe
+* Notre client voit les bénéfices d'avoir un "_product owner_" (tel que décrit précédemment) travaillant directement avec l'équipe de développement pour négocier et faire des compromis sur le périmètre, optimisant la valeur et offrant un accès plus facile à d'autres experts du domaine lorsque l'équipe le demande.
 
 In short, we must have a customer, and our customer has to both want, and be able to absorb, an Agile approach. Without this prerequisite in place, it becomes nonsensical to describe the way we are working as “Agile”, at least from a delivery point of view.
 
-
+En bref, nous devons avoir un client, et notre client doit à la fois vouloir, et être capable d'absorber, une approche agile. Sans ces pré-requis effectifs, cela devient absurde de décrire la manière dont nous travaillons comme "agile", du moins du point de vue de la livraison.
 
 Even if Agile passes the “fitness for purpose” criteria, one could also argue that Agile is not a good approach — or at least is not needed — for simple or complicated endeavours (as opposed to complex ones), i.e. projects which have a known, predictable set of steps to follow to meet a desired objective, with no learning or feedback loops required.
 
-
+Même si agile arrive à passer le critère "adapté à l'usage", on pourrait alléguer aussi qu'agile n'est pas une bonne approche - ou du moins n'est pas nécessaire - pour des projets simples ou compliqués (opposés à des projets complexes),   c'est-à-dire des projets qui ont une série d'étapes connues, prévisibles à suivre pour atteindre l'objectif souhaité, sans nécessité d'apprendre ou d'avoir des retours d'informations.
 
 One could equally argue that we “might as well” do all projects in an Agile way, even if they are simple or complicated. However, if we are not currently set up to do Agile Software Development, and the majority of our projects are simple or complicated (this is rare, but possible), the costs of making the changes required to enable Agile may be too high to justify.
 
-
+On pourrait aussi alléguer que nous "pourrions aussi bien" faire tous les projets en mode agile, même s'ils sont simples ou compliqués. Toutefois, si nous n'avons pas déjà prêt à faire du développement agile de logiciel, et que la majorité de nos projets sont simples ou compliqués (c'est rare, mais possible), les coûts de mise en place des changements pour passer en mode agile pourraient s'avérer être trop haut à justifier.
 
 \* _Hat tip to Alistair Cockburn’s “Heart of Agile” model, which infers that any approach which broadly involves a continuous focus on four key activities — Collaborate, Deliver, Reflect and Improve — could legitimately be described as an Agile one._
 
-
+\* _Je tire mon chapeau au modèle "cœur d'agile" d'Alistair Cockburn, qui suggère que toute approche implique généralement d'avoir une attention continue sur quatre activités clés - collaborer, livrer, réfléchir et améliorer - pouvant être décrite de manière tout à fait légitime comme des activités agiles._
 
 \*\* _An ex-colleague of mine, and highly experienced and respected agile practitioner, John Sullivan, correctly pointed out in the comments that, although “physical things like automated testing and CI builds” are the typical technical approaches in agile environments, they are not agile per se, because they are tools and practices rather than values and principles. Nouns rather than adjectives. Most importantly, there must be a desire to continually, repeatably ensure that code works properly — both the code we add, and the code already in the system._
 
-
+\*\* _L'un de mes anciens collègues, John Sullivan, qui est un agiliste expérimenté et grandement respecté, me l'a fait remarqué dans un commentaire, bien que des "éléments comme l'automatisation des tests et l'intégration continue" soit des approches techniques types dans des environnements agiles, ce ne sont pas des éléments agiles en tant que tels, parce que ce sont des outils et des pratiques plutôt que des valeurs et des principes. Des noms plutôt que des adjectifs. Plus important encore, il doit y avoir un désir de s'assurer de manière continue, répétable que le code fonctionne correctement - à la fois le code que nous ajoutons, et le code déjà dans le système.
 
 _I also thank John for his feedback and comments around emergent/adaptable architecture, which I have incorporated earlier in the article._
 
-
+_Je tiens à remercier également John pour ses retours et ses commentaires au sujet de l'architecture émergent/adaptable que j'ai ajouté dans l'article.
 
 ## Why is Agile often called a “mindset” and a “cultural transformation”?
 
-
+## Pourquoi dit-on que l'agile est un "état d'esprit" et une "transformation culturelle"
 
 Because Agile is a set of values and principles, it can be thought of as a thinking model, or mindset. That is, an individual, team or organisation who willingly delivers software in a manner aligned with the values and principles of Agile could be said to be behaving in an Agile way, or having an Agile mindset.
 
-
+Parce qu'Agile est un ensemble de valeurs et de principes, il peut être perçu comme un modèle de pensée, ou un état d'esprit. C'est-à-dire, qu'un individu, qu'une équipe ou qu'une organisation livrant volontairement du logiciel et dont la manière de faire est alignée avec les valeurs et les principes d'Agile pourrait être dit/qualifiée comme se comportant de façon agile, ou ayant un état d'esprit agile.
 
 While Agile, from a project mechanics point of view, is about continuously delivering valuable software, there is also a prominent human element. The number one value in the Manifesto is “Individuals and Interactions over Processes and Tools”. Number three is “Customer Collaboration over Contract Negotiation”.
 
-
+Même si agile, d'un point de vue de mécanique de projet, est avant tout à propos de livrer un logiciel de valeur de manière continu, le côté humain est également mis en avant. La première valeur dans le manifeste est "Les individus et leurs interactions plutôt que les processus et les outils". La troisième valeur est "La collaboration avec le client plutôt qu'une négociation contractuelle".
 
 However, the most telling hint that Agile is intended to be a more humane approach to software delivery is in principles 5 and 11:
 
+Toutefois, les principaux indices qu'Agile est démarche davantage orientée humain par rapport à la livraison de logiciel sont les principes 5 et 11 :
 
+> “Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.”
 
->“Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.”
+> "Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés."
 
+> “The best architectures, requirements, and designs emerge from self-organizing teams.”
 
-
->“The best architectures, requirements, and designs emerge from self-organizing teams.”
-
-
+> "Les meilleures architectures, spécifications et conceptions émergent d'équipes autoorganisées."
 
 There is no doubt an emphasis on autonomy and empowerment* in Agile. This strikes a chord of dissonance with many in the industry due to the traditional way development teams are managed, which is more akin to “command and control”. It is also contrary to the traditional way of working, which is to deliver big batches of requirements according to an agreed schedule rather than be experimental with both product and process, embracing frequent change and feedback.
 
-
+Il ne fait aucun doute qu'Agile met l'emphase sur l'autonomie et la responsabilisation. Tout le monde n'a pas été d'accord dans l'industrie informatique à cause de la manière traditionnelle dont les équipes de développment étaient gérées qui se rapprochait plus du "commande et contrôle". Il est aussi en contradiction avec la manière traditionnelle de travailler, qui de livrer des lots importants d'exigences selon un planning convenu à l'avance plutôt qu'adopter une démarche expérimentale à la fois au niveau du produit et du processus, en embrassant des changements et des retours d'informations fréquents.
 
 To be consistent with, and glean benefit from, Agile, individuals, teams and organisations often have to embrace new servant leadership styles, and managers must show genuine trust in their teams rather than micro-managing them. The focus on self-organising teams who are continuously improving often requires a shift to a “safe environment”, in which team members feel psychologically safe (meaning there are no negative implications for them) to express their opinions on things that aren’t working, either from a product, process or human relationship perspective.
 
-
+Pour être en cohérence avec, et glâner quelques bénéfices de l'Agile ; les individus, les équipes et les organisations doivent souvent embrasser de nouveaux styles de leadership, les manageurs doivent montrer une vraie confiance en leurs équipes plutôt que de les micro-manager. L'accent mis sur des équipes auto-organisées qui s'améliorent continuellement exige souvent un changement pour un "environnement sûr", dans lequel les membres de l'équipe se sentent en sécurité psychologique (c'est-à-dire qu'il n'y aurait pas d'implications négatives pour eux) pour exprimer leurs opinions sur les choses qui ne marchent pas que ce soit sur un produit, un processus ou des relations humaines.
 
 The way people think and behave manifests in the organisational culture. Given the changes in mindset and behaviour required for many, it is little wonder “going Agile” usually becomes an enormous undertaking which extends way beyond the development team(s).
 
-
+La manière dont les gens pensent et agissent sont manifestement présent dans la culture organisationnelle. Étant donné les changements demandent pour beaucoup au niveau état d'esprit ét comportement, il n'est pas étonnant que "devenir agile" devient généralement une entreprise énorme qui s'étend au-delà de ou des équipes de développement.
 
 \* _Thanks to Daamon Parker for prompting me to include the importance of psychological safety, autonomy, empowerment, trust, support and experimentation for being successful with Agile._
 
-
+\* _Je tiens à remercie Daamon Parker pourm'avoir encourager à mettre en avant  l'importance du sentiment de sécurité psychologique, de l'autonomie, de responsabilisation, de confiance, de soutien et d'expérimentation pour arriver à réussir à travailler en mode agile.
 
 ## Next steps
 
-
+## Prochaines étapes
 
 I hope this article has helped solidify your understanding of what Agile is and isn’t. If you are interested in learning more, or would like me to help your organisation with Agile training or coaching, please feel free to send me a message, or [follow me on Twitter](https://twitter.com/neil_killick).
 
-
+J'espère que cet article vous a aidé à renforcer votre compréhension de ce qu'est et n'est pas Agile. Si vous êtes intéressés par en savoir plus, ou si comme moi vous voulez aider votre organisation à travers des formation ou du coaching, n'hésitez pas à m'envoyer un message, ou []à me suivre sur Twitter](https://twitter.com/neil_killick).  
 
 What FAQ’s (and answers) would you like to see added?
 
-
+Concernant cette FAQ, quelles seraient les questions (et les réponses) que vous voudriez voir ajouter ?
 
 ---
 Auteur : [Neil Killick](https://twitter.com/neil_killick)  
@@ -328,8 +328,8 @@ Source : [Agile FAQ](https://medium.com/@neil2killick/agile-faq-7044a1c22c42)
 Date de parution originale : 21 Décembre 2017  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  
-Date de traduction : jj/mm/yyyy  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 03/06/2018  
 
 ---
 
