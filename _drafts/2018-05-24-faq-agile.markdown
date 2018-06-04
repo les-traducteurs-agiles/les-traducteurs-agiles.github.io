@@ -1,324 +1,169 @@
 ---
 layout: post
 title:  "FAQ Agile"
-date:   2018-05-30 00:01
-published: false
+date:   2018-06-04 00:01
+published: true
 tags:
-- tag1
-- tag2
+- agile
 ---
 
-![Agile Manifesto](https://cdn-images-1.medium.com/max/800/0*oDQ8qBNgObm1_2Tj.png)
-
-## Why have I written this?
+![Manifeste agile]({{ site.url }}assets/neil_killick/manifeste_agile_fr.jpg)
 
 ## Pourquoi ai-je écrit ceci ?
 
-On an almost daily basis I see misinformation about Agile in articles shared on LinkedIn.
+Quasi-quotidiennement, je vois apparaître sur LinkedIn des articles comportant des inexactitudes sur l'agile.
 
-De manière quasi-quotidienne, je vois des inexactitudes sur un certain nombres d'articles diffusés sur LinkedIn.
+Une partie de cette désinformation a une portée tellement vaste qu'au mieux les personnes débutantes en agile, n'apprennent en rien ce qu'est vraiment l'agile et au pire sont détournés de l'agile et des réels bénéfices qu'elle pourrait leur apporter à eux et à leur organisation.
 
-Some of this misinformation is so wide of the mark that folks who are learning about Agile are, at best, not actually learning anything about what Agile really is, and, at worst, being turned away from Agile and the potential benefits it might bring them and their organisations.
+Bien sûr, il n'y a aucune raison pour que les personnes qui ne connaissent pas plus que cela l'agile puissent être amenés à croire que mon article soit plus pertinent qu'un autre sur l'agile. Heureusement d'autres personnes le savent, des agilistes respectés et chevronnés pourront commenter et vérifier si ce que je dis est correct.
 
-Une partie de cette mésinformation est flagrante au mieux que les gens qui apprennent l'agile, n'apprennent en rien ce qu'est vraiment l'agile et au pire sont détournés de l'agile et des réels bénéfices qu'elle pourrait leur apporter à eux et à leur organisation.
+J'apprécierais aussi tout retour sur les points abordés dans cet article afin que je puisse l'améliorer ainsi que toute question et réponse, afin que cet article devienne une FAQ la plus complète possible sur l'agile.
 
-Of course there is no reason for folks who know no better to believe my article provides any more accurate information about Agile than any other. Hopefully other known, respected Agile practitioners will comment and verify what I am saying is correct.
+## C'est quoi agile ?
 
-Bien sûr, il n'y a aucune raison que les personnes qui ne connaissent pas trop l'agile puissent croirent que mon article leur apportera des informations plus pertinentes sur l'agile plutôt qu'un autre. Heureusement d'autres savent, des agilistes respectés et chevronnés commenteront et vérifieront que ce que je dis est correcte.
+Agile est une philosophie de développement logiciel, décrite dans le manifeste agile pour le développement logiciel (plus connue sous le nom de [manifeste agile](http://agilemanifesto.org/iso/fr/manifesto.html) ou encore plus simplement le Manifeste) sous la forme de seulement 4 valeurs et 12 principes .
 
-I’d also appreciate any feedback on areas I can improve the article, along with additional questions to pose and answer, pushing it toward becoming a definitive FAQ on Agile.
+Le Manifeste a été créé en 2001 par un groupe de 17 professionnels en développement logiciel qui pratiquaient un certain type de "méthodes dites allégées" telles que Scrum, XP (Extreme Programming), Crystal, RAD (Rapid Application Development) et FDD (Feature Driven Development).
 
-J'apprécierais aussi tout retour sur les éléments abordés dans cet article afin que je puisse l'améliorer ainsi que toute question et réponse, afin que cet article devienne une FAQ la plus complète possible sur l'agile.
+Voici ma propre tentative d'exprimer Agile en une seule phrase (même s'il s'agit d'une longue phrase !).
 
-## What is Agile?
-
-## C'est quoi Agile ?
-
-Agile is a software development philosophy, described by just 4 values and 12 principles in the [Manifesto for Agile Software Development](http://agilemanifesto.org/) (more commonly referred to as the Agile Manifesto, or even the Manifesto).
-
-Agile est une philosophie de développement logiciel, décrite avec seulement 4 valeurs et 12 principes dans le manifeste agile pour le développement logiciel (plus connue sous le nom de Manifeste Agile ou encore plus simplement le Manifeste).
-
-The Manifesto was created in 2001 by a group of 17 software practitioners who were operating with a variety of “lightweight methods” such as Scrum, XP (Extreme Programming), Crystal, RAD (Rapid Application Development) and FDD (Feature Driven Development).
-
-Le Manifeste a été créé en 2001 apar un groupe de 17 professionnels en développement logiciel qui pratiquaient un certain type de "méthodes dites allégées" telles que Scrum, XP (Extreme Programming), Crystal, RAD (Rapid Application Development) et FDD (Feature Driven Development).
-
-Here is my attempt at Agile in a sentence (albeit a long one!):
-
-Voici ma tentative d'exprimer Agile en une seule phrase (même s'il s'agit d'une longue phrase !).
-
-_Agile is a software development approach where business people and self-organising, cross-functional development teams **collaborate** with customers to continuously **deliver** valuable software, all the while remaining **flexible** and responsive to changing needs, working at a **sustainable pace**, and **reflecting** on and **improving** the software and their effectiveness._
-
-_Agile est une approche de développement loigiciel dans laquelle les gens du métier et des équipes de développement auto-organisées, pluri-disciplinaires **collaborent** avec les clients pour **livrer** de manière continue un logiciel de valeur, le tout en restant **flexible** et ouvert à des besoins changeants, en travaillant à un **rythme soutenable**, en réfléchissant au sujet du logiciel, de leur efficacité et en les **améliorant**._
-
-## Why Agile?
+_Agile est une approche de développement logiciel dans laquelle des gens du métier et des équipes de développement auto-organisées, pluri-disciplinaires **collaborent** avec les clients pour **livrer** de manière continue un logiciel de valeur, le tout en restant **flexibles** et ouverts au changement des besoins, en travaillant à un **rythme soutenable**, en réfléchissant au sujet du logiciel, en vue de l'**améliorer** et d'**améliorer** aussi leur efficacité._
 
 ## Pourquoi Agile ?
 
-The lightweight methods mentioned above (which led to the agreement on Agile values and principles) were in stark contrast to the prevalent methods for delivering software in the 1990s. Traditional software methodologies were heavy in process, phases and approval steps, and driven by documentation milestones rather than the delivery of “working software”. This would lead to software projects sometimes taking months, even years, before a line of code was written.
+Les méthodes allégées mentionnées ci-dessus (qui ont conduit au consensus sur les valeurs et les principes agiles) étaient en contraste totale avec les méthodes dominantes sur le développement logiciel dans les années 1990. Les méthodes traditionnelles de développement logiciel étaient lourdes en terme de processus, de phases, d'étapes de validations ; elles étaient pilotés par des jalons de documentation plutôt que par la livraison d'un "logiciel opérationnel". Ces méthodes traditionnelles pouvaient mener à des projets logiciels qui prenaient quelques fois des mois, voire des années avant qu'une seule ligne de code ne soit écrite.
 
-Les méthodes allégées mentionnées ci-desus (qui ont conduit au consensus sur les valeurs et les principes agiles) étaient en contraste totale avec les méthodes dominantes sur le développement logiciel dans les années 1990. Les méthodes traditionnelles de développement logiciel étaient lourdes en terme de processus, de phases, d'étapes de validations ; elles étaient pilotés par des jalons de documentation plutôt que par la livraison d'un "logiciel opérationnel". Ces méthodes traditionnelles mèneront à des projets logiciels qui prendront quelques fois des mois, voire des années avant qu'une seule ligne de code ne soit écrite.
+Une autre conséquence des approches traditionnelles a été que les développeurs ne pouvaient plus obtenir de retours d'informations sur le logiciel qu'ils avaient construits de la part des clients pour qui ils l'avaient construits jusqu'à ce que le logiciel soit "fini". Le décalage entre le moment où les exigences étaient collectées et le moment où le logiciel était livré menait souvent à un logiciel qui ne correspond pas aux besoins courants du client.
 
-Another consequence of the traditional approaches was that developers would not get feedback* on the software they were building from the customers for whom they were building it until the software was “finished”. The time lag between when the requirements were gathered and when the software was delivered would often lead to the software not matching up to the current needs of the customer.
-
-Une autre conséquence des approches traditionnelles a été que les développeurs n'obtiendraient plus de retours d'informations sur le logiciel qu'ils avaient construits de la part des clients pour qui ils l'avaient construits jusqu'à ce que le logiciel soit "fini". Le décalage entre le moment où les exigences sont collectées et le moment où le logiciel est livré mèneront souvent à un logiciel qui ne correspond pas aux besoins courants du client.
-
-Agile approaches reduce this risk by shortening feedback loops as much as possible. Developers (including programmers, testers, designers, etc.) share their code and designs with each other, on a near-continuous basis. They also build the software in increments (aka “feature by feature”), showing the software they have built so far to the customer on a frequent basis (no more than every few weeks, often far more frequently).
-
-Les approches agiles réduisent ce risque en raccourcissant les boucles de retours d'informations autant que possible. Les développeurs (comprenant les programmeurs, les testeurs, les concepteurs, etc.) partagent leurs codes et leurs conceptions entre eux, de manière quasi-continue. Elles construisent le logiciel par incréments (appelé également "fonctionnalité par fonctionnalité"), montrent le logiciel construit jusqu'à maintenant au client régulièrement (pas moins fréquemment de quelques semaines et souvent beaucoup plus).
-
-If the customer is happy with what they see (i.e. it is “valuable” to them), they can start using it right away, even if it does not yet have all the features they (think they) want. If they are not happy, the team can make the necessary changes quickly and come back to the customer with a new version of the software.
+Les approches agiles réduisent ce risque en raccourcissant les boucles de retours d'informations autant que possible. Les développeurs (comprenant les programmeurs, les testeurs, les concepteurs, etc.) partagent leurs codes et leurs conceptions entre eux, de manière quasi-continue. Elles construisent le logiciel par incréments (appelé également "fonctionnalité par fonctionnalité"), montrent régulièrement au client (toutes les n semaines et souvent beaucoup plus fréquemment) le logiciel construit jusqu'à présent .
 
 Si le client est satisfait de ce qu'il voit (c'est-à-dire qui a de la "valeur" à ses yeux), il peut commencer à l'utiliser tout de suite même s'il n'a pas toutes les fonctionnalités qu'il (pense qu'il) voulait. S'il n'est pas satisfait, l'équipe peut faire les changements nécessaires rapidement et revenir vers le client avec une nouvelle version du logiciel.
 
-\* _Thanks to Ed O’Shaughnessy for his feedback which led to this section on the importance of… feedback! Shortening feedback loops is a key underpinning of Agile._
-
-\* _Merci à Ed O’Shaughnessy pour son retour d'informations ayant conduit à cette section sur l'importance du … retour d'inforamtion ! Raccourcir les boucles de retours d'informations est un fondement clé d'Agile_
-
-## Why are “sustainable pace” and “emergent architecture” important?
+\* _Merci à Ed O’Shaughnessy pour son retour d'informations ayant conduit à cette section sur l'importance du … retour d'information ! Raccourcir les boucles de retours d'informations est un fondement clé d'Agile_
 
 ## Pourquoi un "rythme soutenable" et une "architecture émergente" sont-ils importants ?
-
-> “Agile processes promote sustainable development. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.”
 
 > "Les processus Agiles encouragent un rythme de développement
 soutenable. Ensemble, les commanditaires, les développeurs
 et les utilisateurs devraient être capables de maintenir
 indéfiniment un rythme constant."
 
-> “The best architectures, requirements, and designs emerge from self-organizing teams.”
-
 >"Les meilleures architectures, spécifications et
-conceptions émergent d'équipes autoorganisées"
+conceptions émergent d'équipes auto-organisées"
 
-~ Principles #8 and #11 from the Agile Manifesto
-
-~ Principes #8 et #11 extraits du Manifeste Agile
-
-In order to be able to continue to meet the demands of rapid value generation for the customer and the business indefinitely, we need to ensure the codebase is kept in an easily adaptable state.
+~ Principes #8 et #11 du manifeste agile
 
 Afin d'être en capacité de continuer à répondre aux exigences de pouvoir générer rapidement de la valeur pour le client et le métier indéfiniment, nous devons nous assurer que la base de code reste dans un état permettant de faire facilement des adaptations.
 
-To achieve this sustainable pace, it is vitally important the system is architecturally consistent with the ability to adapt. Keeping architecture flexible is overlooked in many projects, and with the team continually incrementing in short iterations, after some time it is common to end up with big refactoring or rebuilding efforts in order to make the codebase adaptable again.
+Pour parvenir à ce rythme soutenable, il est vitale que l'architecture du système soit en adéquation avec une capacité d'adaptation. Garder une architecture flexible est quelque chose qui est souvent négligée dans pas mal de projets, et avec une équipe continuant à ajouter des incréments en courtes itérations, après quelques temps il arrive régulièrement d'avoir à faire de gros efforts de _refactoring_ ou de reconstruction afin de rendre à nouveau le base de code adaptable.
 
-Pour parvenir à ce rythme soutenable, il est vitale que l'architecture du système soit en adéquation avec une capacité d'adaptation. Garder une architecture flexible est souvent négligé dans beaucoup de projets, et avec une équipe qui continuent à ajouter des incréments en courtes itérations, après quelques temps il arrive régulièrement d'avoir à faire de gros efforts de _refactoring_ ou de reconstruction afin de rendre à nouveau le base de code adaptable.
-
-It is also important that teams do not get tired, stressed or burn out. Tired developers write poor/buggy code, and teams who do not stop to reflect and improve on the product they are building, and the way they are building it, will not build great software.
-
-Il est également important que les équipes ne fatiguent pas, ne stressent pas ou ne craquent pas. Des développeurs écrivent du code qui s'avèrent être médiocre/buggé, et des équipes que ne s'arrêtent pas pour réfléchir et améliorer le produit qu'elles sont en train de réaliser, et la façon dont elles le réalisent, ne réaliseront pas un logiciel d'exception.
-
-## What is an Agile method or framework?
+Il est également important que les équipes ne se fatiguent pas, ne stressent pas ou ne craquent pas. Des développeurs écrivant du code s'avérant être médiocre/buggé, des équipes ne s'arrêtant pas pour réfléchir et améliorer le produit qu'elles sont en train de réaliser, ainsi que la façon dont elles le réalisent, ne réaliseront pas un logiciel d'exception.
 
 ## Qu'est-ce qu'une méthode ou un cadre de travail agile ?
 
-Simply, a method or framework which is consistent with the statement above — or, more precisely, aligned with all the values and principles in the Agile Manifesto.
+Il s'agit tout simplement, d'une méthode ou d'un cadre de travail qui soit en cohérence avec ce qui a été exposé précédemment - ou, plus précisément, aligné avec l'ensemble des valeurs et des principes du manifeste agile.
 
-Il s'agit tout simplement, une méthode ou un cadre de travail qui soit en cohérence avec ce qui a été exposé précédemment - ou, plus précisément, aligné avec l'ensemble des valeurs et des principes du Manifeste Agile.
-
-Of course the lightweight methods and frameworks mentioned above (such as Scrum) could, post-2001, be described as Agile (but they do not equal Agile — see below).
-
-Bien sûr, les méthodes et les cadres de travail allégés mentionnés précédemment (tel que Scrum) pourraient, post-2001, être décrits comme agiles (mais ils ne sont pas l'Agile - voir ci-dessous)
-
-## What is Agile NOT?
+Bien sûr, les méthodes et les cadres de travail allégés mentionnés précédemment (tel que Scrum) pourraient, post-2001, être décrits comme agiles (mais ils ne sont pas l'Agile à eux seuls - voir ci-dessous)
 
 ## Qu'est-ce que n'est PAS Agile ?
 
-* A rigid methodology or process
-* Ill-suited to large projects
-* Only suited to small, safe projects
-* Cowboy coding, with no planning or documentation
-* A set of best practices
-* An alternative way to manage traditional projects
-* An abandonment of specialities or experts
-* A means of getting more done “faster” or “more efficiently”
-* A means of micro-managing developers
-* Stand-ups, sticky notes and collaborating
-* Scrum*
-
 * Un méthodologie ou un processus rigide
-* Inadaptée à de grands projects
+* Inadaptée aux grands projets
 * Adaptée uniquement à de petits ou à des projets sans aucun risque
 * Du développement en mode cowboy, sans planification ou sans documentation
 * Un ensemble de bonnes pratiques
-* Une façon alternative de gérer des projets traditionnels
+* Une manière alternative de gérer des projets traditionnels
 * L'abandon des spécialistes ou des experts
 * Un moyen d'en faire davantage "plus vite"  ou "plus efficacement"
 * Un moyen de micro-manager les développeurs
-* Que des réunions-debouts, des notes adhésives et de la collaboration
+* Que des réunions-debouts, des notes repositionnables et de la collaboration
 * Scrum *
 
-\* _As mentioned above, Scrum pre-dates Agile. Post 2001, Scrum could be described as an Agile framework, but it does not equate to Agile. There are many ways to work which are consistent with Agile but are not Scrum._
+\* _Comme évoqué précédemment, Scrum est antérieur au manifeste agile. Après 2001, Scrum pouvait être décrit comme un cadre de travail agile, mais il n'est pas l'Agile à lui tout seul. Il existe plusieurs manière de travailler qui sont en adéquation avec le manifeste agile mais pas avec Scrum._
 
-\* _Comme évoqué précédemment, Scrum est antérieur à Agile. Après 2001, Scrum pourrait être décrit comme un cadre de travail agile, mais il n'est pas l'Agile à lui tout seul. Il existe plusieurs amnière de travailler qui sont en adéquation avec Agile mais pas avec Scrum._
-
-## What are the potential business benefits of adopting Agile?
-
-## Quels sont les bénéfices métiers potentiels d'adopter l'Agile ?
-
-* **Beat competitors to market** (reduce risk of disruption and/or losing first mover advantage)
+## Quels sont les bénéfices métiers potentiels d'adopter l'agile ?
 
 * **Battre les concurrents présents sur le marché** (réduction du risque de disruption et/ou de perte de l'avantage d'être arrivé le premier)
 
-* **Build right thing** (reduce risk of over-investment in software which is not being used or realising value)
-
 * **Réaliser ce qu'il faut** (réduction du risque de sur-investissement dans un logiciel qui n'est pas utilisé ou qui ne donne pas la valeur attendue)  
 
-* **Build thing right** (reduce risk of gaining a reputation for poor quality of product, and of spending time/$$ on failure demand and technical debt)
-
-* **Réaliser comme il faut** (réduction du risque d'avoir une réputation de faire des produits de mauvaise qualité, et de dépenser du temps/€ pour avoir échouer à satisfaire la demande et pour avoir de la dette technique)  
-
-* **Happier customers** (reduce risk of losing customers, or gaining a reputation for poor quality of service)
+* **Réaliser comme il faut** (réduction du risque d'avoir une réputation de faire des produits de mauvaise qualité, et de dépenser du temps/€ pour avoir échouer à satisfaire la demande et d'avoir de la dette technique)  
 
 * **Des clients plus heureux** (réduction du risque de perdre des clients ou d'avoir une réputation de mauvaise qualité de service)  
 
-* **Tax benefits** (increased potential for earlier and more frequent capitalisation of released software as an asset)
-
 * **Avantages fiscaux** (probabilité accrue de capitaliser plus régulièrement et plus tôt du logiciel livré de la même manière qu'un actif)
 
-* **Early revenue/cost reduction benefits/ROI** (increased opportunity for projects to pay for themselves earlier)
+* **Gain ou réduction des coûts ou bénéfices/ROI anticipés** (opportunité accrue des projets de s'auto-financer plus vite)  
 
-* **Gain ou réduction des coûts ou bénéfices/ROI anticipés** (opportunité accrue des projets de s'auto-financer plus tôt )  
-
-* **Operational efficiency**\* (aka “deliver more value, faster”; higher capacity, throughput and revenue per worker)
-
-* **Efficacité opérationnel**\* (appelé également "livrer plus de valeur, plus vite" ; capacité, débit et/ou revenu plus élevé par salarié)  
-
-* **Happier shareholders** (more value, faster = more return)
+* **Efficacité opérationnelle**\* (appelé également "livrer plus de valeur, plus vite" ; capacité, débit et/ou revenu plus élevé par salarié)  
 
 * **Satisfactions accrues des parties prenantes** (plus de valeur, plus vite = plus de retour)
 
-* **Happier workers** (more autonomy, mastery and purpose = reduce risk of attrition)
-
 * **Des salariés plus heureux** (plus d'autonomie, de maîtrise et de finalité = réduction du risque d'attrition)  
 
-\* _Astute readers may have noticed I said “Agile is not a means of getting more done, faster”, but then went on to say that “Agile can improve operational efficiency — deliver more value, faster”!_
+\* _Les lecteurs attentifs auront peut-être remarqué que j'avais dit "Agile n'est pas le moyen d'avoir d'en faire davantage "plus vite", et puis que j'avais continué en disant qu'"Agile peut permettre d'améliorer l'efficacité opérationnelle - livre davantage de valeur, plus vite" !_
 
-\* _Les lecteurs attentifs ont peut-être remarqué que j'avais dit "Agile n'est pas le moyen d'avoir d'en faire davantage "plus vite", et puis que j'avais continué en disant qu'"Agile peut permettre d'améliorer l'efficacité opérationnelle - livre davantage de valeur, plus vite" !_
-
-_Due to the iterative and incremental nature of Agile approaches, where we continuously focus on the highest value deliverables in very small batches and defer the rest, an adherence with Agile values and principles will likely derive greater value returns from your investment, and earlier, as compared to a traditional sequential, documentation milestone driven approach. We are not doing more work more quickly — rather, we are delivering work in smaller batches, sooner — keeping things simple, eliminating process steps and work which does not contribute to value._
-
-_En raison de la nature itérative et incrémentale des approches agiles, où nous nous focalisons continuellement sur avoir des livrables ayant la plus haute valeur possible en très petits lots et écartons le reste, une adhésion aux valeurs et aux principes Agile permettront probablement de tirer plus tôt de meilleurs retours sur investissement par rapport à la valeur, en comparaison avec l'approche traditionnelle séquentielle piloté par la documentation. Nous ne faisons pas davantage de travail plus vite - nous livrons plutôt du travail en plus petit lot plus t^to - en gardant les choses simples, en éliminant les étapes du processus et les travaux qui ne contribuent à avoir de la valeur._
-
-_Such a focus on early and often delivery of customer value inevitably leads to an improvement in “flow efficiency” — where the time software code is not delivering value to the business is reduced — and it is this form of efficiency to which I refer._
+_En raison de la nature itérative et incrémentale des approches agiles, où nous nous focalisons continuellement sur avoir des livrables ayant la plus haute valeur possible en très petits lots et écartons le reste, une adhésion aux valeurs et aux principes du manifeste agile devraient permettre de tirer plus tôt de meilleurs retours sur investissement par rapport à la valeur, en comparaison avec l'approche traditionnelle séquentielle piloté par la documentation. Nous ne faisons pas davantage de travail plus vite - nous livrons plutôt du travail en plus petit lot plus tôt - en gardant les choses simples, en éliminant les étapes du processus et les travaux qui ne contribuent à avoir de la valeur._
 
 _Une telle focalisation sur livrer de la valeur pour le client plus tôt et plus souvent conduit à l'amélioration de l'"efficacité du flux" - c'est-à-dire que le temps de développement du logiciel qui ne donne pas de valeur au métier est réduit - et c'est de cette forme d'efficacité à laquelle je me réfère._
 
-## When is Agile not a good approach?
+## Quand agile n'est-elle pas une bonne approche ?
 
-## Quand Agile n'est-elle pas une bonne approche ?
+Agile décrit un ensemble de principes de gestion de projet et de développement logiciel compris universellement, qui tous ensemble permettent de réduire potentiellement le risque, du moins dans une certaine mesure, sur quasiment tous les projets.
 
-Agile describes a set of universally sound project management and software development principles, all of which are likely to reduce risk, at least in some measure, for all but the most risk-free of projects.
+Avant que quiconque ne dise "Agile n'a pas inventé ce genre de choses !", ces principes ne sont en aucun cas nouveaux, et n'étaient pas nouveaux en 2001. Agile les a plutôt rassemblé sous une forme pratique.
 
-Agile décrit un ensemble universellement entendu de principes de gestion de projet et de développement logiciel, qui tous ensemble permettent de réduire potentiellement le risque, du moins dans une certaine mesure, de quasiment tous les projets.
+Agile encapsule la plupart des choses dont nous avons besoin, du moins du point de vue des valeurs et des principes, c'est-à-dire livrer des projets informatiques plus efficacement. Quels sont les projets qui ne seraient pas en mesure de tirer avantage de se focaliser sur les individus et leurs interactions, l'amélioration continue, la livraison d'un logiciel opérationnel pour le client avec des itérations rapides, l'excellence technique et la réponse au changement ? En travaillant de manière transverse au niveau des fonctions et des départements, en livrant, en réfléchissant\* et en s'améliorant en cycles courts et continus ?
 
-Before anyone calls out “Agile didn’t invent these things!”, these principles are nothing new, and were not new in 2001. Rather, Agile packaged them in a convenient form.
+C'est particulièrement vrai si l'alternative pour les équipes est de retourner à leurs silos fonctionnels, se passant le travail de la main à la main, exigeant au passage de longs cycles d'approbation, des phases de tests en décalé, et en mesurant l'avancement du projet en utilisant des jalons de documentations. De telles approches ne sont simplement plus viables dans la majorité des secteurs dépendant d'avoir des livraisons de logiciels et des résultats rapides.
 
-Avant que quiconque ne dise "Agile n'a pas inventé ce genre de chsoes !", ces principes ne sont en aucun cas nouveau, et n'étaient pas nouveaux en 2001. Agile les a plutôt rassemblé sous une forme pratique.
+Toutefois, étant donné la nature d'agile, il y a des éléments clés qui doivent être mis en place, au moins dans le moyen et long terme, pour que le modèle de livraison agile puisse être "adapté à l'usage" de manière durable.
 
-Agile encapsulates most of what we need, at least from a values and principles perspective, to deliver software projects more effectively. What projects would not benefit from a focus on individuals and interactions, continuous improvement, delivering working software for the customer in rapid iterations, technical excellence and responding to change? On working across functions and departments, delivering, reflecting and improving\* in short, continuous cycles?
+* Nous avons accès à un utilisateur, un client ou un représentant métier qui veut (ou qui est en capacité) de prendre livraison de notre logiciel opérationnel, de l'utiliser et de donner un retour sur celui-ci ; d'articuler ou de prioriser continuellement "la valeur" de leur point de vue (il est plus connu sous le nom de "_product owner_").
 
-Agile encapsule la plupart des choses dont nous avons besoin, du moins du point d evue des valeurs et des principes, c'est-à-dire livrer des projets informatiques plus efficacement. Quels sont les projets qui ne seraient pas en mesure de tirer avantage de se focaliser sur les individus et leurs interactions, l'amélioration continue, la livraison d'un logiciel opérationnel pour le client avec des itérations rapides, l'excellence technique et la réponse au changement ? En travaillant de manière transverse au niveau des fonctions et des départements, en livrant, en réfléchissant\* et en s'améliorant en cycles courts et continus ?
+* Nous (et/ou notre client) avons l'infrastructure technique**, l'outillage et la capacité à faire de l'intégration continue (IC), de tests de bouts en bouts automatisés et de préférence des _pipelines_ pour faire de la livraison/déploiement continu en environnement de production ; c.à.d. que les développeurs peuvent de manière durable déployer des logiciels complètement testés, intégrés, opérationnels par petits incréments et en petits cycles.
 
-This is particularly true if the alternative is teams reverting to their functional silos, handing off work, requiring long approval cycles, back-loaded testing phases, and measuring progress using documentation milestones. Such approaches are simply not viable anymore in the majority of industries relying on rapid software delivery and results.
+* Notre client apprécie de voir un système informatique opérationnel qui évolue très tôt dans la vie du projet - lui permettant d'orienter sa direction, d'expérimenter, d'apporter très tôt de la valeur aux utilisateurs et de satisfaire leurs besoins plus tôt - en lieu et place d'autres indicateurs d'avancement.
 
-C'est particulièrement vrai si l'alternative pour les équipes est de retourner à leurs silos fonctionnels, se passant le travail de la main à la main, exigeant de longs cycles d'approbation, des phases de tests en décalé, et en mesurant l'avancement du projet en utilisant des jalons de documentations. De telles approches ne sont simplement plus viables dans la majorité des secteurs dépendant de livraisons rapides des logiciels et de résultats rapides.
+* Notre client (et tout particulièrement dans le cadre d'une relation contractuel) perçoit l'avantage en ce qui le concerne d'être flexible sur le périmètre/exigences, et est disposé/capable de le faire ; un périmètre flexible qui est inscrit dans des contraintes de temps permet à l'équipe d'être constamment focalisée sur le développement des éléments ayant la plus grande valeur, orientant la solution vers les besoins actuels du client versus les exigences perçues à l'époque où le contrat avait été écrit.
 
-However, given the nature of Agile, there are key elements which must be in place, at least in the medium to long term, for an Agile delivery model to be sustainably “fit for purpose”:
+* Notre client perçoit l'avantage d'avoir un "_product owner_" (tel que décrit précédemment) qui travaille directement avec l'équipe de développement pour négocier et faire des compromis sur le périmètre, optimisant la valeur et offrant un accès plus facile à d'autres experts du domaine lorsque l'équipe en a besoin.
 
-Toutefois, étant donné la nature d'Agile, il y a des éléments clés qui doivent être mise en place, au moins dans le moyen et long terme, pour que le modèle de livraison agile puisse être "adapté à l'usage" durablement.
+En bref, nous devons avoir un client, et notre client doit à la fois vouloir, et être capable d'absorber, une approche agile. Sans ces pré-requis, cela devient absurde de décrire la manière dont nous travaillons comme étant "agile", du moins du point de vue de la livraison.
 
-* We have access to a user, customer or business representative who wants (and is able) to take delivery of our working software, use it and give feedback on it; to articulate and continually prioritise “value” from their perspective (aka a “product owner”);
+Même si agile arrive à passer le critère "adapté à l'usage", on pourrait alléguer aussi qu'agile n'est pas une bonne approche - ou du moins n'est pas nécessaire - pour des projets simples ou compliqués (opposés à des projets complexes),   c'est-à-dire des projets qui ont une série d'étapes connues, prévisibles à suivre pour atteindre l'objectif souhaité, sans avoir la nécessité d'apprendre ou d'avoir des retours d'informations.
 
-* Nous avons accès à un utilisateur, un client ou un représentant métier qui veut (ou qui est en capacité) de prendre livraison de notre logiciel opérationnel, de l'utiliser et de donner un retour sur celui-ci ; d'articuler ou de prioriser continuellement "la valeur" de leur point de vue (il est plus connu sous le nom de "_product owner_") ;
+On pourrait aussi alléguer que nous "pourrions aussi bien" faire tous les projets en mode agile, même s'ils s'avèrent être simples ou compliqués. Toutefois, si nous ne sommes déjà pas prêt à faire du développement agile de logiciel, et que la majorité de nos projets sont simples ou compliqués (c'est rare, mais possible), les coûts de mise en place des changements nécessaires pour passer en mode agile pourraient s'avérer être trop élevés à justifier.
 
-* We (and/or our customer) have the technical infrastructure**, tooling and capability for continuous integration (CI), fast automated e2e tests and preferably continuous delivery/deployment (CD) pipelines into production environments; i.e. developers can sustainably deploy fully tested, integrated, defect-free working software in very small increments and cycles;
+\* _Je tire mon chapeau au modèle "cœur d'agile" d'Alistair Cockburn, qui suggère que toute approche implique généralement d'avoir une attention continue sur quatre activités clés - collaborer, livrer, réfléchir et améliorer - qu'il est tout à légitime comme étant des activités agiles._
 
-* Nous (et/ou notre client) avons l'infrastructure technique**, l'outillage et la capacité à fire de l'intégration continue (IC), de tests de bouts en bouts automatisés et de préférence des _pipelines_ pour faire de la livraison/déploiement continue dans les environnements de production ; c.à.d. que les développeurs peuvent de manière durable déployer des logiciels complètement testés, intégrés, opérationnels par petits incréments et en petits cycles ;
+\*\* _L'un de mes anciens collègues, John Sullivan, qui est un agiliste expérimenté et grandement respecté, m'a fait remarqué dans un commentaire, que bien que des "éléments comme l'automatisation des tests et l'intégration continue" soient des approches techniques ordinaires dans des environnements agiles, elles ne sont pas agiles en tant que tel, car il s'agit d'outils et de pratiques plutôt que de valeurs et de principes. Des noms plutôt que des adjectifs. Plus important encore, il doit y avoir également un désir de s'assurer de manière continue, répétable que le code fonctionne correctement - à la fois le code que nous ajoutons, et le code déjà dans le système._
 
-* Our customer values seeing a working software system evolve from early in the project — enabling them to shape its direction, experiment, bring early value to users and meet their needs sooner — over other measures of progress;
-
-* Notre client apprécie de voir un système informatique opérationnel qui évolue très tôt dans la vie du projet - lui permettant d'orienter sa direction, d'expérimenter, d'apporter très tôt de la valeur aux utilisateurs et de satisfaire leurs besoins plus tôt - à la place d'autres mesures d'avancement.
-
-* Our customer (particularly in a contractual relationship) sees benefit for themselves of being commercially flexible with scope/requirements, and is willing/able to do this; flexible scope within time constraints allows teams to always focus on developing the highest value items, steering the solution toward the customer’s current needs versus the perceived requirements at the time the contract was written;
-
-* Notre client (et cela plus particulièrement dans une relation contractuel) voient les bénéfices pour eux-mêmes d'être commercialement flexibles avec le périmètre/exigences, et est disposé/capable de le faire ; un périmètre flexible inscrit dans des contraintes de temps permet à l'équipe d'être constamment focalisée sur le développement des items ayant la plus grande valeur, orientant la solution vers les besoins actuels du client versus les exigences perçues lorsque le contrat avait été écrit.
-
-* Our customer sees benefit of having a “product owner” (as described above) working directly with the development team to negotiate and trade-off scope, optimise value and provide easy access to other SME’s as required by the team;
-
-* Notre client voit les bénéfices d'avoir un "_product owner_" (tel que décrit précédemment) travaillant directement avec l'équipe de développement pour négocier et faire des compromis sur le périmètre, optimisant la valeur et offrant un accès plus facile à d'autres experts du domaine lorsque l'équipe le demande.
-
-In short, we must have a customer, and our customer has to both want, and be able to absorb, an Agile approach. Without this prerequisite in place, it becomes nonsensical to describe the way we are working as “Agile”, at least from a delivery point of view.
-
-En bref, nous devons avoir un client, et notre client doit à la fois vouloir, et être capable d'absorber, une approche agile. Sans ces pré-requis effectifs, cela devient absurde de décrire la manière dont nous travaillons comme "agile", du moins du point de vue de la livraison.
-
-Even if Agile passes the “fitness for purpose” criteria, one could also argue that Agile is not a good approach — or at least is not needed — for simple or complicated endeavours (as opposed to complex ones), i.e. projects which have a known, predictable set of steps to follow to meet a desired objective, with no learning or feedback loops required.
-
-Même si agile arrive à passer le critère "adapté à l'usage", on pourrait alléguer aussi qu'agile n'est pas une bonne approche - ou du moins n'est pas nécessaire - pour des projets simples ou compliqués (opposés à des projets complexes),   c'est-à-dire des projets qui ont une série d'étapes connues, prévisibles à suivre pour atteindre l'objectif souhaité, sans nécessité d'apprendre ou d'avoir des retours d'informations.
-
-One could equally argue that we “might as well” do all projects in an Agile way, even if they are simple or complicated. However, if we are not currently set up to do Agile Software Development, and the majority of our projects are simple or complicated (this is rare, but possible), the costs of making the changes required to enable Agile may be too high to justify.
-
-On pourrait aussi alléguer que nous "pourrions aussi bien" faire tous les projets en mode agile, même s'ils sont simples ou compliqués. Toutefois, si nous n'avons pas déjà prêt à faire du développement agile de logiciel, et que la majorité de nos projets sont simples ou compliqués (c'est rare, mais possible), les coûts de mise en place des changements pour passer en mode agile pourraient s'avérer être trop haut à justifier.
-
-\* _Hat tip to Alistair Cockburn’s “Heart of Agile” model, which infers that any approach which broadly involves a continuous focus on four key activities — Collaborate, Deliver, Reflect and Improve — could legitimately be described as an Agile one._
-
-\* _Je tire mon chapeau au modèle "cœur d'agile" d'Alistair Cockburn, qui suggère que toute approche implique généralement d'avoir une attention continue sur quatre activités clés - collaborer, livrer, réfléchir et améliorer - pouvant être décrite de manière tout à fait légitime comme des activités agiles._
-
-\*\* _An ex-colleague of mine, and highly experienced and respected agile practitioner, John Sullivan, correctly pointed out in the comments that, although “physical things like automated testing and CI builds” are the typical technical approaches in agile environments, they are not agile per se, because they are tools and practices rather than values and principles. Nouns rather than adjectives. Most importantly, there must be a desire to continually, repeatably ensure that code works properly — both the code we add, and the code already in the system._
-
-\*\* _L'un de mes anciens collègues, John Sullivan, qui est un agiliste expérimenté et grandement respecté, me l'a fait remarqué dans un commentaire, bien que des "éléments comme l'automatisation des tests et l'intégration continue" soit des approches techniques types dans des environnements agiles, ce ne sont pas des éléments agiles en tant que tels, parce que ce sont des outils et des pratiques plutôt que des valeurs et des principes. Des noms plutôt que des adjectifs. Plus important encore, il doit y avoir un désir de s'assurer de manière continue, répétable que le code fonctionne correctement - à la fois le code que nous ajoutons, et le code déjà dans le système.
-
-_I also thank John for his feedback and comments around emergent/adaptable architecture, which I have incorporated earlier in the article._
-
-_Je tiens à remercier également John pour ses retours et ses commentaires au sujet de l'architecture émergent/adaptable que j'ai ajouté dans l'article.
-
-## Why is Agile often called a “mindset” and a “cultural transformation”?
+_Je tiens à remercier également John pour ses retours et ses commentaires au sujet de l'architecture émergente/adaptable mentionnée dans l'article._
 
 ## Pourquoi dit-on que l'agile est un "état d'esprit" et une "transformation culturelle"
 
-Because Agile is a set of values and principles, it can be thought of as a thinking model, or mindset. That is, an individual, team or organisation who willingly delivers software in a manner aligned with the values and principles of Agile could be said to be behaving in an Agile way, or having an Agile mindset.
+Parce que le manifeste agile est un ensemble de valeurs et de principes, il peut être perçu comme un modèle de pensée, ou un état d'esprit. C'est-à-dire, qu'un individu, qu'une équipe ou qu'une organisation livrant volontairement du logiciel et dont la manière de faire est alignée avec les valeurs et les principes du manifeste agile pourrait être dite/qualifiée comme se comportant de façon agile, ou ayant un état d'esprit agile.
 
-Parce qu'Agile est un ensemble de valeurs et de principes, il peut être perçu comme un modèle de pensée, ou un état d'esprit. C'est-à-dire, qu'un individu, qu'une équipe ou qu'une organisation livrant volontairement du logiciel et dont la manière de faire est alignée avec les valeurs et les principes d'Agile pourrait être dit/qualifiée comme se comportant de façon agile, ou ayant un état d'esprit agile.
+Même si agile, d'un point de vue de mécanique de projet, aborde le sujet de la livraison d'un logiciel de valeur de manière continue, le facteur humain est également mis en avant. La première valeur dans le manifeste est "Les individus et leurs interactions plutôt que les processus et les outils". La troisième valeur est "La collaboration avec le client plutôt qu'une négociation contractuelle".
 
-While Agile, from a project mechanics point of view, is about continuously delivering valuable software, there is also a prominent human element. The number one value in the Manifesto is “Individuals and Interactions over Processes and Tools”. Number three is “Customer Collaboration over Contract Negotiation”.
-
-Même si agile, d'un point de vue de mécanique de projet, est avant tout à propos de livrer un logiciel de valeur de manière continu, le côté humain est également mis en avant. La première valeur dans le manifeste est "Les individus et leurs interactions plutôt que les processus et les outils". La troisième valeur est "La collaboration avec le client plutôt qu'une négociation contractuelle".
-
-However, the most telling hint that Agile is intended to be a more humane approach to software delivery is in principles 5 and 11:
-
-Toutefois, les principaux indices qu'Agile est démarche davantage orientée humain par rapport à la livraison de logiciel sont les principes 5 et 11 :
-
-> “Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done.”
+Toutefois, les principaux indices qu'agile est une démarche davantage orientée humain par rapport à la livraison de logiciel sont dans les principes 5 et 11 :
 
 > "Réalisez les projets avec des personnes motivées. Fournissez-leur l’environnement et le soutien dont ils ont besoin et faites-leur confiance pour atteindre les objectifs fixés."
 
-> “The best architectures, requirements, and designs emerge from self-organizing teams.”
+> "Les meilleures architectures, spécifications et conceptions émergent d'équipes auto-organisées."
 
-> "Les meilleures architectures, spécifications et conceptions émergent d'équipes autoorganisées."
+Il ne fait aucun doute que le manifeste agile met l'emphase sur l'autonomie et la responsabilisation. Tout le monde n'a pas été d'accord dans l'industrie informatique à cause de la manière traditionnelle dont les équipes de développement étaient gérées qui se rapprochait plus du "commande et contrôle". Il est aussi en contradiction avec la manière traditionnelle de travailler, qui consiste à livrer des lots de taille importante d'exigences selon un planning convenu à l'avance plutôt que d'adopter une démarche expérimentale à la fois au niveau du produit et du processus, en embrassant les changements et les retours d'informations fréquents.
 
-There is no doubt an emphasis on autonomy and empowerment* in Agile. This strikes a chord of dissonance with many in the industry due to the traditional way development teams are managed, which is more akin to “command and control”. It is also contrary to the traditional way of working, which is to deliver big batches of requirements according to an agreed schedule rather than be experimental with both product and process, embracing frequent change and feedback.
+Pour être en cohérence avec, et glaner quelque-uns des bénéfices de l'Agile ; les individus, les équipes et les organisations doivent souvent embrasser de nouveaux styles de leadership, les manageurs doivent montrer une vraie confiance en leurs équipes plutôt que de les micro-manager. L'accent mis sur des équipes auto-organisées qui s'améliorent continuellement exige souvent un changement pour un "environnement sûr", dans lequel les membres de l'équipe se sentent en sécurité psychologique (c'est-à-dire sans impacts négatifs pour eux) pour exprimer leurs opinions sur les choses qui ne marchent pas que ce soit sur un produit, un processus ou les relations humaines.
 
-Il ne fait aucun doute qu'Agile met l'emphase sur l'autonomie et la responsabilisation. Tout le monde n'a pas été d'accord dans l'industrie informatique à cause de la manière traditionnelle dont les équipes de développment étaient gérées qui se rapprochait plus du "commande et contrôle". Il est aussi en contradiction avec la manière traditionnelle de travailler, qui de livrer des lots importants d'exigences selon un planning convenu à l'avance plutôt qu'adopter une démarche expérimentale à la fois au niveau du produit et du processus, en embrassant des changements et des retours d'informations fréquents.
+La manière dont les gens pensent et agissent sont manifestement présent dans la culture organisationnelle. Étant donné les changements que cela demande pour beaucoup de personnes au niveau état d'esprit et comportement, il n'est pas étonnant que "devenir agile" devient généralement une entreprise énorme qui s'étend au-delà de l'équipe ou des équipes de développement.
 
-To be consistent with, and glean benefit from, Agile, individuals, teams and organisations often have to embrace new servant leadership styles, and managers must show genuine trust in their teams rather than micro-managing them. The focus on self-organising teams who are continuously improving often requires a shift to a “safe environment”, in which team members feel psychologically safe (meaning there are no negative implications for them) to express their opinions on things that aren’t working, either from a product, process or human relationship perspective.
-
-Pour être en cohérence avec, et glâner quelques bénéfices de l'Agile ; les individus, les équipes et les organisations doivent souvent embrasser de nouveaux styles de leadership, les manageurs doivent montrer une vraie confiance en leurs équipes plutôt que de les micro-manager. L'accent mis sur des équipes auto-organisées qui s'améliorent continuellement exige souvent un changement pour un "environnement sûr", dans lequel les membres de l'équipe se sentent en sécurité psychologique (c'est-à-dire qu'il n'y aurait pas d'implications négatives pour eux) pour exprimer leurs opinions sur les choses qui ne marchent pas que ce soit sur un produit, un processus ou des relations humaines.
-
-The way people think and behave manifests in the organisational culture. Given the changes in mindset and behaviour required for many, it is little wonder “going Agile” usually becomes an enormous undertaking which extends way beyond the development team(s).
-
-La manière dont les gens pensent et agissent sont manifestement présent dans la culture organisationnelle. Étant donné les changements demandent pour beaucoup au niveau état d'esprit ét comportement, il n'est pas étonnant que "devenir agile" devient généralement une entreprise énorme qui s'étend au-delà de ou des équipes de développement.
-
-\* _Thanks to Daamon Parker for prompting me to include the importance of psychological safety, autonomy, empowerment, trust, support and experimentation for being successful with Agile._
-
-\* _Je tiens à remercie Daamon Parker pourm'avoir encourager à mettre en avant  l'importance du sentiment de sécurité psychologique, de l'autonomie, de responsabilisation, de confiance, de soutien et d'expérimentation pour arriver à réussir à travailler en mode agile.
-
-## Next steps
+\* _Je tiens à remercie Daamon Parker pour m'avoir encourager à mettre en avant l'importance du sentiment de sécurité psychologique, d'autonomie, de responsabilisation, de confiance, de soutien et d'expérimentation pour arriver à réussir à travailler en mode agile.
 
 ## Prochaines étapes
 
-I hope this article has helped solidify your understanding of what Agile is and isn’t. If you are interested in learning more, or would like me to help your organisation with Agile training or coaching, please feel free to send me a message, or [follow me on Twitter](https://twitter.com/neil_killick).
-
-J'espère que cet article vous a aidé à renforcer votre compréhension de ce qu'est et n'est pas Agile. Si vous êtes intéressés par en savoir plus, ou si comme moi vous voulez aider votre organisation à travers des formation ou du coaching, n'hésitez pas à m'envoyer un message, ou []à me suivre sur Twitter](https://twitter.com/neil_killick).  
-
-What FAQ’s (and answers) would you like to see added?
+J'espère que cet article vous a aidé à renforcer votre compréhension de ce qu'est et n'est pas Agile. Si vous êtes intéressés par en savoir plus, ou si comme moi vous voulez aider votre organisation à travers des formation ou du coaching, n'hésitez pas à m'envoyer un message, ou [à me suivre sur Twitter](https://twitter.com/neil_killick).  
 
 Concernant cette FAQ, quelles seraient les questions (et les réponses) que vous voudriez voir ajouter ?
 
@@ -329,7 +174,7 @@ Date de parution originale : 21 Décembre 2017
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 03/06/2018  
+Date de traduction : 04/06/2018  
 
 ---
 
