@@ -63,12 +63,12 @@ tags:
 
 
 * [Portail Structure (fr)](#) - 100%
-  * [Equipes (fr)](#)
-  * [Organisation en fonction de la valeur client (fr)](#)
-  * [Equipes Feature (fr)](#)
-  * [Structure organisationnelle (fr)](#)
+  * [Equipes (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-equipes.html)
+  * [Organisation en fonction de la valeur client (fr)](http://www.les-traducteurs-agiles.org/2017/01/06/less-organisation-en-fonction-de-la-valeur-client.html)
+  * [Equipes Feature (fr)](http://www.les-traducteurs-agiles.org/2017/01/06/less-equipes-feature.html)
+  * [Structure organisationnelle (fr)](http://www.les-traducteurs-agiles.org/2017/01/04/less-structure-organisationnelle.html)
   * [Communautés (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-communautes.html)
-  * [ScrumMaster (fr)](#)
+  * [ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2016/12/31/less-scrummaster.html)
 
 
 * [Portail Excellence Technique (fr)](#) - 10%
