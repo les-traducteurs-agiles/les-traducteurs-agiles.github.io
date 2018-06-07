@@ -48,18 +48,18 @@ tags:
   * [Le ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2017/04/04/less-le-scrummaster.html)
 
 
-* [Portail Principes (fr)](#) - 45%
-  * [Présentation des principes (fr)](#)
+* [Portail Principes (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-principes.html) - 45%
+  * [Présentation des principes (fr)](http://www.les-traducteurs-agiles.org/2017/11/01/less-presentation-des-principes.html)
   * [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html)
-  * [Plus avec LeSS](#)
-  * [Pensée Lean](#)
-  * [Approche systémique](#)
+  * [Plus avec LeSS](http://less.works/less/principles/more-with-less.html)
+  * [Pensée Lean](http://less.works/less/principles/lean-thinking.html)
+  * [Approche systémique](http://less.works/less/principles/systems_thinking.html)
   * [Contrôle du processus empirique (fr)](http://www.les-traducteurs-agiles.org/2016/12/24/less-controle-du-processus-empirique.html)
   * [Transparence (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
-  * [Amélioration continue vers la perfection](#)
-  * [Centré client](#)
-  * [Focus sur le produit global](#)
-  * [Théorie des files d'attente (fr)](#)
+  * [Amélioration continue vers la perfection](http://less.works/less/principles/continuous-improvement-towards-perfection.html)
+  * [Centré client](http://less.works/less/principles/customer_centric.html)
+  * [Focus sur le produit global](http://less.works/less/principles/whole-product-focus.html)
+  * [Théorie des files d'attente (fr)](http://www.les-traducteurs-agiles.org/2017/01/29/less-theorie-des-files-d-attente.html)
 
 
 * [Portail Structure (fr)](#) - 100%
@@ -87,7 +87,7 @@ tags:
 * [Portail Management (fr)](#) - 100%
   * [Rôle du Manager (fr)](#)
   * [Enseigner la résolution de problème (fr)](#)
-  * [Aller Voir (fr)](#)
+  * [Aller Voir (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-aller-voir.html)
   * [Auto-gestion (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-auto-gestion.html)
   * [Service d'amélioration (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-service-d-amelioration.html)
   * [Le Manager en tant que ScrumMaster (fr)](#)

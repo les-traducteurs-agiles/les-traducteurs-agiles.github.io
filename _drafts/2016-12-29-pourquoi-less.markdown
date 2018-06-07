@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pourquoi LeSS ?"
-date:   2016-12-29 00:01
+date:   2016-12-19 00:01
 published: true
 tags:
 - LeSS
