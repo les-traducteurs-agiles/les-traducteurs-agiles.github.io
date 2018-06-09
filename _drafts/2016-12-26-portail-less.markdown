@@ -71,17 +71,17 @@ tags:
   * [ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2016/12/31/less-scrummaster.html)
 
 
-* [Portail Excellence Technique (fr)](#) - 10%
-  * [Spécifications par l'exemple (fr)](#)
-  * [Intégration Continue](#)
-  * [Livraison Continue](#)
-  * [Tests d'Acceptation](#)
-  * [Architecture & Conception](#)
-  * [Ecrire du Code Propre](#)
-  * [Tests unitaires](#)
-  * [Développement piloté par les tests](#)
-  * [Réflexions à propos des tests](#)
-  * [Automatisation des tests](#)
+* [Portail Excellence Technique (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-excellence-technique.html) - 10%
+  * [Spécifications par l'exemple (fr)](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html)
+  * [Intégration Continue](http://less.works/less/technical-excellence/continuous-integration.html)
+  * [Livraison Continue](http://less.works/less/technical-excellence/continuous-integration.html)
+  * [Tests d'Acceptation](http://less.works/less/technical-excellence/acceptance-testing.html)
+  * [Architecture & Conception](http://less.works/less/technical-excellence/architecture-design.html)
+  * [Ecrire du Code Propre](http://less.works/less/technical-excellence/clean-code.html)
+  * [Tests unitaires](http://less.works/less/technical-excellence/unit-testing.html)
+  * [Développement piloté par les tests](http://less.works/less/technical-excellence/test-driven-development.html)
+  * [Réflexions à propos des tests](http://less.works/less/technical-excellence/thinking-about-testing.html)
+  * [Automatisation des tests](http://less.works/less/technical-excellence/test-automation.html)
 
 
 * [Portail Management (fr)](#) - 100%
