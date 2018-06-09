@@ -137,11 +137,11 @@ Pas de lien, allez plutôt voir le [wiki Agile Games France](http://www.agilegam
 
 ### <a name="ch21"></a> Chapitre 21 : Développer un produit avec plusieurs équipes
 
-1. Le portail LeSS a été traduit en français, cela donne des dizaines de pages à parcourir : [LeSS](http://ayeba.wikispaces.com/Portail+LeSS)
+1. Le portail LeSS a été traduit en français, cela donne des dizaines de pages à parcourir : [LeSS](http://www.les-traducteurs-agiles.org/2016/12/26/portail-less.html)
 2. L'article de référence sur la notion de "Feature teams", que je présente comme équipe fonctionnalités dans le §21.2 : [équipe feature](http://www.les-traducteurs-agiles.org/2011/06/18/equipe-feature.html)
 3. L'expérience Spotify, souvent décontextualisée : [Agilité à grande échelle chez Spotify](http://www.les-traducteurs-agiles.org/2012/11/15/agilite-a-grande-echelle-chez-spotify.html)
 
 ### <a name="ch22"></a> Chapitre 22 : Pérenniser une pratique vivante de l'agilité
 
-1. Dan Mezick propose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://ayeba.wikispaces.com/Portail%20Le%C3%A7ons%20de%20coaching%20agile)
+1. Dan Mezick propose avec Open Space Agility une technique dérivée du Forum Ouvert que je suggère pour les rétrospectives de saison. On trouvera des explications dans les leçons 9 et 10 du portail [Leçons de coaching agile](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html)
 2. Un modèle proposé par Michael Sahota en 2012, discutable dans sa taxonomie : [Guide de survie à l'adoption ou la transformation agile](http://www.les-traducteurs-agiles.org/2013/02/17/guide-de-survie-a-l-adoption-ou-transformation-agile.html)
