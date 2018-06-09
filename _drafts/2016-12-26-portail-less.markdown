@@ -94,16 +94,16 @@ tags:
 
 
 * [Portail Less Huge (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-less-huge.html) - 100%
-  * [Domaines d'Exigences (fr)](#)
-  * [Backlog Produit de Domaine (fr)](#)
-  * [Product Owner de Domaine (fr)](#)
-  * [Structure organisationnelle pour LeSS Huge (fr)](#)
+  * [Domaines d'Exigences (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-domaines-d-exigences.html)
+  * [Backlog Produit de Domaine (fr)](http://www.les-traducteurs-agiles.org/2016/12/30/less-backlog-produit-de-domaine.html)
+  * [Product Owner de Domaine (fr)](http://www.les-traducteurs-agiles.org/2016/12/31/less-product-owner-de-domaine.html)
+  * [Structure organisationnelle pour LeSS Huge (fr)](http://www.les-traducteurs-agiles.org/2016/12/30/less-structure-organisationnelle-pour-less-huge.html)
 
 
 * [Portail Adoption (fr)](#) - 100%
   * [Trois principes (fr)](#)
   * [Démarrer (fr)](#)
-  * [Coaching (fr)](#)
+  * [Coaching (fr)](http://www.les-traducteurs-agiles.org/2017/01/11/less-coaching.html)
   * [Amélioration Continue (fr)](#)
   * [Schéma d'adoption des équipes feature (fr)](#)
   * [Rester sain d'esprit (fr)](#)
