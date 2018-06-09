@@ -100,18 +100,18 @@ tags:
   * [Structure organisationnelle pour LeSS Huge (fr)](http://www.les-traducteurs-agiles.org/2016/12/30/less-structure-organisationnelle-pour-less-huge.html)
 
 
-* [Portail Adoption (fr)](#) - 100%
-  * [Trois principes (fr)](#)
-  * [Démarrer (fr)](#)
+* [Portail Adoption (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-adoption.html) - 100%
+  * [Trois principes (fr)](http://www.les-traducteurs-agiles.org/2017/01/03/less-les-trois-principes.html)
+  * [Démarrer (fr)](http://www.les-traducteurs-agiles.org/2017/01/03/less-demarrer.html)
   * [Coaching (fr)](http://www.les-traducteurs-agiles.org/2017/01/11/less-coaching.html)
-  * [Amélioration Continue (fr)](#)
-  * [Schéma d'adoption des équipes feature (fr)](#)
-  * [Rester sain d'esprit (fr)](#)
+  * [Amélioration Continue (fr)](http://www.les-traducteurs-agiles.org/2017/01/13/less-amelioration-continue.html)
+  * [Schéma d'adoption des équipes feature (fr)](http://www.les-traducteurs-agiles.org/2017/01/25/less-schema-d-adoption-des-equipes-feature.html)
+  * [Rester sain d'esprit (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-rester-sain-d-esprit.html)
 
 
-* [LeSS Test](#)
-  * [LeSS Test](#)
-  * [Scrum Test](#)
+* LeSS Test
+  * [LeSS Test](http://less.works/less/test/pre-course.html)
+  * [Scrum Test](http://less.works/less/test/scrum.html)
 
 ---
 Responsable du portail : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
