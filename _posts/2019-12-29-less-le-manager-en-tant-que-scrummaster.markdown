@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LeSS - Le Manager en tant que ScrumMaster"
-date:   2019-12-29 00:01
+date:   2016-12-29 00:01
 published: true
 tags:
 - LeSS

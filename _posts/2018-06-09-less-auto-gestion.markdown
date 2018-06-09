@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LeSS - Auto-gestion"
-date:   2018-06-09 00:01
+date:   2016-12-19 00:01
 published: true
 tags:
 - LeSS
