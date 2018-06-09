@@ -14,7 +14,7 @@ La mise à l'échelle est souvent mise en oeuvre par l'ajout d'une structure org
 
 En tenant compte de cette mise en garde, une structure LeSS Huge est ajoutée au-dessus de la structure LeSS. Un organigramme type d'une organisation LeSS Huge est illustrée ci-après :
 
-![Backlog de domaine]({{ site.url }}assets/less/less-huge-organizational-structure_fr.png)
+![Structure organisationnelle pour LeSS Huge]({{ site.url }}assets/less/less-huge-organizational-structure_fr.png)
 
 Examinons les parties qui diffèrent de l'organisation LeSS :
 
@@ -34,12 +34,12 @@ Le [coaching](http://www.les-traducteurs-agiles.org/2017/01/11/less-coaching.htm
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Organizational Structure for LeSS Huge - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/organizational-structure.html)
+Auteur : The LeSS Company B.V.  
+Source : [Organizational Structure for LeSS Huge - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/organizational-structure.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 30/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 30/12/2016  
 
 ---
 

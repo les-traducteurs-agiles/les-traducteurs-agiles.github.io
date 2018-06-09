@@ -31,12 +31,12 @@ La cause la plus fréquente de la faillite de ce service d'amélioration est d'�
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Improvement Service - Large Scale Scrum (LeSS)](http://less.works/less/management/improvement_service.html)
+Auteur : The LeSS Company B.V.  
+Source : [Improvement Service - Large Scale Scrum (LeSS)](http://less.works/less/management/improvement_service.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 29/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 29/12/2016  
 
 ---
 

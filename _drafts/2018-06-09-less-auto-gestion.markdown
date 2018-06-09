@@ -64,11 +64,11 @@ Il est important de comprendre que nous ne souhaitons pas non plus masquer les i
 
 ---
 Auteur : The LeSS Company B.V.  
-Source : [Self-Management - Large Scale Scrum (LeSS)](http://less.works/less/management/self_managing_teams.html)
+Source : [Self-Management - Large Scale Scrum (LeSS)](http://less.works/less/management/self_managing_teams.html)  
 
 ---
 Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
-Date de traduction : 19/12/2016
+Date de traduction : 19/12/2016  
 
 ---
 

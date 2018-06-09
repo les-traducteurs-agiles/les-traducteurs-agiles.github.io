@@ -64,7 +64,7 @@ La liste exacte dépend du produit, du contexte, des conventions de travail et d
 
 L’illustration ci-dessous décrit plus en détails le développement piloté par les tests d’acceptation
 
-![Vue détaillée a-tdd]({{ site.url }}assets/less/a-tdd in more details-fr.png)
+![Vue plus détaillée a-tdd]({{ site.url }}assets/less/a-tdd in more details-fr.png)
 
 
 Les étapes pour que les développements pilotés par les tests d’acceptation s’intègrent harmonieusement dans le cycle LeSS :
@@ -143,7 +143,7 @@ L’endroit idéal pour les tests c’est sur le mur - euh, du moins avec un tab
 
 &nbsp;  
 
-![Des tests sur les murs 2]({{ site.url }}assets/less/a-tdd test-wall2.jpg)
+![D'autres tests sur les murs]({{ site.url }}assets/less/a-tdd test-wall2.jpg)
 
 ### De l’utilisation du format table
 
@@ -237,12 +237,11 @@ Lors de la Planification du Sprint, une alternative possible est de définir les
 
 ---
 Auteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Source : [Titre_article_en_vo](url_article_en_vo)  
-Date de parution originale : jj_MMMM_yyyy  
+Source : [Specification by Example - Large Scale Scrum (LeSS)](http://less.works/less/structure/teams.html)  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  
-Date de traduction : jj/mm/yyyy  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 10/02/2018  
 
 ---
 

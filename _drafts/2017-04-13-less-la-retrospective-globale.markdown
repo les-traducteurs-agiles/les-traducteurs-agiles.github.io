@@ -19,14 +19,14 @@ Questions à explorer
 
 Dans une Rétrospective Globale, les problèmes explorés sur les plans organisationnel et systémique dépassent le niveau d'une unique équipe. Les sujets qui peuvent être discutés dans une Rétrospective Globale sont les suivants :
 
-    Est-ce que les équipes fonctionnent bien ensemble ?
-    Est-ce que les [Communautés de Pratiques (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-communautes.html) fonctionnent ?
-    Est-ce qu'une équipe fait quelque chose qui pourrait être partagé avec les autres ?
-    Est-ce que les équipes apprennent ensemble ?
-    Est-ce que les équipes sont proches des clients ?
-    Existent-ils des problèmes organisationnels et systémiques qui génèrent des problèmes sur la manière dont les équipes travaillent ?
-    Est-ce que le Product Owner travaille correctement ?
-    Est-ce que le Product Owner soigne ses [cinq relations (en)](http://less.works/less/framework/product-owner.html#five-relationships) ?
+* Est-ce que les équipes fonctionnent bien ensemble ?
+* Est-ce que les [Communautés de Pratiques (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-communautes.html) fonctionnent ?
+* Est-ce qu'une équipe fait quelque chose qui pourrait être partagé avec les autres ?
+* Est-ce que les équipes apprennent ensemble ?
+* Est-ce que les équipes sont proches des clients ?
+* Existent-ils des problèmes organisationnels et systémiques qui génèrent des problèmes sur la manière dont les équipes travaillent ?
+* Est-ce que le Product Owner travaille correctement ?
+* Est-ce que le Product Owner soigne ses [cinq relations (en)](http://less.works/less/framework/product-owner.html#five-relationships) ?
 
 
 ## Participants

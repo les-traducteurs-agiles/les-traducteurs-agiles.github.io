@@ -76,12 +76,12 @@ Au final, ces outils sont optimisés pour le suivi, pas pour la réussite, l’a
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Continuous Improvement - Large Scale Scrum (LeSS)](http://less.works/less/adoption/continuous-improvement.html)
+Auteur : The LeSS Company B.V.  
+Source : [Continuous Improvement - Large Scale Scrum (LeSS)](http://less.works/less/adoption/continuous-improvement.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 13/01/2017
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 13/01/2017  
 
 ---
 

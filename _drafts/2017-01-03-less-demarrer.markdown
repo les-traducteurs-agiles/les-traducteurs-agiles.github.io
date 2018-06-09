@@ -75,12 +75,12 @@ Cette recommandation reste donc dans le même esprit que “Faire en sorte que s
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Getting Started - Large Scale Scrum (LeSS)](http://less.works/less/adoption/getting-started.html)
+Auteur : The LeSS Company B.V.  
+Source : [Getting Started - Large Scale Scrum (LeSS)](http://less.works/less/adoption/getting-started.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 03/01/2017
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 03/01/2017  
 
 ---
 

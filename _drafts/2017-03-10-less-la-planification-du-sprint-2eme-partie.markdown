@@ -15,7 +15,7 @@ La 2ème partie de la planification du sprint se passe de manière presque ident
 
 Dans LeSS, la 1ère partie de la planification du sprint consiste à réunir ensemble toutes les équipes. Lors de cette réunion, les équipes décident collectivement des items qui seront traités par telle ou telle équipe. Chaque équipe conduit sa propre réunion de seconde partie de la planification de sprint lors de laquelle l’équipe crée son plan pour passer les items à l’état “fini” lors du sprint.
 
-![Planification du sprint less]({{ site.url }}assets/less/Less-planification-du-sprint.png)
+![Planification du sprint LeSS]({{ site.url }}assets/less/Less-planification-du-sprint.png)
 
 ## Deuxième partie de la planification du sprint avec plusieurs équipes
 

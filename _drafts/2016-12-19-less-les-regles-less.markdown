@@ -90,7 +90,7 @@ Produit LeSS Huge
 
 
 ---
-Auteur : [Prénom_Nom](url_bio)  
+Auteur : The LeSS Company B.V.  
 Source : [LeSS Rules (April 2016) (2) - Large Scale Scrum (LeSS)](http://less.works/less/rules/index.html)  
 
 ---

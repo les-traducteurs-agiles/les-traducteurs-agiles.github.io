@@ -17,7 +17,7 @@ Pendant que vous lirez ces 14 points, demandez-vous s'ils s'appliquent encore au
 
 **Créez une stabilité dans les objectifs d'amélioration continue de vos produits et services, avec un plan pour devenir compétitif et pour poursuivre les activités de l'entreprise.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt1.jpg)
+![Des objectifs stables]({{ site.url }}assets/fabrice_aimetti/deming-pt1.jpg)
 
 Le management a deux préoccupations. L'une traite de diriger l'entreprise au jour le jour. L'autre porte sur l'avenir de l'entreprise.
 
@@ -37,7 +37,7 @@ L'objectif est une intention, un but, une vision d'une situation future souhait�
 
 **Nous sommes entrés dans une nouvelle ère économique, créée au Japon. Le management doit se réveiller devant ce défi, doit apprendre ses nouvelles responsabilités et prendre le leadership du changement.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt2.jpg)
+![Une nouvelle philosophie]({{ site.url }}assets/fabrice_aimetti/deming-pt2.jpg)
 
 L'amélioration ne s'arrête jamais. Le système est capricieux, imprévisible, il aura des impacts différents sur les individus d'un mois sur l'autre. C'est pourquoi vous avez besoin d'amélioration continue, cela ne peut jamais finir puisque le changement ne finit jamais.
 
@@ -59,7 +59,7 @@ Cela fait partie des tâches du management d'éliminer les obstacles qui empêch
 
 **Éliminez la dépendance aux contrôles pour atteindre la qualité. Éliminez le besoin de contrôle de masse en construisant la qualité intrinsèque au produit d'abord.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt3.jpg)
+![Dépendances]({{ site.url }}assets/fabrice_aimetti/deming-pt3.jpg)
 
 Vous ne pouvez pas économiser de l'argent si vous êtes plus préoccupé par l'argent que vous ne l'êtes par la qualité.
 
@@ -81,7 +81,7 @@ Vous ne pouvez pas économiser de l'argent si vous êtes plus préoccupé par l'
 
 **Mettez fin aux pratiques d'attribution des contrats sur la seule base de l'étiquette du prix. Cherchez plutôt à minimiser le coût total. Privilégiez un fournisseur unique pour chacun des articles et une relation à long terme basée sur la loyauté et la confiance.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt4.jpg)
+![Contrats]({{ site.url }}assets/fabrice_aimetti/deming-pt4.jpg)
 
 Sans mesures adéquates de la qualité, les entreprises se dirigent vers le soumissionnaire offrant le prix le plus bas, par conséquent, le résultat est de faible qualité et de coût élevé.
 
@@ -105,7 +105,7 @@ Aujourd'hui, de nombreux organismes se contentent simplement d'externaliser vers
 
 **Améliorez constamment et perpétuellement le système de production et les services, pour améliorer la qualité et la productivité, diminuant ainsi les coûts.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt5.jpg)
+![Amélioration des processus]({{ site.url }}assets/fabrice_aimetti/deming-pt5.jpg)
 
 Acceptez que rien ne soit jamais assez bon. Améliorez sans cesse tous les processus de planification, de production et de service.
 
@@ -127,7 +127,7 @@ Le système de l'entreprise et les services doivent continuer à croître indéf
 
 **Instaurez des méthodes modernes de formation sur le lieu du travail.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt6.jpg)
+![Apprentissage sur le lieu de travail]({{ site.url }}assets/fabrice_aimetti/deming-pt6.jpg)
 
 Fournissez apprentissage et développement aux personnes. Instaurez la formation sur le lieu de travail, la formation pour développer de nouvelles compétences.
 
@@ -147,7 +147,7 @@ De nouvelles compétences sont nécessaires pour s'adapter aux changements d'out
 
 **L'objectif du management devrait être d'aider les individus à faire un meilleur travail. Le management a besoin d'être rénové.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt7.jpg)
+![Leadership des personnes]({{ site.url }}assets/fabrice_aimetti/deming-pt7.jpg)
 
 Le leadership est requis, pas le contrôle.
 
@@ -172,7 +172,7 @@ Le principe de base est que c'est le travail des managers de coacher leur person
 
 **Chassez la peur afin que chacun puisse travailler efficacement pour l'entreprise.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt8.jpg)
+![Faire disparaître les peurs]({{ site.url }}assets/fabrice_aimetti/deming-pt8.jpg)
 
 Faites disparaître les craintes afin que tout le monde puisse travailler efficacement pour l'organisation.
 
@@ -190,7 +190,7 @@ Maîtriser notre peur fait partie d'au moins 8 des 14 points.
 
 **Brisez les barrières entre les départements. Les gens travaillant dans les services de recherche, de conception, de vente, de technologie et de production doivent travailler en équipe.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt9.jpg)
+![Casser les silos]({{ site.url }}assets/fabrice_aimetti/deming-pt9.jpg)
 
 Brisez les barrières et les silos entre les départements. En d'autres termes construisez un système.
 
@@ -208,7 +208,7 @@ A moins que le personnel se mette à travailler ensemble dans un esprit de coop�
 * **Éliminez le management par les objectifs. Remplacez par le leadership.**
 * **Éliminez le management par les chiffres, les objectifs chiffrés. Remplacez par le leadership.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt10.jpg)
+![Éliminez les slogans]({{ site.url }}assets/fabrice_aimetti/deming-pt10.jpg)
 
 Éliminez les slogans, les avertissements et les objectifs exhortant les employés à faire bien du premier coup, à atteindre le zéro défaut et de nouveaux niveaux de productivité. Une telle pression ne peut uniquement générer que des réactions d'hostilité.
 
@@ -226,7 +226,7 @@ Assurez-vous de remplacer les quotas de travail par un leadership efficace et de
 
 **Éliminez les normes de travail qui prescrivent des quotas aux employés et des objectifs chiffrés pour le management. Les responsabilités du management doivent évoluées d'une culture unique des nombres à celle de la qualité.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt11.jpg)
+![Stop aux objectifs chiffrés]({{ site.url }}assets/fabrice_aimetti/deming-pt11.jpg)
 
 Les objectifs chiffrés n'accomplissent rien.
 
@@ -244,7 +244,7 @@ Un système d'amélioration continue génère une production de meilleure qualit
 
 **Supprimez les obstacles qui privent les employés et les managers de leur droit d'être fier de leur travail. Cela signifie, par exemple, l'abolition de la note annuelle au mérite et du management par objectif.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt12.jpg)
+![Fierté au travail]({{ site.url }}assets/fabrice_aimetti/deming-pt12.jpg)
 
 Supprimez les obstacles et les barrières qui privent les employés et les managers de leur droit d'être fiers et d'avoir du plaisir dans leur travail. Cela implique l'abolition de la notation annuelle au mérite (évaluation de la performance) et du management par objectif, à l'origine des conflits et de la compétition.
 
@@ -262,7 +262,7 @@ Impliquez les employés, à tous les niveaux, dans le processus d'amélioration.
 
 **Instaurez un programme énergique de formation et d'auto-amélioration.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt13.jpg)
+![Formation]({{ site.url }}assets/fabrice_aimetti/deming-pt13.jpg)
 
 Instaurez un programme énergique de formation et encouragez l'amélioration pour chacun.
 
@@ -278,7 +278,7 @@ Les progrès dans votre positionnement concurrentiel ont leurs racines dans la c
 
 **Engagez tout le monde dans le travail de transformation de l'entreprise. La transformation est l'affaire de tous.**
 
-![nom_alternatif_image]({{ site.url }}assets/fabrice_aimetti/deming-pt14.jpg)
+![Engagement du management]({{ site.url }}assets/fabrice_aimetti/deming-pt14.jpg)
 
 Engagez tout le monde dans l'entreprise pour accomplir le changement.
 

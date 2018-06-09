@@ -34,12 +34,12 @@ Une autre possibilité pour un manager est d'être le ScrumMaster d'une équipe 
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Manager as ScrumMaster - Large Scale Scrum (LeSS)](http://less.works/less/management/manager_scrummaster.html)
+Auteur : The LeSS Company B.V.  
+Source : [Manager as ScrumMaster - Large Scale Scrum (LeSS)](http://less.works/less/management/manager_scrummaster.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 29/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 29/12/2016  
 
 ---
 

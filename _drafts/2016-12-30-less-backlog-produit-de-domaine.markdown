@@ -28,12 +28,12 @@ Les éléments du Backlog de Domaine sont découpés, expliqués et priorisés i
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/area-product-backlog.html)
+Auteur : The LeSS Company B.V.  
+Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/area-product-backlog.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 30/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 30/12/2016  
 
 ---
 

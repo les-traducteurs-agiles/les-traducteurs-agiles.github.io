@@ -11,7 +11,7 @@ tags:
 
 Dans une petite équipe produit, l'organisation en fonction de la valeur client est simple. Plus il y a d'équipes, plus elles deviennent des rouages dans la grosse machine du développement. A l'image de Charlie Chaplin dans les Temps Modernes, leur travail est de tourner les écrous mais ils n'ont aucune idée sur la façon dont le client va utiliser le produit... ou même qui est réellement le client. Comment passer à l'échelle et rester focalisé sur le client ?
 
-![nom_alternatif_image]({{ site.url }}assets/less/modern-times-charlie-chaplin.jpg)
+![Les Temps Modernes]({{ site.url }}assets/less/modern-times-charlie-chaplin.jpg)
 
 ## Équipes pluridisciplinaires
 

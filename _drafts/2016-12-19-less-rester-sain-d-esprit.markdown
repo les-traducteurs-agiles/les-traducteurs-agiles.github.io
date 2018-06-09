@@ -22,12 +22,12 @@ Lors d'une adoption LeSS et surtout lors d'une adoption LeSS Huge, l'organisatio
  Avons-nous dit qu'il fallait se montrer _patient_ ?
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/requirement-areas.html)
+Auteur : The LeSS Company B.V.  
+Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/requirement-areas.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 19/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 19/12/2016  
 
 ---
 

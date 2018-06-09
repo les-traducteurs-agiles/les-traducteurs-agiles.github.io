@@ -40,12 +40,12 @@ Dans l'adoption de LeSS, il n'y a pas de projet du changement, il n'y a pas de g
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Adoption - Large Scale Scrum (LeSS)](http://less.works/less/adoption/index.html)
+Auteur : The LeSS Company B.V.  
+Source : [Adoption - Large Scale Scrum (LeSS)](http://less.works/less/adoption/index.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 26/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 26/12/2016  
 
 ---
 

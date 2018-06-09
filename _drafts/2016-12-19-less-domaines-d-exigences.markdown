@@ -31,12 +31,12 @@ Les domaines de développement ne sont pas recommandés et sont simplement menti
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/requirement-areas.html)
+Auteur : The LeSS Company B.V.  
+Source : [Requirement Areas - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/requirement-areas.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 19/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 19/12/2016  
 
 ---
 

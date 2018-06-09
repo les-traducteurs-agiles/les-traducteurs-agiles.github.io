@@ -15,7 +15,7 @@ La Revue de Sprint est un point d’inspection et d’adaptation qui se déroule
 
 La Revue de Sprint est l’occasion pour toutes les équipes de revoir ensemble l’Incrément du Produit potentiellement déployable. L’accent est mis sur le [produit global (en)](https://less.works/less/principles/whole-product-focus.html).
 
-![nom_alternatif_image]({{ site.url }}assets/less/less-xsprint-review-retrospective-fr.png)
+![Revue et rétrospective de sprint]({{ site.url }}assets/less/less-xsprint-review-retrospective-fr.png)
 
 ### Inspecter et Adapter et non Inspecter et Accepter
 

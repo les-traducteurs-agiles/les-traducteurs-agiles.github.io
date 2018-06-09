@@ -48,7 +48,7 @@ Les équipes discutent de leur contexte et sélectionnent le sous-ensemble des a
 
 La différence entre la Définition du Fini et le Potentiellement Déployable est appelé Travail Non Fini. Le Sprint se planifie à partir de la Définition du Fini, à l’exclusion du Travail Non Fini, dès le départ il est prévu qu’il reste non fini.
 
-![Potentiellement déployable]({{ site.url }}assets/less/definition-of-done-FR.png)
+![Définition du fini]({{ site.url }}assets/less/definition-of-done-FR.png)
 
 ## Termes de la Définition du Fini
 
@@ -76,7 +76,7 @@ Explorons d'abord les effets d’un Travail Non Fini à travers un exemple.
 
 Plusieurs équipes réalisent, conformément à la Définition du Fini, vingt Items du Backlog Produit lors du premier Sprint. Bien qu’aucun item ne soit laissé inachevé, il reste tout un tas de Travaux Non Finis en raison de leur pauvre Définition du Fini. Après que les équipes aient réalisé, conformément à leur Définition du Fini bien fragile, quarante items du Backlog Produit en trois Sprints. La quantité de Travail Non Fini a énormément augmenté donnant un faux sentiment d’avancement.
 
-![Avancement]({{ site.url }}assets/less/causing-risk-and-delay-FR.png)
+![Risque et retard]({{ site.url }}assets/less/causing-risk-and-delay-FR.png)
 
 Mais ces équipes sont dans l’incapacité de déployer. Elles ont “fini” des fonctionnalités mais leur Définition du Fini bien précaire est la cause directe de la quantité de Travail Non Fini importante accumulée. Ce Travail Non Fini est à l’origine des retards constatés et d’un risque latent.
 

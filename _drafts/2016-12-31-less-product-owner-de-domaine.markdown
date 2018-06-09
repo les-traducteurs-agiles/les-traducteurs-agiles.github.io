@@ -30,12 +30,12 @@ La raison principale pour avoir des Product Owners de Domaine, c'est d'éviter q
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Area Product Owner - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/area-product-owner.html)
+Auteur : The LeSS Company B.V.  
+Source : [Area Product Owner - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/area-product-owner.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 31/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 31/12/2016  
 
 ---
 

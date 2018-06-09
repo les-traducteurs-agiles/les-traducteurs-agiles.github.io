@@ -93,12 +93,12 @@ Les adoptions de LeSS les plus réussies que nous ayons vu sont celles qui ont l
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Coaching - Large Scale Scrum (LeSS)](http://less.works/less/adoption/coaching.html)
+Auteur : The LeSS Company B.V.  
+Source : [Coaching - Large Scale Scrum (LeSS)](http://less.works/less/adoption/coaching.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 11/01/2017
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 11/01/2017  
 
 ---
 

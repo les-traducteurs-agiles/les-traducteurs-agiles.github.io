@@ -58,12 +58,12 @@ Voici quelques exemples de volontariat :
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Three Principles - Large Scale Scrum (LeSS)](http://less.works/less/adoption/three-principles.html)
+Auteur : The LeSS Company B.V.  
+Source : [Three Principles - Large Scale Scrum (LeSS)](http://less.works/less/adoption/three-principles.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 03/01/2017
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 03/01/2017  
 
 ---
 

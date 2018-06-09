@@ -34,12 +34,12 @@ Changements dans les événements : LeSS Huge est ensemble d'exécutions parall�
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [LeSS Huge - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/index.html)
+Auteur : The LeSS Company B.V.  
+Source : [LeSS Huge - Large Scale Scrum (LeSS)](http://less.works/less/less-huge/index.html)  
 
 ---
-Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
-Date de traduction : 26/12/2016
+Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
+Date de traduction : 26/12/2016  
 
 ---
 
