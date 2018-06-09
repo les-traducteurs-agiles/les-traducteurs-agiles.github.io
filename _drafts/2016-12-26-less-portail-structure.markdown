@@ -9,7 +9,7 @@ tags:
 
 [<< Portail LeSS](http://www.les-traducteurs-agiles.org/2016/12/26/portail-less.html)
 
-![nom_alternatif_image]({{ site.url }}assets/less/structure-overview_fr.png)
+![Vue globale portail structure]({{ site.url }}assets/less/structure-overview_fr.png)
 
 * [Equipes (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-equipes.html)
 * [Organisation en fonction de la valeur client (fr)](http://www.les-traducteurs-agiles.org/2017/01/06/less-organisation-en-fonction-de-la-valeur-client.html)

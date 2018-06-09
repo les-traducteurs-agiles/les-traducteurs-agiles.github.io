@@ -62,7 +62,7 @@ tags:
   * [Théorie des files d'attente (fr)](http://www.les-traducteurs-agiles.org/2017/01/29/less-theorie-des-files-d-attente.html)
 
 
-* [Portail Structure (fr)](#) - 100%
+* [Portail Structure (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-structure.html) - 100%
   * [Equipes (fr)](http://www.les-traducteurs-agiles.org/2017/01/02/less-equipes.html)
   * [Organisation en fonction de la valeur client (fr)](http://www.les-traducteurs-agiles.org/2017/01/06/less-organisation-en-fonction-de-la-valeur-client.html)
   * [Equipes Feature (fr)](http://www.les-traducteurs-agiles.org/2017/01/06/less-equipes-feature.html)
@@ -84,13 +84,13 @@ tags:
   * [Automatisation des tests](http://less.works/less/technical-excellence/test-automation.html)
 
 
-* [Portail Management (fr)](#) - 100%
-  * [Rôle du Manager (fr)](#)
-  * [Enseigner la résolution de problème (fr)](#)
+* [Portail Management (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-management.html) - 100%
+  * [Rôle du Manager (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-role-du-manager.html)
+  * [Enseigner la résolution de problème (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-enseigner-la-resolution-de-probleme.html)
   * [Aller Voir (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-aller-voir.html)
   * [Auto-gestion (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-auto-gestion.html)
   * [Service d'amélioration (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-service-d-amelioration.html)
-  * [Le Manager en tant que ScrumMaster (fr)](#)
+  * [Le Manager en tant que ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-le-manager-en-tant-que-scrummaster.html)
 
 
 * [Portail Less Huge (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-less-huge.html) - 100%
