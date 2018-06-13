@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "XP Game"
+date:   2012-06-25 00:01
+published: true
+tags:
+- XP
+- jeu
+---
+
+À télécharger à partir de ce lien : [xpgame-FR.zip](https://db.tt/gA3JSsz1)
+
+
+---
+Auteur : Vera Peeters (Tryx) and Pascal Van Cauwenberghe (Nayima)  
+Source : [XP Game v5.0](http://www.xp.be/xpgame/download/)  
+Date de parution originale : 24 Décembre 2010  
+
+---
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relecteurs : [Sylvain Fraïssé, Laurent Carbonnaux, Fabrice Aimetti](http://www.les-traducteurs-agiles.org/traducteurs/)
+Date de traduction : 25/06/2012  
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
+{% include share_buttons.html %}
