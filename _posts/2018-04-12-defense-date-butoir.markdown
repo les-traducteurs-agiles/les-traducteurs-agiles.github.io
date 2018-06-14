@@ -88,8 +88,6 @@ Moi, je ne suis pas quelqu’un de génial, je suis quelqu’un avec un cerveau 
 
 Toutefois, si vous ne montrez pas un vrai logiciel opérationnel tout le temps, vos échanges avec l’encadrement seront affaiblis, vos échanges avec vos utilisateurs seront affaiblis, vos retours d’informations venant du monde extérieur, de votre ordinateur, de votre code seront affaiblis … et vous ne pourrez pas prospérer.
 
-For me, running tested software is central. All those other ideas support it, but the software’s what we’ve got to do. So find a way to do it and if you find yourself losing heart, ask me or my betters.
-
 Pour moi, un logiciel testé opérationnel est central. Toutes les autres idées permettent de soutenir ça, mais c’est le logiciel que nous devons faire. Donc, trouvez une manière de le faire et si vous sentez que vous perdez foi, demandez à moi ou à ceux qui sont meilleurs que moi.
 
 Bonne chance !
