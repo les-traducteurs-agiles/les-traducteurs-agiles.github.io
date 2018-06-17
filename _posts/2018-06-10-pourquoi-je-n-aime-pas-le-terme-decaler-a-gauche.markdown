@@ -25,7 +25,7 @@ Je pense qu'il y a un meilleur modèle, comme celui qu'utilise Ellen Gottesdiene
 
 Dan Ashby a pris une approche similaire en utilisant ce diagramme dans un article de son blog [https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/](https://danashby.co.uk/2016/10/19/continuous-testing-in-devops/)
 
-![Dev-Ops]({{ site.url }}assets/janet_gregory/Dev-Ops2-fr.png)
+![Dev-Ops]({{ site.url }}assets/janet_gregory/Dev-Ops2.png)
 
 Ce que je crains qu'il puisse se passer avec l'utilisation du terme "déplacer vers la gauche", est que certaines personnes comprendront mal le concept et reviennent aux grosses exigences en amont qui doivent être testées avant même que le codage ne commence. Déplacer vers la gauche ne porte pas d'ailleurs en soi l'idée de DevOps, il y a donc des gens qui ont commencé à employé les termes déplacer vers la droite, ou déplacer en dehors.
 
