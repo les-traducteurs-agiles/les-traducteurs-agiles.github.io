@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Les tests continus dans DevOps…"
-date:   2018-08-07 00:01
+title:  "Les tests continus dans DevOps …"
+date:   2018-07-08 00:01
 published: true
 tags:
 - tests
