@@ -21,7 +21,7 @@ Il s'avère que ce modèle est présenté assez fréquemment dans les différent
 
 Pour moi, les tests sont présents à chacun des points de ce modèle. Laissez-moi donc vous montrez ce que cela veut dire avec une version modifiée de ce modèle
 
-![2ème modèle]({{ site.url }}assets/janet_gregory/Dev-Ops1.png)
+![2ème modèle]({{ site.url }}assets/janet_gregory/Dev-Ops2.png)
 
 Nous pouvons tester le plan. Si, dans ce monde devops, avoir un plan signifie avoir une conception, alors nous pouvons tester la conception. Les tests de la conception d'un logiciel sont exploratoires par nature. Les tests peuvent bien sûr toujours reposer sur la notion de risque car nous utilisons les risques comme d'heuristiques pour focaliser notre investigation. Nos idées que nous explorons à travers nos questions nous aideront à découvrir davantage d'informations. Informations qui nous aideront à remanier la conception (ou le plan) pour le rendre meilleur !
 
