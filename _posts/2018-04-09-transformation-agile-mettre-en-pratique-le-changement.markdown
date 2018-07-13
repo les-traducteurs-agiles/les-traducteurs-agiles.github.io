@@ -3,7 +3,7 @@ layout: post
 title:  "Transformation agile - épisode 2 - Mettre en pratique le changement"
 date:   2018-04-12 00:01
 published: true
-tags: 
+tags:
 - agile
 - transformation
 ---
@@ -36,13 +36,13 @@ Il avait bien sûr des raisons, parmi lesquelles :
 
 * Il oubliait de changer de trajet. Il travaillait plus par listes/en mode automatique/sans vraiment réfléchir le matin. Il avait du mal à réfléchir le matin.
 
-Je lui ai demandé s’il voulait se faire accompagner sur ce point ou s’il voulait envisager de choisir quelque chose d’autre à changer. Il a rigolé un peu et a dit que non qu’il prendrait l’accompagnement. Il a réalisé qu’il allait apprendre quelque chose de cette situation. 
+Je lui ai demandé s’il voulait se faire accompagner sur ce point ou s’il voulait envisager de choisir quelque chose d’autre à changer. Il a rigolé un peu et a dit que non qu’il prendrait l’accompagnement. Il a réalisé qu’il allait apprendre quelque chose de cette situation.
 
 Je vais vous épargner la conversation et l’accompagnement qui s’en suivit. Il a décidé d’essayer les propositions qui suivent, nous avons choisi de ne pas les appeler des expériences :
 
 1. Chercher trois routes alternatives, écrire la durée estimée du trajet et la durée réelle du trajet. Il devrait essayer ces différentes routes les jours d’entraînements (Lundi, Mercredi et Vendredi).
 
-2. Mardi et Jeudi n’étant pas des jours d’entraînements, il avait le sentiment d’avoir plus de temps que d’habitude. Pour préparer le mardi matin, il laissait le lundi soir un petit papier adhésif sur son volant disant : “Essayer une route différente. Tourner à droite en sortant de l’allée à la place de tourner à gauche”. Son petit papier adhésif de mercredi soir était un tout petit peu plus retors : “Au lieu de prendre la route départementale A, prendre la route départementale B”. Pour ses trajets du mardi et du jeudi, il était supposé écrire la durée estimée et la durée réelle. 
+2. Mardi et Jeudi n’étant pas des jours d’entraînements, il avait le sentiment d’avoir plus de temps que d’habitude. Pour préparer le mardi matin, il laissait le lundi soir un petit papier adhésif sur son volant disant : “Essayer une route différente. Tourner à droite en sortant de l’allée à la place de tourner à gauche”. Son petit papier adhésif de mercredi soir était un tout petit peu plus retors : “Au lieu de prendre la route départementale A, prendre la route départementale B”. Pour ses trajets du mardi et du jeudi, il était supposé écrire la durée estimée et la durée réelle.
 
 3. Porter des baskets pour conduire à la place de ses chaussures de ville habituelles. Je n’étais pas certaine qu’il pourrait faire cela, mais il a décidé qu’il s’agissait d’une option qu’il pourrait supporter.
 
@@ -55,8 +55,6 @@ Il a découvert certaines choses étonnantes :
 Voici le problème. Si nous voulons une culture agile de la collaboration et de l’expérimentation, nous devons apprendre à embrasser le changement, faire des expériences et se créer de nouvelles possibilités.
 
 L’expérience de ce responsable avec des temps de trajet - pas sur des produits, pas sur la manière dont il prend des décisions au travail, juste des trajets - l’a aidé à avoir qu’il y avait davantages d’alternatives que ce qu’il pouvait imaginer à l’origine. Il a appris la valeur des expériences et de la collecte d’informations. Il a appris à remettre en question ses suppositions.
-
-And, he learned how difficult change can be. He lived the Satir change model that week. (Read Defining “Scaling” Agile, Part 6: Creating the Agile Organization for a fuller explanation of this change model.)
 
 <div align="left" style="float:left; padding-right:30px" >
   <img title="Modèle du changement de Satir" src="{{ site.url }}assets/johanna/Satir-change-model-fr.png" />
@@ -86,5 +84,3 @@ Date de traduction : 12/04/2018
 ---
 
 {% include share_buttons.html %}
-
-
