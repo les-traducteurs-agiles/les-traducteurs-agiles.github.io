@@ -34,6 +34,18 @@ J'ai déjà vu cela dans d'autres transformations, les artistes du changement do
 Au fur et à mesure que les choses changent dans l'organisation, les personnes expérimenteront différents changements. Les indicateurs dont vous avez besoin changeront. Au fur et à mesure que la culture change, les indicateurs pour renforcer la culture que vous souhaitez changeront. Le voyage continue.
 
 ---
+
+Liste des articles de la présente série
+
+* [Transformation agile - épisode 1 - Introduction & pourquoi](http://www.les-traducteurs-agiles.org/2018/04/05/transformation-agile-pourquoi.html)
+* [Transformation agile - épisode 2 - Mettre en pratique le changement](http://www.les-traducteurs-agiles.org/2018/04/12/transformation-agile-mettre-en-pratique-le-changement.html)
+* [Transformation agile - épisode 3 - Comprendre votre culture et votre système](http://www.les-traducteurs-agiles.org/2018/05/02/transformation-agile-systeme-et-culture.html)
+* [Transformation agile - épisode 4 - Indicateurs organisationnels possibles](http://www.les-traducteurs-agiles.org/2018/05/24/transformation-agile-indicateurs-organisationnels-possibles.html)
+* [Transformation agile - épisode 5 - Quelques indicateurs organisationnels possibles de plus](http://www.les-traducteurs-agiles.org/2018/06/26/transformation-agile-episode-5-quelques-indicateurs-organisationnels-possibles-de-plus.html)
+* [Transformation agile - épisode 6 - Une transformation agile est un voyage](http://www.les-traducteurs-agiles.org/2018/07/14/transformation-agile-episode-6-une-transformation-agile-est-un-voyage.html)
+
+
+---
 Auteur : [Johanna Rothman](https://www.createadaptablelife.com/about)  
 Source : [Agile Transformation is a Journey, Part 6](https://www.jrothman.com/mpd/agile/2018/03/agile-transformation-is-a-journey-part-6/)  
 Date de parution originale : 15 Mars 2018  

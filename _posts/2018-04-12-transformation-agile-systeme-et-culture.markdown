@@ -3,7 +3,7 @@ layout: post
 title:  "Transformation agile - épisode 3 - Comprendre votre culture et votre système"
 date:   2018-05-02 00:01
 published: true
-tags: 
+tags:
 - agile
 - transformation
 ---
@@ -41,6 +41,17 @@ Une fois que vous aurez perçu votre système et votre culture, vous pouvez comm
 
 
 [^1]: traduction à venir :)
+---
+
+Liste des articles de la présente série
+
+* [Transformation agile - épisode 1 - Introduction & pourquoi](http://www.les-traducteurs-agiles.org/2018/04/05/transformation-agile-pourquoi.html)
+* [Transformation agile - épisode 2 - Mettre en pratique le changement](http://www.les-traducteurs-agiles.org/2018/04/12/transformation-agile-mettre-en-pratique-le-changement.html)
+* [Transformation agile - épisode 3 - Comprendre votre culture et votre système](http://www.les-traducteurs-agiles.org/2018/05/02/transformation-agile-systeme-et-culture.html)
+* [Transformation agile - épisode 4 - Indicateurs organisationnels possibles](http://www.les-traducteurs-agiles.org/2018/05/24/transformation-agile-indicateurs-organisationnels-possibles.html)
+* [Transformation agile - épisode 5 - Quelques indicateurs organisationnels possibles de plus](http://www.les-traducteurs-agiles.org/2018/06/26/transformation-agile-episode-5-quelques-indicateurs-organisationnels-possibles-de-plus.html)
+* [Transformation agile - épisode 6 - Une transformation agile est un voyage](http://www.les-traducteurs-agiles.org/2018/07/14/transformation-agile-episode-6-une-transformation-agile-est-un-voyage.html)
+
 
 
 ---
@@ -59,5 +70,3 @@ Date de traduction : 02/05/2018
 ---
 
 {% include share_buttons.html %}
-
-

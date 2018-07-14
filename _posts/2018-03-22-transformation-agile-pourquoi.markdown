@@ -3,12 +3,12 @@ layout: post
 title:  "Transformation agile - épisode 1 - Introduction & pourquoi"
 date:   2018-04-05 00:01
 published: true
-tags: 
+tags:
 - agile
 - transformation
 ---
 
-## Introduction à une série d'articles sur les transformations agiles 
+## Introduction à une série d'articles sur les transformations agiles
 
 J'ai été confronté par le passé à différents défis de transformations agiles. Étant donné que ce sont des défis que je suis amenée à gérer régulièrement, je vous propose une série d'articles à ce sujet. Les problèmes que je pense aborder sont :  
 
@@ -16,11 +16,11 @@ J'ai été confronté par le passé à différents défis de transformations agi
 
 * Le changement et pourquoi il ne nous est pas facile de changer et comment cela peut s'avérer être un défi à la transformation
 
-* Comment envisager votre transformation sous l'angle d'un problème culturel et systémique 
+* Comment envisager votre transformation sous l'angle d'un problème culturel et systémique
 
 * Sélectionner un ensemble réduit de dispositifs envisageables, pour renforcer les comportements que vous aimeriez voir se produire
 
-* Prendre conscience qu'une transformation culturelle représente un cheminement 
+* Prendre conscience qu'une transformation culturelle représente un cheminement
 
 Je me réserve le droit d'ajouter des éléments à cette liste en avançant dans la rédaction de ces articles. Je ne suis pas assez intelligente pour tout écrire d'avance. Même si j'aime à penser que je suis assez agile pour prendre du recul au fur et à mesure que je suis en train d'écrire.
 
@@ -36,7 +36,7 @@ Voici quelques étonnantes raisons que j'ai pu voir :
 
 * Notre délai de réalisation depuis la liste de courses pour l'équipe jusqu'à sa réalisation est trop long. Il y a des raisons systémiques à cet état de fait, et les approches agiles nous permettront de rendre ces raisons visibles de tous.
 
-* Nous voulons plus de collaborations entre les différentes fonctions de l'organisation et les équipes car nous avons un problème de qualité sur nos produits. Nous savons que notre main droite ignore ce que fait notre main gauche et inversement. 
+* Nous voulons plus de collaborations entre les différentes fonctions de l'organisation et les équipes car nous avons un problème de qualité sur nos produits. Nous savons que notre main droite ignore ce que fait notre main gauche et inversement.
 
 * Nous avons besoin de livrer plus souvent nos clients. Nous avions pris l'habitude de faire une livraison majeure, voire deux mineures chaque année et cela s'avère désormais insuffisant. (Les corrections à chaud sont ici aussi concernées. J'ai vu trop d'organisations livrer des corrections à chaud qui devaient être corrigées, corrigées et encore corrigées parce qu'elles n'étaient pas capables de faire une vraie livraison mensuellement ou à une quelconque autre périodicité)
 
@@ -49,6 +49,17 @@ Vos raisons pourraient être différentes.
 Il pourrait y avoir des raisons de micromanagement auxquelles vous pourriez penser en utilisant les approches agiles mais c'est trop déprimant pour moi que de les lister ici. Je vais plutôt supposer que votre transformation agile repose sur une raison métier importante
 
 Ceci dit, vous pourriez être l'une des rares personnes qui n'a pas de raison explicite pour une transformation agile. Cela pourrait être l'une des raisons pour lesquelles votre transformation en est actuellement au point mort.
+
+---
+
+Liste des articles de la présente série
+
+* [Transformation agile - épisode 1 - Introduction & pourquoi](http://www.les-traducteurs-agiles.org/2018/04/05/transformation-agile-pourquoi.html)
+* [Transformation agile - épisode 2 - Mettre en pratique le changement](http://www.les-traducteurs-agiles.org/2018/04/12/transformation-agile-mettre-en-pratique-le-changement.html)
+* [Transformation agile - épisode 3 - Comprendre votre culture et votre système](http://www.les-traducteurs-agiles.org/2018/05/02/transformation-agile-systeme-et-culture.html)
+* [Transformation agile - épisode 4 - Indicateurs organisationnels possibles](http://www.les-traducteurs-agiles.org/2018/05/24/transformation-agile-indicateurs-organisationnels-possibles.html)
+* [Transformation agile - épisode 5 - Quelques indicateurs organisationnels possibles de plus](http://www.les-traducteurs-agiles.org/2018/06/26/transformation-agile-episode-5-quelques-indicateurs-organisationnels-possibles-de-plus.html)
+* [Transformation agile - épisode 6 - Une transformation agile est un voyage](http://www.les-traducteurs-agiles.org/2018/07/14/transformation-agile-episode-6-une-transformation-agile-est-un-voyage.html)
 
 
 
@@ -68,5 +79,3 @@ Date de traduction : 05/04/2018
 ---
 
 {% include share_buttons.html %}
-
-

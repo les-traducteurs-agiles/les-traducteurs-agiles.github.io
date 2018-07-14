@@ -69,6 +69,18 @@ Lorsque vous faites des expériences, plus particulièrement les petites, des ex
 [^1]: traduction française à venir dès que possible
 
 ---
+
+Liste des articles de la présente série
+
+* [Transformation agile - épisode 1 - Introduction & pourquoi](http://www.les-traducteurs-agiles.org/2018/04/05/transformation-agile-pourquoi.html)
+* [Transformation agile - épisode 2 - Mettre en pratique le changement](http://www.les-traducteurs-agiles.org/2018/04/12/transformation-agile-mettre-en-pratique-le-changement.html)
+* [Transformation agile - épisode 3 - Comprendre votre culture et votre système](http://www.les-traducteurs-agiles.org/2018/05/02/transformation-agile-systeme-et-culture.html)
+* [Transformation agile - épisode 4 - Indicateurs organisationnels possibles](http://www.les-traducteurs-agiles.org/2018/05/24/transformation-agile-indicateurs-organisationnels-possibles.html)
+* [Transformation agile - épisode 5 - Quelques indicateurs organisationnels possibles de plus](http://www.les-traducteurs-agiles.org/2018/06/26/transformation-agile-episode-5-quelques-indicateurs-organisationnels-possibles-de-plus.html)
+* [Transformation agile - épisode 6 - Une transformation agile est un voyage](http://www.les-traducteurs-agiles.org/2018/07/14/transformation-agile-episode-6-une-transformation-agile-est-un-voyage.html)
+
+
+---
 Auteurs : [Johanna Rothman](https://www.createadaptablelife.com/about)  
 Source : [Agile Transformation: Practice Change, Part 2](https://www.jrothman.com/mpd/agile/2018/02/agile-transformation-practice-change-part-2/)  
 Date de parution originale : 22 Février 2018  
