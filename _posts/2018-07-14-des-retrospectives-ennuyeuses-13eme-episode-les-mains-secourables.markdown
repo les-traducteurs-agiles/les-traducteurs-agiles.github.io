@@ -19,15 +19,15 @@ Les **mains secourables** sont un exercice utile qui permet aux personnes de pen
 
 En tant que facilitateur, vous commencez par dessiner un tableau à double entrée comportant tous les rôles présents dans l'équpe. Vous expliquez ensuite que l'équipe doit tout d'abord remplir les objectifs de chaque rôle. Les rôles remplis par 1 personne (comme le PO et le SM) peuvent écrire leurs objectifs dans le tableau, les autres devront d'abord discuter en groupe  (par exemple les développeurs).
 
-![Tableau avec objectifs respectifs de chaque rôle]({{ site.url }}assets/retrospectives_ennuyeuses/HelpingHands1.png)
+![Tableau avec objectifs respectifs de chaque rôle]({{ site.url }}assets/retrospectives_ennuyeuses/helpinghands1.png)
 
 L'étape suivante est de penser à ce que vous pouvez faire pour aider les autres rôles à remplir leurs objectifs. Cet exercice peut être un  fait en silence, moment pendant lequel chaque personne utilise des notes adhésives pour écrire les actions qui leurs semblent appropriées. 5 à 10 minutes après, nous commençons à remplir les cases du tableau avec des notes adhésives et à discuter.
 
-![Tableau avec actions respectives de chaque rôle]({{ site.url }}assets/retrospectives_ennuyeuses/HelpingHands2.png)
+![Tableau avec actions respectives de chaque rôle]({{ site.url }}assets/retrospectives_ennuyeuses/helpinghands2.png)
 
 Nous regardons le tableau horizontalement de gauche à droite. L'exemple ci-dessous montre ce qu'un Scrum Master peut faire pour les autres rôles de l'équipe.
 
-![Tableau avec sens de lecture]({{ site.url }}assets/retrospectives_ennuyeuses/HelpingHands3.png)
+![Tableau avec sens de lecture]({{ site.url }}assets/retrospectives_ennuyeuses/helpinghands3.png)
 
 Les participants apprennent souvent à cette occasion l'impact qu'ils peuvent avoir sur la réussite des autres et que leur aide est nécessaire au quotidien. Cet exercice donnera à votre équipe de nouvelles perspectives qui pourront par la suite conduire à des améliorations des processus.
 
