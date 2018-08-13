@@ -2,11 +2,11 @@
 layout: post
 title:  "Un exemple de checklist pour scrum masters"
 date:   2015-08-24 21:20:55
-categories: 
+tags: 
 - pratique
 ---
 
-À lire [ici](http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_fr.pdf) au format PDF. 
+À lire [ici](http://scrummasterchecklist.org/pdf/ScrumMaster_Checklist_fr.pdf) au format PDF.
 
 &nbsp;  
 

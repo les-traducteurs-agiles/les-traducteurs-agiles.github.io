@@ -2,16 +2,16 @@
 layout: post
 title:  "Éprouvons-nous seulement du plaisir ?"
 date:   2014-07-16 23:10:55
-categories: equipe
+tags: équipe
 ---
-  
-  
+
+
 <div align="left" style="float:left; padding-right:30px">
   <img title="tristeHeureux" src="http://agilepartnership.com/blogit/wp-content/uploads/2010/06/sadHappy-300x225.jpg" />
 </div>
 
 
-  
+
 Comme la plupart d'entre vous, j'ai eu ma (ou mon in)juste part de réunions. Quelques unes étaient géniales et beaucoup d'entre elles étaient juste correctes. Mais il y a quelques semaines, lors d'une évaluation [ROTI](http://www.agile-ux.com/2009/01/09/return-on-time-invested-a-roti-for-your-meetings/), un de mes collègues a dit quelque chose qui m'a forcé à reconsidérer ces réunions "géniales" passées et à ré-évaluer leur VRAI valeur.
 
 Ce qu'il dit fût : "Est-ce que j'obtiens réellement de la valeur de cette activité ou est-ce que je passe seulement un bon moment ?"
@@ -30,7 +30,7 @@ Laissant de côté le fait que le plaisir a de la valeur en lui-même, pourquoi 
 Si la réunion a peu de valeur, il existe une forte probabilité que le plaisir soit aussi assez bas. Ces situations sont généralement faciles à détecter et de nombreuses actions correctives peuvent être mise en place.
 
 ## Pas de plaisir et une grande valeur
-Voici maintenant une situation intéressante ! Nous avons fait en sorte d'atteindre nos objectifs mais pour en arriver là, c'était aussi agréable que le traitement d'un canal radiculaire. Cette situation pourrait avoir des résultats fâcheux sur le long terme, de précieux contributeurs pourraient fort obligeamment oublier de venir participer aux prochaines réunions. 
+Voici maintenant une situation intéressante ! Nous avons fait en sorte d'atteindre nos objectifs mais pour en arriver là, c'était aussi agréable que le traitement d'un canal radiculaire. Cette situation pourrait avoir des résultats fâcheux sur le long terme, de précieux contributeurs pourraient fort obligeamment oublier de venir participer aux prochaines réunions.
 
 _Un exemple scrum :_
 
@@ -46,7 +46,7 @@ Voici maintenant la situation qui m'a motivé à écrire cet article. Est-il pos
 
 [Sur mon lieu de travail](http://www.pyxis-tech.com/en/), nous avons des réunions bi-mensuelles pour analyser les différentes situations qui arrivent pendant que nous coachons des personnes. Nous faisons ceci à travers un jeu de rôles ; une personne joue le coach et l'autre le coaché. Comme vous pouvez l'imaginer certains scénarios sont assez hilarants. Amusements et rires garantis ! C'était si amusant que j'ai eu le sentiment (trompeur) que nous faisions réellement quelque chose ... je veux dire, jusqu'à ce mon collègue réfléchisse et déclare, "Est-ce que j'obtiens réellement de la valeur de cette activité ou est-ce que je passe uniquement un bon moment ?"
 
-Une fois retiré le rire et le sentiment de bien-être associé avec le fait d'être présent avec mes collègues, il ne restait plus grand-chose. Il y avait bien quelque valeur mais pas autant que je le pensais initialement. Cela ressemblait alors à quelque chose à peu près comme cela : 
+Une fois retiré le rire et le sentiment de bien-être associé avec le fait d'être présent avec mes collègues, il ne restait plus grand-chose. Il y avait bien quelque valeur mais pas autant que je le pensais initialement. Cela ressemblait alors à quelque chose à peu près comme cela :
 
 <div align="center">
   ![Mon diagramme plaisir/valeur]({{ site.url }}assets/avoir_plaisir/myFVG2_fr.png)

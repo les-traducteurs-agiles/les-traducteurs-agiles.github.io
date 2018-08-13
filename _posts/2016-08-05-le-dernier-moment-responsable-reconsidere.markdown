@@ -3,13 +3,13 @@ layout: post
 title:  "Le dernier moment responsable reconsidéré"
 date:   2016-09-28 00:00:01
 published: true
-categories: 
+tags: 
 - lean
 ---
 
->**Avant-propos du traducteur** : pour les lectrices et lecteurs les moins averti(e)s par rapport au concept du dernier moment responsable, nous vous proposons de lire au préalable notre traduction de l’article [le dernier moment responsable](http://www.les-traducteurs-agiles.org/lean/2016/06/28/le-dernier-moment-responsable.html) de Jeff Atwood (il est assez court, je vous rassure) qui vous permettra d’avoir des éléments d’informations pour comprendre et apprécier la présente traduction. 
+>**Avant-propos du traducteur** : pour les lectrices et lecteurs les moins averti(e)s par rapport au concept du dernier moment responsable, nous vous proposons de lire au préalable notre traduction de l’article [le dernier moment responsable](http://www.les-traducteurs-agiles.org/lean/2016/06/28/le-dernier-moment-responsable.html) de Jeff Atwood (il est assez court, je vous rassure) qui vous permettra d’avoir des éléments d’informations pour comprendre et apprécier la présente traduction.
 
-Il est une phrase qui est citée de nos jours par beaucoup de concepteurs comme d’une espèce de recommandation en matière de gestion de projet :  “Décider au dernier moment responsable”.  Cela sonne bien, c’est marquant, mais est-elle de bon conseil ? 
+Il est une phrase qui est citée de nos jours par beaucoup de concepteurs comme d’une espèce de recommandation en matière de gestion de projet :  “Décider au dernier moment responsable”.  Cela sonne bien, c’est marquant, mais est-elle de bon conseil ?
 
 J’ai décidé d’y regarder de plus près pour voir ce que cette phrase signifie vraiment et voir s’il s’agit vraiment d’un bon conseil.
 
@@ -56,7 +56,7 @@ puis Karl Scotland [http://availagility.co.uk/2010/04/06/defining-the-last-respo
 
 Karl et Chris ont vraiment fait une superbe analyse, probablement meilleure que la mienne :) Je pense que le point de vue de Chris à prendre en compte concernant une prise de décision anticipée est la meilleure.
 
-Je continue à ne pas aimer le terme “dernier” et je n’aime franchemant pas non plus le terme “responsable” , mais j’orienterai volontiers toute personne qui serait intéressée par prendre en considération les versions de Karl et de Chris. 
+Je continue à ne pas aimer le terme “dernier” et je n’aime franchemant pas non plus le terme “responsable” , mais j’orienterai volontiers toute personne qui serait intéressée par prendre en considération les versions de Karl et de Chris.
 
 ---
 
@@ -99,11 +99,11 @@ C’est un bel endroit pour s’asseoir et discuter — l’objet de notre discu
 
 **Postscript 5**: Jonathan continue de maintenir que le DMR s’applique uniquement à un sous-ensemble de décisions et non à toutes les décisions.
 
-Cet argument est tout à fait acceptable, sauf que maintenant nous avons de nouveaux problèmes : Quelles décisions ? Qu’est-ce que Responsable ? quel est le Dernier Moment ? Hmm, c’est bien pire qu’avant. 
+Cet argument est tout à fait acceptable, sauf que maintenant nous avons de nouveaux problèmes : Quelles décisions ? Qu’est-ce que Responsable ? quel est le Dernier Moment ? Hmm, c’est bien pire qu’avant.
 
 ---
 
-**Postscript 6** : Dans la conversation, une personne (appelons-la A) ajouta “il s’agit du moment où vous avez tellement peur que vous pouvez presque sentir la pisse couler le long de votre jambe” (Bon d’accord, pendant la discussion, quelques bières sont passées par là). Un autre personne (appelons-la B) qui souhaite pour l’instant restée anonyme l’appelle le moment clé de négation de l’implémentation unique (vous êtes libre de changer tout ou partie des mots de cette phrase). La bande dessinée Calvin and Hobbes nous montre quelque chose qui s’en rapproche beaucoup : 
+**Postscript 6** : Dans la conversation, une personne (appelons-la A) ajouta “il s’agit du moment où vous avez tellement peur que vous pouvez presque sentir la pisse couler le long de votre jambe” (Bon d’accord, pendant la discussion, quelques bières sont passées par là). Un autre personne (appelons-la B) qui souhaite pour l’instant restée anonyme l’appelle le moment clé de négation de l’implémentation unique (vous êtes libre de changer tout ou partie des mots de cette phrase). La bande dessinée Calvin and Hobbes nous montre quelque chose qui s’en rapproche beaucoup :
 ![À la dernière minute]({{ site.url }}assets/dernier_moment/ch_lm_panic_fr.png)
 
 Je participe à cette discussion depuis 36 heures non-stop et je commence à être épuisé, mais je suis ravi d’avoir découvert beaucoup de choses. Le terme “Responsable” demeure à mon humble avis indéfinissable, le “Dernier … moment” n’existe
@@ -143,4 +143,3 @@ Date de traduction : 28/09/2016
 ---
 
 {% include share_buttons.html %}
-

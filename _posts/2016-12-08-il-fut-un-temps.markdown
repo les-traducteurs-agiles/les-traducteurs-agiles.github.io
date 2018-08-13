@@ -3,7 +3,7 @@ layout: post
 title:  "Il fût un temps …"
 date:   2016-12-12 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - dark scrum
 ---
@@ -72,5 +72,3 @@ Date de traduction : 12/12/2016
 ---
 
 {% include share_buttons.html %}
-
-

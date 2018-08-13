@@ -3,7 +3,7 @@ layout: post
 title:  "Collaboration - La danse de la contribution : le jeu de cartes"
 date:   2016-05-19 11:00:55
 published: true
-categories: 
+tags: 
 - agile
 - outils
 ---
@@ -12,7 +12,7 @@ categories:
 
 ![Les cartes de collaboration]({{ site.url }}assets/cartes_collaboration/Cartes-de-collaboration.png)
 
-Notes du traducteur : 
+Notes du traducteur :
 
 1. pour plus d’informations sur l’utilisation des cartes, n’hésitez pas à lire notre traduction [Améliorez la collaboration en un clin d'oeil](http://www.les-traducteurs-agiles.org/agile/outils/2016/05/17/ameliorez-la-collaboration-en-un-clin-d-oeil.html)
 

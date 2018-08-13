@@ -3,7 +3,7 @@ layout: post
 title:  "Soyez bienveillant avec votre code"
 date:   2016-06-05 21:00:55
 published: true
-categories: 
+tags: 
 - developpement
 ---
 
@@ -17,7 +17,7 @@ Mais cette cité n'est pas à moi tout seul. Elle est construite par toutes les 
 
 La théorie de la fenêtre brisée repose sur une série d'expériences sur des voitures abandonnées. Une voiture avait été laissée à Palo Alto en Californie par des chercheurs, elle y resta intacte pendant plus d'une semaine. Une semaine après, un chercheur retourna à la voiture et cassa une vitre. Maintenant que la voiture semblait abandonnée, plutôt que simplement garée, il se passa peu de temps avant qu’elle soit vandalisée et détruite. Il avait suffit d'une vitre brisée pour démarrer ce processus.
 
-En quelques mots, la théorie précise que la perception sociale du degré de préoccupation que les gens autour de vous montre à propos de quelque chose est un facteur important de votre propre degré de préoccupation pour cette même chose. Lorsque vous voyez des détritus dans la rue, jeter un papier sale de plus par terre ne fait pas beaucoup de différence. Lorsque les rues autour de vous sont propres, vous vous arrêtez et vous réfléchissez. 
+En quelques mots, la théorie précise que la perception sociale du degré de préoccupation que les gens autour de vous montre à propos de quelque chose est un facteur important de votre propre degré de préoccupation pour cette même chose. Lorsque vous voyez des détritus dans la rue, jeter un papier sale de plus par terre ne fait pas beaucoup de différence. Lorsque les rues autour de vous sont propres, vous vous arrêtez et vous réfléchissez.
 
 L'autre partie de la théorie est que les problèmes sont plus faciles à corriger lorsqu'ils sont petits. Ce qui commence avec une seule fenêtre cassée conduit à davantage de fenêtres cassées, et éventuellement à des bâtiments abandonnés ou infestés de vermines. Les petits problèmes peuvent devenir facilement de gros problèmes si nous ne les corrigeons pas rapidement.
 
@@ -67,5 +67,3 @@ Date de traduction : 05/06/2016
 ---
 
 {% include share_buttons.html %}
-
-

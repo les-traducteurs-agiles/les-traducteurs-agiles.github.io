@@ -3,7 +3,7 @@ layout: post
 title:  "Les points de story, c’est quoi ?"
 date:   2016-08-27 00:00:01
 published: false
-categories: 
+tags: 
 - estimation
 ---
 
@@ -69,7 +69,7 @@ S’il est demandé à une équipe d’estimer un item de _product backlog_ et q
 
 If implementing a feature involves changing a particular piece of old, brittle code that has no automated tests in place, that risk should be reflected in the estimate.
 
-Si l’implémentation d’une fonctionnalité implique de modifier un vieux morceaux de code sensible n’ayant pas de tests automatisés, ce risque devrait se refléter dans l’estimation. 
+Si l’implémentation d’une fonctionnalité implique de modifier un vieux morceaux de code sensible n’ayant pas de tests automatisés, ce risque devrait se refléter dans l’estimation.
 
 ##Complexity
 

@@ -2,9 +2,9 @@
 layout: post
 title:  "Des testeurs à la traîne"
 date:   2014-09-11 22:48:55
-categories: test
+tags: test
 ---
-Des complaintes de ce genre, comme par exemple [celle-ci vue sur le yahoogroup Scrumdevelopment](http://groups.yahoo.com/group/scrumdevelopment/message/45191), sont entendues très couramment. 
+Des complaintes de ce genre, comme par exemple [celle-ci vue sur le yahoogroup Scrumdevelopment](http://groups.yahoo.com/group/scrumdevelopment/message/45191), sont entendues très couramment.
 
 > Généralement dans les différentes phases (d'un projet - NdT), la charge de travail est différente pour un développeur et un testeur . Par exemple, lorsqu'un projet arrive près de la fin, la plupart des tâches restantes seront du test.  
 
@@ -12,7 +12,7 @@ Plusieurs signaux d'alarmes se déclenchent en moi à la lecture de ces deux phr
 
 Est-ce que cette situation ne vous paraît-elle pas familière ? Si oui, que pouvons-nous y faire ?
 
-La plupart des équipes essaient de vivre avec. J'ai vu des équipes institutionnaliser le "bout de chaîne" en implémentant pendant une itération puis en testant dans la suivante. Lorsqu'elles font cela, elles constatent généralement que les anomalies sont trouvées pendant les tests, ce qui a comme conséquence que l'implémentation s'étend ensuite sur deux itérations. Le travail remis à l'ouvrage dans la deuxième itération déborde sur le nouveau travail planifié pour cette itération, et par conséquent les choses continuent de glisser. Et comme il est difficile de dire lorsqu'un élément de travail est _vraiment_ terminé, il est difficile de savoir la quantité de travail tenant dans une itération et à quel moment la livraison sera prête. Souvent, les choses semblent être les mêmes qu'avant la mise en place d'un développement itérative en un temps imparti (NdT - timebox). Cela n'est pas une surprise, parce qu'il n'y a pas vraiment de développement itératif en un temps imparti. Il s'agit de phases de la méthode en cascade déguisées en habits d'agile. 
+La plupart des équipes essaient de vivre avec. J'ai vu des équipes institutionnaliser le "bout de chaîne" en implémentant pendant une itération puis en testant dans la suivante. Lorsqu'elles font cela, elles constatent généralement que les anomalies sont trouvées pendant les tests, ce qui a comme conséquence que l'implémentation s'étend ensuite sur deux itérations. Le travail remis à l'ouvrage dans la deuxième itération déborde sur le nouveau travail planifié pour cette itération, et par conséquent les choses continuent de glisser. Et comme il est difficile de dire lorsqu'un élément de travail est _vraiment_ terminé, il est difficile de savoir la quantité de travail tenant dans une itération et à quel moment la livraison sera prête. Souvent, les choses semblent être les mêmes qu'avant la mise en place d'un développement itérative en un temps imparti (NdT - timebox). Cela n'est pas une surprise, parce qu'il n'y a pas vraiment de développement itératif en un temps imparti. Il s'agit de phases de la méthode en cascade déguisées en habits d'agile.
 
 Ne le faites tout simplement pas. Faites les choses complètement et complètement testées avant d'aller plus loin.
 

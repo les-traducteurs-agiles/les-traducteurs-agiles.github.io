@@ -2,7 +2,10 @@
 layout: post
 title:  "Scrum sur une page"
 date:   2015-01-20 22:07:55
-categories: scrum fiche outil
+tags:
+- scrum
+- fiche
+- outil
 ---
 
 ![Scrum sur une page]({{ site.url }}assets/une_page/scrum.jpg)

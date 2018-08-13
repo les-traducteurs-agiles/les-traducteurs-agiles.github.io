@@ -3,7 +3,7 @@ layout: post
 title:  "20 Anti patterns de product owners pour Scrum"
 date:   2015-09-05 15:10:55
 published: true
-categories: 
+tags: 
 - product-owner
 ---
 
@@ -15,7 +15,7 @@ Lors des prochaines semaines, je vais passer un peu de temps à écrire là-dess
 
 ### Pas de product owner unique pour une équipe
 
-Je vois ce phénomène assez souvent dans les organisations qui ont implémenté SAFe (Scaling Agile Framework) par le passé, qui l'ont abandonné et sont revenus vers du Scrum simple. Dans le cadre SAFe, il y a deux rôles : le product manager et le product owner. Le product manager est celui qui pense davantage en terme stratégique, le product owner est celui qui est plus dans les activités quotidiennes. 
+Je vois ce phénomène assez souvent dans les organisations qui ont implémenté SAFe (Scaling Agile Framework) par le passé, qui l'ont abandonné et sont revenus vers du Scrum simple. Dans le cadre SAFe, il y a deux rôles : le product manager et le product owner. Le product manager est celui qui pense davantage en terme stratégique, le product owner est celui qui est plus dans les activités quotidiennes.
 
 Quand les entreprises reviennent vers Scrum, les deux rôles n'existent plus, seul existe le product owner mais les entreprises ne veulent licencier personne donc elles affectent deux product owners à l'équipe même si elles continuent d'agir comme précédemment : une personne est affectée à la stratégie et l'autre aux activités quotidiennes, je vois ceci comme un échec.
 
@@ -71,7 +71,7 @@ La solution que je préconise dans le cas présent est celle présentée par Rom
 
 J'ai vu cette situation dans certaines des entreprises pour lesquelles j'ai travaillé. Malheureusement, ces entreprises ne réalisent pas à quel point cela est dangereux. Dans ces entreprises, le product owner n'avait pas le pouvoir de décider quoi que ce soit et les responsables pouvaient changer le backlog autant qu'ils le voulaient.
 
-Cette situation conduit les product owners à ne plus s'occuper du produit. Ils commencent à ne plus se soucier du ROI, et ils perdent complètement leur comportement d'entrepreneur. 
+Cette situation conduit les product owners à ne plus s'occuper du produit. Ils commencent à ne plus se soucier du ROI, et ils perdent complètement leur comportement d'entrepreneur.
 
 Cela se produit généralement dans un environnement de management traditionnel, où les entreprises veulent contrôler l'ensemble des éléments du product backlog, ni ne laisser aucune liberté ni ne faire confiance au product owner.
 
@@ -85,7 +85,7 @@ J'ai été témoin de plusieurs situations dans lesquelles le coach agile était
 
 ### Le product owner qui utilise des estimations pour fixer les dates butoirs des démos pour les clients
 
-Ici nous avons un problème typique rencontré habituellement chez les personnes qui ne comprennent pas les bases du développement logiciel. Cela va au-delà du développement agile de logiciel. Les personnes qui font cela ne comprennent pas comment le développement logiciel fonctionne, et donc leurs estimations ne sont que des calculs approximatifs ; elles ne garantissent en rien que tout sera fait pour une certaine date. 
+Ici nous avons un problème typique rencontré habituellement chez les personnes qui ne comprennent pas les bases du développement logiciel. Cela va au-delà du développement agile de logiciel. Les personnes qui font cela ne comprennent pas comment le développement logiciel fonctionne, et donc leurs estimations ne sont que des calculs approximatifs ; elles ne garantissent en rien que tout sera fait pour une certaine date.
 
 #### Solution :
 
@@ -93,11 +93,11 @@ Un certain nombre de personnes viennent me voir en me disant que quelques fois n
 
 Pour ceux qui ne me connaissent pas, j'ai travaillé pendant des années pour une grande entreprise de téléphones portables, je comprends donc ce que veut dire des dates dictées par le marché. Chaque année, nous avions les ventes des fêtes de fin d'année pour lesquelles les téléphones devaient être sortis ; il n'y avait pas d'autre solution, donc comment pouvons-nous gérer cela ? La réponse est simple : suivez les principes de bases de l'agilité.
 
-Le product owner doit informer le client qu'après chaque sprint l'équipe a quelque chose a montré (et avec cet argument, le product owner devrait avoir ses démos). Pendant la démo/revue de sprint, le client a l'opportunité de donner des retours d'informations sur ce qui a été livré, et le plus important, a l'opportunité de sélectionner les choses les plus importantes présentes dans le backlog, ce qui permettra à l'équipe de toujours livrer ce qui a le plus de valeur pour le client. 
+Le product owner doit informer le client qu'après chaque sprint l'équipe a quelque chose a montré (et avec cet argument, le product owner devrait avoir ses démos). Pendant la démo/revue de sprint, le client a l'opportunité de donner des retours d'informations sur ce qui a été livré, et le plus important, a l'opportunité de sélectionner les choses les plus importantes présentes dans le backlog, ce qui permettra à l'équipe de toujours livrer ce qui a le plus de valeur pour le client.
 
 En même temps (et c'est l'une des pratiques les plus fréquemment omises), le product owner vérifie le statut global de la livraison en utilisant les burndowns de livraisons. Cette pratique permet au product owner de savoir exactement où l'équipe arrivera, et de commencer une discussion avec le client pour déterminer ce qui peut être abandonné dans le cas où l'équipe n'est pas capable de livrer dans les temps.
 
-Si le client n'est pas ouvert à ces suggestions, l'entreprise devrait commencer à reconsidérer si le client est quelqu'un avec qui l'entreprise voudrait travailler dans le futur. Les problèmes qui surviendront lors de futurs échanges seront si complexes que cette relation n'apportera aucun avantage à aucune des deux parties. 
+Si le client n'est pas ouvert à ces suggestions, l'entreprise devrait commencer à reconsidérer si le client est quelqu'un avec qui l'entreprise voudrait travailler dans le futur. Les problèmes qui surviendront lors de futurs échanges seront si complexes que cette relation n'apportera aucun avantage à aucune des deux parties.
 
 ### Le product owner est trop occupé pour l'équipe, il est en relation avec beaucoup trop d'équipes
 

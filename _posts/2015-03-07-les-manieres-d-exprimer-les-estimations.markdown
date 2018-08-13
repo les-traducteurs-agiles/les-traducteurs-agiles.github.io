@@ -2,7 +2,7 @@
 layout: post
 title:  "Les manières d'exprimer les estimations"
 date:   2015-03-07 14:00
-categories: estimation
+tags: estimation
 ---
 
 La manière dont nous exprimons nos estimations influe à la fois sur la manière dont nous réfléchissons sur l'élément en cours d'estimation et sur la manière dont nos estimations sont perçues.  
@@ -15,7 +15,7 @@ Nous nous retrouvons souvent dans la panade lorsqu'une personne donne une estima
 
 ## Sur/Sous évaluer
 
-Lorsque j'ai appris l'orientation chez les scouts, une des leçons était, lorsque vous cherchez votre chemin dans les bois avec une boussole, d'être sûr que vous allez bien d'un côté. De cette manière, lorsque vous trouverez la route, vous saurez dans quel sens aller. Si vous essayez d'aller directement vers la destination souhaitée, vous pourriez arriver n'importe où sur la route. 
+Lorsque j'ai appris l'orientation chez les scouts, une des leçons était, lorsque vous cherchez votre chemin dans les bois avec une boussole, d'être sûr que vous allez bien d'un côté. De cette manière, lorsque vous trouverez la route, vous saurez dans quel sens aller. Si vous essayez d'aller directement vers la destination souhaitée, vous pourriez arriver n'importe où sur la route.
 
 Vous pouvez utilisez la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
 

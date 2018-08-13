@@ -2,8 +2,11 @@
 layout: post
 title:  "Le Tao de Scrum"
 date:   2015-06-05 21:45:00
-categories: inspiration scrum
 published: true
+tags:
+- inspiration
+- scrum
+
 ---
 _Le texte qui suit a été inspiré par le Tao Tö King (Dao De Jing)._  
 
@@ -18,7 +21,7 @@ _Je préparais la formation d'une nouvelle équipe agile et je voulais une versi
 
 Alors, étant donné que nous avons la transparence, nous sommes maintenant en position pour inspecter ce qu'il se passe vraiment. Est-ce que notre plan a fonctionné ? Est-ce que le changement, pour des stories plus détaillées, a fait réellement la différence ? Avons-nous été capable d'avoir une assurance qualité plus impliquée pendant ce sprint ?
 
-Finalement, quand nous voyons les résultats clairement, il nous incombe de faire les changements, d'adapter. Si l'assurance qualité ne s'est pas impliquée pendant ce sprint plus que nous ne l'aurions souhaité, que s'est-il passé ? Comment avons-nous échoué ? Que pouvons-nous faire différemment ? Un esprit curieux est un esprit ouvert. Dans l'esprit des débutants, il y a beaucoup d'options possibles, dans celui des experts il y en a peu. 
+Finalement, quand nous voyons les résultats clairement, il nous incombe de faire les changements, d'adapter. Si l'assurance qualité ne s'est pas impliquée pendant ce sprint plus que nous ne l'aurions souhaité, que s'est-il passé ? Comment avons-nous échoué ? Que pouvons-nous faire différemment ? Un esprit curieux est un esprit ouvert. Dans l'esprit des débutants, il y a beaucoup d'options possibles, dans celui des experts il y en a peu.
 
 ## Le Tao des Personnes
 
@@ -36,10 +39,10 @@ Fondamentalement, le Scrum Master doit servir la Voie elle-même. Pour Scrum, la
 
 ## Le Tao des Évènements
 
-    Le planning de livraison défini ce que le utilisateurs de la Voie trouverons de 
+    Le planning de livraison défini ce que le utilisateurs de la Voie trouverons de
     valeur et à quel moment.
 
-Le Planning de Livraison peut nous rappeler l'ancien temps où l'encadrement nous demandait des dates (et des engagements) que nous ne pouvions donner, ou respecter. Il peut être tentant d'esquiver le Planning de Livraison, tout spécialement pour une nouvelle équipe. Mais avoir une vision vers où nous allons, nous donne confiance, et nous aide à savoir quand nous nous sommes égarés. Il n'est pas uniquement question de dates (même si tout le monde en veut) dans Le Planning de Livraison, il s'agit de séquence et de taille. Il serait plus pertinent que le Planning de Livraison soit fait pendant le premier Sprint, une fois que nous aurons eu l'opportunité d'agir ensemble, et collectivement en tant qu'équipe. 
+Le Planning de Livraison peut nous rappeler l'ancien temps où l'encadrement nous demandait des dates (et des engagements) que nous ne pouvions donner, ou respecter. Il peut être tentant d'esquiver le Planning de Livraison, tout spécialement pour une nouvelle équipe. Mais avoir une vision vers où nous allons, nous donne confiance, et nous aide à savoir quand nous nous sommes égarés. Il n'est pas uniquement question de dates (même si tout le monde en veut) dans Le Planning de Livraison, il s'agit de séquence et de taille. Il serait plus pertinent que le Planning de Livraison soit fait pendant le premier Sprint, une fois que nous aurons eu l'opportunité d'agir ensemble, et collectivement en tant qu'équipe.
 
     Les Sprints sont la Voie de l'Équipe, et ne varient pas en longueur.
 
@@ -58,7 +61,7 @@ Le standup est le moment où la responsabilité à l'intérieur de l'équipe pre
 
 Revenons à l'inspection. La Revue de Sprint est l'occasion pour la communauté du projet - avec autant de participants que possible - de se réunir et de voir ce qui a été fait. Un retour d'information réel et sincère est essentiel : le bon, le mauvais et le controversé. Des responsables techniques renâclent quelques fois à venir. C'est une honte. C'est là où le 'vrai' travail se fait. Peut-être n'en ont-ils pas entendu parler ?
 
-    La Rétrospective aide l'équipe à décider de la Voie à suivre, en Inspectant 
+    La Rétrospective aide l'équipe à décider de la Voie à suivre, en Inspectant
     la Voie qui vient de s'achever.
 
 La Revue de Sprint est à la communauté du projet ce que la Rétrospective est à l'équipe : elle est leur processus d'inspection (et d'introspection). Est-ce qu'elle s'est améliorer à ce Sprint ? A t'elle accompli tout ce qu'elle pouvait en tant qu'équipe ? A t'elle pris plaisir et s'est-elle sentie relaxée ? Où est son apogée ? Et comment peut-elle le dépasser ?
@@ -71,7 +74,7 @@ Le Backlog est un jardin qui doit être entretenu et arrosé. Quelques fois nous
 
 De même, le Backlog peut être relativement remplit, mais non ordonné. C'est comme avoir des mauvaises herbes dans le jardin. Le Backlog doit être nourrit à chaque Sprint par le Product Owner, et par la Communauté de Projet.
 
-    Le Sprint Backlog est le 'Comment' de la Voie, pour une période de deux 
+    Le Sprint Backlog est le 'Comment' de la Voie, pour une période de deux
     semaines.
 
 Le Sprint Backlog est à l'équipe ce que le Product Backlog est à la communauté de projet. Lui aussi, doit être nourrit chaque jour. Avons-nous toutes les tâches ? Gardons-nous la trace de là où nous en sommes ? Est-il facile pour nous de nous perdre dans nos propres tâches et d'oublier la vision d'ensemble, mais 'voir la globalité' est ce qui fait de nous une véritable équipe. Si nous ne le voyons pas, le Scrum Master lui le verra.
@@ -82,7 +85,7 @@ Le Product Burndown peut être fastidieux à faire. Qui veut calculer tout ce qu
 
 `Le Sprint Burdown montre la Voie du Backlog de Sprint.`
 
-Le Sprint Burndown peut sembler ennuyant à mettre à jour chaque jour, même inutile, surtout après 12 sprints. Mais le burndown n'est pas que pour l'équipe : il est pour les parties prenantes, faisant confiance patiemment à l'équipe qui est en train de progresser, se mordant les lèvres pour ne pas intervenir, maintenant qu'il leur a été dit qu'ils sont des 'poulets'. Et essayant de deviner à quoi ressemblera vos burndown au bout de 5 sprints. Que vous disent-ils ? Comment pourriez-vous devenir meilleurs ? 
+Le Sprint Burndown peut sembler ennuyant à mettre à jour chaque jour, même inutile, surtout après 12 sprints. Mais le burndown n'est pas que pour l'équipe : il est pour les parties prenantes, faisant confiance patiemment à l'équipe qui est en train de progresser, se mordant les lèvres pour ne pas intervenir, maintenant qu'il leur a été dit qu'ils sont des 'poulets'. Et essayant de deviner à quoi ressemblera vos burndown au bout de 5 sprints. Que vous disent-ils ? Comment pourriez-vous devenir meilleurs ?
 
 ## Le Tao des Dénouements
 

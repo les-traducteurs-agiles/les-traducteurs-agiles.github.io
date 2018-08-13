@@ -20,7 +20,7 @@ Cette technique, bien que moins connue que d’autres, permet souvent d’aider 
 
 Je l’utilise souvent de la manière suivante :
 
-* Quand vous avez évoqué un certain nombre de domaines à améliorer, écrivez chacun d’eux en haut d’une fiche cartonnée ou sur une grande note adhésive. 
+* Quand vous avez évoqué un certain nombre de domaines à améliorer, écrivez chacun d’eux en haut d’une fiche cartonnée ou sur une grande note adhésive.
 * Puis donnez-en une à chacun des membres de l’équipe.
 * Chaque personne réfléchit pendant 2 minutes et inscrit ses réflexions personnelles sur la fiche.
 * Lorsque le temps s’est écoulé, chacun passe sa carte à son voisin et c’est repartit pour un tour avec cette nouvelle carte en main, et on continue jusqu’à ce que tout le monde ait vu chaque domaine à améliorer.
@@ -49,5 +49,3 @@ Date de traduction : 27/02/2017
 ---
 
 {% include share_buttons.html %}
-
-

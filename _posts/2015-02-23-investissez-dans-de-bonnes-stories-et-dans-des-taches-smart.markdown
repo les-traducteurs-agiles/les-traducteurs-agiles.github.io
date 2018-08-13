@@ -2,7 +2,7 @@
 layout: post
 title:  "INVESTissez dans de bonnes stories et dans des tâches SMART"
 date:   2015-02-23 22:35:55
-categories: story
+tags: story
 ---
 > Les équipes XP ont à gérer des stories et des tâches. Les acronymes INVEST et SMART peuvent permettre aux équipes de se rappeler les bonnes caractéristiques de chacune.  
 
@@ -16,7 +16,7 @@ Mais quelles sont les caractéristiques d'une bonne story ? L'acronyme "INVEST" 
 * N - Négociable
 * V - (de) Valeur
 * E - Estimable
-* S - [Suffisamment] petite (NdT - l'initiale de petite (traduction de Small) ne collait pas avec l'acronyme, il a fallu donc trouver un astuce pour conserver l'acronyme INVEST plus facilement à mémoriser que INVEPT) 
+* S - [Suffisamment] petite (NdT - l'initiale de petite (traduction de Small) ne collait pas avec l'acronyme, il a fallu donc trouver un astuce pour conserver l'acronyme INVEST plus facilement à mémoriser que INVEPT)
 * T - Testable
 
 ### Indépendante

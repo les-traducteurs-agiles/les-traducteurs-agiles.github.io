@@ -2,7 +2,7 @@
 layout: post
 title:  "Le scrum détrempé"
 date:   2015-02-17 22:25:55
-categories: scrum
+tags: scrum
 ---
 
 Extrait de la traduction :
@@ -12,9 +12,9 @@ Extrait de la traduction :
 Hum... c'était la théorie. Dans la vie, pourtant, tout n'est pas blanc ou noir, il y a des zones grises partout.
 
 Il est plus facile de "faire de l'Agilité" que d'"être Agile".  
-  
+
 &nbsp;  
-  
+
 Vous voulez connaître la suite ? Lisez-la [ici](http://agile-lean-et-compagnie.com/2015/02/le-scrum-detrempe/)
 
 ---

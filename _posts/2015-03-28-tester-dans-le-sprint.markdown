@@ -2,7 +2,10 @@
 layout: post
 title:  "Tester dans le sprint"
 date:   2015-03-28 22:00
-categories: test sprint scrum
+tags:
+- test
+- sprint
+- scrum
 ---
 
 Jeff Sutherland a dit aujourd'hui que ce n'est pas fini si ce n'est pas testé. Vous n'allez pas croire ce qui s'est passé par la suite !  
@@ -49,7 +52,7 @@ Regardons les choses en face : un logiciel non testé ne fonctionne pas. Même s
 
 # Rétrospective de Sprint
 
-    Eh les gars ! Nous n'avons pas d'incrément du produit ! 
+    Eh les gars ! Nous n'avons pas d'incrément du produit !
     Qu'est-ce qu'il se passe ?  
 
 Supposons maintenant, que notre équipe Scrum soit joyeusement en train de ne pas produire un incrément utilisable du produit. Nous devons vraiment en prendre conscience : l'incrément est l'un des trois artéfacts obligatoires de Scrum, et il s'agit du plus important. Nous ne faisons pas ce que nous avions prévu de faire. C'est peu probable qu'il y ait quelque chose de plus important. Tout en haut de la liste des perversions devrait  simplement figurer "Pas de produit opérationnel".  
@@ -79,7 +82,7 @@ Alors que je pense que nous avons le projet que nous méritons, en choisissant q
 * Jeff Sutherland, créateur de Scrum, a répété constamment que les pratiques à-la-XP, y compris tester, sont nécessaires pour réussir.
 * La page sur les fondamentaux de Scrum de la Scrum Alliance indique que l'incrément doit être testé complètement.
 * Le célèbre "Test ScrumButt" dit explicitement que les fonctionnalités doivent être testées et doivent fonctionner à la fin d'un Sprint.
-* La Scrum Alliance offre son programme de développeur certifié scrum, enseignant aux équipes de développements les compétences nécessaires derrière la livraison d'un incrément de produit à chaque sprint. 
+* La Scrum Alliance offre son programme de développeur certifié scrum, enseignant aux équipes de développements les compétences nécessaires derrière la livraison d'un incrément de produit à chaque sprint.
 * Beaucoup d'auteurs Scrum soulignent dans leurs écrits qu'une solide pratique technique est requise afin de livrer un incrément
 * Beaucoup d'enseignants Scrum insistent aussi sur le besoin de pratiques techniques y compris le test.
 * Beaucoup d'auteurs agiles et de coachs font les mêmes remarques, et offrent ces mêmes enseignements.
@@ -99,8 +102,8 @@ Aidez à rendre le monde meilleur. Offrez de meilleurs idées, et pas des dénig
 # TL;PL
 
 Scrum dit que l'incrément doit être testé. Il l'a toujours dit. Oui, la communauté Scrum/Agile pourraient le dire plus et pourraient le dire plus fort. Mais il n'y a aucune excuse d'ignorer notre conseil, et pas plus d'excuse de ne pas tester dans chaque sprint.  
-  
-  
+
+
 ---
 Auteur : [Ron Jeffries](http://ronjeffries.com/about.html)  
 Source : [Testing inside the Sprint](http://ronjeffries.com/articles/2015-03-01-testing-in-sprints/)  
@@ -117,4 +120,3 @@ Date de traduction : 27/03/2015
 ---
 
 {% include share_buttons.html %}
-

@@ -3,16 +3,16 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences"
 date:   2016-02-04 21:00:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
-_Aujourd’hui, il devient de plus en plus facile de créer des logiciels non soumis à un cadre réglementaire mais c’est toujours aussi difficile de créer des systèmes soumis à un cadre réglementaire ou certifiés tels que les logiciels de gestion des dossiers électroniques de santé, les logiciels embarqués dans les appareils médicaux, et les systèmes d’informations gouvernementaux. 
+_Aujourd’hui, il devient de plus en plus facile de créer des logiciels non soumis à un cadre réglementaire mais c’est toujours aussi difficile de créer des systèmes soumis à un cadre réglementaire ou certifiés tels que les logiciels de gestion des dossiers électroniques de santé, les logiciels embarqués dans les appareils médicaux, et les systèmes d’informations gouvernementaux.
 Nous savons que nous avons besoin de meilleures exigences fonctionnelles afin de nous aider à créer de meilleurs systèmes d’informations ; toutefois, ces dix dernières années“la grosse artillerie” des exigences a été rejetée, plus particulièrement pour les systèmes non certifiés où l’on préfère les “**user stories**” et les spécifications plus agiles. Mais, est-ce que les **user stories** agiles sont la meilleure voie pour les systèmes soumis à un cadre réglementaire où la traçabilité des exigences et l’analyse de la sécurité est une obligation ? J’ai invité [Abder-Rahman Ali](http://www.productivecome.com/), qui poursuit actuellement son doctorat d’analyse d’imagerie médicale en France, à venir et à nous donner son avis pour savoir s’il y a de la place à la fois pour les **user stories** et les spécifications des exigences dans les industries réglementées ou si nous devons en rester avec les spécifications formelles des exigences. L’article qui suit est la troisième intervention d’Abder Rahman sur ce blog et je suis content qu’il aborde un sujet aussi épineux. Comme précédemment, il peut être joint par [mail](abder-rahman.a.ali@ieee.org) ou sur [twitter](http://www.twitter.com/abderhasan). Voici donc ce que Abder Rahman dit à propos des **user stories** et des spécifications d’exigences de logiciel :_
 
 Ce fût en février 2001 que dix-sept praticiens ont accouchés de ce que l’on appelle le [manifeste agile](http://agilemanifesto.org/iso/fr/). Il semble que depuis lors nous avons commencé à entendre parler du terme _user story_, même si comme nous le montrerons plus loin, il semble que le terme soit apparu  bien avant cette date.
 
-Les questions qui peuvent surgir dans la tête de quelqu’un à propos des _user stories_ sont : est-ce que la _user story_ est-elle juste un nom fantaisiste pour exigence fonctionnelle ? Ou, est-elle vraiment un nouvel état d’esprit pour réfléchir à la manière de gérer les exigences fonctionnelles ? 
+Les questions qui peuvent surgir dans la tête de quelqu’un à propos des _user stories_ sont : est-ce que la _user story_ est-elle juste un nom fantaisiste pour exigence fonctionnelle ? Ou, est-elle vraiment un nouvel état d’esprit pour réfléchir à la manière de gérer les exigences fonctionnelles ?
 
 En me référant à [Wikipedia](https://fr.wikipedia.org/wiki/R%C3%A9cit_utilisateur)  au sujet de l’origine des _user stories_, j’ai trouvé que celle-ci remontait à Extreme Programming (XP), mais, ce ne fut pas avant 2001 que les éléments constitutifs des _users stories_ furent réunis avec la formule des trois C proposée par Ron Jeffries : Carte, Conversation et Confirmation.
 
@@ -30,7 +30,7 @@ Avant de continuer plus loin, et de comparer les **user stories** avec les spéc
 
 Maintenant que nous savons ce qu’elles signifient, comment pouvons-nous comparer les **user stories** avec les spécifications des exigences ? Plutôt que parler encore de théorie sur cette partie, pourquoi ne pas regarder plutôt les discussions qui existent sur ce sujet ? J’en ai donc parcouru certaines dont une sur [Programmers Stack Exchange](http://programmers.stackexchange.com/questions/212834/user-story-vs-requirement), et j’y ai trouvé ceci :
 
-L’une des personnes engagée dans cette discussion y mentionna la chose suivante : 
+L’une des personnes engagée dans cette discussion y mentionna la chose suivante :
 
 > Pour être honnête, après avoir passé deux ans en immersion en développement agile, je continue à penser que la “**user story**” est un juste un terme fantaisiste pour “exigence fonctionnelle”.
 

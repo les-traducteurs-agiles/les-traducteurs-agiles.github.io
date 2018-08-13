@@ -3,7 +3,7 @@ layout: post
 title:  "De l'estimation en heures"
 date:   2015-09-28 21:00:55
 published: true
-categories: 
+tags: 
 - estimation
 ---
 
@@ -19,7 +19,7 @@ Peut-être voulaient-ils simplement que les personnes sortent de leurs prés car
 
 ## Dis-nous ce que tu en penses, Ron !
 
-(demande toujours quelqu'un.) 
+(demande toujours quelqu'un.)
 
 Limitons notre discussion aux pratiques de la décomposition des items du _sprint backlog_ en tâches, du travail en tâches, de l'estimation de ces tâches en heures, des heures passées, et du suivi du travail planifié par rapport aux heures effectives passées afin de voir comment vous avez travaillé. Nous partirons de cette dernière pratique pour remonter vers la première.
 
@@ -69,7 +69,7 @@ Lorsqu'il s'agit des stories, même si vous n'allez pas utiliser ou suivre ces h
 
 Dave Farley, lors d'une conversation sur Twitter avec Kate Oneal que j'ai sauvegardé, a dit à Kate que son équipe s'était mise à refaire des estimations parce que les discussions sur la conception qui en résultaient manquaient à son équipe, et qu'ensuite ils jetaient les estimations. Joe Sadowski lui a raconté une histoire similaire sur le fait que le _planning poker_ créé de la discussion lorsqu'il n'y a pas d'accord immédiat.
 
-Je vois tout à fait comment cela pourrait arriver. Je dis que cela prendra une journée, vous en dites quatre. Si je suis suffisamment malin, je ferai semblant de dire quelque chose comme "Quoi ?" et je m'apercevrai que vous voyez bien que je ne le fais pas. Assez souvent nous nous apercevrons que l'un d'entre nous n'a pas compris la story, ou s'est trompé sur sa difficulté. Et nous aurons appris quelque chose de cette discussion. 
+Je vois tout à fait comment cela pourrait arriver. Je dis que cela prendra une journée, vous en dites quatre. Si je suis suffisamment malin, je ferai semblant de dire quelque chose comme "Quoi ?" et je m'apercevrai que vous voyez bien que je ne le fais pas. Assez souvent nous nous apercevrons que l'un d'entre nous n'a pas compris la story, ou s'est trompé sur sa difficulté. Et nous aurons appris quelque chose de cette discussion.
 
 Faire cela dans le contexte de l'estimation peut être une manière rapide d'identifier les stories pour lesquelles nous ne sommes pas en phase.
 
@@ -116,7 +116,7 @@ C'est correct d'écrire ces idées d'implémentations sous la forme de tâches s
 * Concevoir en utilisant des tâches peut avoir de la valeur
 * Réaliser à partir de tâches est toujours moins bien
 * Les estimations peuvent déclencher des conversations utiles
-* Suivre les estimations est toujours inefficace et souvent néfaste. 
+* Suivre les estimations est toujours inefficace et souvent néfaste.
 
 ## Les Stories, c'est mieux que les tâches
 
@@ -126,9 +126,9 @@ J'avais promis (voir ci-dessus) de parler de travailler avec des stories pleines
 
 Tout d'abord, les stories (ou les items du _product backlog_, si vous préférez) sont ce que le product owner souhaite. Le PO ne veut pas de tâches : il veut juste savoir la manière dont nous pourrions organiser notre travail. Par conséquent, lorsqu'une équipe se concentre sur des stories, elle est plus focalisée sur ce qui est vraiment demandé.
 
-Ensuite, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. L'ensemble de l'équipe est pluri-disciplinaire, mais en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités (à notre domaine - NdT). Ça serait mieux si nous pouvions travailler sur quasiment tout et n'importe quoi, peut être en me laissant les problèmes difficiles concernant les bases de données, à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons plus. C'est mieux d'avoir un éventail relativement large de compétences, sans compter que cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies respectives dans notre domaine de prédilection. 
+Ensuite, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. L'ensemble de l'équipe est pluri-disciplinaire, mais en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités (à notre domaine - NdT). Ça serait mieux si nous pouvions travailler sur quasiment tout et n'importe quoi, peut être en me laissant les problèmes difficiles concernant les bases de données, à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons plus. C'est mieux d'avoir un éventail relativement large de compétences, sans compter que cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies respectives dans notre domaine de prédilection.
 
-Travailler en stories rend plus service au _product owner_, et à l'équipe aussi. Ce n'est pas la seule manière de le faire. C'est bien de travailler en tâches. Et c'est probablement mieux en stories. 
+Travailler en stories rend plus service au _product owner_, et à l'équipe aussi. Ce n'est pas la seule manière de le faire. C'est bien de travailler en tâches. Et c'est probablement mieux en stories.
 
 ### Mais les stories sont trop grosses !
 
@@ -182,4 +182,3 @@ Date de traduction : 28/09/2015
 ---
 
 {% include share_buttons.html %}
-

@@ -2,7 +2,10 @@
 layout: post
 title:  "Conception émergente"
 date:   2014-11-19 21:20:55
-categories: conception equipe manifeste
+tags:
+- conception
+- équipe
+- manifeste
 ---
 
 ## À l'époque et maintenant

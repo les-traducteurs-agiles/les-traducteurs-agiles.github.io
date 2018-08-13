@@ -3,8 +3,9 @@ layout: post
 title:  "Dark Scrum"
 date:   2016-11-20 00:00:01
 published: true
-categories: 
+tags:
 - scrum
+- dark scrum
 ---
 
 Parlons un peu de “Dark Scrum”. Trop souvent, du moins dans le domaine du développement logiciel, Scrum semble opprimer les gens. Trop souvent, l’équipe Scrum ne livre pas assez rapidement, de manière aussi fiable, ou aussi régulièrement qu’elle devrait le faire. Et le plus souvent, ce sont les développeurs qui souffrent plus que quiconque.
@@ -57,7 +58,7 @@ Les résultats sont toujours les mêmes. L’équipe essaie sincèrement de fair
 
 ### Nous avons à critiquer ce qui est fait — et ce qui ne l’est pas.
 
-Lors de chaque sprint les parties prenantes regardent ce que l’équipe a accompli et donnent des indications sur la manière d’aller plus loin. Bien belle théorie, rarement mise en en pratique lorsque les organisations ne sont pas expertes en Scrum. 
+Lors de chaque sprint les parties prenantes regardent ce que l’équipe a accompli et donnent des indications sur la manière d’aller plus loin. Bien belle théorie, rarement mise en en pratique lorsque les organisations ne sont pas expertes en Scrum.
 
 En pratique, la Revue du Dark Sprint commence avec le rappel par quelqu’un à destination de tous les participants de ce que l’équipe avait “promis” de faire. (C’est-à-dire, ce qui a été demandé juste avant que l’équipe dise “Nous essaierons”. C’est une promesse, on est d’accord hein ?). Puis nous regardons le résultat minable que l’équipe a eu l’audace de nous présenter.
 
@@ -65,7 +66,7 @@ Et devinez quoi ? L’organisation a demandé plus que ce qui pouvait être fait
 
 Elle a échoué et ce qu’elle a accompli n’était pas super. L’équipe a échoué. Encore.
 
-Heureusement, le Dark Scrum a les détenteurs de pouvoirs, des Product Owners et des parties prenantes pour poursuivre cet effort. Et ils font en sorte que les développeurs soient bien conscients de leurs échecs. 
+Heureusement, le Dark Scrum a les détenteurs de pouvoirs, des Product Owners et des parties prenantes pour poursuivre cet effort. Et ils font en sorte que les développeurs soient bien conscients de leurs échecs.
 
 ### Nous devons leur dire comment s’améliorer
 
@@ -78,13 +79,13 @@ Pour inciter l’équipe à faire mieux, nous pointons du doigt les conséquence
 Quelques fois l’équipe proposera des suggestions. Laissez-moi donc vous donner quelques informations pour vous y préparer. Voici le genre de choses qu’ils pourraient dire, et comment vous pourriez y répondre.
 
 > **Développeurs** : Nous devons faire plus de tests pour diminuer le nombre d’anomalies.
-> 
+>
 > **Ceux qui détiennent le pouvoir** : Non. Vous n’êtes déjà pas capable de finir les fonctionnalités. Vous devez coder plus intelligemment. Arrêtez de faire des anomalies et vous n’aurez pas à les corriger. Nous avons besoin de fonctionnalités, non de tests !
-> 
+>
 > **Développeurs** : La conception commence à partir dans tous les sens. Nous devons refactorer pour l’améliorer.
-> 
+>
 > **Ceux qui détiennent le pouvoir** : Non. Pourquoi avez-vous fait une conception de merde d’abord ? Personne ne vous a dit de faire une conception de merde. Arrêtez donc de faire ça et corrigez ce qui ne va pas. Le week-end arrive. Faites-ça à ce moment-là.
-> 
+>
 > **Développeurs** : Les exigences ne sont pas claires, elles ne gagnent pas en clarté dans le temps, et par conséquent, tout que ce que nous avons construit est rejeté à la toute dernière minute.
 >
 > **Ceux qui détiennent le pouvoir** : Nous vous avons embauché pour que vous agissiez intelligemment et pour déterminer ce qu’il y a à faire. Vous êtes supposés vous auto-organiser pour résoudre ce type de problèmes. Arrêtez d’être vissés le cul sur vos chaises et faites donc ce que nous vous disons de faire !
@@ -120,7 +121,7 @@ Une bonne partie de la peur s’évanouira d’elle-même, parce que l’encadre
 Toutefois, avec un incrément solide, testé, intégré, et contenant les fonctionnalités les plus importantes qu’elle nous a donné à faire entre nos mains, nous pouvons changer la conversation comme cela :
 
 > **Ceux qui détiennent le pouvoir** : Vous n’en avez pas fait assez : vous devez en faire plus.
-> 
+>
 > **Développeurs** : Nous faisons tout ce que nous pouvons, et nous continuerons de nous améliorer. En attendant, tout ceci fonctionne et est utilisable. Il serait pertinent d’utiliser notre taux de livraison réel pour prédire la vitesse à laquelle nous allons. Il serait mieux de faire en sorte que nous puissions travailler sur les items les plus importants du backlog d’abord. Il serait mieux d’affiner chaque item afin qu’il soit le plus mince possible.
 
 Cela ne va pas marcher du jour au lendemain par un simple coup de baguette magique. Mais cela donne un coup de pouce pour commencer, et plus l’incrément prendra forme concrètement, plus il aura d’influence sur les gens afin qu’ils regardent la réalité en face et basent leur management dessus. Contrairement à ce que nous pensons souvent, nos responsables ne sont pas stupides. Ils font de leur mieux avec les informations qu’ils ont. Si nous pouvons leur donner une meilleure information, sous la forme d’un logiciel qui fonctionne, ils commenceront à utiliser cette information. Munis de cette information, ils seront moins enclins à mettre la pression et commettront moins d’abus.
@@ -142,11 +143,11 @@ Il est assez habituel qu’il y ait des affrontements à la fin d’un Sprint, p
 Une des pratiques les plus importantes est pour le PO et les développeurs de se mettre d’accord, sur des tests d’acceptations concrets et exécutables pour chaque _story_. Une manière productive de l’aborder est d’y penser comme à des “exemples”.
 
 > **Équipe** : OK, nous voulons que le système montre tous les comptes clients de l’entreprise qui ont 30 jours de retards de paiements avec le total des arriérés. Voici une table de comptes et une table montrant ce que cela pourrait donner pour les comptes identifiés avec la somme des arriérés.
-> 
+>
 > **PO** : Non, ce n’est pas tout à fait ça. Nous ne les voulons pas à 30 jours, seulement au-delà de 30 jours.
-> 
+>
 > **Équipe** : OK, comme ça alors ?
-> 
+>
 > **PO** : Exactement ! Ça marche !
 
 Chaque petit exemple devient un test d’acceptation pour la story ou pour l’item du backlog en question. Par convention, si les tests ne s’exécutent pas, alors l’équipe n’aura pas fini cette story. À contrario, si les tests s’exécutent, le _Product Owner_ et l’équipe sont d’accord pour dire que ce qui a été fait correspond à ce qui a été demandé.
@@ -161,7 +162,7 @@ Dans un projet Scrum, nous sommes supposés livrer un incrément du produit test
 
 C’est OK : lorsque le produit est encore balbutiant et incomplet, il ne nécessite pas besoin de bénéficier d’énormément de conception. Au fur et à mesure qu’il grandit, il a besoin d’une conception plus large, plus robuste et meilleure. Nous devons _seulement_ augmenter le degré de conception au fur et à mesure que le produit grandit.
 
-_“Seulement”_. Le mot le plus dangereux en développement logiciel. Élaborer la conception au fur et à mesure que nous avançons est difficile. Cela exige de la compétence en conception, de la compétence en test, de la compétence en refactoring. Nous allons explorer cela ci-dessous, et dans d’autres articles de cette série. En temps et en heure, nous vous fournirons des informations complémentaires sur ces sujets[^5]. 
+_“Seulement”_. Le mot le plus dangereux en développement logiciel. Élaborer la conception au fur et à mesure que nous avançons est difficile. Cela exige de la compétence en conception, de la compétence en test, de la compétence en refactoring. Nous allons explorer cela ci-dessous, et dans d’autres articles de cette série. En temps et en heure, nous vous fournirons des informations complémentaires sur ces sujets[^5].
 
 Mais la vérité première reste : si nous voulons livrer un Incrément du Produit à chaque Sprint, nous devons trouver une manière de faire une bonne conception de manière incrémentale.
 
@@ -179,7 +180,7 @@ L’amélioration incrémentale de la conception est indispensable. Le _refactor
 
 ### Tests faits par les développeurs
 
-Nous avons besoin de tests faits par les développeurs en plus des tests d’acception. Chaque fonctionnalité que nous construisons est composée de plusieurs étapes de développement. À chacune de ces étapes, nous pourrions faire une erreur. Nous pouvons éviter ces erreurs avec des tests faits par les développeurs. L’une des meilleures formes de ces tests est le développement piloté par les tests que l’on peut résumer à peu près ainsi : 
+Nous avons besoin de tests faits par les développeurs en plus des tests d’acception. Chaque fonctionnalité que nous construisons est composée de plusieurs étapes de développement. À chacune de ces étapes, nous pourrions faire une erreur. Nous pouvons éviter ces erreurs avec des tests faits par les développeurs. L’une des meilleures formes de ces tests est le développement piloté par les tests que l’on peut résumer à peu près ainsi :
 
 1. Pensez à la prochaine étape présente sur le chemin de notre fonctionnalité. Écrivez un test qui devrait s’exécuter lorsque cette étape est passée. Exécutez-le : vous devez être sûr qu’il ne passe pas pour l’instant.
 2. Écrivez le code de telle manière à ce que cette étape soit passée. Exécutez le test : vous devez être certain qu’il passe à présent.
@@ -196,13 +197,13 @@ Scrum exige d’avoir un incrément opérationnel, complètement testé, utilisa
 
 Il est évident que cela demande que tous les travaux de l’équipe soient intégrés, testés et fonctionnent ensemble à la fin du sprint. Une intégration tardive révèle des problèmes, dont beaucoup d’entre eux demanderont un déboggage substantiel. Plus nous attendons, plus cela sera pire. À l’inverse, en intégrant après avoir fait plusieurs petites modifications, cela devient beaucoup plus facile.
 
-Un processus d’intégration automatisé, exécutant la suite des tests système, s’avère être une part essentielle du processus de développement d’une équipe Scrum. Dans la plupart des équipes, plus l’intégration est faite fréquemment, mieux les choses se passent. Intégrer “tout le temps” semble être la meilleure chose, ce qui explique pourquoi cette pratique est appelée Intégration Continue. 
+Un processus d’intégration automatisé, exécutant la suite des tests système, s’avère être une part essentielle du processus de développement d’une équipe Scrum. Dans la plupart des équipes, plus l’intégration est faite fréquemment, mieux les choses se passent. Intégrer “tout le temps” semble être la meilleure chose, ce qui explique pourquoi cette pratique est appelée Intégration Continue.
 
 ## Survivre au Dark Scrum
 
 TL;PL
 
-* L’étape du Dark Scrum reste assez répandue, et elle est d’ailleurs sans doute inévitable dans beaucoup d’implantations de Scrum 
+* L’étape du Dark Scrum reste assez répandue, et elle est d’ailleurs sans doute inévitable dans beaucoup d’implantations de Scrum
 * Les situations de Dark Scrum suivent un schéma connu
 * L’équipe de développement peut rendre les choses meilleures pour elle-même, et peut passer du Dark Scrum au vrai Scrum, qui est, quand même, un endroit bien plus agréable.
 
@@ -218,7 +219,7 @@ Si vous voulez apportez votre contribution sur ce sujet, écrivez-moi à l’adr
 
 [^4]: Sans aucun jeu de mot.
 
-[^5]: Pour plus d’informations sur ce sujet, consultez par exemple [The most dangerous word in software development](http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development). 
+[^5]: Pour plus d’informations sur ce sujet, consultez par exemple [The most dangerous word in software development](http://alistapart.com/blog/post/the-most-dangerous-word-in-software-development).
 
 [^6]: l’acronyme de développement piloté par les tests a été conservé en VO (TDD - Test-Driven Development) car plus répandu dans la communauté francophone - NdT
 
@@ -239,5 +240,3 @@ Date de traduction : 20/11/2016
 ---
 
 {% include share_buttons.html %}
-
-

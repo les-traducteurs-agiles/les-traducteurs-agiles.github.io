@@ -3,7 +3,7 @@ layout: post
 title:  "Racontez vos problèmes au canard"
 date:   2016-10-19 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - inspiration
 ---
@@ -34,7 +34,7 @@ Je suis resté assise quelques secondes.
 
 Je suis heureuse de dire que ça a marché pour moi de parler au canard. Depuis, j’ai souvent utilisé cette technique.
 
-Quelques fois, je parle quelqu’un. Tout ce qu’il doit dire c’est “Oh” ou “Uh huh” ou tout autre signe montrant qu’il est encore en vie et qu’il respire. Si je parle à la même personne trop souvent, je pense qu’au fond elle préfère que je parle au canard. 
+Quelques fois, je parle quelqu’un. Tout ce qu’il doit dire c’est “Oh” ou “Uh huh” ou tout autre signe montrant qu’il est encore en vie et qu’il respire. Si je parle à la même personne trop souvent, je pense qu’au fond elle préfère que je parle au canard.
 
 Si vous êtes bloqués sur un problème, ne continuez pas à faire ce que vous faisiez les 20 dernières minutes. (C’est le temps maximum que je me donne lorsque je suis bloquée. Le votre est peut être plus long). Parlez au canard.
 
@@ -58,5 +58,3 @@ Date de traduction : 19/10/2016
 ---
 
 {% include share_buttons.html %}
-
-  

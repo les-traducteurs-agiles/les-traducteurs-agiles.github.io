@@ -12,7 +12,7 @@ Notre projet ayant connu quelques turbulences dernièrement, j’ai senti qu’i
 
 J’avais besoin d’un exercice qui incite les gens à partager leur sentiment général sur le projet. J’ai donc utilisé une variante de l’exercice de la galerie d’art que j’avais trouvé sur le blog de Pat Kua. Cet exercice s’appelle [Mr Squiggle](http://www.thekua.com/atwork/2008/04/retrospective-exercise-mr-squiggle/).
 
-Dans l’exercice de la galerie d’art, chaque personne fait un dessin illustrant ses sentiments. 
+Dans l’exercice de la galerie d’art, chaque personne fait un dessin illustrant ses sentiments.
 
 L’idée derrière l’exercice de Mr Squiggle est la suivante :
 
@@ -56,5 +56,3 @@ Date de traduction : 10/01/2017
 ---
 
 {% include share_buttons.html %}
-
-

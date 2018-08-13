@@ -3,14 +3,14 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 2ème épisode"
 date:   2016-12-27 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - retrospective
 ---
 
-Lorsque votre équipe travaille en itérations courtes, les rétrospectives peuvent avoir tendance à devenir ennuyeuses avec le temps. Si vous travaillez dans une organisation agile, il est certain que la plupart des suggestions d’améliorations auront été faites et leurs efficacités évaluées après coup. Les actions d’améliorations les plus évidentes auront sans doute déjà été identifiées. 
+Lorsque votre équipe travaille en itérations courtes, les rétrospectives peuvent avoir tendance à devenir ennuyeuses avec le temps. Si vous travaillez dans une organisation agile, il est certain que la plupart des suggestions d’améliorations auront été faites et leurs efficacités évaluées après coup. Les actions d’améliorations les plus évidentes auront sans doute déjà été identifiées.
 
-**Deux options** s’offrent désormais à vous : 
+**Deux options** s’offrent désormais à vous :
 
 1. Continuer à faire les mêmes rétrospectives, et accepter qu’il n’existe plus d’idées d’améliorations valables à trouver
 
@@ -63,5 +63,3 @@ Date de traduction : 27/12/2016
 ---
 
 {% include share_buttons.html %}
-
-

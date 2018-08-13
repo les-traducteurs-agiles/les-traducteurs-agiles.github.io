@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Johanna Rothman"
 date:   2016-02-10 11:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 _Voici le second article issu de la série d’entretiens que j’ai eu avec plusieurs experts agiles dans l’objectif de divulguer les différences entre les **user stories** et les spécifications des exigences ainsi que leurs applications dans les systèmes d’informations soumis à la réglementation (par exemple  dans le domaine médical). Vous pouvez lire le précédent article de cette série [ici](http://www.les-traducteurs-agiles.org/user-stories/2016/02/07/differences-entre-les-user-stories-et-les-specifications-des-exigences-par-ron-jeffries.html)_
@@ -22,9 +22,9 @@ Le problème est que les clients veulent des fonctionnalités, une histoire [^1]
 
 **_Comment comparez-vous une user story avec une spécification des exigences ?_**
 
-Une spécification des exigences est écrite souvent à la forme passive (tout comme je viens juste de le faire). C’est souvent très long. Il est souvent difficile d’en voir la valeur, ou la priorité des exigences à l’intérieur. Si les personnes ordonnent leurs exigences, ils utilisent souvent des termes fourre-tout, comme “doit”, “pourrait”, “serait”, ou d’autres termes dans le même genre. Lorsque nous écrivons des _user stories_, nous parlons d’un utilisateur spécifique, donc nous écrivons la story sous une forme active. Nous en voyons la valeur. Nous pouvons comparer la valeur d’une story par rapport à une autre. 
+Une spécification des exigences est écrite souvent à la forme passive (tout comme je viens juste de le faire). C’est souvent très long. Il est souvent difficile d’en voir la valeur, ou la priorité des exigences à l’intérieur. Si les personnes ordonnent leurs exigences, ils utilisent souvent des termes fourre-tout, comme “doit”, “pourrait”, “serait”, ou d’autres termes dans le même genre. Lorsque nous écrivons des _user stories_, nous parlons d’un utilisateur spécifique, donc nous écrivons la story sous une forme active. Nous en voyons la valeur. Nous pouvons comparer la valeur d’une story par rapport à une autre.
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
 Pour moi, elles le font. Pourquoi ne le feraient-elles pas ?
 

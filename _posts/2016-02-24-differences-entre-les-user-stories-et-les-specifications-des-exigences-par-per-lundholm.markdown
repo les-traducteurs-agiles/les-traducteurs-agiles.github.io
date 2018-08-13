@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Per Lundholm"
 date:   2016-02-27 10:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -19,7 +19,7 @@ Non. C’est une chose complètement différente.
 
 Une story est un hameçon pour discuter et planifier alors qu’une spécification ne laisse pas de place à la discussion.
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
 En sens, c’est ce qu’elles font déjà, étant donné que l’idée des spécifications des exigences est morte. Bien sûr, les réglementations existent toujours , mais il s’agit d’une question différente.
 
@@ -29,7 +29,7 @@ Je ne les appellerais pas méthodes, mais je vois ce que vous voulez dire. Les _
 
 **_Laquelle des deux, recommandez-vous dans le cadre de systèmes soumis à la réglementation (c’est-à-dire les systèmes d’informations dans le domaine de la santé, dans les logiciels embarqués d’appareils médicaux) ?_**
 
-Les _user stories_, et je parle d’expérience. Les réglementations font partie de la vie comme un tas de toutes autres choses. Vous devez simplement y adhérez, ou vos stories ne sont pas considérées comme finies. La définition de “fini” devient plus compliqué et vous pouvez avoir besoin d’avoir davantage d’étapes dans le cycle de vie d’une _user story_. Les _user stories_ mettent l’accent sur ce qui apporte de la valeur à l’utilisateur et sur les choses qui peuvent l’impacter, et mettent les choses qui ne l’impacte pas à l’arrière-plan. 
+Les _user stories_, et je parle d’expérience. Les réglementations font partie de la vie comme un tas de toutes autres choses. Vous devez simplement y adhérez, ou vos stories ne sont pas considérées comme finies. La définition de “fini” devient plus compliqué et vous pouvez avoir besoin d’avoir davantage d’étapes dans le cycle de vie d’une _user story_. Les _user stories_ mettent l’accent sur ce qui apporte de la valeur à l’utilisateur et sur les choses qui peuvent l’impacter, et mettent les choses qui ne l’impacte pas à l’arrière-plan.
 
 Êtes-vous d’accord avec Per ? Tous les commentaires et les points de vue sont les bienvenus. [^1]
 

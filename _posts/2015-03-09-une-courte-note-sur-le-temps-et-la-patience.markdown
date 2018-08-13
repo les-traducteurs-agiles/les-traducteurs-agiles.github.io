@@ -2,7 +2,7 @@
 layout: post
 title:  "Une courte note sur le temps et la patience"
 date:   2015-03-09 22:00
-categories: inspiration
+tags: inspiration
 ---
 
 Le temps a de la patience.
@@ -22,7 +22,7 @@ Nous ne pouvons pas dire la même chose de la patience. La patience est déjà �
 La patience contient aussi autre chose, quelque chose entre l'indifférence et le pardon. L'indifférence n'est pas nécessairement infinie, excepté que le temps est infiniment indifférent. Mais le temps n'inclut pas le pardon. Les gens pardonnent, mais le temps ne s'en préoccupe pas.
 Et donc j'écris, le temps a de la patience -  pas parce qu'il pardonne, mais parce qu'il ne s'en préoccupe pas. Quand nous entrons dans le temps pour la patience, nous y trouvons l'indifférence. Nous devons y ajouter notre propre sollicitude. (Qui ne pourra exiger aucun pardon).
 
-Je pense que j'ai fait le tour de la question. 
+Je pense que j'ai fait le tour de la question.
 
 
 ![Syngué Sabour - Pierre de patience](http://static.rogerebert.com/uploads/review/primary_image/reviews/the-patience-stone-2013/hero_PatienceStone-2013-4.jpg)

@@ -4,8 +4,9 @@ title:  "La fin de la méthodologie"
 date:   2013-11-24 00:01
 published: true
 tags:
-- tag1
-- tag2
+- méthodologie
+- scrum
+- crystal
 ---
 
 Nous avons enfin mûri. Ce que nous produisons maintenant sont des cadres d'améliorations réfléchis, et non des méthodologies (même si nous continuons par habitude à utiliser ce terme). Crystal, Scrum, Kanban en sont des exemples. Chacun contient quelques règles, pas assez pour conduire un projet, mais suffisamment pour que les personnes améliorent leur situation mieux que par simple empirisme. Les vieilles méthodologies avec un grand M sont finies. Et c'est tant mieux.

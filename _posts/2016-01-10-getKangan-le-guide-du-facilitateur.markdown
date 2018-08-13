@@ -2,7 +2,7 @@
 layout: post
 title:  "getKanban, le guide du facilitateur"
 date:   2016-01-10 14:26:55
-categories: 
+tags: 
 - kanban
 - jeu
 ---

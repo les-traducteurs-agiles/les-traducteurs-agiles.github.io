@@ -2,7 +2,7 @@
 layout: post
 title:  "Qu'est ce que Kanban ?"
 date:   2014-08-14 21:38:55
-categories: kanban
+tags: kanban
 ---
 ## Kanban != kanban
 
@@ -63,7 +63,7 @@ Limiter le TEC est techniquement assez facile à faire mais peut être très dif
 **Mesurer la performance** (productivité, qualité, coût, moral)  
 Mesurer la performance commence toujours par la question : "Qu'est que cela signifie d'être bon à ceci ou à cela ?"
 
-Ma réponse sera : livrer de la valeur efficiente, et soutenable, enthousiasmant les clients. Être uniquement rapide n'est pas suffisant. Enthousiasmer vos clients n'est pas suffisant. Être uniquement efficient n'est pas suffisant. Être uniquement soutenable n'est pas suffisant. 
+Ma réponse sera : livrer de la valeur efficiente, et soutenable, enthousiasmant les clients. Être uniquement rapide n'est pas suffisant. Enthousiasmer vos clients n'est pas suffisant. Être uniquement efficient n'est pas suffisant. Être uniquement soutenable n'est pas suffisant.
 
 **Rendre les règles de processus explicites**  
 De manière identique à la visualisation, rendre les règles de processus explicites met en lumière le désaccord, et nous permet de résoudre les conflits. En général, rendre public la connaissance sur comment explicitement les choses fonctionnent est une action de démocratisation. Quand seulement une poignée de personnes savent vraiment comment et pourquoi les choses sont faites, elles prennent toutes les décisions sur comment s'améliorer ; quand nous savons tous comment et pourquoi, nous pouvons tous participer à ces décisions.
@@ -72,7 +72,7 @@ De manière identique à la visualisation, rendre les règles de processus expli
 Toute autre propriété Kanban porte sur l'exposition au grand jour de la situation et des problèmes. La dernière propriété est la réponse. S'améliorer collaborativement car la participation au changement conduit à l'implication à changer. S'améliorer scientifiquement car si nous ne le faisons pas, nous serons plus enclins seulement à changer et non pas à réellement apprendre et à nous améliorer. S'améliorer scientifiquement signifie faire vraiment une prévision sur l'effet produit d'une intervention et ré-évaluer notre modèle de réalité en fonction des résultats produits de l'intervention, qu'ils soient meilleurs ou pires que prévu.
 
 **Kanban ne fait pas partie des solutions habituelles que la communauté utilise mais il est utile de les connaître**  
-Même si officiellement Kanban se réfère uniquement à la méthode Kanban, il est utile également de considérer les solutions Kaban-iques utilisées par la communauté : 
+Même si officiellement Kanban se réfère uniquement à la méthode Kanban, il est utile également de considérer les solutions Kaban-iques utilisées par la communauté :
 
 * kanban se présente typiquement sous la forme de tableaux kanban (appelés aussi tableaux heijunka)
 * Il existe quelques variantes du FAM (Fonctionnalité à minima), IVM(Incrément de la valeur métier), PVM (Produit viable à minima), etc.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Fractionner les user stories"
 date:   2015-05-17 17:45:53
-categories: 
+tags: 
 - user stories
 ---
 

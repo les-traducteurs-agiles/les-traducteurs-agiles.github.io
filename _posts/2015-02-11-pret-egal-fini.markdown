@@ -2,7 +2,7 @@
 layout: post
 title:  "Prêt égal fini"
 date:   2015-02-11 21:34:52
-categories: scrum
+tags: scrum
 ---
 Scrum fait beaucoup de bruit autour de la définition de prêt et la définition de fini.  
 

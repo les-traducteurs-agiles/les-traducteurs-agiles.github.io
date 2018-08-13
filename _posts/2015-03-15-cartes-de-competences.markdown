@@ -2,7 +2,10 @@
 layout: post
 title:  "Cartes de compétences"
 date:   2015-03-15 22:00
-categories: pratique organisation fiche
+tags:
+- pratique
+- organisation
+- fiche
 ---
 <div align="right" style="float:right; padding-left:30px">
   <img title="Cartes de compétences" src="{{ site.url }}assets/cartes_competences/carte-de-competences.png" />
@@ -11,7 +14,7 @@ categories: pratique organisation fiche
 
 #### À Red Gate, l'évolution de carrière ne signifie pas s'élever dans la hiérarchie des titres de fonction. À la place, nous encourageons les gens d'être en T (voire encore plus !), c'est-à-dire d'avoir un large spectre de compétences en plus d'une expertise dans un rôle particulier. Les cartes de compétences sont notre façon de communiquer l'éventail de compétences et de spécialités disponibles, et de mettre en valeur celles que nous trouvons importantes.
 
-Les cartes de compétences partagent quelques points communs. Chaque rôle comporte un socle de compétences, représenté dans le cercle intérieur, indiquant les fondamentaux généralement admis pour ce rôle. Nous attendons de la part d'une personne endossant un nouveau rôle qu'elle prenne au moins deux ans pour acquérir un niveau de compétence confortable sur l'ensemble de ces compétences. Ensuite, nous passons en revue les 4 quadrants qui représentent les différents rôles qu'une personne pourrait jouer dans une équipe. Ces rôles sont remarquablement constants sur les différentes fonctions. 
+Les cartes de compétences partagent quelques points communs. Chaque rôle comporte un socle de compétences, représenté dans le cercle intérieur, indiquant les fondamentaux généralement admis pour ce rôle. Nous attendons de la part d'une personne endossant un nouveau rôle qu'elle prenne au moins deux ans pour acquérir un niveau de compétence confortable sur l'ensemble de ces compétences. Ensuite, nous passons en revue les 4 quadrants qui représentent les différents rôles qu'une personne pourrait jouer dans une équipe. Ces rôles sont remarquablement constants sur les différentes fonctions.
 
 * Leadership : Donne la direction et les axes de développement aux personnes
 * Projet : Intérêt dans les processus d'équipes, les méthodologies et l'évangélisation des bonnes pratiques

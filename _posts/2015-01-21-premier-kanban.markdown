@@ -2,7 +2,9 @@
 layout: post
 title:  "Premier Kanban"
 date:   2015-01-21 22:47:55
-categories: kanban livre
+tags:
+- kanban
+- livre
 ---
 
 ![Premier Kanban](http://www.infoq.com/resource/minibooks/priming-kanban-jesper-boeg/fr/cover/premier-kanban-250x355.png)

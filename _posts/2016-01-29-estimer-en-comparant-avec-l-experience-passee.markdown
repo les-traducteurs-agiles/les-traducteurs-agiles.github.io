@@ -3,7 +3,7 @@ layout: post
 title:  "Estimer en comparant avec l’expérience passée"
 date:   2016-01-29 21:00:55
 published: true
-categories: 
+tags: 
 - estimation
 ---
 

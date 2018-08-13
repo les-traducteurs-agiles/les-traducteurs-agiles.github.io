@@ -3,7 +3,7 @@ layout: post
 title:  " “Agile”, c’est quoi ?"
 date:   2016-08-01 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 ---
 
@@ -30,5 +30,3 @@ Date de traduction : 01/08/2016
 ---
 
 {% include share_buttons.html %}
-
- 

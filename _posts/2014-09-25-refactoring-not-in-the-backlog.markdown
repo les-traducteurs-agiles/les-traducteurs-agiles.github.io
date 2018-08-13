@@ -2,9 +2,11 @@
 layout: post
 title:  "Refactoring - Pas dans le backlog !"
 date:   2014-09-25 22:20:55
-categories: refactoring backlog
+tags:
+- refactoring
+- backlog
 ---
-Récemment, il y a eu beaucoup d'agitations sur les listes de diffusion, et de questions lors de conférences, à propos de mettre les "stories" refactorées dans le backlog. C'est toujours une mauvaise idée même si la dette technique a augmenté. Voici pourquoi : 
+Récemment, il y a eu beaucoup d'agitations sur les listes de diffusion, et de questions lors de conférences, à propos de mettre les "stories" refactorées dans le backlog. C'est toujours une mauvaise idée même si la dette technique a augmenté. Voici pourquoi :
 
 <div align="center">
     <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref01.jpg" />
@@ -16,7 +18,7 @@ Lorsque notre projet débute, le code est propre. Le terrain est bien entretenu,
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref02.jpg" />
 </div>
 
-Nous pouvons construire des fonctionnalités en douceur et facilement, même si nous semblons prendre toujours quelques tours et détours. Les choses semblent assez propres, et de toute façon nous sommes assez pressés. Nous ne remarquons rien d'anormal et nous poursuivons rapidement notre chemin. 
+Nous pouvons construire des fonctionnalités en douceur et facilement, même si nous semblons prendre toujours quelques tours et détours. Les choses semblent assez propres, et de toute façon nous sommes assez pressés. Nous ne remarquons rien d'anormal et nous poursuivons rapidement notre chemin.
 
 <div align="center">
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref03.jpg" />

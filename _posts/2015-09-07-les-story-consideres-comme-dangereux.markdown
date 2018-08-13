@@ -3,7 +3,7 @@ layout: post
 title:  "Les story points considérés comme dangereux - ou pourquoi le futur de l'estimation se situe vraiment dans notre passé ..."
 date:   2015-09-13 21:00:55
 published: true
-categories: 
+tags: 
 - estimation
 ---
 
@@ -61,13 +61,13 @@ Heureusement, nous avons une alternative simple autorisant l'existence d'un envi
 ## L'autre moyen de prédire
 
 L'alternative à l'estimation en story points est simple : compter seulement le nombre de stories que vous avez terminées (comme étant "finies") dans les itérations précédentes. Elles sont le meilleur indicateur d'une performance future ! Utilisez alors cette information pour prévoir les futures avancées. À la base le meilleur indicateur du futur est votre performance passée !
-Est-ce vraiment aussi simple ? Pour tester cette approche, j'ai examiné les données de différents projets et j'ai essayé de répondre à quelques simples questions. 
- 
+Est-ce vraiment aussi simple ? Pour tester cette approche, j'ai examiné les données de différents projets et j'ai essayé de répondre à quelques simples questions.
+
 ## L'expérience
 
 * Q1 : Existe-t-il une différence significative entre ce que les story points et le "nombre d'éléments" mesurent pour dire qu'ils ne mesurent pas la même chose ?
 * Q2 : Laquelle de ces deux métriques est la plus stable ? Et qu'est-ce que cela signifie ?
-* Q3 : Est-ce que ces métriques sont assez proches afin que la mesure de l'un (le nombre d'élément) soit équivalente à la mesure de l'autre (story points) ? 
+* Q3 : Est-ce que ces métriques sont assez proches afin que la mesure de l'un (le nombre d'élément) soit équivalente à la mesure de l'autre (story points) ?
 
 J'ai examiné les données de 10 équipes différentes de 10 projets différents. Je ne faisais pas partie d'aucun de ces projets (j'ai récupéré ces données auprès des équipes directement ou par le biais de demandes d'informations à des listes de diffusion sur l'agilité). Un autre point à souligner est que ces données viennent d'entreprises de tailles différentes aussi bien que d'équipes de tailles différents et de projets différents.
 Et voici ce que j'ai trouvé :
@@ -109,7 +109,7 @@ Autoriser de grosses estimations pour des items dans le backlog (disons par exem
 
 Pour avoir travailler avec des story points pendant plusieurs années, cela n'est pas mon expérience. Même si des progrès ont été faits par des personnes comme Ken Power (à Cisco) avec la [technique du regroupement en silence](http://fr.slideshare.net/kenpower/using-silent-grouping-to-size-user-stories-xp2011), le fait même que nous ayons besoin d'une technique de ce genre devrait remettre en cause toute idée qu'estimer en PS "ne prend pas beaucoup de temps". En fait, comme toute personne s'étant frottée à un projet non-trivial, le sait, cela peut prendre des jours de boulot d'estimer le backlog initial d'un projet de taille raisonnable.
 
-## Argument 5 : L'utilisation des story points tolère une certaine imprécision dans les estimations 
+## Argument 5 : L'utilisation des story points tolère une certaine imprécision dans les estimations
 
 Bien que vous puissiez discuter le fond-même de cet argument - même si le livre n'explique pas comment - il n'y a aucune donnée justifiant la croyance que les story points font cela mieux que compter le nombre de stories finies. En fait, nous pouvons argumenter que compter le nombre de stories est même plus indulgent sur les imprécisions (voir ci-dessous pour plus de détails là-dessus)
 
@@ -117,12 +117,12 @@ Bien que vous puissiez discuter le fond-même de cet argument - même si le livr
 
 C'est plutôt exact. D'un autre côté, nous pouvons utiliser n'importe quelle technique d'estimation pour faire cela, donc par quel moyen les story points seraient-ils meilleurs dans ce cas particulier que n'importe quelle autre technique d'estimation ? De même, comme nous le verrons dans l'analyse de l'argument 4, compter le nombre de stories finies (et celles restant à finir) est une manière très efficace de planifier une livraison (soyez patient, un exemple arrive)
 
-## Argument 4 : L'utilisation des story points donne des informations utiles sur notre avancée et le travail restant à faire 
+## Argument 4 : L'utilisation des story points donne des informations utiles sur notre avancée et le travail restant à faire
 
 Cet argument est vrai **si, et seulement si** vous avez estimé toutes vos stories dans le backlog et que vous avez répété le même processus pour chaque nouvelle story ajoutée dans le backlog. Même les stories, qui seront développées dans quelques mois ou même un an plus tard (pour de longs projets), devront être estimées ! Cette approche n'est pas très efficace (ce qui en fait contredit l'argument 3).
 Baser votre avancée sur le nombre d'items réalisés à chaque sprint est plus rapide à calculer (nombre d'items dans votre _product backlog_ / vélocité du nombre d'items finies par sprint = nombre de sprints restants) et peut être utilisé pour donner des informations vitales sur l'avancée du projet. Voici un exemple réel.
 
-## L'utilisation réelle d'une métrique plus simple pour mesurer l'avancement d'un projet 
+## L'utilisation réelle d'une métrique plus simple pour mesurer l'avancement d'un projet
 
 Dans une entreprise dans laquelle je travaillais, nous avions un produit qui allait arriver sur le marché. Il n'était pas le "premier arrivé" ce qui veut dire que la barrière à franchir pour entrer sur le marché était assez élevée (du moins c'était ce que croyait la direction produit et commerciale).
 Cela signifie qu'un effort significatif était fait pour arriver à un _product backlog_ cohérent. Le backlog était revu par les personnes des ventes et avant-ventes (technico-commercial). Toutes étaient d'accord, nous devions vraiment livrer environ 140 stories (pas des points, des stories) pour être compétitif. Comme nous n'étions pas les premiers sur le marché nous avions une petite fenêtre de tir. Rater cette fenêtre signifierait invalider le fait-même d'entrer sur le marché.
@@ -136,7 +136,7 @@ Après le troisième sprint l'équipe avait donc atteint les vélocités de 1 (a
 Alors que le quatrième sprint démarrait, je fis un pari avec le responsable produit. Je lui ai demandé combien d'items il croyait que l'équipe pourrait réaliser et il dit 15 (exactement le même nombre auquel l'équipe s'était engagée). N'étant pas d'accord, je lui répondit 10. Combien d'items diriez-vous que l'équipe pu réaliser ?
 Je pose cette question à tout le monde à chaque fois que je raconte cette histoire. J'ai eu différente réponses. À chaque fois, un 42 fuse de l'assemblée comme réponse possible (on s'y attend un peu étant donné le public auquel je parle habituellement), mais la plupart répondirent 8, 10, quelques-uns peuvent dire 15 (très peu), d'autres disent 2 (très peu). Le consensus semble tourné autour de 8-10.
 Arrivé à ce moment-là, je demande aux personnes du public pourquoi elles diraient 8-10 au lieu de 15 comme le responsable produit de cette équipe lui le disait. À priori, le responsable produit connaissait mieux son équipe et le contexte, non ?
-À la fin du quatrième sprint, l'équipe réalisa 10 items, qui même si c'était 20% de mieux que ce qu'elle avait réalisé les précédents sprints est tout de même très loin de la vélocité dont elle avait besoin pour faire de ce projet un succès. La direction réfléchit à la situation et décida clairement que la meilleure décision pour l'entreprise était d'abandonner le produit. 
+À la fin du quatrième sprint, l'équipe réalisa 10 items, qui même si c'était 20% de mieux que ce qu'elle avait réalisé les précédents sprints est tout de même très loin de la vélocité dont elle avait besoin pour faire de ce projet un succès. La direction réfléchit à la situation et décida clairement que la meilleure décision pour l'entreprise était d'abandonner le produit.
 
 ## Le mythe des story points : brisé !
 
@@ -197,4 +197,3 @@ Date de traduction : 13/09/2015
 ---
 
 {% include share_buttons.html %}
-

@@ -3,7 +3,7 @@ layout: post
 title:  "Les valeurs de Scrum"
 date:   2016-12-19 00:00:01
 published: false
-categories: 
+tags: 
 - scrum
 ---
 
@@ -35,5 +35,3 @@ Date de traduction : 19/12/2016
 ---
 
 {% include share_buttons.html %}
-
-

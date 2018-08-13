@@ -3,7 +3,7 @@ layout: post
 title:  "Responsable agile de projet/Scrum Master - C’est faux, complètement faux"
 date:   2016-05-26 10:30:55
 published: true
-categories: 
+tags: 
 - agile
 ---
 
@@ -29,7 +29,7 @@ _Responsable technique de projet ?_ - cette personne est donc un Scrum Master, u
 
 Et pourquoi tous ces CRIS ? - Scrum s’écrit Scrum, comme en rugby, ce n’est pas S.C.R.U.M. ou SCRUM.
 
-> “En tant que Responsable agile de projet/Coach agile vous aurez la responsabilité du processus de l’ensemble du cycle de vie, y compris le cycle de vie de développement logiciel.” 
+> “En tant que Responsable agile de projet/Coach agile vous aurez la responsabilité du processus de l’ensemble du cycle de vie, y compris le cycle de vie de développement logiciel.”
 
 _Coach aussi ?_ - et puis aussi Scrum Master, responsable de projet et technicien ? Et je ne me dirais rien sur l’utilisation interchangeable des termes agile et scrum comme s’il s’agissait de synonymes.
 
@@ -39,7 +39,7 @@ En d’autres termes : vous aurez autant la maîtrise du schmilblik qu’un prop
 
 Toute personne qui prendra le poste aura, dès le premier jour, les mains liées dans le dos.
 
-&nbsp; &nbsp; “Eléments clés requis : 
+&nbsp; &nbsp; “Eléments clés requis :
 
 * Avoir eu une expérience significative dans la gestion de projets complexes dans des environnements entièrement agiles
 * Avoir été SCRUM Master avec une expérience de gestion d’équipes projets agiles
@@ -47,7 +47,7 @@ Toute personne qui prendra le poste aura, dès le premier jour, les mains liées
 * Expérience dans la mise en place d’un cycle de vie complet
 * S’assurer de la bonne adhésion à l’ensemble des cérémonies SCRUM pendant la durée de la totalité du cycle de vie du projet
 * Collaborer avec les équipes projets (sur site et offshore), créer et maintenir les plans projets et les plannings”
- 
+
 Les environnements entièrement agiles n’ont pas de projets, les Scrum Master ne gèrent pas d’équipes agiles et ne “maintiennent pas les plans projets et les plannings”, cela ressemble bien trop à du Gantt.
 
 En disant “toutes les cérémonies SCRUM”, on dirait que les personnes rédigeant l’annonce ne savent pas ce que sont ces cérémonies, simplement que les personnes doivent y “adhérer”. De toute manière, Scrum n’est pas un modèle de gestion de l’ensemble du cycle de vie, alors bonne chance en tout cas dans le cas présent !
@@ -59,7 +59,7 @@ Ce qui est intéressant ici, c’est ce qui n’est pas dit :
 * Aucune mention du contrôle du processus empirique ou des prévisions
 * Aucune mention de la valeur
 * Aucune mention de la priorisation
-* Aucune mention du Product Owner/Analyste métier/Responsable produit 
+* Aucune mention du Product Owner/Analyste métier/Responsable produit
 
 D’habitude, j’aurais été content que le recruteur ne demande pas une certification Scrum Master, un diplôme Prince 2, ou le ciel nous en préserve, une qualification de “responsable agile de projet” mais dans ce cas je l’ai plus perçu comme un signe que l’entreprise effectuant ce recrutement ne savait pas vraiment ce qu’elle voulait.
 

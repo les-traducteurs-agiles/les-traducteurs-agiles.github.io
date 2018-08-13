@@ -45,5 +45,3 @@ Date de traduction : 27/11/2017
 ---
 
 {% include share_buttons.html %}
-
-

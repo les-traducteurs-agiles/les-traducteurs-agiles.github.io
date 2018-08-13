@@ -3,7 +3,7 @@ layout: post
 title:  "Le tableau de bord projet et produit du Product Owner"
 date:   2016-12-07 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - product-owner
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Le modèle A3"
 date:   2016-10-13 00:00:01
 published: true
-categories: 
+tags: 
 - lean
 - pratique
 ---
@@ -42,4 +42,3 @@ Date de traduction : 13/10/2016
 ---
 
 {% include share_buttons.html %}
-

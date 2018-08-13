@@ -3,7 +3,7 @@ layout: post
 title:  "Conférence sur le Coeur d'Agile"
 date:   2015-08-29 21:00:55
 published: true
-categories: 
+tags: 
 - agile
 ---
 

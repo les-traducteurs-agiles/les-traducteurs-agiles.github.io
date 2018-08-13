@@ -3,7 +3,7 @@ layout: post
 title:  "Planification de sprint pilotée par l’engagement"
 date:   2016-11-09 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - planification
 ---
@@ -32,7 +32,7 @@ Afin de pouvoir saisir le travail à mener, l’équipe devrait réfléchir à s
 
 ### Demander l’engagement
 
-Après avoir identifié les tâches et estimé grosso modo les heures pour cet item du _product backlog_, les membres de l’équipe se posent alors la question : “Est-ce que nous pouvons nous engager à le faire ?”. 
+Après avoir identifié les tâches et estimé grosso modo les heures pour cet item du _product backlog_, les membres de l’équipe se posent alors la question : “Est-ce que nous pouvons nous engager à le faire ?”.
 
 Je trouve que c’est très important que les membres de l’équipe se posent la question collectivement plutôt qu’avoir un _ScrumMaster_ qui pose une question du type “Pouvez-vous vous engager à le faire ?”. Lorsque les membres de l’équipe se pose la question “Pouvons-nous engager à le faire ?” ils s’engagent les uns envers les autres plutôt qu’envers le _ScrumMaster_.
 
@@ -42,7 +42,7 @@ Un _ScrumMaster_ n’est pas celui qui commande, il ne devrait pas inspirer des 
 
 Aider une équipe à se poser la question “Pouvons-nous engager à le faire ?” et il est certain qu’ils s’engageront les uns envers les autres, ce qui devrait avoir pour effet d’avoir un engagement plus fort.
 
-De plus, en ayant une équipe qui se pose la question “Pouvons nous engager à le faire”, il est clair que la réponse devrait être “Oui, nous pouvons” ou “Non, nous ne pouvons pas”. Lorsqu’un _ScrumMaster_ pose la question “Pouvez-vous vous engager ?” certains membres de l’équipe répondront correctement avec un “nous” alors que d’autres répondront avec un “je”. 
+De plus, en ayant une équipe qui se pose la question “Pouvons nous engager à le faire”, il est clair que la réponse devrait être “Oui, nous pouvons” ou “Non, nous ne pouvons pas”. Lorsqu’un _ScrumMaster_ pose la question “Pouvez-vous vous engager ?” certains membres de l’équipe répondront correctement avec un “nous” alors que d’autres répondront avec un “je”.
 
 Scrum demande un engagement complet de la part de l’équipe : si tu as des difficultés ou que tu es à la traine, je te donnerai un coup de main et je sais que tu feras la même chose pour moi. Ce n’est pas “ça, c’est mes tâches” et “celles-là, ce sont les tiennes”.
 
@@ -62,7 +62,7 @@ Toutefois, ils jouent un rôle important dans la dernière étape de la réunion
 
 ### Est-ce que l’équipe fait bien de s’engager ?
 
-Une fois que les membres de l’équipe ont rempli le sprint, le _ScrumMaster_ peut jeter un coup d’œil aux items sélectionnés du _product backlog_, faire la somme de l’ensemble des points de story attribué sur chaque item, puis communiquer le résultat à l’équipe. Les membres de l’équipe peuvent alors le comparer avec la vélocité moyenne ou avec leur vélocité la plus récente. 
+Une fois que les membres de l’équipe ont rempli le sprint, le _ScrumMaster_ peut jeter un coup d’œil aux items sélectionnés du _product backlog_, faire la somme de l’ensemble des points de story attribué sur chaque item, puis communiquer le résultat à l’équipe. Les membres de l’équipe peuvent alors le comparer avec la vélocité moyenne ou avec leur vélocité la plus récente.
 
 Supposons par exemple, qu’une équipe, ayant une vélocité moyenne de 20, s’engage lors d’une réunion de planification de sprint pilotée par l’engagement et prenne pour un total de 19 points de travail. L’équipe s’est engagée sans avoir connaissance des points de story des items du _product backlog_ sélectionnés.
 
@@ -80,7 +80,7 @@ Donc : les points de story et la vélocité ne jouent aucun rôle dans la majeur
 
 ### C’est un engagement, non une garantie.
 
-Il est important que l’engagement de l’équipe ne soit pas compris comme étant une garantie. Comme a pu le dire Clint Eastwood dans un de ses films “Si vous voulez une garantie, achetez un grille-pain”. 
+Il est important que l’engagement de l’équipe ne soit pas compris comme étant une garantie. Comme a pu le dire Clint Eastwood dans un de ses films “Si vous voulez une garantie, achetez un grille-pain”.
 
 L’engagement que prend l’équipe, c’est de faire de son mieux. J’ai le plaisir de voir que souvent leur engagement est tenu dans 80% des cas. Cela doit être quelque chose qu’ils devraient prendre très au sérieux et cela sera sans doute le cas la plupart du temps. C’est nécessaire pour que le métier ait confiance dans la parole de l’équipe lorsqu’elle dit qu’elle peut livrer.
 
@@ -104,5 +104,3 @@ Copyright ©1998-2016 Mountain Goat Software. All Rights Reserved.
 ---
 
 {% include share_buttons.html %}
-
-  

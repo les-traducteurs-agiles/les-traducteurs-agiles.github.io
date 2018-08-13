@@ -3,7 +3,7 @@ layout: post
 title:  "Qu’est-ce qu’un leader agile de projet ?"
 date:   2015-12-27 19:00:55
 published: true
-categories: 
+tags: 
 - agile
 - inspiration
 ---
@@ -92,4 +92,3 @@ Date de traduction : 27/12/2015
 ---
 
 {% include share_buttons.html %}
-

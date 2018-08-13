@@ -2,7 +2,7 @@
 layout: post
 title:  "Les cycles du développement piloté par les tests (TDD)"
 date:   2015-01-06 22:55:55
-categories: TDD
+tags: tdd
 ---
 Lorsque vous commencez à apprendre le développement piloté par les tests, cela semble simple et facile. Si comme moi vous l'avez appris en 1999, la règle était simplement d'écrire vos tests unitaires d'abord. En effet, à l'époque, nous appelions cela la conception préalable par les tests.  
 
@@ -33,7 +33,7 @@ Ce cycle est exécuté généralement une fois par test terminé, ou une fois to
 2. Écrire le code de production qui fera passer ce test
 3. Nettoyer le bordel que vous avez mis
 
-Cette philosophie est basée sur l'idée que nos intellects limités ne sont pas capables de poursuivre deux objectifs simultanément de tout système informatique : 1. Corriger le comportement, 2. Corriger la structure. Le cycle RVR nous indique que le premier objectif est de faire un logiciel qui fonctionnement correctement ; et ensuite, _et seulement à ce moment-là_ , de se concentrer de donner à ce logiciel opérationnel une structure qui tienne à long terme. 
+Cette philosophie est basée sur l'idée que nos intellects limités ne sont pas capables de poursuivre deux objectifs simultanément de tout système informatique : 1. Corriger le comportement, 2. Corriger la structure. Le cycle RVR nous indique que le premier objectif est de faire un logiciel qui fonctionnement correctement ; et ensuite, _et seulement à ce moment-là_ , de se concentrer de donner à ce logiciel opérationnel une structure qui tienne à long terme.
 
 Là aussi, [beaucoup](http://bit.ly/1AESA5D) de personnes ont écrit sur ce cycle. En effet, l'idée dérive de l'[injonction originelle de Kent Beck](http://c2.com/cgi/wiki?MakeItWorkMakeItRightMakeItFast) :
 
@@ -69,9 +69,9 @@ Pour éviter d'être bloqué, nous évaluons notre position toutes les quelques 
 
 C'est ce cycle que nous appliquons dans la [prémisse prioritaire de la transformation](http://en.wikipedia.org/wiki/Transformation_Priority_Premise). Nous recherchons les symptômes de la sur-spécification en vérifiant les types de code de production que nous avons écris.
 
-## **Heure par heure** : _Le cycle primaire heure par heure_ : les limites 
+## **Heure par heure** : _Le cycle primaire heure par heure_ : les limites
 
-Le dernier cycle du TDD est le cycle primaire qui permet aux autres cycles de nous conduire vers une [architecture propre](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html). Toutes les heures ou presque, nous nous arrêtons et vérifions si nous avons franchis, ou atteint, une limite architecturale significative. Souvent ces limites sont difficiles à voir en plein nano ou micro cycle. Vous pouvez commencer à les percevoir au niveau déca-minute,  même si notre attention est encore trop étroitement focalisée. 
+Le dernier cycle du TDD est le cycle primaire qui permet aux autres cycles de nous conduire vers une [architecture propre](http://blog.8thlight.com/uncle-bob/2012/08/13/the-clean-architecture.html). Toutes les heures ou presque, nous nous arrêtons et vérifions si nous avons franchis, ou atteint, une limite architecturale significative. Souvent ces limites sont difficiles à voir en plein nano ou micro cycle. Vous pouvez commencer à les percevoir au niveau déca-minute,  même si notre attention est encore trop étroitement focalisée.
 
 Ainsi chaque heure ou presque, nous nous arrêtons et regardons le système dans sa globalité. Nous recherchons les limites que nous voulons contrôler. Nous prenons les décisions où tracer ces limites, et de quel côté de ces limites, nos activités actuelles devraient être contraintes. Ensuite, nous utilisons nos décisions pour reprendre de manière avisée les nano cycles, les micro cycles, et les milli cycles pour l'heure suivante  - le cycle _primaire_ - du développement piloté par les tests.  
 

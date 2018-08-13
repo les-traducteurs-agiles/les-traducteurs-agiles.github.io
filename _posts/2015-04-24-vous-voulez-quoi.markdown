@@ -3,7 +3,7 @@ layout: post
 title: "Est-ce que vous voulez de l’agilité de merde ?"
 date:   2016-04-27 09:26:55
 published: true
-categories: 
+tags: 
 - agile
 ---
 
@@ -122,7 +122,7 @@ La _vélocité_ en terme de stories faites est tout à fait valable. Elle monter
 Cet article, [de gros graphiques bien visibles](http://www.ronjeffries.com/xprog/articles/bigvisiblecharts/), paru il y a quelques temps, pourrait vous donner des idées. Aujourd’hui, je pourrais peut-être déceler des problèmes dans certains d’entre eux que je n’avais pas vu lorsque j’ai écris cet article à l’époque en 2004 et notamment sur leur mauvaise utilisation éventuelle.
 
 De manière générale, soyez très prudent en essayant de mesurer une équipe avec des métriques. Utilisez des métriques pour suivre des choses que l’équipe devra regarder par la suite. En tout cas, vous ne devriez certainement pas du tout les utiliser pour comparer les équipes entre elles.
- 
+
 [^1]: TEC : travail en cours ou WIP (Work in progress) pour les lecteurs et lectrices préférant l’acronyme anglophone
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 1er épisode"
 date:   2016-12-14 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - retrospective
 ---
@@ -18,7 +18,7 @@ Si vous voulez quelques idées **d’exercices amusants** que vous pourriez util
 Un très bon exercice que j’ai pu utilisé dans l’une de mes dernières rétrospectives est celui qui s’appelle l’étoile de mer.
 J’ai découvert ce concept dans un [article](http://www.thekua.com/rant/2006/03/the-retrospective-starfish/) dans le blog de Patrick Kua qui est l’un de mes blogs préférés.
 
-À la place d’essayer de classer chaque réflexion dans l’une des deux catégories habituelles ‘Bien passé’ et ‘À améliorer’, l’étoile de mer comporte **5 catégories** : Continuer à faire, plus de, commencer à faire, arrêter de faire, moins de. 
+À la place d’essayer de classer chaque réflexion dans l’une des deux catégories habituelles ‘Bien passé’ et ‘À améliorer’, l’étoile de mer comporte **5 catégories** : Continuer à faire, plus de, commencer à faire, arrêter de faire, moins de.
 
 Le principal avantage, c’est le changement de point de vue. Parce que ces catégories sont en fait des actions, vous commencez dès lors à travailler d’une manière plus **orienté résultat**, à la place de vous arrêtez simplement à la phase de découverte. Par exemple, si vous n’aimez pas la durée des démos, vous pouvez écrire sur une note adhésive ‘Durée limitée des démos’ et l’afficher dans la section ‘Commencez à faire’.
 
@@ -44,5 +44,3 @@ Date de traduction : 14/12/2016
 ---
 
 {% include share_buttons.html %}
-
-

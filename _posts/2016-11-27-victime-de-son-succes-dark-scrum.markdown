@@ -3,7 +3,7 @@ layout: post
 title:  "Scrum, victime de son succès : le Dark Scrum"
 date:   2016-11-30 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - dark scrum
 ---
@@ -96,5 +96,3 @@ Date de traduction : 30/11/2016
 ---
 
 {% include share_buttons.html %}
-
-

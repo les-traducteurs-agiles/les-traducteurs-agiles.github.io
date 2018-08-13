@@ -2,7 +2,10 @@
 layout: post
 title:  "L'estimation est malfaisante"
 date:   2014-06-04 21:41:55
-categories: estimation scrum xp
+tags:
+- estimation
+- scrum
+- xp
 ---
 ## Dépassez l'obsession de l'estimation
 
@@ -10,7 +13,7 @@ categories: estimation scrum xp
 
 > L'ignorance peut vous nuire, surtout lorsque vous vous êtes convaincu que vous la connaissiez.
 
-L'application des valeurs, principes et pratiques agiles a apporté certaines améliorations à beaucoup d'équipes agiles - à la plupart des équipes agiles, je crois -. 
+L'application des valeurs, principes et pratiques agiles a apporté certaines améliorations à beaucoup d'équipes agiles - à la plupart des équipes agiles, je crois -.
 
 Ces équipes font mieux pour prévoir le moment où elles auront terminé, et mieux pour terminer  au moment où elles l'ont prévu. Elles décomposent les exigences dans un backlog, elles estiment la durée des items, et elles achèvent le contenu de ce backlog plutôt bien. Généralement, vers la fin du projet, elles sont plus proches d'avoir fini qu'elles ne l'étaient avant de devenir agiles.
 
@@ -23,7 +26,7 @@ Les équipes appliquant les idées agiles en tirent toujours quelques améliorat
 Certaines équipes font beaucoup mieux, et nous parlerons de ce qu'elles font plus tard. Les équipes ayant de bons résultats, sans être mirifiques, sont ici notre principale préoccupation, parce qu'il y a certaines particularités à ce qu'elles font, des particularités qui les empêchent encore (de se réaliser - NdT).
 
 Ces équipes sont meilleures qu'elles ne l'étaient, mais restent banales. Elles semblent avoir une préoccupation excessive pour un ou plusieurs des éléments suivants :
- 
+
  * Finir un backlog pré-défini;
  * Livrer tout ce qui leur a été demandé pour une date donnée;
  * Estimer ce qu'elles peuvent faire toutes les deux semaines et tenir leurs promesses;
@@ -155,7 +158,7 @@ Non, je suis sérieux. Pourquoi ne pas avoir un produit complet qui fera peu de 
 
 # Combien de travail devrions-nous accepter ce coup-ci ?
 
-Une équipe agile doit décider de la quantité de travail qu'elle accepte pour sa prochaine itération. Une manière de le faire est de regarder chaque élément de travail proposé et d'estimer combien de temps cela prendra pour le réaliser. Additionnez ces temps pour avoir un tour d'horizon rapide sur le backlog de l'itération proposé. 
+Une équipe agile doit décider de la quantité de travail qu'elle accepte pour sa prochaine itération. Une manière de le faire est de regarder chaque élément de travail proposé et d'estimer combien de temps cela prendra pour le réaliser. Additionnez ces temps pour avoir un tour d'horizon rapide sur le backlog de l'itération proposé.
 
 Cela peut être délicat d'additionner uniquement les temps. Aucune équipe ne peut travailler à la tâche huit heures par jours, vous devez donc décider comment ajuster. Une manière, est de suivre votre progression par rapport à vos estimations. Il pourrait être plus judicieux de considérer combien de temps vous passez réellement à travailler sur le sujet - c'est-à-dire, est-ce que cela vous prend vraiment quatre heures de travail pour le faire - et de considérer combien de temps s'est écoulé avant que vous ayez vos quatre heures dessus. Quelques fois cela peut prendre des jours d'avoir quatre heures de travail accompli.
 
@@ -163,9 +166,9 @@ Vous êtes sur une pente glissante ici, alors attention. Il sera tentant de dema
 
 Beaucoup d'idées existent sur comment estimer en utilisant quelque chose d'autre que la durée. Points, bonbons nounours, suite de Fibonacci, tailles de t-shirts. A l'origine, elles ont été inventés pour masquer l'aspect durée,  afin que l'encadrement ne soit pas tenté de mal utiliser les estimations. (Je le sais : j'étais là quand elles ont été inventés. En fait, j'ai peut-être inventé la méthode des points. Si je l'ai fait, j'en suis désolé maintenant.)
 
-Il y a une vrai bonne idée derrière ces méthodes, celle de comparer l'idée d'une fonctionnalité avec une autre et de réfléchir si elle est "grosse" ou "petite", et classifier ces fonctionnalités par groupe. Avec des mesures de durées que peuvent prendre des items similaires, une équipe peut apprendre à estimer assez rapidement et efficacement. 
+Il y a une vrai bonne idée derrière ces méthodes, celle de comparer l'idée d'une fonctionnalité avec une autre et de réfléchir si elle est "grosse" ou "petite", et classifier ces fonctionnalités par groupe. Avec des mesures de durées que peuvent prendre des items similaires, une équipe peut apprendre à estimer assez rapidement et efficacement.
 
-Rappelez-vous, pourtant... Nous faisons tout ceci pour décider combien de travail nous pouvons prendre en charge en une itération. Nous pourrions vouloir améliorer notre aptitude à faire cela, et bénéficier de la réflexion sur pourquoi ce que nous pensions être facile s'est révélé être difficile. Toutefois, à la fin de journée, les équipes en contemplant le travail (NdT : de la session d'estimation), discutent, se regardent les yeux dans les yeux et se disent "tout ça là", cela fait juste aussi bien que ceux qui passent du temps en numérologie. Mais souvent, elles font mieux, parce que le travail d'équipe et l'engagement sont plus puissants que du simple crachage de nombre. 
+Rappelez-vous, pourtant... Nous faisons tout ceci pour décider combien de travail nous pouvons prendre en charge en une itération. Nous pourrions vouloir améliorer notre aptitude à faire cela, et bénéficier de la réflexion sur pourquoi ce que nous pensions être facile s'est révélé être difficile. Toutefois, à la fin de journée, les équipes en contemplant le travail (NdT : de la session d'estimation), discutent, se regardent les yeux dans les yeux et se disent "tout ça là", cela fait juste aussi bien que ceux qui passent du temps en numérologie. Mais souvent, elles font mieux, parce que le travail d'équipe et l'engagement sont plus puissants que du simple crachage de nombre.
 
 Alors, quel est mon conseil ? En fait, il est assez simple. Il est probablement difficile à réaliser. Vous devez trouver votre propre voie, mais il y a deux voies valables vers lesquelles se diriger. La seconde étant bien meilleure que la première.
 
@@ -190,7 +193,7 @@ Cette approche raccourcit tous les cycles qui retardent l'obtention de valeur. E
 Oui, c'est dur de le faire. C'est pourquoi c'est mieux. Arrêtez d'estimer. Commencez à livrer.
 
 <p>&nbsp;</p>  
-  
+
 ---
 <p>&nbsp;</p>  
 > Ron Jeffries a développé des logiciels depuis plus longtemps que depuis la naissance de la plupart des gens vivants actuellement. Il est titulaire de diplômes supérieurs en mathématiques et en informatique, obtenus bien avant l'invention des entiers négatifs. Ses équipes ont construits des systèmes d'exploitations, des compilateurs, des systèmes de bases de données relationnelles, et une grande variété d'applications. Les logiciels de Ron ont généré un revenu d'environ un demi milliard de dollars, bien qu'il se demande pourquoi il n'a pas vu la couleur d'un seul billet.

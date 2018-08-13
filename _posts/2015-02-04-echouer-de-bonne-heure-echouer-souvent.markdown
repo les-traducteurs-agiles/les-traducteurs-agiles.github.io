@@ -2,7 +2,7 @@
 layout: post
 title:  "Échouer de bonne heure, échouer souvent"
 date:   2015-02-04 13:54:52
-categories: équipe
+tags: équipe
 ---
 
 Récemment, j'ai lu quelques livres relatifs aux expériences utilisateurs. En faisant cela, je suis tombé sur cette pépite :

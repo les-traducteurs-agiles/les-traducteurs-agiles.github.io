@@ -3,7 +3,7 @@ layout: post
 title:  "Comment cartographier les user stories de la mauvaise manière"
 date:   2015-10-25 21:00:55
 published: true
-categories: 
+tags: 
 - user-stories
 - pratique
 ---
@@ -40,7 +40,7 @@ J'ai commencé par poser des questions à nos experts métiers au sujet des pers
 
 Ensuite, j'ai demandé pour ce thème à chacun de se lever, de prendre un marqueur, quelques notes adhésives et de commencer à mettre des tâches utilisateurs sur une frise temporelle. Qu'est-ce que Sammy le commercial ferait d'abord ? Qu'est-ce qu'il ferait ensuite ? Nous savions que le thème tournait autour de la mise en place d'un nouveau plan 401(k), et donc que nous devrions organiser les tâches utilisateurs autour de ça.
 
-Personne ne s'est levé de sa chaise. Si seulement j'avais pu me rappeler de faire la répartition en petits groupes ! J'ai répété ma requête de manière plus assertive. Le _ScrumMaster_ s'est levé et est venu se joindre à moi. Personne d'autre ne s'est levé. Après coup, je pense que j'aurais dû faire la cartographie des stories sur la table de conférence à la place de la faire sur le tableau, mais sur le moment je n'y ai pas pensé. 
+Personne ne s'est levé de sa chaise. Si seulement j'avais pu me rappeler de faire la répartition en petits groupes ! J'ai répété ma requête de manière plus assertive. Le _ScrumMaster_ s'est levé et est venu se joindre à moi. Personne d'autre ne s'est levé. Après coup, je pense que j'aurais dû faire la cartographie des stories sur la table de conférence à la place de la faire sur le tableau, mais sur le moment je n'y ai pas pensé.
 
 Ayant abandonné le fait que les personnes se déplacent physiquement, j'ai posé la question, "Quelle est la première chose que Sammy le commercial ferait ?". Il va créer un plan 401(k) pour un employeur. C'était une approche en plusieurs étapes afin que la frise temporelle paraisse assez évidente. J'ai écris "Étape 1" sur une note adhésive et je l'ai mise sur le tableau blanc. Le commercial saisirait les informations concernant l'entreprise, puis sélectionnerait les options de contributions du plan, puis les fonds communs de placement ou les options "Aidez-moi à choisir", et ainsi de suite.
 

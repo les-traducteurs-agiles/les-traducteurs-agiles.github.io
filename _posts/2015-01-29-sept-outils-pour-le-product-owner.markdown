@@ -2,7 +2,9 @@
 layout: post
 title:  "7 outils pour le Product Owner"
 date:   2015-01-29 22:29:55
-categories: outil
+tags:
+- outil
+- product owner
 ---
 
 ![7 outils pour le Product Owner]({{ site.url }}assets/7_outils_po/7_outils_pour_le_product_owner.png)

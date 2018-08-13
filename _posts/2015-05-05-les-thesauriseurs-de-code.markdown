@@ -2,7 +2,10 @@
 layout: post
 title:  "Les thésauriseurs de code"
 date:   2015-05-05 22:00:53
-categories: equipe developpement refactoring
+tags:
+- équipe
+- développement
+- refactoring
 ---
 Avez-vous déjà vu un épisode de _Hoarders_ (Thésauriseurs [^1] [^2] en VF - NdT), ou un documentaire à propos d'un thésauriseur ? Des émissions de ce genre étaient assez populaires il y a quelques années. Elles montraient une tragédie, et un phénomène bien trop fréquent de personnes ayant perdu le contrôle sur leur espace de vie en le remplissant de tellement de bazar qu'il ne leur reste plus de place pour vivre.
 
@@ -14,7 +17,7 @@ Cherchez sur internet pour "Thésauriseurs" (Hoarders pour le nom de l'émission
 
 Si vous avez déjà vu une émission de ce genre, peut-être vous êtes vous demander comment quelqu'un pouvait vivre comme cela -- comment quelqu'un pouvait _choisir_ de vivre comme cela. Mais pensez-y. Ce n'est pas si difficile à comprendre. C'est facile de penser que toutes ces "affaires" que vous apportez dans votre maison apporte de la valeur à votre vie. Après tout, ce sont de nouvelles affaires. De nouveaux habits. De nouveaux appareils. De nouveaux meubles. De nouveaux livres. C'est un _bien_ ! Et un bien a de la valeur. Alors c'est facile de penser : "Plus il y a d'affaires, mieux c'est".
 
-Il est aussi facile de croire qu'_acquérir_ de nouvelles affaires est plus important que mettre de l'ordre dans de vielles affaires.  Après tout, mettre de l'ordre dans de vieilles affaires n'apportent pas de valeur. C'est acquérir de nouvelles affaires qui comptent. Donc, tout temps libre, efforts ou énergie disponibles seront consacrés à l'acquisition de nouvelles affaires. Mettre de l'ordre dans les vieilles affaires est un gaspillage. 
+Il est aussi facile de croire qu'_acquérir_ de nouvelles affaires est plus important que mettre de l'ordre dans de vielles affaires.  Après tout, mettre de l'ordre dans de vieilles affaires n'apportent pas de valeur. C'est acquérir de nouvelles affaires qui comptent. Donc, tout temps libre, efforts ou énergie disponibles seront consacrés à l'acquisition de nouvelles affaires. Mettre de l'ordre dans les vieilles affaires est un gaspillage.
 
 Enfin, une fois que le désordre à commencer à s'installer, il est facile de penser qu'il n'y aucun espoir que cela puisse être remis en ordre. Vous concluez rapidement qu'il est inutile de nettoyer quoi que soit parce que les efforts d'une journée, d'une semaine et même d'un mois seront insuffisants. Pour citer _le Chat chapeauté_  du Dr. Seuss : "... ce désordre est si important, et si imposant et si grand, que nous ne pouvons rien ramasser. Il n'y a rien à y faire !".
 
@@ -32,7 +35,7 @@ Nous avons un nom pour ce résultat. Nous l'appelons _code hérité_. Et ce term
 
 Qui doit nettoyer ce bordel horrible lorsque les thésauriseurs meurent ? Qui doit louer  les camions poubelles pour évacuer les centaines de tonnes de déchets ? Qui doit faire appel à une équipe de gestion des matières dangereuses pour désinfecter la maison ? Qui doit faire appel à une équipe de nettoyage pour frotter, nettoyer, peindre et réparer la maison ? Les enfants bien sûr. Ou si ce n'est pas les enfants, la communauté alors. L'héritage que laisse un thésauriseur est un héritage de saloperies, de déchets, de saleté, et un effort incommensurable est exigé pour que tout soit nettoyé. Du vivant du thésauriseur, son legs empire de jour en jour.
 
-Mais il n'est obligatoire que les héritages se passent comme cela. En effet, la plupart des gens aspirent à laisser un héritage de _mieux_. La plupart des gens veulent laisser quelque chose derrière eux qui rend la vie meilleure pour ceux qui suivent. En effet, pour la majorité des personnes, c'est l'oeuvre constante de toute une vie que d'améliorer ce qu'ils laisseront derrière eux, leur héritage. 
+Mais il n'est obligatoire que les héritages se passent comme cela. En effet, la plupart des gens aspirent à laisser un héritage de _mieux_. La plupart des gens veulent laisser quelque chose derrière eux qui rend la vie meilleure pour ceux qui suivent. En effet, pour la majorité des personnes, c'est l'oeuvre constante de toute une vie que d'améliorer ce qu'ils laisseront derrière eux, leur héritage.
 
 Un _vrai_ héritage _s'améliore_ avec le temps.
 
@@ -40,11 +43,11 @@ Un _vrai_ héritage _s'améliore_ avec le temps.
 
 Et n'est-ce pas ce que font les humains ? Est-ce que les humains ne rendent pas les choses meilleures avec le temps ? Si vous avez dans le garage une voiture ancienne que vous êtes en train de retaper, n'espérez-vous pas que son état s'améliore de plus en plus chaque jour ? Si vous êtes en train de peindre une peinture, n'attendez-vous pas que la peinture soit de mieux en mieux avec le temps ?
 
-Pouvez-vous imaginer embaucher un artiste, un mécanicien, un ingénieur, un docteur, un avocat ou qui que ce soit, dont le fruit du travail serait de pire en pire au fur et à mesure qu'ils y travaillent ? Comment rendre les choses de pire en pire, jour après jour, peut être le comportement d'un professionnel ? Comment cela peut-il être le comportement d'un développeur ? 
+Pouvez-vous imaginer embaucher un artiste, un mécanicien, un ingénieur, un docteur, un avocat ou qui que ce soit, dont le fruit du travail serait de pire en pire au fur et à mesure qu'ils y travaillent ? Comment rendre les choses de pire en pire, jour après jour, peut être le comportement d'un professionnel ? Comment cela peut-il être le comportement d'un développeur ?
 
 Une équipe professionnelle de développeurs rend son code meilleur chaque jour. La qualité du code s'améliore avec le temps. C'est comme cela que vous savez qu'ils sont professionnels. Les professionnels rendent les choses meilleures avec le temps. Le code hérité laissé par des professionnels sera plus propre, et l'ancien code sera plus propre parce qu'il a fait l'objet d'une longue attention par ces professionnels.
 
-Rendez-vous le code meilleur chaque jour ? Ou laissez-vous chaque jour le code devenir pire que la veille ? 
+Rendez-vous le code meilleur chaque jour ? Ou laissez-vous chaque jour le code devenir pire que la veille ?
 
 Est-ce que votre travail laisse un héritage de valeur, ou ne faites-vous que bâtir un foutoir monstrueux que quelqu'un d'autre devra nettoyer ?
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Présentation de la cartographie des user stories"
 date:   2015-10-12 21:00:55
 published: true
-categories: 
+tags: 
 - user-stories
 - pratique
 ---
@@ -49,4 +49,3 @@ Date de traduction : 12/10/2015
 ---
 
 {% include share_buttons.html %}
-

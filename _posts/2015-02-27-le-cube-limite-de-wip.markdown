@@ -2,7 +2,7 @@
 layout: post
 title:  "Le cube limite de WIP"
 date:   2015-02-27 20:00
-categories: outil
+tags: outil
 ---
 
 ![Le cube limite de WIP](http://conceptcubes.files.wordpress.com/2014/06/skc3a4rmavbild-2014-06-26-kl-09-42-07.png?w=180&h=181)

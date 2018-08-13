@@ -3,7 +3,7 @@ layout: post
 title:  "Où est le problème avec “Où est le problème avec scrum”"
 date:   2016-06-19 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 ---
 

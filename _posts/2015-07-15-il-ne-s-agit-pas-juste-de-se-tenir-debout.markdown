@@ -3,17 +3,17 @@ layout: post
 title:  "Il ne s'agit pas juste de se tenir debout : Patterns pour les réunions du stand-up quotidien"
 date:   2015-07-25 20:10:53
 published: true
-categories: 
+tags: 
 - agile
 - stand-up
 ---
 Les réunions quotidiennes debout sont devenues un rituel habituel pour beaucoup d'équipes, et tout spécifiquement dans le développement agile de logiciels. Toutefois, il y a beaucoup de détails subtils distinguant des stand-ups efficaces, de ceux occasionnant une perte de temps.
 
-## Nous nous mettons debout pour maintenir la brièveté de la réunion. 
+## Nous nous mettons debout pour maintenir la brièveté de la réunion.
 
 La réunion quotidienne debout (aussi connu sous le nom de "mêlée quotidienne", de "rassemblement quotidien", "tournée des popotes du matin", etc.) est simple à décrire :
 
-L'ensemble de l'équipe se réunit tous les jours pour un rapide point d'avancement. Nous nous mettons debout pour avoir une réunion courte. 
+L'ensemble de l'équipe se réunit tous les jours pour un rapide point d'avancement. Nous nous mettons debout pour avoir une réunion courte.
 
 C'est tout
 
@@ -25,7 +25,7 @@ Pour des pratiquants avertis, lorsque les choses se passent mal lors du stand-up
 
 Pour les novices, lorsque les choses vont mal, il est peu probable qu'ils sauront quoi faire ... et il est beaucoup plus probable que sans assistance, ils abandonneront tout simplement cette pratique.
 
-Cela serait vraiment dommage étant donné que les stand-ups apportent une réelle plus-value aux équipes. 
+Cela serait vraiment dommage étant donné que les stand-ups apportent une réelle plus-value aux équipes.
 
 Afin de corriger cela, il est important de rendre visible les bénéfices et les conséquences des pratiques régulières des stand-ups quotidiens. Ces patterns de réunion de stand-ups quotidiens peuvent aider les praticiens les moins expérimentés et permettre aussi aux praticiens expérimentés de se rappeler des théories sur lesquelles se basent leur intuition.
 
@@ -37,7 +37,7 @@ Le responsable de l'équipe, remarquant que l'activité auprès du mur a cessé,
 
 L'un des membres de l'équipe s'avance pour parler de la carte la plus à droite du tableau qui est sur le point d'être déployée. Il continue d'avoir quelques problèmes avec le script de déploiement. Une autre personne de l'équipe indique qu'elle peut l'aider à résoudre cela. La séquence continue de droite à gauche, de haut en bas, les personnes décrivent ce qu'il se passe pour chaque élément, et les autres marmonnent s'ils peuvent aider à résoudre les obstacles. Sur le côté, le responsable de l'équipe note les obstacles levés sur le tableau d'amélioration.
 
-A un moment, il y a une discussion un peu plus longue explorant la manière de gérer un problème particulier. Remarquant le piège, le responsable de l'équipe lève un doigt subtilement pour y mettre fin ... juste avant qu'une des personnes présentes suggèrent que cette discussion devrait être évoquée hors stand-up. 
+A un moment, il y a une discussion un peu plus longue explorant la manière de gérer un problème particulier. Remarquant le piège, le responsable de l'équipe lève un doigt subtilement pour y mettre fin ... juste avant qu'une des personnes présentes suggèrent que cette discussion devrait être évoquée hors stand-up.
 
 Un peu plus tard, toutes les cartes ont été passées en revue et le responsable de l'équipe demande si quelqu'un d'autre a quelque chose d'autre à évoquer. Quelqu'un évoque une idée intéressante qu'elle a eu à propos d'une nouvelle fonctionnalité qui pourrait rendre obsolète une partie de ce qui a été planifiée. Cela pique l'intérêt du responsable produit qui a toujours essayer d'être présent aux stand-ups et ils se mettent d'accord pour en parler.
 
@@ -67,7 +67,7 @@ Bon départ, Amélioration, Focalisation, Équipe, Situation
 >
 > [--  Brian Marick, "Latour 3 : Anthrax et stand-ups"](http://www.exampler.com/blog/2007/11/06/latour-3-anthrax-and-standups/)
 
-Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigüe de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientées sur le travail de l'activité mais sans direction commune. 
+Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigüe de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientées sur le travail de l'activité mais sans direction commune.
 
 ### Amélioration
 
@@ -96,7 +96,7 @@ La **situation** est le fait de répondre à deux questions :
 * Comment est ce que le travail progresse ?
 * Y'a t'il autre chose d'intéressant que l'équipe devrait savoir ?
 
-Il doit surement exister d'autres moyens pour répondre à ces questions mais le stand-up quotidien est une opportunité particulière pour s'assurer que des informations importantes ne passent à travers les mailles du filet. 
+Il doit surement exister d'autres moyens pour répondre à ces questions mais le stand-up quotidien est une opportunité particulière pour s'assurer que des informations importantes ne passent à travers les mailles du filet.
 
 ## Patterns des stand-ups quotidien
 
@@ -108,7 +108,7 @@ J'ai organisé les patterns pour répondre aux questions suivantes :
 * Où et quand ?
 * Comment conservons-nous un niveau d'énergie élevé ?
 * Comment encourageons-nous l'autonomie ?
-    
+
 ## Qui assiste ?
 
 ### Tout le monde
@@ -153,7 +153,7 @@ _Mais_
 
 _**Aussi connu sous le nom des :**_ trois questions   
 
-Certaines personnes sont volubiles et tendent à s'égarer au point de faire **le récit d'une histoire**. Certaines personnes veulent s'engager dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps ont tendance à avoir un niveau d'énergie faible et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance à devenir distraits. 
+Certaines personnes sont volubiles et tendent à s'égarer au point de faire **le récit d'une histoire**. Certaines personnes veulent s'engager dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps ont tendance à avoir un niveau d'énergie faible et les participants qui ne sont pas directement concernées par une discussion prolongée auront tendance à devenir distraits.
 
 _Par conséquent_
 
@@ -194,10 +194,10 @@ Jonathan Rasmussen propose d'utiliser d'autres termes pour changer la dynamique 
 > Répondre à ce type de question change complètement la dynamique du stand-up. À la place de se tenir debout et de donner une information, maintenant vous montez sur scène et déclarez votre intention à l'univers.
 >  
 > [-- Jonathan Rasmusson, Le Samouraï agile Samurai](http://www.amazon.com/gp/product/1934356581?ie=UTF8&tag=martinfowlerc-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356581)
-    
+
 _Mais_
 
-La structure n'est pas aussi importante que l'information donnée par les réponses aux questions. Si l'information est donnée avec un protocole moins structuré, il n'est pas essentiel de coller à une check-list. Au fur et à mesure que l'équipe mûrit, vous pouvez vouloir en ajuster le mode d'organisation, qui est le reflet de la manière dont ce pattern a déjà évolué. 
+La structure n'est pas aussi importante que l'information donnée par les réponses aux questions. Si l'information est donnée avec un protocole moins structuré, il n'est pas essentiel de coller à une check-list. Au fur et à mesure que l'équipe mûrit, vous pouvez vouloir en ajuster le mode d'organisation, qui est le reflet de la manière dont ce pattern a déjà évolué.
 
 De manière plus générale, la question est de savoir si **Hier Aujourd'hui Obstacles** génère une focalisation trop grande sur les engagements personnels en comparaison à l'attention nécessaire aux choses qui le méritent ... ce qui nous conduit à **Parcourir le tableau**.
 
@@ -246,7 +246,7 @@ L'équipe devrait savoir sans aucune intervention, qui doit parler en premier.
 
 _Par conséquent_
 
-Adoptez **dernier arrivé, premier à parler**. C'est une règle simple qui a aussi l'avantage d'encourager les personnes à être ponctuelles pour le stand-up. 
+Adoptez **dernier arrivé, premier à parler**. C'est une règle simple qui a aussi l'avantage d'encourager les personnes à être ponctuelles pour le stand-up.
 
 _Mais_
 
@@ -266,7 +266,7 @@ Avec des mécanismes simples, prévisibles et ordonnés (par exemple **chacun so
 
 _Par conséquent_
 
-Introduisez un mécanisme d'ordonnancement imprévisible, comme passer un témoin pour parler (par exemple une balle) pour déterminer qui devra parler ensuite. Avoir un témoin pour parler simplifie aussi la décision de qui doit parler en premier étant donné qu'il s'agira de la personne qui aura récupéré le témoin (ou la première à qui le témoin aura été passé). 
+Introduisez un mécanisme d'ordonnancement imprévisible, comme passer un témoin pour parler (par exemple une balle) pour déterminer qui devra parler ensuite. Avoir un témoin pour parler simplifie aussi la décision de qui doit parler en premier étant donné qu'il s'agira de la personne qui aura récupéré le témoin (ou la première à qui le témoin aura été passé).
 
 Passer quelque chose dans l'assemblée ajoute un peu d'amusement dans le rituel du stand-up quotidien et pourra servir ainsi de bon mécanisme viral pour les équipes qui observent.
 
@@ -300,7 +300,7 @@ _**Connu aussi sous le nom de :**_ Parcourir le mur
 >      
 > [-- Dave Nicolette, "Un format alternatif pour le stand-up quotidien"](http://web.archive.org/web/20090611160352/http://dnicolet1.tripod.com/%20agile/index.blog?entry_id=1900488)
 
-Les gens étant plus focalisés à être occupés qu'à faire avancer les travaux, vous avez donc changé pour un modèle **du point de vue des travaux** plutôt que les personnes, toutefois même avec l'item au centre du stand-up, il reste encore parfois difficile de comprendre ce qu'il se passe lors de l'utilisation de mécanismes d'ordonnancement tel que **chacun son tour** ou **passer le témoin**. 
+Les gens étant plus focalisés à être occupés qu'à faire avancer les travaux, vous avez donc changé pour un modèle **du point de vue des travaux** plutôt que les personnes, toutefois même avec l'item au centre du stand-up, il reste encore parfois difficile de comprendre ce qu'il se passe lors de l'utilisation de mécanismes d'ordonnancement tel que **chacun son tour** ou **passer le témoin**.
 
 _Par conséquent_
 
@@ -330,7 +330,7 @@ Nous ne voulons pas non plus que le point quotidien exige une coordination exag�
 
 _Par conséquent_
 
-Faisons cela **là où le travail se fait**, pas dans une salle de réunion. Si vous avez un "mur de story" ou un "tableau Kanban", retrouvez-vous devant. 
+Faisons cela **là où le travail se fait**, pas dans une salle de réunion. Si vous avez un "mur de story" ou un "tableau Kanban", retrouvez-vous devant.
 
 _Mais_
 
@@ -338,7 +338,7 @@ D'autres personnes à côté peuvent trouver le bruit de la réunion gênant. Ce
 
 ### Même endroit, même heure
 
-Nous voulons que l'équipe ait un sentiment de propriété vis-à-vis du stand-up. Nous voulons aussi que les parties intéressées puissent passer observer un stand-up pour éviter de planifier une autre réunion de point de situation. Cela est difficile si n'importe quel membre de l'équipe est autorisé à changer l'heure ou le lieu du stand-up. 
+Nous voulons que l'équipe ait un sentiment de propriété vis-à-vis du stand-up. Nous voulons aussi que les parties intéressées puissent passer observer un stand-up pour éviter de planifier une autre réunion de point de situation. Cela est difficile si n'importe quel membre de l'équipe est autorisé à changer l'heure ou le lieu du stand-up.
 
 _Par conséquent_
 
@@ -392,7 +392,7 @@ L'équipe doit équilibrer la proximité avec les zones de confort personnel. M�
 
 ### Debout
 
-Certaines personnes sont bavardes et ont tendance à s'égarer dans le **récit d'une histoire**. D'autres personnes veulent se lancer dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps tendent à être faiblardes et les participants qui ne sont pas directement concernés par une discussion prolongée auront tendance à devenir distraits. 
+Certaines personnes sont bavardes et ont tendance à s'égarer dans le **récit d'une histoire**. D'autres personnes veulent se lancer dans la **résolution de problème** tout de suite après avoir entendu parler d'un problème. Les réunions qui prennent trop de temps tendent à être faiblardes et les participants qui ne sont pas directement concernés par une discussion prolongée auront tendance à devenir distraits.
 
 _Par conséquent_
 
@@ -400,7 +400,7 @@ Faites en sorte que tous les participants soient **debout** pendant la réunion.
 
 _Mais_
 
-La station debout provoque généralement un raccourcissement de la durée des réunions, mais il n'y a aucune garantie qu'elles se raccourciront jusqu'à la durée optimale. Les gens peuvent apprendre à s'accommoder de l'inconfort au lieu de donner des réponses plus appropriées. De même si les réunions ne prenaient pas tant de temps ou si elles n'étaient pas hors-sujet, faire la réunion debout serait un rituel inutile. 
+La station debout provoque généralement un raccourcissement de la durée des réunions, mais il n'y a aucune garantie qu'elles se raccourciront jusqu'à la durée optimale. Les gens peuvent apprendre à s'accommoder de l'inconfort au lieu de donner des réponses plus appropriées. De même si les réunions ne prenaient pas tant de temps ou si elles n'étaient pas hors-sujet, faire la réunion debout serait un rituel inutile.
 
 ### Quinze minutes ou moins
 
@@ -454,7 +454,7 @@ Les membres de l'équipe font un **compte rendu au chef**, c'est à dire, qu'ils
 
 _Par conséquent_
 
-**Faites tourner le facilitateur**. Faites tourner la prise en charge du rôle ayant la responsabilité de s'assurer de la participation des personnes au stand-up et de l'application des règles communément acceptées. 
+**Faites tourner le facilitateur**. Faites tourner la prise en charge du rôle ayant la responsabilité de s'assurer de la participation des personnes au stand-up et de l'application des règles communément acceptées.
 
 _Mais_
 
@@ -494,7 +494,7 @@ Il y a d'autres patterns qui répondent à ce problème tel qu'imposer une amend
 
 ### La réunion du stand-up commencent la journée... tard
 
-Parce que le stand-up est vu comme le démarrage de la journée de travail, aucun travail n'est fait avant le stand-up. Selon l'heure tardive le matin à laquelle le stand-up se tient, cela peut avoir un impact significatif sur les heures de travail disponibles. Cela mène tout droit à **n'utilisez pas le stand-up pour commencer la journée**. 
+Parce que le stand-up est vu comme le démarrage de la journée de travail, aucun travail n'est fait avant le stand-up. Selon l'heure tardive le matin à laquelle le stand-up se tient, cela peut avoir un impact significatif sur les heures de travail disponibles. Cela mène tout droit à **n'utilisez pas le stand-up pour commencer la journée**.
 
 ### Socialisation
 
@@ -558,7 +558,7 @@ Enfin, je voudrais remercier toutes les personnes avec lesquelles j'ai pu partic
 
 ### Révisions
 
-29 août 2011 : Revue générale. Mise en valeur de l'exercice de style parcourir-le-tableau 
+29 août 2011 : Revue générale. Mise en valeur de l'exercice de style parcourir-le-tableau
 
 15 janvier 2007 : Révision complète
 

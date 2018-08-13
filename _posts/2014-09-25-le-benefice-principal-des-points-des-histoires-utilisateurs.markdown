@@ -2,7 +2,7 @@
 layout : post
 title :  "Le Bénéfice principal des points des histoires utilisateurs"
 date :   2014-09-09
-categories : estimation
+tags : estimation
 ---
 
 ##Le Bénéfice principal des points des histoires utilisateurs

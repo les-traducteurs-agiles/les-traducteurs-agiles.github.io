@@ -3,7 +3,7 @@ layout: post
 title:  "Devrions-nous estimer les projets ... en fait ?"
 date:   2015-09-20 21:00:55
 published: true
-categories: 
+tags: 
 - estimation
 ---
 
@@ -13,7 +13,7 @@ categories:
 
 ## Introduction
 
-Après en "avoir eu l'intuition" pendant une année ou deux, et avoir passé plusieurs années à faire des estimations ou à travailler sur les estimations des autres, j'en suis finalement arrivé à la conclusion que l'utilisation de l'estimation sur tout type de projet est non seulement une perte de temps mais est réellement néfaste. 
+Après en "avoir eu l'intuition" pendant une année ou deux, et avoir passé plusieurs années à faire des estimations ou à travailler sur les estimations des autres, j'en suis finalement arrivé à la conclusion que l'utilisation de l'estimation sur tout type de projet est non seulement une perte de temps mais est réellement néfaste.
 
 Je suis tout à fait conscient que c'est une déclaration extrêmement polémique donc je vais essayer d'être aussi rigoureux que possible dans mon explication sur comment je suis arrivée à cette conclusion à travers une expérience, des données et sa validation.  
 En effet, lorsqu'il y a quelques mois, j'ai lu [l'article de Vasco Duarte](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html), je l'ai vu "pointer"[^1] le bout de son nez (aucun jeu de mots là-dessus) mais j'ai aussi pesé les mérites de l'utilisation de l'estimation en story points dans l'objectif de :
@@ -37,9 +37,9 @@ Si le budget est fixé, alors il n'y aucune manière de "dépasser le budget" af
 
 _Quelques temps plus tôt, j'avais discuté avec un membre de l'équipe et il se plaignait de ressentir de la pression pour augmenter la vélocité. Je lui ai demandé d'où cette pression venait et il me répondit qu'elle provenait du fait que le projet puisse échouer si l'équipe n'était pas capable de livrer davantage de stories plus rapidement. En réalité, personne ne demandait spécifiquement à l'équipe de livrer plus, mais il y avait une pression implicite de le faire parce qu'elle savait que le budget s'épuisait. Cette façon de voir les choses provient d'années de projets mal financés, de marches forcées, de focalisation sur la productivité plutôt que sur la qualité et de projets qui ont été étouffés ou ayant échoués._
 
-* **Demander aux équipes d'estimer la durée de leur travail (ou du nombre de points qu'elles livreront en un sprint ou pour une version, ce qui revient au même ...) a des connotations laissant entendre que leur travail est mesuré par une tierce partie (le responsable), créant un environnement de peur et de manipulation de chiffres pour refléter ce qui est désiré plutôt que pour ce qui est prévisible** 
+* **Demander aux équipes d'estimer la durée de leur travail (ou du nombre de points qu'elles livreront en un sprint ou pour une version, ce qui revient au même ...) a des connotations laissant entendre que leur travail est mesuré par une tierce partie (le responsable), créant un environnement de peur et de manipulation de chiffres pour refléter ce qui est désiré plutôt que pour ce qui est prévisible**
 
-Pour accroître la vélocité, l'équipe doit simplement surestimer les stories pour donner l'illusion de livrer plus. Ils ne le font peut être pas consciemment mais cela peut arriver inconsciemment. Le chef de projet leur fait alors une tape dans le dos, mais tout ce qui s'est passé c'est que la même quantité de logiciel fonctionnel "fini" a été livré. 
+Pour accroître la vélocité, l'équipe doit simplement surestimer les stories pour donner l'illusion de livrer plus. Ils ne le font peut être pas consciemment mais cela peut arriver inconsciemment. Le chef de projet leur fait alors une tape dans le dos, mais tout ce qui s'est passé c'est que la même quantité de logiciel fonctionnel "fini" a été livré.
 
 Le moment est venu d'avoir et d'utiliser de vraies données pour donner l'image de la progression réelle, qu'elle soit bonne ou mauvaise.
 
@@ -53,7 +53,7 @@ Dès que nous introduisons le mot "estimation", l'attitude par défaut est de pe
 
 Réponse courte - vous ne devriez pas. Si vous n'avez pas une date butoir ferme pour votre projet (par exemple le 1er jour du Grand Prix pour une application sur le Grand Prix), vous aurez un budget pour votre projet (fixé par le PMO ou par le client externe) à partir duquel vous pourrez déterminer une date butoir. La chose maline à faire est alors de planifier une version intermédiaire (disons à mi-chemin) où vous pourrez jauger de la façon  dont le projet se déroule sur la base de la mesure d'un logiciel qui fonctionne.
 
-Par exemple, si votre budget vous permet d'avoir assez d'argent pour dix sprints de 2 semaines (avec une équipe dédiée à 100 %),  vous devriez supposer, de manière évidente, que votre date de mise en production sera dans un délai de 20 semaines. Mais l'objectif devrait être d'avoir un logiciel opérationnel en environnement de production dans un délai de 2 semaines (après le sprint 1). Vous devriez alors itérer sur le produit, permettre aux exigences (le périmètre) d'émerger et de donner la direction que le produit prendra, et prendre le temps de réexaminer après le sprint 5. 
+Par exemple, si votre budget vous permet d'avoir assez d'argent pour dix sprints de 2 semaines (avec une équipe dédiée à 100 %),  vous devriez supposer, de manière évidente, que votre date de mise en production sera dans un délai de 20 semaines. Mais l'objectif devrait être d'avoir un logiciel opérationnel en environnement de production dans un délai de 2 semaines (après le sprint 1). Vous devriez alors itérer sur le produit, permettre aux exigences (le périmètre) d'émerger et de donner la direction que le produit prendra, et prendre le temps de réexaminer après le sprint 5.
 
 Ces choses ne sont pas prévisibles initialement - l'estimation va vous balancer un périmètre gigantesque (les attentes) qui ne sera pas livré et qui génèrera un temps d'analyse inutile (argent) et de la pression.
 
@@ -99,7 +99,7 @@ Pour résumer :
 * Utilisez des données historiques (comptage des stories) pour prévoir la livraison du périmètre à une date donnée
 * Utilisez l'estimation implicite en juste-à-temps (la décomposition de stories lors d'un _sprint planning_) et les données historiques pour estimer le coût (ROI) de livraison d'une story
 
-Je n'aime pas supposer, mais je prédis que ne pas estimer vos projets rendra le succès beaucoup plus certain :) 
+Je n'aime pas supposer, mais je prédis que ne pas estimer vos projets rendra le succès beaucoup plus certain :)
 
 ---
 Auteur : [Neil Killick](https://plus.google.com/u/0/+NeilKillick/about)  
@@ -118,4 +118,3 @@ Date de traduction : 20/09/2015
 ---
 
 {% include share_buttons.html %}
-

@@ -3,12 +3,12 @@ layout: post
 title:  "Pourquoi je préfère la planification pilotée par l’engagement"
 date:   2016-11-27 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - planification
 ---
 
-Ces dernières semaines, j’ai décris deux approches alternatives de la planification de sprint : 
+Ces dernières semaines, j’ai décris deux approches alternatives de la planification de sprint :
 
 <div align="right" style="float:right; padding-left:30px" >
   <img title="Main" src="{{ site.url }}assets/mountain_goat/boxer-tattoos.jpg" />

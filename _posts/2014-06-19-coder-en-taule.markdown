@@ -2,7 +2,10 @@
 layout: post
 title:  "Coder en taule"
 date:   2014-06-19 18:54:55
-categories: equipe scrum pratique
+tags:
+- équipe
+- scrum
+- pratique
 ---
 Mon fils, Micah (`@slagyr`), et moi, avions prévu de voler samedi matin à bord de son _Archer_ ; mais la météo nous a répondu "Non.". Donc, nous avons dû nous rabattre sur la routine, trop bien connue, du départ la veille au soir, des aéroports, des vol commerciaux, des voitures de locations, des chambres d'hôtels. Sigh.
 
@@ -18,7 +21,7 @@ Puis retentit alors un signal sonore, et une solide porte à barreaux s'ouvre. N
 
 Nous traversons la cour vers une autre porte blindée dont le signal sonore retentit alors que nous nous approchons. Nous entrons et nous nous rassemblons devant un point de contrôle, où un officier derrière une vitre regarde avec attention tous nos badges. L'officier n'a pas l'air content. Il n'attendait pas une douzaine et demi de personnes. Il décroche son téléphone, visiblement ennuyé.
 
-Pendant que nous attendons dans le couloir, je vois une porte fermée avec une grande vitre. Il y a plusieurs grandes vitres de chaque côté de la porte. Toutes ces vitres montrent chaque côté de la pièce à l'intérieure. C'est la pièce visiteur. Elle est large, avec tables, chaises et distributeurs automatiques. Elle ressemble à une salle à manger de lycée. Je vois une des jeunes mères, et la vieille femme, attendant là, seules. Un homme et une femme assis à une table, se caressent la main, se sourient et se regardent l'un l'autre, se racontant des petits mots doux. Il porte le bleu de la prison. 
+Pendant que nous attendons dans le couloir, je vois une porte fermée avec une grande vitre. Il y a plusieurs grandes vitres de chaque côté de la porte. Toutes ces vitres montrent chaque côté de la pièce à l'intérieure. C'est la pièce visiteur. Elle est large, avec tables, chaises et distributeurs automatiques. Elle ressemble à une salle à manger de lycée. Je vois une des jeunes mères, et la vieille femme, attendant là, seules. Un homme et une femme assis à une table, se caressent la main, se sourient et se regardent l'un l'autre, se racontant des petits mots doux. Il porte le bleu de la prison.
 
 L'officier nous fait signe et nous entrons dans la prison. C'est austère, comme une usine des années 1940. C'est cloîtré comme un pensionnat. Les plafonds sont hauts et fonctionnels. Une odeur d'huile et d'antiseptique, comme si nous étions dans un hôpital pour mécanos. Il y a des radiateurs démodés, hors de portée, en haut des murs. Il y a des ventilateurs démodés aussi -- qui ne fonctionnent pas aujourd'hui. Il y a des panneaux d'informations sur les murs, avec des instructions sur ce qu'il ne faut pas faire. D'autres panneaux avec des caractères plus amicaux, nous font part des évènements à venir, ou des programmes auxquels s'inscrire.
 
@@ -30,7 +33,7 @@ Nous nous asseyons en cercle. Le cercle n'est pas très bien équilibré. Nous, 
 
 L'âge des visiteurs se répartit d'une vingtaine d'années au début de la soixantaine environ. Avec une distribution légèrement accentuée vers la tranche d'âge la plus jeune. Trois jeunes femmes sont présentes dans notre groupe. L'un d'entre nous est noir. Les autres, à mes yeux, sont caucasiens ; enfin pour deux d'entre nous, l'anglais est la seconde langue. Nous sommes tous des geeks. Nous sommes ici pour écrire du code.
 
-Dan suggère que nous nous présentions. Ezra, un détenu noir d'une trentaine d'années, avec un regard engageant, et un grand sourire quelque peu déprécié par une dent manquante, l'interrompt et nous propose un jeu-de-nom auxquels ils jouent dans certains des autres programmes internes. Le jeu prend 30 minutes à jouer, mais c'est un franc succès. A sa fin, les trente-sept participants connaissent les prénoms des autres. 
+Dan suggère que nous nous présentions. Ezra, un détenu noir d'une trentaine d'années, avec un regard engageant, et un grand sourire quelque peu déprécié par une dent manquante, l'interrompt et nous propose un jeu-de-nom auxquels ils jouent dans certains des autres programmes internes. Le jeu prend 30 minutes à jouer, mais c'est un franc succès. A sa fin, les trente-sept participants connaissent les prénoms des autres.
 
 Dan explique que certains des détenus codent déjà depuis quelques temps ; d'autres seulement depuis quelques semaines. Les détenus sont autorisés à 6 heures par semaine d'ordinateur. Pas d'internet. Pas de google. Pas de téléchargements de logiciels libres. Pas de StackOverflow.
 
@@ -52,7 +55,7 @@ Un officier interrompt nos joyeux débats. C'est l'appel. Nous, visiteurs, deven
 
 Une nouvelle session de codage. Son nom est Will. Intelligent. Un bosseur. Les tests passent. Le code est refactoré. Le temps file.
 
-J'ai besoin d'aller aux toilettes. Impossible d'y aller seul. D'autres veulent y aller aussi. Nous nous faisons escorter le long du couloir. A ma droite, il y a les toilettes des prisonniers. Des vitres sans teints ! Dix mètres plus loin, nous arrivons à un panneau avec de grosses lettres rouges. STOP. VOUS ALLEZ ÊTRE ENREGISTRÉS. Ce n'est pas de bonne augure, mais notre escorte nous fait passer. Puis, sur la droite, une porte, sans fenêtre. TOILETTES HOMMES - RESERVÉ AU PERSONNEL. Il s'agit d'une porte tout à fait ordinaire de toilettes pour hommes, comme vous pourriez en trouver d'autre dans n'importe quelle environnement industriel. 
+J'ai besoin d'aller aux toilettes. Impossible d'y aller seul. D'autres veulent y aller aussi. Nous nous faisons escorter le long du couloir. A ma droite, il y a les toilettes des prisonniers. Des vitres sans teints ! Dix mètres plus loin, nous arrivons à un panneau avec de grosses lettres rouges. STOP. VOUS ALLEZ ÊTRE ENREGISTRÉS. Ce n'est pas de bonne augure, mais notre escorte nous fait passer. Puis, sur la droite, une porte, sans fenêtre. TOILETTES HOMMES - RESERVÉ AU PERSONNEL. Il s'agit d'une porte tout à fait ordinaire de toilettes pour hommes, comme vous pourriez en trouver d'autre dans n'importe quelle environnement industriel.
 
 Déjeuner. Pizza. Plein, plein de pizzas et de boissons gazeuses. Certains des gars de PNN (The Prison News Network - NdT : la chaîne d'informations de la prison, la CNN de la taule) veulent faire une interview avec nous. Ils nous font traverser le couloir vers leur studio. Micah et moi, nous nous asseyons devant un fond vert. On nous met un micro. Un cameraman et un présentateur nous posent des questions à propos du mouvement agile et de l'artisanat logiciel (Software Craftsmanship, http://manifesto.softwarecraftsmanship.org/#/fr-fr - NdT).
 

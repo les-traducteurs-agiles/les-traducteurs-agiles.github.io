@@ -3,11 +3,11 @@ layout: post
 title:  "De la valeur des graphiques de burndown et de burnup"
 date:   2016-12-03 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 ---
 
-Récemment, j’ai rencontré une équipe qui était préoccupée à propos sa vélocité. D’après leur responsable, elle était toujours “en retard”. 
+Récemment, j’ai rencontré une équipe qui était préoccupée à propos sa vélocité. D’après leur responsable, elle était toujours “en retard”.
 
 J’ai donc demandé aux membres de l’équipe ce qu’ils mesuraient et comment. Ils m’ont répondu qu’à chaque itération, ils mesuraient le _burndown_ et plus précisément le nombre de points qu’ils pouvaient revendiquer à chaque story. Pourquoi ? Parce les stories sur lesquelles ils s’“engageaient” à chaque itération n’étaient pas toujours terminées par l’équipe.
 
@@ -51,7 +51,7 @@ Quand j’observe ce nombre points de stories finies sans droite idéale, j’y 
 
 Quand je vois ce _burnup_, je peux dire qu’à partir du jour 3, nous sommes “largués” par rapport à là où nous voudrions être. Au jour 5, je sais que nous pourrons pas “rattraper” à temps. Comme tout personne membre de l’équipe, je peux signaler cela comme étant un obstacle lors de la mêlée quotidienne. Si je suis un responsable - peu importe le domaine - , je mettrai cela sur ma liste d’éléments à aborder pour la rétrospective, si cela n’est pas résolu d’ici là.
 
-Peut être, est-ce simplement la manière dont mon cerveau fonctionne. J’aime voir là où nous allons et le temps que cela va nous prendre pour y aller. Cela m’intéresse de savoir ce que nous avons pu faire, mais c’est le passé. Je ne peux pas m’occuper du passé si ce n’est pour faire une rétrospective. Par contre, je peux m’occuper du futur et dire “Est-ce qu’il y a quelque chose que nous pouvons faire aujourd’hui pour nous aider à accomplir ce que nous pensions pouvoir faire pendant cette période de temps ?” 
+Peut être, est-ce simplement la manière dont mon cerveau fonctionne. J’aime voir là où nous allons et le temps que cela va nous prendre pour y aller. Cela m’intéresse de savoir ce que nous avons pu faire, mais c’est le passé. Je ne peux pas m’occuper du passé si ce n’est pour faire une rétrospective. Par contre, je peux m’occuper du futur et dire “Est-ce qu’il y a quelque chose que nous pouvons faire aujourd’hui pour nous aider à accomplir ce que nous pensions pouvoir faire pendant cette période de temps ?”
 
 George Dinwiddie a écrit un super article au sujet des graphiques de _burndown_ : [Feel the Burn: Getting the Most out of Burndown Charts](http://idiacomputing.com/pub/BetterSoftware-BurnCharts.pdf)[^2].
 
@@ -79,4 +79,3 @@ Date de traduction : 03/12/2016
 ---
 
 {% include share_buttons.html %}
-

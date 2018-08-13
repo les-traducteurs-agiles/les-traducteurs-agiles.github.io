@@ -2,7 +2,7 @@
 layout: post
 title:  "Travailler à un rythme soutenable"
 date:   2015-05-20 21:59:53
-categories: inspiration
+tags: inspiration
 ---
 
 Le rythme soutenable est un concept de merde : nous le voyons généralement comme le rythme auquel nous devrions, plus ou moins, travailler. Et alors que le “plus” devrait arriver peu souvent et uniquement pour de courtes durées, à notre connaissance le “moins” arrive plutôt rarement.
@@ -30,7 +30,7 @@ Je pense que cette perspective - mettre en avant le temps personnel par rapport 
 Les organisations qui mesurent le travail en heures sont suspectes (ce qui est une des raisons pour lesquelles je suggère que l’unité de mesure de l’effort des personnes soit le vingummibamser : “le bonbon nounours en gélatine”). D’un point de vue pratique, nos entreprises luttent pour optimiser la valeur par engagement tout en minimisant le nombre d’engagements par an. Un des vulgaires aspects de la valeur est le revenu, ce qui est assez incontestable pour être une base de discussion et de comparaison.
 
 ---
-  
+
 Jim (“Cope”) Coplien est un vieux requin du C++ combinant désormais les aspects techniques et humains du domaine informatique en tant qu’auteur, coach, formateur et consultant. Il est l’un des fondateurs de la discipline des patrons de conceptions, et ses patrons organisationnels sont parmi les éléments fondateurs de Scrum et de XP. Il travaille actuellement à Gertrud & Cope au Danemark et est un partenaire de la Scrum Fondation. Il est l’auteur ou le co-auteur de plusieurs livres, dont Lean Architecture for Agile Software édité chez Wiley. Lorsqu’il était petit, il voulait être anthropologiste.
 
 [^1]: NdT : traduction du terme “undertime”, temps consacré sur le lieu de travail à des activités non professionnelles.

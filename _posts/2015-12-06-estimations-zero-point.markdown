@@ -3,7 +3,7 @@ layout: post
 title:  "Devriez-vous utiliser les estimations à zéro point dans votre product backlog ?"
 date:   2015-12-07 21:00:55
 published: true
-categories: 
+tags: 
 - estimation
 ---
 
@@ -11,11 +11,11 @@ De temps en temps, on me pose la question sur les mérites (et d'ailleurs s'il y
 
 Alors quelle est la logique derrière une carte à zéro point ?
 
-Rappelez-vous que les points de _story_ sont utilisés pour estimer l'effort impliqué dans la livraison d'un item du _product backlog_. Une estimation à zéro points indique simplement que livrer un item n'exige "aucun" effort. Il s'agit généralement d'une exagération. Un item du _product backlog_ demandera toujours quelques efforts mais généralement si peu que l'équipe ne voudra bénéficier d'aucun crédit de vélocité pour ce dernier. 
+Rappelez-vous que les points de _story_ sont utilisés pour estimer l'effort impliqué dans la livraison d'un item du _product backlog_. Une estimation à zéro points indique simplement que livrer un item n'exige "aucun" effort. Il s'agit généralement d'une exagération. Un item du _product backlog_ demandera toujours quelques efforts mais généralement si peu que l'équipe ne voudra bénéficier d'aucun crédit de vélocité pour ce dernier.
 
 À titre d'exemple, j'ai regardé parmi les items terminés récemment du site [www.frontrowagile.com](https://www.frontrowagile.com/) et j'ai trouvé une _user story_ à zéro point. La _story_ concernait un fichier qui était généré chaque nuit puis importé automatiquement dans notre système comptable. La _story_ impliquait de changer l'ordre de quelques colonnes dans le fichier et de changer le formatage des dates. La _story_ ne prit à l'équipe pas plus de 15 minutes à coder et à tester.
 
-Si l'équipe l'avait estimée à un point, elle aurait eu une plus grande vélocité pour une quantité de travail triviale. Mais au prochain sprint, j'aurais pu m'attendre à ce qu'elle maintienne cette vélocité, ce qu'elle n'aurait pas été capable de faire ; une _story_ à un point représente normalement plus de 15 minutes de travail. 
+Si l'équipe l'avait estimée à un point, elle aurait eu une plus grande vélocité pour une quantité de travail triviale. Mais au prochain sprint, j'aurais pu m'attendre à ce qu'elle maintienne cette vélocité, ce qu'elle n'aurait pas été capable de faire ; une _story_ à un point représente normalement plus de 15 minutes de travail.
 
 **Comment des _stories_ à zéro point peuvent-elles générer de la valeur ?**
 
@@ -45,4 +45,3 @@ Copyright ©1998-2015 Mountain Goat Software. All Rights Reserved.
 ---
 
 {% include share_buttons.html %}
-

@@ -3,7 +3,7 @@ layout: post
 title:  "Patterns de décomposition des user stories"
 date:   2016-02-15 23:19:55
 published: false
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -13,7 +13,7 @@ categories:
 
 De bonnes user stories suivent le modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) de Bill Wake. Elles sont **I**ndépendantes, **N**égociables, de **Valeurs**, **E**stimables, **S**uffisamment petites, et **T**estables. Le critère _Suffisamment petites_ nous amène à décomposer les grosses stories. Mais les stories obtenues après décomposition doivent toujours suivre ce modèle.
 
-Un certain nombre de nouvelles équipes agiles tentent de décomposer les stories d’après les couches d'abstractions : une couche pour l'IHM, une pour la base de données, etc. Cela peut satisfaire le critère _Suffisamment petites_, mais pas les critères _indépendantes_ et _de valeurs_. 
+Un certain nombre de nouvelles équipes agiles tentent de décomposer les stories d’après les couches d'abstractions : une couche pour l'IHM, une pour la base de données, etc. Cela peut satisfaire le critère _Suffisamment petites_, mais pas les critères _indépendantes_ et _de valeurs_.
 
 Au cours de mes années d'expérience en agilité, j'ai découvert 9 _patterns_ de décomposition des user stories en bonnes petites stories.
 
@@ -27,7 +27,7 @@ Lorsque vous êtes en réunion de planification et que vous atteignez le seuil d
 
 ## Quel _pattern_ utiliser ?
 
-Souvent, vous vous apercevrez que vous pouvez décomposer une story en utilisant plusieurs _patterns_. Quelle décomposition devriez-vous choisir ? Pour cela, j'utilise deux règles empiriques : 
+Souvent, vous vous apercevrez que vous pouvez décomposer une story en utilisant plusieurs _patterns_. Quelle décomposition devriez-vous choisir ? Pour cela, j'utilise deux règles empiriques :
 
 1. **Choisir la décomposition qui vous permet de déprioriser ou de mettre à la poubelle une story.** La règle des 80/20 nous indique que la majeure partie de la valeur d’une story vient de la plus petite partie de la fonctionnalité. Lorsqu’une décomposition révèle une fonctionnalité de faible valeur et qu’une autre décomposition n’en révèle pas, cela suggère que cette dernière décomposition masque un gaspillage caché dans chaque petite story. Choisissez la décomposition qui vous permet de mettre à la poubelle les éléments de faibles valeurs.
 
@@ -57,7 +57,7 @@ La story suivante dissimule en réalité plusieurs autres stories possédant un 
 
 > En tant qu'utilisateur, je recherche des vols avec des dates flexibles.
 
-En approfondissant sur ce que sont des “dates flexibles”, plusieurs règles métiers ont été révélées au grand jour, chacune pouvant donner sa propre bonne story : 
+En approfondissant sur ce que sont des “dates flexibles”, plusieurs règles métiers ont été révélées au grand jour, chacune pouvant donner sa propre bonne story :
 
 > ... comme "n jours entre x et y"  
 > ... comme "un week-end en décembre"  
@@ -91,7 +91,7 @@ restera simple en la décomposant ainsi,
 
 ## Pattern #5 : Variations dans les données
 
-La complexité dans une story provient de la gestion des variations dans ses données. 
+La complexité dans une story provient de la gestion des variations dans ses données.
 Par exemple, je travaille actuellement sur un système qui doit modéliser les zones géographiques desservies par les compagnies de transports urbains. Nous aurions pu dépenser tout le budget du projet uniquement pour gérer l’aspect géographique potentiellement très complexe. Lorsque j’ai discuté de cette story   
 
 > En tant qu'utilisateur, j’ai la possibilité de rechercher les compagnies de transports urbains par lieu de départ et lieu d'arrivée.
@@ -172,7 +172,7 @@ Date de parution originale : 28 Octobre 2009
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 05/01/2016  
-  
+
 Relecteur : [Bruno Sbille](http://brunosbille.com/)
 ---
 
@@ -181,6 +181,3 @@ Relecteur : [Bruno Sbille](http://brunosbille.com/)
 ---
 
 {% include share_buttons.html %}
-
-
-

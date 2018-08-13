@@ -2,7 +2,10 @@
 layout: post
 title:  "Les bases de la gestion de configuration sur une page"
 date:   2015-04-12 18:15:00
-categories: agile fiche outil
+tags:
+- agile
+- fiche
+- outil
 ---
 
 ![Les bases de la gestion de configuration]({{ site.url }}assets/une_page/gestion_configuration.jpg)

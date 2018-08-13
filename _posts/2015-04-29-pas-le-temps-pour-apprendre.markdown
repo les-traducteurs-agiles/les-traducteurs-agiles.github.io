@@ -2,7 +2,9 @@
 layout: post
 title:  "Pas le temps pour apprendre"
 date:   2015-04-29 23:04:55
-categories: inspiration agile
+tags:
+- inspiration
+- agile
 ---
 
 Le problème numéro un que je vois chez les clients, c'est qu'il n'y a pas le temps pour apprendre. Si nous n'avons pas temps de réfléchir sur comment les choses fonctionnent, nous ne remarquons pas que les choses auxquelles nous sommes habituées ne fonctionnent pas très bien. Si nous n'avons pas temps pour chercher comment les autres font, nous ne pouvons pas faire des choix éclairés sur des éléments que nous pourrions vouloir essayer. Si nous n'avons pas de temps pour faire des expériences, nous ne pouvons pas déterminer si une approche différente fonctionnera mieux ou pas pour nous. Si nous n'avons pas de temps pour faire de multiples expériences, nous ne pouvons pas déterminer ce qui fonctionne dans un large éventail de situations pour nous, plutôt que d'adopter la première idée venue qui se révèlera ne pas fonctionner du tout.

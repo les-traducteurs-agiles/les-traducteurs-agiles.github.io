@@ -3,11 +3,11 @@ layout: post
 title:  "Fonctionnalités vs. stories"
 date:   2016-08-09 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 ---
 
- Je réalise que, jusqu’à aujourd’hui, la différence entre fonctionnalités et _stories_ n’était pas clair dans mon esprit et qu’il s’agit d’une différence fondamentale. Une fonctionnalité est un groupe de _stories_ liées donnant un ensemble de fonctions que les utilisateurs finaux s’attendent à avoir toutes ensemble à la fois. Par exemple, redimensionner un tableau de type en-ligne[^1] est une fonctionnalité (remarque : ceci représente la possibilité de redimensionner les colonnes et les lignes dans des tableaux - essayez donc dans Word[^2]). Dans un premier temps, vous aurez probablement une seule _story_ pour le redimensionnement des tableaux de type en-ligne, mais cela devrait s’avérer à être trop gros à estimer. Par conséquent vous allez la scinder en trois _stories_, redimensionnement des colonnes, redimensionnement des lignes et redimensionnement du tableau lui-même. 
+ Je réalise que, jusqu’à aujourd’hui, la différence entre fonctionnalités et _stories_ n’était pas clair dans mon esprit et qu’il s’agit d’une différence fondamentale. Une fonctionnalité est un groupe de _stories_ liées donnant un ensemble de fonctions que les utilisateurs finaux s’attendent à avoir toutes ensemble à la fois. Par exemple, redimensionner un tableau de type en-ligne[^1] est une fonctionnalité (remarque : ceci représente la possibilité de redimensionner les colonnes et les lignes dans des tableaux - essayez donc dans Word[^2]). Dans un premier temps, vous aurez probablement une seule _story_ pour le redimensionnement des tableaux de type en-ligne, mais cela devrait s’avérer à être trop gros à estimer. Par conséquent vous allez la scinder en trois _stories_, redimensionnement des colonnes, redimensionnement des lignes et redimensionnement du tableau lui-même.
 
 Nous avons maintenant trois _stories_ - trois choses différentes à développer qui ajouteront de la valeur au produit et qui pourront être faites relativement rapidement (nous pensons que la plus grosse de ces _stories_ devrait prendre une journée à développer). Il y a de la valeur à être capable de redimensionner les colonnes mais pas en ce qui concerne les lignes ou le tableau lui-même - le redimensionnement des colonnes permet aux utilisateurs de distribuer l’espace entre les colonnes plus facilement afin que le tableau ait un aspect plus joli. Cela couvre 90% des cas d’utilisation de redimensionnement de ce type de tableau - les personnes redimensionnent rarement l’ensemble du tableau ou la hauteur des lignes, généralement ils veulent juste faire en sorte que la largeur des colonnes soient ajustées au mieux aux données présentes à l’intérieur. En dépit de cela, livrer cette seule _story_ aux utilisateurs provoquerait de la confusion et des plaintes au support parce que cette livraison entraîne une attente dans l’esprit des utilisateurs de pouvoir redimensionner les tableaux alors ils se demandent pourquoi ils ne peuvent pas redimensionner les lignes ou le tableau ?
 
@@ -37,5 +37,3 @@ Date de traduction : 09/08/2016
 ---
 
 {% include share_buttons.html %}
-
- 

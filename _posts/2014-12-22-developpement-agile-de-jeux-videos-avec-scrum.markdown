@@ -2,7 +2,9 @@
 layout: post
 title:  "Développement agile de jeux avec Scrum : les équipes"
 date:   2014-12-22 17:20:55
-categories: Scrum equipe
+tags:
+- scrum
+- équipe
 ---
 
 ---
@@ -11,7 +13,7 @@ Cette traduction existe également au format  [epub](https://www.dropbox.com/s/b
 
 ---
 <p>&nbsp;</p>  
-  
+
 *\[Pour sa nouvelle rubrique, Gamasutra présente un chapitre extrait du livre [Développement agile de jeux vidéos avec Scrum](http://www.amazon.com/Agile-Development-Scrum-Addison-Wesley-Signature/dp/0321618521) de Clinton Keith, développeur et consultant Scrum senior, dans lequel il explique les tenants et les aboutissants de l'agilité. Dans ce chapitre, il aborde l'intégration des processus Scrum au sein des équipes, y compris les bonnes pratiques et les pièges éventuels.\]*
 
 Pendant plus de 20 ans, j'ai travaillé sur la création de différents produits, des chasseurs F-22 aux jeux vidéos. Les moments les plus marquants de ma carrière sont clairement gravés dans ma mémoire par les équipes projets avec lesquelles j'ai pu travailler. Ces équipes avaient la caractéristique de  prendre du plaisir au travail et à avoir une productivité plus importante que le reste de la compagnie ou des autres équipes du projet pour lesquels nous travaillions à l'époque.
@@ -24,7 +26,7 @@ Il m'arrivait souvent d'avoir une idée qui surgissait dans ma tête au milieu d
 
 Même si nous passions de longues heures sur le jeu, cela ressemblait plus à un passe-temps pour lequel nous nous passionnions plutôt qu'un travail, mais jamais nous ne l'avons ressenti comme un "travail de forçats".
 
-Le jeu que nous avons livré fut un succès, mais la véritable récompense fut l'expérience de travailler avec cette équipe. La plus grande partie de l'alchimie de cette équipe reste un mystère à mes yeux. Il ne semble pas qu'il y ait une formule pour savoir comment de telles équipes peuvent être créées, mais j'ai trouvé qu'il est assez facile d'empêcher la formation de telles équipes. L'idée maîtresse de Scrum est de permettre, si possible, à de telles équipes de se former, et de les accompagner dans leur croissance. 
+Le jeu que nous avons livré fut un succès, mais la véritable récompense fut l'expérience de travailler avec cette équipe. La plus grande partie de l'alchimie de cette équipe reste un mystère à mes yeux. Il ne semble pas qu'il y ait une formule pour savoir comment de telles équipes peuvent être créées, mais j'ai trouvé qu'il est assez facile d'empêcher la formation de telles équipes. L'idée maîtresse de Scrum est de permettre, si possible, à de telles équipes de se former, et de les accompagner dans leur croissance.
 
 Ce chapitre explorera certains des principes de base de Scrum et des pratiques pouvant aider ces équipes et comment de grands projets de plus de 100 personnes peuvent utiliser ces pratiques et permettre aux individus de ces équipes d'avoir toujours une vision commune, un sens de l'appropriation, et de la fierté. Il explorera aussi les différentes structures d'équipes qui ont été formées sur de grands projets de jeux vidéos.
 
@@ -40,7 +42,7 @@ Les grandes équipes partagent les caractéristiques suivantes :
 
 **Les compétences des membres de l'équipe se complètent :** Les membres de l'équipe dépendent les uns des autres pour accomplir leurs objectifs en utilisant leurs compétences respectives dans un but commun.
 
-**Elles font la démonstration d'une communication ouverte et sans risque :** Les membres de l'équipe doivent se sentir dans un environnement de confiance pour discuter de tout avec tout le monde. 
+**Elles font la démonstration d'une communication ouverte et sans risque :** Les membres de l'équipe doivent se sentir dans un environnement de confiance pour discuter de tout avec tout le monde.
 
 **Elles partagent la prise de décision, la responsabilité, et la transparence :** L'équipe réussit ou échoue ensemble, et non individuellement. Chacun mérite son poste dans l'équipe au quotidien. Il n'y a pas de place pour les titres ou les égos.
 
@@ -48,13 +50,13 @@ Les grandes équipes partagent les caractéristiques suivantes :
 
 **Elles livrent de la valeur :** Les grandes équipes sont fières de leur travail et le résultat livré est systématiquement de grande valeur.
 
-**Elles démontrent un engagement commun :** Les grandes équipes partagent une même cause. Quand un membre a un problème, toute l'équipe donnera un coup de main pour l'aider à s'en sortir. En conséquence, les grandes équipes livrent de la valeur parce qu'elles font attention à l'ensemble plutôt qu'à leurs parties respectives.  Les grandes équipes sont engagées sur leurs objectifs. Elles vont au-delà de ce qui est nécessaire pour accomplir un objectif dans lequel elles croient. 
+**Elles démontrent un engagement commun :** Les grandes équipes partagent une même cause. Quand un membre a un problème, toute l'équipe donnera un coup de main pour l'aider à s'en sortir. En conséquence, les grandes équipes livrent de la valeur parce qu'elles font attention à l'ensemble plutôt qu'à leurs parties respectives.  Les grandes équipes sont engagées sur leurs objectifs. Elles vont au-delà de ce qui est nécessaire pour accomplir un objectif dans lequel elles croient.
 
 Scrum créé un cadre de travail, avec ses pratiques et ses rôles, pour soutenir ces équipes. Elles exigent de la part de l'encadrement et de la direction, facilitation et soutien, pour pouvoir évoluer. Les grandes équipes sont peu répandues. Elles créent des expériences -- comme celle mentionnée en introduction du chapitre -- pour lesquelles des personnes se battent pendant toute leur carrière pour en faire partie.
 
 Pour faire un gâteau, certains ingrédients sont nécessaires avant de commencer. Si un de ces ingrédients, oeufs, farine et ainsi de suite, vient à manquer, vous ne pourrez pas faire un gâteau. Toutefois, la manière dont ces ingrédients sont préparés et cuisinés ensemble pour faire le gâteau est la différence principale entre un gâteau de mariage inoubliable et un truc cuit dans un four "Easy-Bake" ("Mon premier four", four pour jeunes filles pour apprendre à cuisiner - NdT).
 
-Le leadership et le talent sont les ingrédients nécessaires pour faire un grand jeu vidéo, mais comme pour le gâteau, la manière dont ces ingrédients sont préparés ensemble, dans une équipe par exemple, est le facteur déterminant de la qualité du jeu. Scrum ne donne pas les ingrédients pour (faire - NdT) les grandes équipes mais les aide à "mélanger et à cuire" ce qui est disponible là pour réaliser cet objectif. 
+Le leadership et le talent sont les ingrédients nécessaires pour faire un grand jeu vidéo, mais comme pour le gâteau, la manière dont ces ingrédients sont préparés ensemble, dans une équipe par exemple, est le facteur déterminant de la qualité du jeu. Scrum ne donne pas les ingrédients pour (faire - NdT) les grandes équipes mais les aide à "mélanger et à cuire" ce qui est disponible là pour réaliser cet objectif.
 
 # Une approche Scrum des équipes
 
@@ -116,11 +118,11 @@ L'auto-organisation de l'équipe est la pratique la plus difficile pour les équ
 
 Les bénéfices de l'auto-organisation est une part essentielle d'une équipe auto-gérée. Quand les équipes "ont" la gestion de leurs membres, alors les engagements pris par l'équipe sont considérés avec un sentiment plus profond d'appropriation. Lorsque les personnes sont assignées à une équipe construite par l'encadrement, c'est quelque chose sur laquelle elles n'ont pas de contrôle, et, comme nous l'avons vu, une absence de contrôle empêche un engagement total.
 
-Les équipes sont autorisées à changer leurs membres entre les sprints, et généralement elles le font avant le premier sprint d'une nouvelle livraison.  Peu de temps après la discussion d'un planning de livraison avec l'équipe projet, elles négocient entre elles pour s'échanger des membres. Les équipes prennent en compte les éléments suivants lorsqu'elles s'auto-organisent : 
+Les équipes sont autorisées à changer leurs membres entre les sprints, et généralement elles le font avant le premier sprint d'une nouvelle livraison.  Peu de temps après la discussion d'un planning de livraison avec l'équipe projet, elles négocient entre elles pour s'échanger des membres. Les équipes prennent en compte les éléments suivants lorsqu'elles s'auto-organisent :
 
 **Quels sont les objectifs de livraison et le planning de livraison initial ?** Quelques fois les objectifs de livraisons exigent une réorganisation complète des équipes. Par exemple, un jeu orienté sur des mécaniques de jeu solo pourrait fonctionner avec un gameplay en ligne pour la prochaine livraison. En tout cas, cela pourrait exiger une redistribution des compétences.
 
-**Quelles disciplines et compétences sont exigées pour réaliser les objectifs de livraison ?** Par exemple, si une équipe ayant implémenté un moteur de tir est maintenant chargée de créer l'intelligence artificielle (IA) qui réplique, elle doit faire venir un développeur d'IA. Si seulement quelques changements simples doivent être faits au code, peut-être qu'un développeur débutant sera le meilleur choix. 
+**Quelles disciplines et compétences sont exigées pour réaliser les objectifs de livraison ?** Par exemple, si une équipe ayant implémenté un moteur de tir est maintenant chargée de créer l'intelligence artificielle (IA) qui réplique, elle doit faire venir un développeur d'IA. Si seulement quelques changements simples doivent être faits au code, peut-être qu'un développeur débutant sera le meilleur choix.
 
 **Quelles sont les priorités des objectifs de livraisons ?** Si les équipes se disputent des individus, l'objectif de livraison le plus prioritaire détermine où les individus vont. Par exemple, si deux équipes, l'une s'occupant des tirs et l'autre du pilotage, ont besoin d'intelligence artificielle et qu'un seul développeur d'IA est présent, l'objectif le plus prioritaire détermine que ce développeur va en premier dans l'équipe du moteur de tir.
 
@@ -178,7 +180,7 @@ Quelques studios ont utilisés des équipes de trois à cinq personnes et ont in
 
 ## *Tracer la limite*
 
-*Au studio High Moon, nous avons établis quelques "lois" qui avaient pour objectifs de décrire les pratiques et les règles sur lesquelles les projets et leurs équipes auraient autorité et sur lesquelles ils ne l'auraient pas. Nous faisions référence à ces lois sous la dénomination de "lois de l'état" définissant l'autorité d'une équipe et d'un projet et de "lois fédérales" qui définissent les décisions qui sont faites pour eux.* 
+*Au studio High Moon, nous avons établis quelques "lois" qui avaient pour objectifs de décrire les pratiques et les règles sur lesquelles les projets et leurs équipes auraient autorité et sur lesquelles ils ne l'auraient pas. Nous faisions référence à ces lois sous la dénomination de "lois de l'état" définissant l'autorité d'une équipe et d'un projet et de "lois fédérales" qui définissent les décisions qui sont faites pour eux.*
 
 *Pour les lecteurs étrangers, aux États-Unis les lois fédérales sont valables dans le pays entier, alors que les lois de l'état valent à l'intérieur d'un état. Si les deux rentrent en conflit, les lois fédérales prévalent.*  
 
@@ -188,7 +190,7 @@ Quelques studios ont utilisés des équipes de trois à cinq personnes et ont in
 
 Lorsque j'étais enfant, mon père décida de m'apprendre à nager, comme son père lui avait appris, en me jetant dans un lac, à un endroit où je n'avais pas pieds. Après avoir regarder les bulles remontées pendant trente secondes, il plongea et me sortit de l'eau. Je n'ai pas appris à nager ce jour-là. En fait, j'ai appris à éviter d'essayer pendant le reste de l'été.
 
-Avec mes enfants, nous avons adopté une approche plus graduelle pour les accompagner à affronter des défis de plus en plus grand en natation : de la nage du petit chien pendant quelques secondes à l'aller-retour dans un bassin de taille olympique. 
+Avec mes enfants, nous avons adopté une approche plus graduelle pour les accompagner à affronter des défis de plus en plus grand en natation : de la nage du petit chien pendant quelques secondes à l'aller-retour dans un bassin de taille olympique.
 
 La gouvernance dans une organisation agile est un défi similaire. Les organisations agiles doivent monter en gouvernance à chaque niveau et trouver une approche, entre le micro-encadrement d'équipes et les jeter là où elles n'auront pas pieds, qui leur apportera la voie vers le succès. Ces deux extrêmes conduiront à l'échec.
 
@@ -206,7 +208,7 @@ Les responsabilités des personnes en charge des projets (développeurs seniors,
 
 **Tutorat:** Les responsables travaillent avec des développeurs moins expérimentés pour améliorer leur productivité. Le rôle de responsable se modifie du simple encadrement à travers les outils de gestion de projet vers un autre où ils "viennent et voient" ce qu'il se passe avec chaque développeur aussi fréquemment que possible (voir la section "Tutorat").
 
-L'auto-gestion des équipes défie la définition du rôle du responsable. Il est difficile pour beaucoup de responsables d'abandonner la prise de décisions détaillées pour les équipes au quotidien et leur permettre de risquer l'échec, même pour de petits défis. Toutefois, les bénéfices de l'accroissement des comportements d'auto-gestion deviennent apparents lorsque certaines tâches courantes qui étaient de la responsabilité du responsable, telle que la création, l'estimation et le suivi de tâches sont pris en main par l'équipe. Par exemple, une équipe projet de 80 développeurs génère et nécessite un suivi d'environ 1 600 tâches pour un sprint de quatre semaines. [1] Il s'agit d'un volume écrasant d'informations détaillées à gérer pour n'importe quel comité de décision et cela monopolise le temps de ses membres au détriment de devoirs plus essentiels par rapport à leur rôle de responsables. 
+L'auto-gestion des équipes défie la définition du rôle du responsable. Il est difficile pour beaucoup de responsables d'abandonner la prise de décisions détaillées pour les équipes au quotidien et leur permettre de risquer l'échec, même pour de petits défis. Toutefois, les bénéfices de l'accroissement des comportements d'auto-gestion deviennent apparents lorsque certaines tâches courantes qui étaient de la responsabilité du responsable, telle que la création, l'estimation et le suivi de tâches sont pris en main par l'équipe. Par exemple, une équipe projet de 80 développeurs génère et nécessite un suivi d'environ 1 600 tâches pour un sprint de quatre semaines. [1] Il s'agit d'un volume écrasant d'informations détaillées à gérer pour n'importe quel comité de décision et cela monopolise le temps de ses membres au détriment de devoirs plus essentiels par rapport à leur rôle de responsables.
 
 [1] 10 équipes - 8 personnes - 1 tâche par jour - 20 jours par sprint
 
@@ -248,11 +250,11 @@ Dans cette section, nous examinerons les différentes structures d'équipes qui 
 
 *Je me rappelle encore de ce jour où lors un exercice de construction d'équipe, j'ai failli être sérieusement blessé. C'était sur un terrain de paintball situé dans les hautes terres de chaparral (le chapparal est une sorte de maquis - NdT) à l'est de San Diego. J'étais allongé sur le dos, quasiment à court de munitions, pendant qu'une trentaine d'ingénieurs en électronique essayaient de me tirer dessus.*  
 
-*J'étais un jeune ingénieur en informatique travaillant pour une compagnie d'avionique militaire. Durant ma carrière dans l'industrie de la défense, je fus témoin de l'animosité entre les ingénieurs en électronique et les ingénieurs en informatique. Du point de vue des ingénieurs en électronique, nous n'étions pas de vrais ingénieurs et nous étions sur-rémunérés. Ils considéraient souvent notre code comme un "mal nécessaire". Nous considérions que les ingénieurs en électroniques avaient une attitude élitiste et étaient dépassés dans leur approche technique.* 
+*J'étais un jeune ingénieur en informatique travaillant pour une compagnie d'avionique militaire. Durant ma carrière dans l'industrie de la défense, je fus témoin de l'animosité entre les ingénieurs en électronique et les ingénieurs en informatique. Du point de vue des ingénieurs en électronique, nous n'étions pas de vrais ingénieurs et nous étions sur-rémunérés. Ils considéraient souvent notre code comme un "mal nécessaire". Nous considérions que les ingénieurs en électroniques avaient une attitude élitiste et étaient dépassés dans leur approche technique.*
 
 *Personnellement, je croyais que les ingénieurs en électronique nous détestaient parce que nous étions souvent les héros d'un projet. Le logiciel que nous écrivions contournaient souvent les défauts de leurs matériels menaçants le projet en phase finale.*  
 
-*La partie commença par la constitution de deux équipes. Bien sûr, une équipe fut celle des ingénieurs en électronique, et l'autre, la nôtre, celle des ingénieurs informatique.* 
+*La partie commença par la constitution de deux équipes. Bien sûr, une équipe fut celle des ingénieurs en électronique, et l'autre, la nôtre, celle des ingénieurs informatique.*
 
 *Je ne mentirais pas en disant que nous étions les meilleurs ce jour-là. En fait, nous ne l'étions pas. Je ne trouverai pas d'excuses et ne les accuserai pas d'avoir tricher, même s'ils apportèrent quelques gadgets étranges avec eux. À vrai dire, l'équipe de développement perdit la plupart des parties, et nous avons été battu à plate couture.*  
 
@@ -262,7 +264,7 @@ Dans cette section, nous examinerons les différentes structures d'équipes qui 
 
 *Un par un, mes compagnons d'infortune furent tués par des démonstrations héroïques de bravoure et aussi d'ignorance de l'importance d'un couvert. J'étais content de faire profil bas et de survivre.*  
 
-*Tout à coup, les arbitres soufflèrent dans leurs sifflets pour signaler la fin de la partie. Ils croyaient que tous les ingénieurs en informatique étaient morts ! Je sautais, et rugissais de défi à ce que je pensai être un ou deux ennemis rescapés.* 
+*Tout à coup, les arbitres soufflèrent dans leurs sifflets pour signaler la fin de la partie. Ils croyaient que tous les ingénieurs en informatique étaient morts ! Je sautais, et rugissais de défi à ce que je pensai être un ou deux ennemis rescapés.*
 
 *Mon rugissement mourut rapidement dans ma gorge lorsque je vis que la quasi-totalité de l'équipe ennemie des 30 ingénieurs en électronique était encore en vie. Des secondes interminables semblèrent défiler alors que nous nous jaugions respectivement. Et puis l'un des arbitres annonça, "La chasse est ouverte !" et il siffla dans son sifflet. Je n'oublierai jamais la vue de ces ingénieurs en électronique, qui hurlèrent avec une rage jubilatoire de nerd courant vers moi alors que j'allais me planquer à nouveau à couvert.*  
 
@@ -282,8 +284,8 @@ Un bénéfice majeure des équipes par fonctionnalité est le sentiment d'approp
   Figure 8.1 : un exemple d'équipe de mécanismes de pilotage
   <p>&nbsp;</p>
 </div>
-  
-  
+
+
 Une équipe par fonctionnalité devrait avoir toutes les personnes dont elle a besoin pour développer les mécanismes. En pratique, c'est difficile à accomplir. Quelques fois, les équipes doivent partager des disciplines rares. Un exemple : l'artiste des effets spéciaux (FX) qui est utilisé 25% du temps par une seule équipe à la fois. Souvent ce genre de personne est partagé par plusieurs équipes.
 
 ## Équipes fonctionnelles
@@ -393,7 +395,7 @@ Par exemple, l'équipe technologie moteur travaille souvent avec plusieurs autre
 
 Au Scrum de Scrums, les changements imminents sur la technologie utilisée sont évoqués afin que tout problème qui survient soit rapidement identifié et résolu. Dans ce cas de figure, un responsable technique de l'équipe de cette technologie partagée assiste à la réunion pour évoquer les changements en attente.
 
-Le Scrum de Scrums est différent des réunions d'équipes quotidiennes Scrum. 
+Le Scrum de Scrums est différent des réunions d'équipes quotidiennes Scrum.
 
 **Il n'est pas obligatoire qu'elle soit quotidienne :** Elle peut être hebdomadaire ou bi-hebdomadaire. Le groupe qui se rencontre devrait décider de la fréquence la plus adaptée.
 
@@ -435,7 +437,7 @@ Chaque product owner travaille au quotidien avec ses équipes pendant le sprint,
 
 Les product owners doivent s'assurer que la vision est commune sur la totalité du projet. Cela comprend de fréquentes réunions entre eux, y compris les réunions de Scrum de Scrums, pour répondre à toutes les questions relatives à la vision du jeu.
 
-Les product owners prennent les directives de la part du responsable product owner entre les sprints et le planning de livraison. Il y a souvent une divergence d'opinion entre les product owners sur la meilleur voie à suivre pour atteindre les objectifs de livraison. La perspicacité du product owner d'une équipe est inestimable pour trouver la meilleure voie, mais le responsable product owner est responsable pour garder une vision cohérente du jeu sur l'ensemble des mécaniques et des fonctionnalités. 
+Les product owners prennent les directives de la part du responsable product owner entre les sprints et le planning de livraison. Il y a souvent une divergence d'opinion entre les product owners sur la meilleur voie à suivre pour atteindre les objectifs de livraison. La perspicacité du product owner d'une équipe est inestimable pour trouver la meilleure voie, mais le responsable product owner est responsable pour garder une vision cohérente du jeu sur l'ensemble des mécaniques et des fonctionnalités.
 
 Un product owner d'équipe crée une vision commune sur un gros projet et s'assure de la cohérence de la vision partout.
 
@@ -445,7 +447,7 @@ Les équipes d'intégration sont un type d'équipe aidant à garantir qu'une vis
 
 Les différentes équipes Scrum travaillant sur un projet peuvent synchroniser leurs planifications de sprint et revoir les dates ou avoir des calendriers indépendants. La figure 8.5 illustre la différence entre les deux dispositions.
 
-Pour les équipes, avoir des calendriers indépendants présentent quelques avantages. Le plus important est que les équipes n'ont pas à lutter pour obtenir de la disponibilité de la part du product owner. Pour les équipes ayant des calendriers synchronisés, il peut être difficile de planifier la disponibilité du product owner, et tout spécialement lors de la planification du sprint suivant. 
+Pour les équipes, avoir des calendriers indépendants présentent quelques avantages. Le plus important est que les équipes n'ont pas à lutter pour obtenir de la disponibilité de la part du product owner. Pour les équipes ayant des calendriers synchronisés, il peut être difficile de planifier la disponibilité du product owner, et tout spécialement lors de la planification du sprint suivant.
 
 Malgré cela, il est généralement plus pertinents de synchroniser les sprints (Cohn 2009). Les avantages pour le jeu vidéo sont les suivants :
 
@@ -633,19 +635,19 @@ Scrum peut monter en charge sur des projets de toute taille mais il conduit à d
 
 Scrum mène aussi à des changements sur les disciplines, focalisant l'équipe sur les changements sur la manière de travailler quotidiennement pour améliorer la communication et le rythme de l'itération  Cela mène aussi à des changements sur la manière dont chaque discipline travaille. Le reste de la partie de ce livre abordera ces changements.
 
-L'objectif est de créer des équipes qui peuvent s'approprier davantage le développement et avoir une plus grande détermination sur ce qu'ils font. 
+L'objectif est de créer des équipes qui peuvent s'approprier davantage le développement et avoir une plus grande détermination sur ce qu'ils font.
 
 # Lecture additionnelle
 
-_DeMarco, T., et T. Lister. 1999.  Peopleware: Productive Projects and Teams, Second Edition.  New York: Dorset House Publishing._ 
+_DeMarco, T., et T. Lister. 1999.  Peopleware: Productive Projects and Teams, Second Edition.  New York: Dorset House Publishing._
 
-New York: Dorset House Publishing._  2003.  The Wisdom of Teams: Creating the High-Performance Organization.  Cambridge, MA: Harvard Business School Press._ 
+New York: Dorset House Publishing._  2003.  The Wisdom of Teams: Creating the High-Performance Organization.  Cambridge, MA: Harvard Business School Press._
 
-_Larman, C., and B. Vodde.  2009.  Scaling Lean and Agile Development: Thinking and Organizational Tools for Large-Scale Scrum. Boston: Addison-Wesley._ 
+_Larman, C., and B. Vodde.  2009.  Scaling Lean and Agile Development: Thinking and Organizational Tools for Large-Scale Scrum. Boston: Addison-Wesley._
 
-_Leffingwell, D. 2007.  Scaling Software Agility: Best Practices for Large Enterprises.  - Boston: Addison-Wesley._ 
+_Leffingwell, D. 2007.  Scaling Software Agility: Best Practices for Large Enterprises.  - Boston: Addison-Wesley._
 
-_Schwaber, K. 2007.  The Enterprise and Scrum.  Redmond, WA: Microsoft Press._ 
+_Schwaber, K. 2007.  The Enterprise and Scrum.  Redmond, WA: Microsoft Press._
 
 Ce chapitre est un extrait du livre "Développement agie de jeu avec Scrum" écrit par Clinton Keith, publié par Pearson/Addison-Wesley Professional, Mai 2010, ISBN 0321618521, Copyright 2010 Clinton Keith; pour consulter la table des matières, consulter ce [lien](http://www.informit.com/store/product.aspx?isbn=0321618521).
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Les backlogs ne sont pas du gaspillage"
 date:   2015-08-14 16:15:53
 published: true
-categories: 
+tags: 
 - backlog
 ---
 
@@ -26,11 +26,11 @@ Lorsqu'il s'agit de livres, j'ai une liste de souhaits de la taille d'une planè
 
 ### _Checklist_ [^2]
 
-[^2]: Checklist : là-aussi, le terme en vo a été privilégié par rapport vf "liste de contrôles" dont l'usage est moins répandu et est signalé comme tel en italique - NdT 
+[^2]: Checklist : là-aussi, le terme en vo a été privilégié par rapport vf "liste de contrôles" dont l'usage est moins répandu et est signalé comme tel en italique - NdT
 
 Lorsqu'il s'agit d'_écrire_ des livres, je suis connu pour travailler avec des [_checklists_ énormes](http://noop.nl/2014/01/checklist-for-book-writers.html). Une _checklist_ est une liste de "doivent-avoir". Chaque livre est un projet différent, et par conséquent, chaque _checklist_ est différente de la précédente. Mais mes _checklists_ contiennent toujours des items comme "Commencer avec un histoire", "Mettre des blagues idiotes", "Ajouter des références bibliographiques" et "Vérifier les doubles espaces".
 
-**La nature d'une _checklist_ est l'opposée d'une liste de souhaits**. Avec une liste de souhaits, l'idée est de faire certains des items de la liste. Même si vous ne prenez qu'un seul élément de toute la liste, si l'item sélectionné est le bon choix, alors la liste de souhaits est couronnée de succès. Toutefois, avec une _checklist_, vous devez faire tous les items. Même si vous oubliez un seul item sur toute la liste, si cet oubli vous cause des problèmes, alors le résultat de la _checklist_ est un échec. 
+**La nature d'une _checklist_ est l'opposée d'une liste de souhaits**. Avec une liste de souhaits, l'idée est de faire certains des items de la liste. Même si vous ne prenez qu'un seul élément de toute la liste, si l'item sélectionné est le bon choix, alors la liste de souhaits est couronnée de succès. Toutefois, avec une _checklist_, vous devez faire tous les items. Même si vous oubliez un seul item sur toute la liste, si cet oubli vous cause des problèmes, alors le résultat de la _checklist_ est un échec.
 
 ### Backlogs
 
@@ -57,7 +57,7 @@ Et comme nos cerveaux ne sont pas optimisés pour la mémorisation, il est utile
 De manière répétée, j'ai entendu des gens dirent que les "backlogs sont du gaspillage parce qu'ils servent d'inventaire".  
 
 ![backlogs-sont-superflus]({{ site.url }}assets/backlogs_pas_superflus/backlogs-sont-superflus.png)
-  
+
 Je ne suis pas d'accord.
 
 _(Note :  ces citations de Vasco Duarte et Paul Klipp sont montrées uniquement à titre d'exemple. J'ai pu voir ce même type de commentaires plusieurs fois ces dernières années.)_

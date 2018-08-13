@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Ron Jeffries"
 date:   2016-02-07 11:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -17,15 +17,15 @@ Par conséquent, il était tout indiqué que Ron soit la personne idéale pour n
 
 **_Pensez-vous que “user story” soit juste un terme fantaisiste pour la spécification des exigences ?_**
 
-Non, ces deux termes sont assez différents. Les _user stories_ sont des descriptions brèves de fonctionnalités prises individuellement, et en général plus courtes, meilleures elles sont. À ma connaissance, les spécifications des exigences n’ont pas de définition, et elles se réfèrent généralement à l’ensemble des exigences, non à une seule. Même une seule spécification des exigences est généralement beaucoup beaucoup plus grosse qu’une story. 
+Non, ces deux termes sont assez différents. Les _user stories_ sont des descriptions brèves de fonctionnalités prises individuellement, et en général plus courtes, meilleures elles sont. À ma connaissance, les spécifications des exigences n’ont pas de définition, et elles se réfèrent généralement à l’ensemble des exigences, non à une seule. Même une seule spécification des exigences est généralement beaucoup beaucoup plus grosse qu’une story.
 
 **_Comment comparez-vous une user story avec une spécification des exigences ?_**
 
 Je ne le ferais pas. Je ne vois pas le besoin de le faire. Vous pouvez en avoir le besoin bien sûr.
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
-Certainement, de grands ou de petits produits  peuvent être ou ont été construits sans quoi que ce soit qui ressemble de près ou de loin à des spécifications des exigences. Donc la réponse est clairement oui - les _user stories_ peuvent remplacer les spécifications des exigences. 
+Certainement, de grands ou de petits produits  peuvent être ou ont été construits sans quoi que ce soit qui ressemble de près ou de loin à des spécifications des exigences. Donc la réponse est clairement oui - les _user stories_ peuvent remplacer les spécifications des exigences.
 
 **_Avec laquelle des deux, préférez-vous travailler avec ?_**
 

@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Alistair Cockburn"
 date:   2016-03-09 10:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -21,7 +21,7 @@ Non, mais presque.
 
 Une _story_ doit être visible du point de vue de l’utilisateur final, quelque chose que l’utilisateur final déclare comme ayant de la valeur pour lui, et implémentable en un sprint. Les spécifications des exigences n’ont pas ces caractéristiques.
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
 Oui.
 

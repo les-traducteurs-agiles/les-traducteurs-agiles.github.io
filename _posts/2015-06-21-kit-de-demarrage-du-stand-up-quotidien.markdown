@@ -3,17 +3,17 @@ layout: post
 title:  "Kit de démarrage du stand-up quotidien"
 date:   2015-06-25 18:59:53
 published: true
-categories: 
+tags: 
 - stand-up
 - equipe
 ---
 La stand-up quotidien peut être l'une des pratiques agiles les plus faciles ou les plus  difficiles à faire correctement. Le but initial, lorsque l'on introduit le **stand-up quotidien** (connu également sous le nom de **mêlée quotidienne** ou de **rassemblement**) est d'amener les gens à faire part brièvement de leur avancée. L'accent devrait être mis particulièrement sur :
- 
+
 * Qu'est ce que j'ai fait hier (ou depuis la dernière rencontre de l'équipe) ?
 * Qu'est ce que je vais faire aujourd'hui (ou d'ici la prochaine rencontre de l'équipe) ?
 * Quels obstacles ai-je découvert ?
 
-C'est un _défi_ à relever quand l'expression de la réponse à ces trois questions est trop vague (par exemple, hier j'ai travaillé sur la même user story) ou trop détaillée. Une quantité suffisante de détails devrait être partagée pour être certain que les personnes comprennent le sujet sur lequel on a travaillé (par exemple, hier j'ai travaillé sur l'ouverture du port pour permettre l'établissement des  communications) ou sur lequel on va travailler (par exemple, aujourd'hui, je vais travailler sur la mise en place du protocole asynchrone et je vais mettre en place un test de transfert de paquets sur ce nouveau port). Au début, il est conseillé de limiter le temps de parole à 1 mn pour éviter que le stand-up dure trop longtemps. 
+C'est un _défi_ à relever quand l'expression de la réponse à ces trois questions est trop vague (par exemple, hier j'ai travaillé sur la même user story) ou trop détaillée. Une quantité suffisante de détails devrait être partagée pour être certain que les personnes comprennent le sujet sur lequel on a travaillé (par exemple, hier j'ai travaillé sur l'ouverture du port pour permettre l'établissement des  communications) ou sur lequel on va travailler (par exemple, aujourd'hui, je vais travailler sur la mise en place du protocole asynchrone et je vais mettre en place un test de transfert de paquets sur ce nouveau port). Au début, il est conseillé de limiter le temps de parole à 1 mn pour éviter que le stand-up dure trop longtemps.
 
 ![Stand-up](http://1.bp.blogspot.com/-6i3rKMua1FE/VHQF78DPOXI/AAAAAAAAATI/pN1xoCvpvz0/s280/Daily%2BStandup.JPG)
 
@@ -37,7 +37,7 @@ Date de parution originale : 28 Août 2011
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Relecteur : [Sylvain Fraïssé](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 25/06/2015 
+Date de traduction : 25/06/2015
 
 ---
 

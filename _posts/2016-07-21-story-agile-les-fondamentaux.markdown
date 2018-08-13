@@ -3,7 +3,7 @@ layout: post
 title:  "Story agile - les fondamentaux"
 date:   2016-07-21 00:00:01
 published: true
-categories: 
+tags: 
 - user-stories
 - pratique
 ---
@@ -29,4 +29,3 @@ Traduit avec l’aimable autorisation de Jeff Patton.
 ---
 
 {% include share_buttons.html %}
-

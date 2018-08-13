@@ -3,7 +3,7 @@ layout: post
 title:  "Crystal Clear - 7 propriétés pour des projets couronnés de succès"
 date:   2015-12-02 21:00:55
 published: true
-categories: 
+tags: 
 - crystal
 ---
 
@@ -60,7 +60,7 @@ Si l'équipe ne peut pas livrer le système à la totalité des utilisateurs ré
 
 ## Propriété 2. Amélioration réflexive
 
-La découverte qui m'a pris complètement par surprise est qu'un projet peut contre toute attente passer d'un échec retentissant au succès si l'équipe se rassemble, recense ce qui fonctionne et ce qui ne fonctionne pas, discute de ce qu'il pourrait mieux fonctionner, et _applique ces changements_ au cours de la prochaine itération. En d'autres mots, **réfléchir** et **améliorer**. Il n'est pas nécessaire que l'équipe passe beaucoup de temps à faire ce travail - une heure à quelques semaines ou mois d'intervalles suffira. Le fait, seul, de prendre du temps en dehors du tohu bohu du développement quotidien pour réfléchir à ce qui pourrait mieux fonctionner est déjà efficace. 
+La découverte qui m'a pris complètement par surprise est qu'un projet peut contre toute attente passer d'un échec retentissant au succès si l'équipe se rassemble, recense ce qui fonctionne et ce qui ne fonctionne pas, discute de ce qu'il pourrait mieux fonctionner, et _applique ces changements_ au cours de la prochaine itération. En d'autres mots, **réfléchir** et **améliorer**. Il n'est pas nécessaire que l'équipe passe beaucoup de temps à faire ce travail - une heure à quelques semaines ou mois d'intervalles suffira. Le fait, seul, de prendre du temps en dehors du tohu bohu du développement quotidien pour réfléchir à ce qui pourrait mieux fonctionner est déjà efficace.
 
 > Est-ce que vous vous êtes réunis au moins une fois au cours des trois derniers mois pendant une demi-heure, une heure ou une demi-journée pour comparer des notes d'informations, réfléchir, discuter des habitudes de travail du groupe et découvrir ce qui vous permet d'aller plus vite, ce qui vous ralentit, et ce que vous pourriez pour améliorer ?
 
@@ -72,7 +72,7 @@ La découverte qui m'a pris complètement par surprise est qu'un projet peut con
 
 ## Propriété 3. Communication osmotique
 
-La **communication osmotique** signifie que les informations circulent à portée d'oreille des membres de l'équipe, et ainsi qu'ils piochent les informations intéressantes comme par osmose. Cela est généralement accomplit en les faisant s'asseoir dans la même pièce. Donc, lorsqu'une personne pose une question, dans la pièce certains peuvent écouter ou pas, contribuer à la discussion ou continuer leur travail. Plusieurs personnes ont relaté leur expérience de manière identique à celle-ci : 
+La **communication osmotique** signifie que les informations circulent à portée d'oreille des membres de l'équipe, et ainsi qu'ils piochent les informations intéressantes comme par osmose. Cela est généralement accomplit en les faisant s'asseoir dans la même pièce. Donc, lorsqu'une personne pose une question, dans la pièce certains peuvent écouter ou pas, contribuer à la discussion ou continuer leur travail. Plusieurs personnes ont relaté leur expérience de manière identique à celle-ci :
 
 > Nous étions quatre personnes à faire de la programmation en binôme. Le patron est arrivé et a posé une question à mon partenaire. J'ai commencé à y répondre, mais j'ai donné le mauvais nom d'un module. Nancy, qui programmait avec Neil, m'a corrigé, sans même que ce dernier ait remarqué qu'elle parlait ou qu'une question ait été posée.
 
@@ -103,7 +103,7 @@ Même la propriété offrant les meilleurs chances de succès peut s'avérer ina
 
 La **sécurité personnelle**, c'est être capable de parler quand quelque chose vous ennuie, sans crainte des représailles. Cela peut impliquer d'évoquer à son manager que le planning est irréel, à un collègue que sa conception a besoin d'être améliorer, ou même de faire savoir à un collègue qu'il devrait prendre une douche plus souvent. La **sécurité personnelle** est importante parce qu'avec elle, l'équipe peut découvrir et corriger ses faiblesses. Sans elle, les personnes ne parleront pas, et les insuffisances continueront à faire des dégâts au sein de l'équipe.
 
-La **sécurité personnelle** est une première étape vers la **confiance**. La confiance qui implique donner à quelqu'un d'autre du pouvoir sur soi, avec le risque concomitant de dégâts personnels, et par extension le degré avec lequel une personne est à l'aise avec le fait de donner ce pouvoir à quelqu'un. Certaines personnes font confiance aux autres naturellement, et attendent d'avoir été blessées avant de retirer leur confiance. D'autres ne sont pas enclins à faire confiance aux autres, et attendent avant d'obtenir la preuve qu'ils ne seront pas blessés avant de donner leur confiance. La présence de la confiance est corrélée avec la performance de l'équipe (Costa 2002). 
+La **sécurité personnelle** est une première étape vers la **confiance**. La confiance qui implique donner à quelqu'un d'autre du pouvoir sur soi, avec le risque concomitant de dégâts personnels, et par extension le degré avec lequel une personne est à l'aise avec le fait de donner ce pouvoir à quelqu'un. Certaines personnes font confiance aux autres naturellement, et attendent d'avoir été blessées avant de retirer leur confiance. D'autres ne sont pas enclins à faire confiance aux autres, et attendent avant d'obtenir la preuve qu'ils ne seront pas blessés avant de donner leur confiance. La présence de la confiance est corrélée avec la performance de l'équipe (Costa 2002).
 
 Lorsqu'une personne s'aperçoit que les autres ne la trahiront pas ou ne lui feront pas de mal sur la base des informations qu'elle leur a révélé, elle leur révèlera des informations avec un plus grand degré de liberté, ce qui accélèrera le projet. Par conséquent, la **sécurité personnelle** est une propriété essentielle à atteindre.
 
@@ -137,20 +137,20 @@ Savoir seulement ce qui est important est insuffisant. Les développeurs indique
 
 Les personnes à qui l'on demande de travailler sur deux ou trois projets en même temps indiquent qu'elles sont incapables d'avancer sur aucun d'eux. Il semble qu'une personne ait besoin d'une heure et demi pour retrouver son raisonnement après avoir travaillé sur un autre projet.
 
-Parmi les chefs de projets que j'ai interviewé, le consensus est que le nombre de projets dont une personne peut être en charge tout en restant efficace est de un et demi projets. À partir du moment où un troisième projet est ajouté, le développeur devient inefficace sur l'ensemble des projets. Mettez-ceci en contraste avec les chefs de projets inexpérimentés, qui sous-estimant le coût que cela implique de changer de projets, assignent aux développeurs de travailler sur trois à cinq projets en même temps. Un jour, j'ai rencontré un développeur qui avait été assigné à 17 projets simultanément. Vous pouvez imaginez qu'il avait rarement pu avoir le temps d'aller rendre compte dans différentes réunions de son manque d'avancement sur tous les fronts. 
+Parmi les chefs de projets que j'ai interviewé, le consensus est que le nombre de projets dont une personne peut être en charge tout en restant efficace est de un et demi projets. À partir du moment où un troisième projet est ajouté, le développeur devient inefficace sur l'ensemble des projets. Mettez-ceci en contraste avec les chefs de projets inexpérimentés, qui sous-estimant le coût que cela implique de changer de projets, assignent aux développeurs de travailler sur trois à cinq projets en même temps. Un jour, j'ai rencontré un développeur qui avait été assigné à 17 projets simultanément. Vous pouvez imaginez qu'il avait rarement pu avoir le temps d'aller rendre compte dans différentes réunions de son manque d'avancement sur tous les fronts.
 
 ## Propriété 6. Accès aisé aux utilisateurs experts
 
-Un accès continu aux utilisateurs experts offre à l'équipe 
+Un accès continu aux utilisateurs experts offre à l'équipe
 
 * un endroit où déployer et tester les **livraisons fréquentes**,
 * un _feedback_ rapide sur la qualité des produits finis,
 * un _feedback_ rapide sur leurs décisions de conception, et
-* des exigences à jour 
+* des exigences à jour
 
 Les chercheurs Keil et Carmel ont publié des résultats montrant combien il est essentiel d'avoir des contacts directs avec les utilisateurs experts (Keil 95). Ils ont écrit, en étudiant les chefs de projets qui avaient travaillé avec ou sans un accès facile à de vrais utilisateurs :
 
-> " ... dans 11 cas sur 14, le projet qui a été le plus couronné de succès est celui qui avait le plus grand nombre de contacts que ceux qui ont moins eu de succès. ... Il a été prouvé que cette différence a été statistiquement significative dans un comparatif t-test (p<0,01)." 
+> " ... dans 11 cas sur 14, le projet qui a été le plus couronné de succès est celui qui avait le plus grand nombre de contacts que ceux qui ont moins eu de succès. ... Il a été prouvé que cette différence a été statistiquement significative dans un comparatif t-test (p<0,01)."
 
 Leur recherche les a conduit à faire une recommandation bien précise : "Réduisez le fait de vous reposez sur des contacts indirects." En d'autres mots, ayez vraiment accès à de vrais utilisateurs.
 
@@ -164,7 +164,7 @@ Leur recherche les a conduit à faire une recommandation bien précise : "Rédui
 
 Tout cela c'est bien gentil, mais combien d'utilisateurs, et combien de temps ?
 
-Le contact à un vrai utilisateur expert même une heure par semaine est extrêmement précieux. Plus il y a d'heures disponibles pour l'équipe avec un utilisateur expert chaque semaine, plus cette proximité est avantageuse pour elle. La première heure, toutefois, est des plus cruciale. 
+Le contact à un vrai utilisateur expert même une heure par semaine est extrêmement précieux. Plus il y a d'heures disponibles pour l'équipe avec un utilisateur expert chaque semaine, plus cette proximité est avantageuse pour elle. La première heure, toutefois, est des plus cruciale.
 
 L'autre chose qui est importante est la durée jusqu'à ce qu'une question soit répondue. Si une question n'est pas répondue dans un délai supplémentaire de 3 jours, les programmeurs sont susceptibles de faire le code à leur idée, et d'oublier de re-vérifier la validité de leur décisions lorsqu'ils seront à nouveau en présence des utilisateurs. Par conséquent, ils devraient pouvoir joindre par téléphone l'utilisateur expert pendant la semaine.
 
@@ -178,13 +178,13 @@ Les éléments que je souligne dans cette propriété sont des éléments vitaux
 
 Leurs raisons est en rapport avec l'amélioration de la qualité de vie. Pendant la semaine, ils revoient des sections de code sachant qu'ils peuvent rapidement vérifier s'ils n'ont pas par inadvertence cassé quelque chose en chemin. Lorsqu'ils voient que le code fonctionne le vendredi, ils rentrent à la maison sachant qu'ils seront capables lundi de détecter si quelqu'un a cassé quelque chose pendant le week-end - ils  ré-exécutent simplement le code le lundi matin. Les tests leur donnent la liberté de mouvement pendant le jour et la tranquillité d'esprit pendant la nuit.
 
-**Gestion de configuration**. Le système de gestion de configuration permet aux personnes d'enregistrer leur travail de manière asynchrone, de sauvegarder les changements, de préparer une configuration particulière pour la livraison, et de revenir à cette configuration plus tard en cas de problème. Cela laisse les développeurs libres de développer leur code à la fois ensemble et séparément. C'est l'outil de non-compilation le plus régulièrement cité par les équipes. 
+**Gestion de configuration**. Le système de gestion de configuration permet aux personnes d'enregistrer leur travail de manière asynchrone, de sauvegarder les changements, de préparer une configuration particulière pour la livraison, et de revenir à cette configuration plus tard en cas de problème. Cela laisse les développeurs libres de développer leur code à la fois ensemble et séparément. C'est l'outil de non-compilation le plus régulièrement cité par les équipes.
 
 **Intégration fréquente**. Beaucoup d'équipes font de l'intégration système plusieurs fois par jour. Si elles n'arrivent pas faire cela, elles le font une fois par jour, ou au pire, un jour sur deux. Plus elles intègrent fréquemment, plus elles détectent les erreurs rapidement, moins de nouvelles erreurs apparaissent, plus fraîches sont leurs pensées, plus réduite est la portion de code qui doit être recherchée contenant le malentendu.
 
 Les meilleures équipes combinent ces trois éléments en **intégration continue avec tests automatisés**. Ils détectent les erreurs d'intégration dans la minute.
 
-> Pouvez-vous exécuter les tests systèmes jusqu'au bout sans avoir à être physiquement présent ? 
+> Pouvez-vous exécuter les tests systèmes jusqu'au bout sans avoir à être physiquement présent ?
 >
 > Est-ce que tous vos développeurs enregistrent leur code dans le système de gestion de configuration ?
 >
@@ -194,7 +194,7 @@ Les meilleures équipes combinent ces trois éléments en **intégration continu
 
 ## Témoignage : La collaboration au-delà des frontières organisationnelles
 
-Il y a un effet secondaire à traiter la **sécurité personnelle**, la capacité à être amicale dans une équipe, et la **facilité d'accès aux utilisateurs experts** : il devient naturel également d'inclure d'autres parties prenantes dans les projets. 
+Il y a un effet secondaire à traiter la **sécurité personnelle**, la capacité à être amicale dans une équipe, et la **facilité d'accès aux utilisateurs experts** : il devient naturel également d'inclure d'autres parties prenantes dans les projets.
 
 Géry Derbien, qui a travaillé avec les services de La Poste pour élaborer un logiciel pour piloter une nouvelle infrastructure traitant tous les courriers entrant et sortant du nord de la France, a rapporté avoir utilisé Crystal. Avec 25 personnes, son projet rentrait dans la catégorie Crystal Jaune. Toutefois, les principes de la famille des méthodologies Crystal lui étaient connus, tout particulièrement le principe "étirer pour adapter", et par conséquent, lorsque cela était possible il a choisi d'étendre Crystal Clear à son contexte qui était plus important.  
 
@@ -202,7 +202,7 @@ Géry Derbien, qui a travaillé avec les services de La Poste pour élaborer un 
 
 Après notre discussion, j'ai réalisé que Géry avait mis en place une sécurité supplémentaire dans son projet **collaboration au-delà des frontières organisationnelles**. Son projet était relié à la fois au client et aux environnements d'intégrations avec un collègue à sa chaque extrémité. Selon les termes stipulés dans le contrat, La Poste payait régulièrement à quelques mois d'intervalles (la **livraison fréquente**) en fonction des résultats des tests d'intégrations. La direction de La Poste obtenait un logiciel livré par incrément et payait en fonction. Les patrons de Géry, qui n'avait aucune expérience avec la livraison incrémentale, en étaient content également car ils voyaient les livraisons régulières se transformer en paiements réguliers. Géry avait une structure de soutien chaque côté.
 
-La **collaboration au-delà des frontières organisationnelles** n'est pas un résultat donné à tous les projets. Elle résulte d'un travail fait avec une capacité à être amicale honnêtement et avec intégrité à l'intérieur et à l'extérieur de l'équipe. Il est difficile à atteindre si l'équipe ne bénéficie pas elle-même de la **sécurité personnelle** et dans une moindre mesure de la **livraison fréquente**. Je considère l'existence d'une bonne collaboration au-delà des frontières organisationnelles comme la preuve partielle que les sept premières propriétés peuvent être atteintes. 
+La **collaboration au-delà des frontières organisationnelles** n'est pas un résultat donné à tous les projets. Elle résulte d'un travail fait avec une capacité à être amicale honnêtement et avec intégrité à l'intérieur et à l'extérieur de l'équipe. Il est difficile à atteindre si l'équipe ne bénéficie pas elle-même de la **sécurité personnelle** et dans une moindre mesure de la **livraison fréquente**. Je considère l'existence d'une bonne collaboration au-delà des frontières organisationnelles comme la preuve partielle que les sept premières propriétés peuvent être atteintes.
 
 ## Réflexion sur les propriétés
 
@@ -210,7 +210,7 @@ Je ne crois pas qu'aucune des procédures prescrites existantes  ne peut garanti
 
 Une équipe Crystal travaille pour mettre en place les sept propriétés, utilisant toute convention de groupe, toute technique et tout standard correspondants à la situation. Les conventions peuvent varier par projet et par mois. De nouvelles techniques sont inventées avec chaque nouvelle technologie (et deviennent généralement obsolètes quelques années plus tard). D'un autre côté, ces sept propriétés ont été appliqués sur des vrais projets ayant réussis depuis plusieurs dizaines d'années.
 
-Mon intention avec Crystal est de ne pas interférer avec les façons naturelles de travailler des individus sur les projets lorsque cela est possible, et de permettre le plus possible de variété entre les différentes équipes, tout en permettant néanmoins à ces différents projets d'atteindre la zone de sécurité. Pour permettre la variété, je dois supprimer les contraintes. Supprimer les contraintes signifie trouver les mécanismes les plus larges possibles offrant un filet de sécurité. Ceux sur lesquels j'ai choisi de me reposer sont les suivants : 
+Mon intention avec Crystal est de ne pas interférer avec les façons naturelles de travailler des individus sur les projets lorsque cela est possible, et de permettre le plus possible de variété entre les différentes équipes, tout en permettant néanmoins à ces différents projets d'atteindre la zone de sécurité. Pour permettre la variété, je dois supprimer les contraintes. Supprimer les contraintes signifie trouver les mécanismes les plus larges possibles offrant un filet de sécurité. Ceux sur lesquels j'ai choisi de me reposer sont les suivants :
 
 * Les gens sont bons par nature à regarder autour d'eux et à communiquer.
 
@@ -226,7 +226,7 @@ La **sécurité personnelle** donne aux gens le courage personnel de partager to
 
 La **communication osmotique** leur donne une plus grande chance de découvrir des informations importantes les uns des autres, et de le faire à un coût de communication très faible.
 
-L'**amélioration réflexive** leur donne un moyen pour appliquer le _feedback_ à leur processus de travail. 
+L'**amélioration réflexive** leur donne un moyen pour appliquer le _feedback_ à leur processus de travail.
 
 L'**accès facile aux utilisateurs experts** leur donne l'opportunité de découvrir rapidement de la part du/des utilisateur(s) l'information pertinente.
 
@@ -254,6 +254,3 @@ Date de traduction : 02/12/2015
 ---
 
 {% include share_buttons.html %}
-
-
-

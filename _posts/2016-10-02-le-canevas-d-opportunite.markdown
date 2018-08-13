@@ -3,7 +3,7 @@ layout: post
 title:  "Le canevas d’opportunité"
 date:   2016-10-02 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - pratique
 ---

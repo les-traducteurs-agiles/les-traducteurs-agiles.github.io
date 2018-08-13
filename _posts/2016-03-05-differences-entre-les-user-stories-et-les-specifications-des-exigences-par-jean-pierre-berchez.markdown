@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Jean-Pierre Berchez"
 date:   2016-03-09 11:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -21,7 +21,7 @@ Absolument pas ! Les _user stories_, c’est décrire d’une façon plus compr�
 
 Les _user stories_ sont focalisées davantage sur le cœur du problème, à savoir la satisfaction de l’exigence fonctionnelle. Elles vous forcent à vous focaliser. Le format de la _user story_ est très clair.  Toutefois les _user stories_ peuvent être enrichies de certaines informations complémentaires. Et elles ont besoin de toute manière de critères d’acceptation !
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
 Pas dans tous les cas, mais sûrement dans certains.
 

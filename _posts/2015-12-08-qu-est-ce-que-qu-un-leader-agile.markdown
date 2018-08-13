@@ -3,7 +3,7 @@ layout: post
 title:  "Qu’est-ce qu’un leader agile ?"
 date:   2015-12-15 21:00:55
 published: true
-categories: 
+tags: 
 - agile
 - inspiration
 ---
@@ -44,7 +44,7 @@ Alors, pour faire court : **essayez de minimiser le besoin d’efforts important
 
 ## Ne s’agit-il pas d’un chef de projet ?
 
-Peut-être mais pas nécessairement. **Un “projet”, c’est seulement une des multiples manières d’organiser le travail, et qui se révèle souvent inappropriée pour le développement de produit**. Toutefois, si vous travaillez sous la forme de projet, et que les projets sont suffisamment importants et complexes et impliquent la synchronisation de plusieurs équipes et organisations, alors le _leader agile_ est effectivement un _leader agile_ de projet. J’ai écris un article dédié à ce sujet et intitulé [Qu’est-ce qu’un _leader agile_ de projet ?](http://www.les-traducteurs-agiles.org/agile/inspiration/2015/12/27/qu-est-ce-que-qu-un-leader-agile-de-projet.html) comportant quelques sujets de discussions sur le modèle projet en général. Mais pour la description réelle du rôle de _leader agile_ en tant que tel, ce deuxième article re-pointe par ici. Ne restez pas coincé dans la boucle :) 
+Peut-être mais pas nécessairement. **Un “projet”, c’est seulement une des multiples manières d’organiser le travail, et qui se révèle souvent inappropriée pour le développement de produit**. Toutefois, si vous travaillez sous la forme de projet, et que les projets sont suffisamment importants et complexes et impliquent la synchronisation de plusieurs équipes et organisations, alors le _leader agile_ est effectivement un _leader agile_ de projet. J’ai écris un article dédié à ce sujet et intitulé [Qu’est-ce qu’un _leader agile_ de projet ?](http://www.les-traducteurs-agiles.org/agile/inspiration/2015/12/27/qu-est-ce-que-qu-un-leader-agile-de-projet.html) comportant quelques sujets de discussions sur le modèle projet en général. Mais pour la description réelle du rôle de _leader agile_ en tant que tel, ce deuxième article re-pointe par ici. Ne restez pas coincé dans la boucle :)
 
 À nouveau, le choix de la manière d’appeler ce rôle est grandement contextuel. L’objectif de cet article est juste de clarifier quel type de leader vous aurez besoin pour le remplir d’une manière agile.
 
@@ -62,7 +62,7 @@ Utilisant le sport comme métaphore, mon collègue Babar de Spotify en donne un 
 
 Savons-nous tous pourquoi nous sommes ici, à quoi ressemble la victoire ? Connaissons-nous le plan, la stratégie ? Avons-nous une manière de voir où nous en sommes maintenant ? Voyons-nous les obstacles, les choses qui nous ralentissent ? Essayons-nous constamment d’enlever les obstacles ?
 
-La réponse la plus probable est “non” à certaines de ces questions (autrement, félicitations, continuez ce bon boulot). Donc, c’est ça le boulot de _leader agile_ - **faites tout ce qui est possible pour transformer cela en “oui”. Cela ne garantit pas la réussite, mais cela en accroît certainement les chances**. 
+La réponse la plus probable est “non” à certaines de ces questions (autrement, félicitations, continuez ce bon boulot). Donc, c’est ça le boulot de _leader agile_ - **faites tout ce qui est possible pour transformer cela en “oui”. Cela ne garantit pas la réussite, mais cela en accroît certainement les chances**.
 
 Avec peu efforts grâce à l’utilisation de Scrum, ce travail est assuré  par les rôles existants et par la collaboration ascendante et transverse. En déployant beaucoup efforts, nous sommes confrontés à la discordance entre les équipes, et les choses tombent entre les mailles du filets des différentes parties de l’organisation. Par conséquent, le _leader agile_ se concentre beaucoup sur la communication et la création de la clarté. **Si toutes les personnes impliquées ont la vision de là où nous en sommes, là où nous allons, et pourquoi, alors nous aurons plus de chances à travailler ensemble pour aller dans cette direction**.
 
@@ -108,11 +108,11 @@ Voici donc la liste. Prenez une profonde inspiration :
 
 * **Recrutement et planning de capacité**. Travailler avec les mangers pour s’assurer que les bonnes personnes et les bonnes équipes sont disponibles au bon moment pour maximiser la vélocité et les chances de succès.
 
-* **Budgets et estimations**. S’assurer que toutes les contraintes budgets et contractuelles soient connues et gérées. S’assurer que les estimations soient faites par l’équipe la plus proche du travail en cours, uniquement à grosses mailles, et ajustés si nécessaire. S’assurer que les estimations soient traitées comme des estimations, pas comme des promesses. Rendre les coûts transparents. 
+* **Budgets et estimations**. S’assurer que toutes les contraintes budgets et contractuelles soient connues et gérées. S’assurer que les estimations soient faites par l’équipe la plus proche du travail en cours, uniquement à grosses mailles, et ajustés si nécessaire. S’assurer que les estimations soient traitées comme des estimations, pas comme des promesses. Rendre les coûts transparents.
 
 * **Dépendances**. S’assurer que l’équipe et les contraintes transverses soient connues et gérées de manière efficace, et que les équipes ne soient pas bloquées en s’attendant les unes les autres.
 
-* **Collaboration transverse**. Utilisez des techniques comme la co-location et les canaux de communication transverses pour réduire les silos et la sous-optimisation. 
+* **Collaboration transverse**. Utilisez des techniques comme la co-location et les canaux de communication transverses pour réduire les silos et la sous-optimisation.
 
 * **Communication**. Créez un environnement qui facilite une communication à large bande passante : en face-à-face ; et minimisez le besoin d’avoir des documents, des emails, et d’autres moyens de communications à faible bande passante inutiles. Les documents devraient être utilisés pour supporter la communication, pas pour la remplacer.
 
@@ -240,4 +240,3 @@ Date de traduction : 15/12/2015
 ---
 
 {% include share_buttons.html %}
-

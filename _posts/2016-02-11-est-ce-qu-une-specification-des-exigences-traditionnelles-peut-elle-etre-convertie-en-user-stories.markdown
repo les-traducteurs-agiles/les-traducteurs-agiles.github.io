@@ -3,7 +3,7 @@ layout: post
 title:  "Est-ce qu’une spécification des exigences traditionnelles peut être convertie en user stories ?"
 date:   2016-02-14 20:00:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -38,7 +38,7 @@ Mais une spécification des exigences n’est pas faite pour l’organisation, l
 
 En général, je ne recommande pas de prendre le temps de réécrire une spécification des exigences faite dans les règles de l’art. Réécrire une spécification des exigences sous la forme de _user stories_ et d’un _product backlog_ pourrait permettre de répondre aux problèmes que j’ai souligné précédemment. Mais, généralement cela ne vaut pas la peine de perdre du temps à réécrire les spécification des exigences en _user stories_.
 
-Quelqu’un devra passer du temps à faire ça, et généralement cette personne pourrait passer son temps d’une meilleure manière. Je serais particulièrement réticent à réécrire une spécification des exigences surtout si d’autres co-équipiers sont bloqués dans leur propre boulot dans l’attente d’un _product backlog_ réécrit. 
+Quelqu’un devra passer du temps à faire ça, et généralement cette personne pourrait passer son temps d’une meilleure manière. Je serais particulièrement réticent à réécrire une spécification des exigences surtout si d’autres co-équipiers sont bloqués dans leur propre boulot dans l’attente d’un _product backlog_ réécrit.
 
 Un ScrumMaster ou quelqu’un d’autre dans l’équipe devra trouver la manière de suivre l’avancée par rapport à la spécification des exigences et s’assurer que des exigences présentes ne passent pas à travers les mailles du filet. Avoir de l’aide auprès de l’assurance qualité pour valider que l’ensemble de la spécification des exigences est fait ou listé dans le _product backlog_ est fortement conseillé.
 
@@ -66,4 +66,3 @@ Copyright ©1998-2015 Mountain Goat Software. All Rights Reserved.
 ---
 
 {% include share_buttons.html %}
-

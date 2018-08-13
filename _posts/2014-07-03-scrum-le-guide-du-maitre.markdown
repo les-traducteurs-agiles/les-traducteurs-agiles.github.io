@@ -2,7 +2,9 @@
 layout: post
 title:  "Scrum, le guide du maître"
 date:   2014-07-03 21:26:55
-categories: equipe scrum
+tags:
+- équipe
+- scrum
 ---
 ## La traversée des plaines du développement logiciel
 
@@ -16,7 +18,7 @@ Commençons avec l'équipe. Un groupe de braves aventuriers, traversant les vast
   <img title="Le groupe" src="{{ site.url }}assets/gdm_scrum/party.png" />
 </div>
 
-Comme vous pouvez le constater, les membres de l'équipe ne sont pas identiques, car chacun à des compétences spécifiques. Imaginez respectivement l'expert en base de données, le testeur et le concepteur d'IHM en guerrier, magicien et voleur. Remarquez que bien qu'ils soient différents, ils ont tous la même importance.. C'est une question d'une bonne conception de jeu. Si un prêtre ne peut rien faire d'autre que guérir (et donc il ne serait rien de plus qu'un rabais ambulant sur des potions de guérisons), tout le monde voudra jouer le magicien. 
+Comme vous pouvez le constater, les membres de l'équipe ne sont pas identiques, car chacun à des compétences spécifiques. Imaginez respectivement l'expert en base de données, le testeur et le concepteur d'IHM en guerrier, magicien et voleur. Remarquez que bien qu'ils soient différents, ils ont tous la même importance.. C'est une question d'une bonne conception de jeu. Si un prêtre ne peut rien faire d'autre que guérir (et donc il ne serait rien de plus qu'un rabais ambulant sur des potions de guérisons), tout le monde voudra jouer le magicien.
 
 Mais, à propos de l'expérience ? Est-il évident qu'un développeur de base de données expérimenté puisse être plus important qu'un expert mobile débutant ? Eh bien, regardons cela de plus près. Vous le savez d'expérience sur D&D : dès que vous êtes le seul magicien ou voleur autour de la table, vous êtes important, peu importe que vous soyez niveau 3 ou 21. Si personne n'est capable de neutraliser la malédiction de la méchante sorcière, ou de crocheter la serrure de la porte de la prison, ils se reposent tous sur vous.
 
@@ -86,13 +88,13 @@ Toutefois, les dieux n'ont pas le même degré d'importance. Chaque prêtre jure
 
 Dans le second cas, le product owner à un espace à l'intérieur duquel il voyage. Il peut y construire son propre château dans les nuages.
 
-Maintenant considérons une situation plus complexe et discutons de ce qu'un oracle avisé ferait. 
+Maintenant considérons une situation plus complexe et discutons de ce qu'un oracle avisé ferait.
 
 <div align="center">
   <img title="Beaucoup de châteaux" src="{{ site.url }}assets/gdm_scrum/many_castles_fr.png" />
 </div>
 
-Phil, le sponsor, a donné une vision au product owner sous la forme d'une subvention européenne, de quelques mots à la mode et de très vagues idées (a) à propos de "personnages virtuels détaillés". Tom, une partie prenante aurait préféré aller sur la réalisation de "mondes massifs", pour lesquels il a une idée très claire pour une application sympa (b), mais sa demande de subvention a été rejetée, et donc il n'est pas devenu sponsor. Swen a un projet sur la réalisation de personnages virtuels et plus particulièrement sur leurs expressions faciales (c). C'est dans le périmètre donné par la subvention européenne du sponsor et avec une date butoir proche. Jörg a également un projet sur les "personnages virtuels ", mais il est intéressé plus particulièrement sur un moteur physique crédible (d). Son idée pourrait être dans le périmètre donné par la subvention européenne, mais elle est assez différente de celle de Swen. 
+Phil, le sponsor, a donné une vision au product owner sous la forme d'une subvention européenne, de quelques mots à la mode et de très vagues idées (a) à propos de "personnages virtuels détaillés". Tom, une partie prenante aurait préféré aller sur la réalisation de "mondes massifs", pour lesquels il a une idée très claire pour une application sympa (b), mais sa demande de subvention a été rejetée, et donc il n'est pas devenu sponsor. Swen a un projet sur la réalisation de personnages virtuels et plus particulièrement sur leurs expressions faciales (c). C'est dans le périmètre donné par la subvention européenne du sponsor et avec une date butoir proche. Jörg a également un projet sur les "personnages virtuels ", mais il est intéressé plus particulièrement sur un moteur physique crédible (d). Son idée pourrait être dans le périmètre donné par la subvention européenne, mais elle est assez différente de celle de Swen.
 
 Alors qu'est-ce que devrait faire le product owner ?
 
@@ -110,7 +112,7 @@ Une option est d'aller d'abord au château de Swen et d'être certain d'y arrive
   <img title="Plan b" src="{{ site.url }}assets/gdm_scrum/many_castles_opt_b_fr.png" />
 </div>
 
-Aussi une option différente pourrait être de construire un château quelque part entre l'idée de Swen et de Jörg et d'y aller en droite ligne. Swen et Jörg seront moins content, mais la progression en direction de Phil en sera meilleur. 
+Aussi une option différente pourrait être de construire un château quelque part entre l'idée de Swen et de Jörg et d'y aller en droite ligne. Swen et Jörg seront moins content, mais la progression en direction de Phil en sera meilleur.
 
 Les deux plans sont valables et ces décisions doivent être prise par le product owner.
 
@@ -134,7 +136,7 @@ Gardons à l'esprit que l'oracle est aveugle, donc qu'il ne voit pas la rivière
 
 Alors comment les aventuriers peuvent-ils mal utiliser la confiance de l'oracle. S'ils s'approchent d'un village qu'ils connaissent, ils pourraient inventer ou exagérer quelque problème pour inciter le groupe à y aller afin de passer une nuit avec l'élu de leur coeur et ou prendre un verre à la taverne. Dans le monde réel, cela correspond à exagérer les problèmes avec certaines bibliothèques que les programmeurs n'apprécient pas, ou sur-estimer les problèmes qui pourraient être potentiellement résolus par certaines technologies qu'ils voudraient tester depuis longtemps pour des raisons personnelles. Et même plus, car cela implique passer un temps significatif à regarder youtube pendant les heures de travail ou à se plaindre de problèmes, pendant qu'à vrai dire, les avancées sont petites parce qu'ils arrivent tard et qu'ils font de longues pause-déjeuner. L'oracle pourrait suspecter ce qui se passe mais il n'a pas vraiment moyen de savoir. Pour des situations comme celle-là, il y a un scrum master.
 
-Et comment l'oracle peut-il mal utiliser la confiance des aventuriers ? Eh bien, il pourrait ne pas être un oracle mais seulement un vieux trouduc d'ivrogne juché sur une âne. Sa vision pourrait être obscure et confuse et il pourrait être lui-même incertain où le voyage devrait mener. Bien que cela soit involontaire ou malheureux, cela trahit réellement le groupe lorsqu'il maquille les raisons des intérêts supérieurs qui expliquent le pourquoi il change toujours d'avis. A nouveau, en aucune manière les aventuriers ne peuvent le dire et s'ils suspectent réellement leur oracle d'être un escroc, ils devraient aller voir le scrum master. 
+Et comment l'oracle peut-il mal utiliser la confiance des aventuriers ? Eh bien, il pourrait ne pas être un oracle mais seulement un vieux trouduc d'ivrogne juché sur une âne. Sa vision pourrait être obscure et confuse et il pourrait être lui-même incertain où le voyage devrait mener. Bien que cela soit involontaire ou malheureux, cela trahit réellement le groupe lorsqu'il maquille les raisons des intérêts supérieurs qui expliquent le pourquoi il change toujours d'avis. A nouveau, en aucune manière les aventuriers ne peuvent le dire et s'ils suspectent réellement leur oracle d'être un escroc, ils devraient aller voir le scrum master.
 
 Une deuxième chose qui pourrait se produire est que l'oracle pourrait être un dieu du mal déguisé (une sorte de partie prenante camouflée). Dans le monde réel, c'est le cas du product owner qui a des intérêts propres dans le produit qui le détourne de la mission définie par le sponsor. Cette situation est à la fois dangereuse et difficile à identifier. L'équipe entière pourra avoir de sérieux ennuis après le projet lorsque surviendra la question "je vous ai envoyé sur une mission pour réaliser un éditeur 3D sur navigateur, alors pourquoi, bordel de merde, m'avez-vous livré un traitement de texte multi-plateforme ?". Une fois que la situation a été identifiée par le scrum master, il n'y a plus aucune raison d'échanger avec le product owner. S'il communique ouvertement et dès le début , qu'il agit également en tant que partie prenante, il pourrait exister une chance pour pouvoir gérer la situation. Mais une fois qu'il a menti - en gardant cette information pour lui - à propos de son double rôle, il doit être remplacé sans pitié.
 
@@ -172,7 +174,7 @@ Dans le monde réel du développement logiciel, les marais sont ce que j'appelle
 
 L'oracle a un mauvais pressentiment parce qu'il est déjà allé dans le marais par le passé et a eu des mauvaises expériences ou qu'il connaît quelqu'un qui y a été ou qu'il a lu quelque chose à ce propos. Aussi voudrait-il faire contourner le marais aux aventuriers sans qu'ils s'en rendent compte. Est-ce que cela est une bonne idée ? Non. Pour les mêmes raisons que les aventuriers ne devraient pas prendre la décision d'aller dans le souterrain tout seuls, l'oracle ne devrait pas décider de contourner le marais. Inévitablement, l'oracle sera sur le chemin de l'équipe qui essaient d'affronter les rencontres. Pire, contourner le marais implique changer constamment de direction, ce qui rendra l'équipe confuse et mènera à une défiance mutuelle. Donc, à la place d'essayer de contourner subrepticement le marais, il devrait partager l'information avec l'équipe qu'il suspecte la présence d'un marais. La décision de traverser ou de contourner devrait être prise ensemble. Après tout, peut être qu'un membre de l'équipe est un expert de la technologie bluetooth et est convaincu qu'il pourra y guider l'équipe sans embûches. Si la décision est prise de contourner, le groupe sait au moins pourquoi ils tournent en ronds.
 
-Bien évidemment, la même approche devra être prise si quelqu'un d'autre que l'oracle sent le marais. Seuls les membres de l'équipe sont généralement conscients qu'ils doivent partager cette information, alors que la tentation de prendre l'autre route à-l'insu-de-son-plein-gré est plus grande pour le product owner. 
+Bien évidemment, la même approche devra être prise si quelqu'un d'autre que l'oracle sent le marais. Seuls les membres de l'équipe sont généralement conscients qu'ils doivent partager cette information, alors que la tentation de prendre l'autre route à-l'insu-de-son-plein-gré est plus grande pour le product owner.
 
 ### La fin = le banquet final de la livraison
 

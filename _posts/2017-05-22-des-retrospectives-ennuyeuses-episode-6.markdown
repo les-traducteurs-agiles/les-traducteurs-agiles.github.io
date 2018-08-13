@@ -24,7 +24,7 @@ C’est peut-être une question de culture, mais ce **n’est facile de faire pa
 
 ### 2. Comment **aider l’équipe** à atteindre ce résultat ?
 
-Tout d’abord, votre tâche la plus importante en tant que facilitateur est de **créer une atmosphère ouverte**. Je parie que vous avez déjà eu affaire à deux types de réunions. La réunion dans laquelle une seule personne parle à la fois et où les autres participants acquiescent ou restent silencieux ET la réunion où tout le monde parle à tout le monde, avec énergie et passion, et où à la fin vous avez le sentiment d’avoir accomplit quelque chose ensemble. Si vous êtes capable d’accomplir ce deuxième type de réunion, les gens participeront plus rapidement et seront plus enclins à prendre la parole. 
+Tout d’abord, votre tâche la plus importante en tant que facilitateur est de **créer une atmosphère ouverte**. Je parie que vous avez déjà eu affaire à deux types de réunions. La réunion dans laquelle une seule personne parle à la fois et où les autres participants acquiescent ou restent silencieux ET la réunion où tout le monde parle à tout le monde, avec énergie et passion, et où à la fin vous avez le sentiment d’avoir accomplit quelque chose ensemble. Si vous êtes capable d’accomplir ce deuxième type de réunion, les gens participeront plus rapidement et seront plus enclins à prendre la parole.
 
 Il existe différents exercices et techniques que vous pouvez utilisez pour donner l’impulsion à une rétrospective à aller dans cette direction. Par exemple, **commencez** comme vous le faites d’habitude, par donner les **règles de la rétrospective** et son objectif. Puis choisissez un exercice pour obtenir des informations sur les **dysfonctionnements**. Par exemple, l’exercice **Espoirs & Inquiétudes**. Rassemblez les espoirs et les inquiétudes par sujet et essayez de **trouver la cause racine** en utilisant la technique des 5 pourquoi ou toute autre exercice d’analyse de cause racine. Dès que vous pourrez vous mettre d’accord en tant qu’équipe, vous aurez besoin d’un **exercice approprié à partir duquel l’équipe pourra travailler sur ce dysfonctionnement**.
 
@@ -64,5 +64,3 @@ Date de traduction : 23/05/2017
 ---
 
 {% include share_buttons.html %}
-
-

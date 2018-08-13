@@ -3,7 +3,7 @@ layout: post
 title:  "Améliorez la collaboration en un clin d'oeil"
 date:   2016-05-17 11:00:55
 published: true
-categories: 
+tags: 
 - agile
 - outils
 ---
@@ -28,6 +28,3 @@ Date de traduction : 17/05/2016
 ---
 
 {% include share_buttons.html %}
-
-
-

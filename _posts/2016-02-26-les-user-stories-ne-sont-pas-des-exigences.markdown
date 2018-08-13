@@ -3,7 +3,7 @@ layout: post
 title:  "Les user stories ne sont pas des exigences"
 date:   2016-02-27 11:15:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -27,7 +27,7 @@ Alors, que sont les _user stories_ ? Considérez-les comme des **instruments du 
 
 Le pouvoir de la _user story_ réside dans le dialogue qu’elle amorce. Au lieu d’avoir en main une spécification des exigences qui est interprétée par les développeurs et les testeurs, une communication à sens unique somme toute, dans la discussion que nous avons au sujet de chaque fonctionnalité que nous ajoutons, nous avons plusieurs compétences impliquées autour de la table.
 
-Étant donné que les _stories_ ne convoient pas énormément de choses, une fois terminé nous pouvons après les jeter. Nous pouvons très bien garder quelques statistiques sur combien de points de story ont été réalisés mais c’est tout. 
+Étant donné que les _stories_ ne convoient pas énormément de choses, une fois terminé nous pouvons après les jeter. Nous pouvons très bien garder quelques statistiques sur combien de points de story ont été réalisés mais c’est tout.
 
 Mais avons-nous besoin d’exigences ? Eh bien pas vraiment. Bien sûr, il y a des contraintes sur comment un système sera conçu et réalisé. Par exemple, les équipements médicaux doivent respecter les règlementations de la FDA[^1]. Mais appelons-les alors des contraintes.
 
@@ -41,7 +41,7 @@ _(par Mattias Skarin)_
 
 Alors qu’est-ce que nous utilisons à la place des exigences pour valider si ce que nous avons réalisé correspond à ce qui nous a été demandé ? Nous utilisons des contrats agiles. Les contrats agiles nous aident à nous concentrer sur ce qui compte, atteindre un objectif réel ensemble et répondre aux besoins de nos utilisateurs, à la place de nous perdre dans une forêt de détails.
 
-Lorsque vous pensez à un contrat, prenez en considération ceci : dès l’instant où vous devez prendre votre contrat en main pour valider si votre partenaire a raté quelque chose, cela montre que quelque chose s’est très mal passé dans votre processus. Un contrat devrait permettre de bâtir la confiance entre le fournisseur et l’acheteur pour transcender tout ce qui cache dans les détails et non s’y perdre. 
+Lorsque vous pensez à un contrat, prenez en considération ceci : dès l’instant où vous devez prendre votre contrat en main pour valider si votre partenaire a raté quelque chose, cela montre que quelque chose s’est très mal passé dans votre processus. Un contrat devrait permettre de bâtir la confiance entre le fournisseur et l’acheteur pour transcender tout ce qui cache dans les détails et non s’y perdre.
 
 ## En résumé
 
@@ -51,7 +51,7 @@ Lorsque vous pensez à un contrat, prenez en considération ceci : dès l’inst
 
 ## Références
 
-Dans un [article de 2001](http://wiki.ayeba.fr/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation), Ron Jeffries indique : “… utilisez le jeu du planning pour sélectionner les _user stories_ …” 
+Dans un [article de 2001](http://wiki.ayeba.fr/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation), Ron Jeffries indique : “… utilisez le jeu du planning pour sélectionner les _user stories_ …”
 
 “New to user stories” est un [article de la Scrum Alliance](https://www.scrumalliance.org/community/articles/2010/april/new-to-user-stories)
 dans lequel William Nazzaro et Charles Suscheck comparent exigences et _user stories_.

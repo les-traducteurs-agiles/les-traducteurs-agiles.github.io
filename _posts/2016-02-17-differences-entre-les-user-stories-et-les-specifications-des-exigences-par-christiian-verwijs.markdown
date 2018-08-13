@@ -3,7 +3,7 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Christiaan Verwijs"
 date:   2016-02-21 11:26:55
 published: true
-categories: 
+tags: 
 - user-stories
 ---
 
@@ -21,13 +21,13 @@ Les _user stories_ sont une forme de spécification, mais une forme - par nature
 
 Cela ne signifie pas que vous ne pouvez pas ajouter des informations supplémentaires aux _user stories_ avec par exemple des critères d’acceptances. Pour moi, il s’agira plus généralement d’une simple liste de ce qu’une _user story_ doit faire. Comme par exemple “cela doit fonctionner sous IE8”, ou bien “le mail suit la charte graphique de la [marque X]”. Elles peuvent permettre de gérer des exigences non fonctionnelles. Je suis tout de même satisfait avec les backlogs qui ne comportent pas 100% de _user stories_. Il n’y a rien dans le guide Scrum indiquant que les _user stories_ soient obligatoires ou même nécessaires. Je préfère écrire les critères d’acceptances pendant la planification du sprint ou lors de la préparation du sprint suivant - d’une certaine manière, de la spécification en juste-à-temps. Mais c’est vraiment à minima, car je souhaite me focaliser sur l’écriture d’un logiciel opérationnel plutôt que sur celle de documents.
 
-**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_** 
+**_Pensez-vous que les user stories remplacent les spécifications des exigences ?_**
 
 Les _users stories_ répondent à un besoin différent. Elles ne sont pas supposées remplacer les spécifications des exigences. Elles sont supposés faire partie d’une manière différente de réaliser un logiciel.Elles conviennent plus à une approche basée sur la découverte collaborative plutôt qu’à une approche planifié.
 
 **_Avec laquelle des deux, préférez-vous travailler avec ?_**
 
-Les _user stories_. Non à cause des _stories_ elles-mêmes, mais à cause du processus particulier dont elles font partie. Je travaille actuellement sur un grand projet au sein d’une équipe de 6 développeurs. Nous avons accompli environ 8 sprints et nous avons connu un grand changement sur ce que nous réalisons et sur comment nous le réalisons. Lorsque nous avons commencé le projet, nous avions beaucoup d’idées et un _backlog_ assez détaillé (avec des _user stories_ mais pas que). Après seulement quelques mois, nous avons abandonné un certain nombre de fonctionnalités soit disant essentielles et les avons remplacées avec des solutions très différentes, découvertes au fur et à mesure que nous avancions. 
+Les _user stories_. Non à cause des _stories_ elles-mêmes, mais à cause du processus particulier dont elles font partie. Je travaille actuellement sur un grand projet au sein d’une équipe de 6 développeurs. Nous avons accompli environ 8 sprints et nous avons connu un grand changement sur ce que nous réalisons et sur comment nous le réalisons. Lorsque nous avons commencé le projet, nous avions beaucoup d’idées et un _backlog_ assez détaillé (avec des _user stories_ mais pas que). Après seulement quelques mois, nous avons abandonné un certain nombre de fonctionnalités soit disant essentielles et les avons remplacées avec des solutions très différentes, découvertes au fur et à mesure que nous avancions.
 
 **_Laquelle des deux méthodes recommandez-vous dans le cadre de systèmes soumis à la réglementation (c’est-à-dire les systèmes d’informations dans le domaine de la santé, dans les logiciels embarqués d’appareils médicaux) ?_**
 

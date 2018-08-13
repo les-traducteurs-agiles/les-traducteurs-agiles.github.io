@@ -3,7 +3,7 @@ layout: post
 title:  "L’espace de curiosité"
 date:   2016-10-16 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 - inspiration
 ---
@@ -21,7 +21,7 @@ Certaines fois nous pouvons en ressentir de l’enchantement, parce que ce que n
 
 D’autres fois, nous pouvons le ressentir comme de la déception.
 
-Si nous observons cet écart — cet espace — nous pouvons en ressentir de la frustration, de l’échec, de l’embarras. Voire de l’irrespect ou de la perte de contrôle. Nous pouvons réagir de manière très négative et manipulatrice. Nous pouvons exercer de l’intimidation, montrer de la colère, même user de la force. Très souvent, nous refusons de prendre la responsabilité de cet écart entre le résultat attendu et le résultat observé, et nous blâmons les autres ou nous blâmons les circonstances. C’est improductif. 
+Si nous observons cet écart — cet espace — nous pouvons en ressentir de la frustration, de l’échec, de l’embarras. Voire de l’irrespect ou de la perte de contrôle. Nous pouvons réagir de manière très négative et manipulatrice. Nous pouvons exercer de l’intimidation, montrer de la colère, même user de la force. Très souvent, nous refusons de prendre la responsabilité de cet écart entre le résultat attendu et le résultat observé, et nous blâmons les autres ou nous blâmons les circonstances. C’est improductif.
 
 Nous avons tous entendu “Ce n’est pas ma faute — il m’a mis en colère” ou bien “ils ont refusé de coopérer et donc j’ai dû leur mettre la pression” —— cela dénote un manque complet de responsabilité. Le “Je” dans ces toutes ces anecdotes n’a guère le choix, agit de manière inapproprié, et avec de la colère parce que les autres l’ont “provoqué”.
 
@@ -60,6 +60,3 @@ Date de traduction : 16/10/2016
 ---
 
 {% include share_buttons.html %}
-
- 
-

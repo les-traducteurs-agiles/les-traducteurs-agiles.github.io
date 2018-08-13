@@ -3,7 +3,7 @@ layout: post
 title:  "Agile en résumé – avec une pincée de Lean UX"
 date:   2016-12-25 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - fiche
 - outil
@@ -33,7 +33,7 @@ Grand merci également à toutes ces personnes formidables :
 
 Je remercie également mon collègue Jimmy Janlén de m’avoir inspiré pour l’illustration de la comparaison entre les équipes en cascade par rapport aux équipes pluridisciplinaires.
 
-Annotation n°2 : Je veux simplement dire merci après tous les retours positifs reçus à propos de ce poster. Merci à vous tous ! Le poster du PO existe seulement en version papier pour l’instant, mais il devrait arriver bientôt sur ce blog. 
+Annotation n°2 : Je veux simplement dire merci après tous les retours positifs reçus à propos de ce poster. Merci à vous tous ! Le poster du PO existe seulement en version papier pour l’instant, mais il devrait arriver bientôt sur ce blog.
 
 > NdT : Certains peuvent se poser la question pourquoi donc un hippo sur le poster ? Il s’agit en fait de l’acronyme HiPPO,  the Highest Paid Persons Opinion ou en français opinion de la personne la plus grassement payée. Pour en savoir plus, le lecteur curieux pourra lire cet [article](https://decisionhacker.com/2012/04/01/hippo-decision-making/) en vo.
 
@@ -53,5 +53,3 @@ Date de traduction : 25/12/2016
 ---
 
 {% include share_buttons.html %}
-
-

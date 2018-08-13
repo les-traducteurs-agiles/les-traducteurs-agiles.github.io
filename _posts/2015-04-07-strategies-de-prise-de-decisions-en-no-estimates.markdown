@@ -2,7 +2,9 @@
 layout: post
 title:  "Stratégies de prise de décisions en No-Estimates"
 date:   2015-04-07 22:00
-categories: agile pratique
+tags:
+- agile
+- pratique
 ---
 
     Un article de la Harvard Business Review révèle qu'un projet SI sur six double   
@@ -10,8 +12,8 @@ categories: agile pratique
 
 
 La suite à lire [ici](https://www.infoq.com/fr/news/2015/04/no-estimate)  
-  
-  
+
+
 ---
 Auteur : [Savita Pahuja](http://www.infoq.com/author/Savita-Pahuja)  
 Source : [Decision Making Strategies of No Estimates ](https://www.infoq.com/news/2015/03/no-estimate)  

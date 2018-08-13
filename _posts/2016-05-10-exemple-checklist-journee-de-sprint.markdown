@@ -3,7 +3,7 @@ layout: post
 title:  "Checklist d’une journée spéciale sprint"
 date:   2016-05-11 10:30:55
 published: true
-categories: 
+tags: 
 - scrum
 - outils
 ---

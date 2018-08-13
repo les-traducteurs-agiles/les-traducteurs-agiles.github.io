@@ -3,15 +3,15 @@ layout: post
 title:  "Leçons apprises en développement logiciel"
 date:   2015-10-28 21:00:55
 published: true
-categories: 
+tags: 
 - pratique
 - developpement
 ---
 
 Voici ma liste de trouvailles heuristiques et de règles empiriques que j'ai pu trouver utiles pour le développement logiciel tout au long de ces années  :
- 
-![Livres de programmation]({{ site.url }}assets/lecons_apprises/dsc_0566.jpg) 
- 
+
+![Livres de programmation]({{ site.url }}assets/lecons_apprises/dsc_0566.jpg)
+
 ## Développement
 
 **1. Commencez petit, puis élargissez.** Que ce soit pour la création d'un nouveau système, ou pour l'ajout d'une fonctionnalité à un système existant, je commence toujours par une version très simple avec, pour ainsi dire, aucune des fonctionnalités exigées. Puis j'élargis la solution petit à petit, jusqu'à ce qu'elle fasse ce qu'elle est supposée faire. Je n'ai jamais pu dès le départ tout planifier en détails . À la place, j'apprends au fur et à mesure que j'avance, et ces nouvelles informations, qui ont été découvertes, sont utilisées dans la solution.
@@ -32,7 +32,7 @@ Quelques fois, il peut être difficile de déclencher les bonnes conditions. Heu
 
 Quelques fois je vois des anomalies qui montrent qu'une ligne de code donnée n'a jamais été exécutée par le développeur. Elle peut sembler bonne à la relecture, mais ne pas fonctionner. Vous vous éviterez des ennuis si vous décidez de toujours exécuter chaque nouvelle ligne que vous écrivez.
 
-**5. Testez les parties avant l'ensemble.** Bien tester les parties permet de gagner du temps. Souvent il y a des problèmes avec l'intégration des différentes parties, par exemple avec des interfaces incomprises ou incompatibles entre les modules. Si vous pouvez avoir confiance dans le fonctionnement comme prévu de chaque partie, il devient beaucoup plus facile de pister les problèmes d'intégration. 
+**5. Testez les parties avant l'ensemble.** Bien tester les parties permet de gagner du temps. Souvent il y a des problèmes avec l'intégration des différentes parties, par exemple avec des interfaces incomprises ou incompatibles entre les modules. Si vous pouvez avoir confiance dans le fonctionnement comme prévu de chaque partie, il devient beaucoup plus facile de pister les problèmes d'intégration.
 
 **6. Chaque chose prend plus de temps que vous ne le pensez.** Et tout spécialement en programmation. Il est difficile d'estimer combien de temps le développement d'une fonctionnalité prendra si tout se passe bien. Mais lors du développement d'un logiciel, il est assez habituel de rencontrer des problèmes imprévus : un simple _merge_[^3] aboutit à la survenance d'une anomalie subtile à analyser, la montée de version d'un _framework_[^4] peut signifier que quelques fonctionnalités doivent être modifiées ou que l'appel d'une _API_[^5] ne fonctionne pas comme promis.  
 
@@ -56,7 +56,7 @@ Je pense qu'il y a beaucoup de vrai dans la loi de Hofstadter :  _Cela prends to
 
 **11. Reproduisez le problème.** La première étape lors de la correction d'une anomalie est de reproduire le problème. Ensuite assurez-vous une fois le correctif est mis en place, que le problème ait bien disparu. Cette règle simple vous permet d'être sûr que vous ne faites pas une supposition sur ce qu'est le problème alors qu'il n'en est rien, d'être certain que la solution fait réellement ce que vous pensez qu'elle fait.
 
-**12. Corrigez les problèmes connus, puis regardez ce qu'il reste.** Souvent, il y a plusieurs problèmes dont vous avez déjà connaissance. Les différentes anomalies peuvent interagir les unes avec les autres et provoquer la survenance de choses étranges. À la place d'essayer de résoudre ce qui arrive dans ces cas-là, corriger déjà tous les problèmes connus et regardez si les symptômes persistent. 
+**12. Corrigez les problèmes connus, puis regardez ce qu'il reste.** Souvent, il y a plusieurs problèmes dont vous avez déjà connaissance. Les différentes anomalies peuvent interagir les unes avec les autres et provoquer la survenance de choses étranges. À la place d'essayer de résoudre ce qui arrive dans ces cas-là, corriger déjà tous les problèmes connus et regardez si les symptômes persistent.
 
 **13. Partez du principe qu'il n'existe pas de coïncidences.** Lors de la gestion des tests et des anomalies, ne croyez jamais aux coïncidences. Vous avez changé la valeur d'un compte à rebours, et maintenant le système redémarre plus souvent. Ce n'est pas une coïncidence. Une nouvelle fonctionnalité a été ajoutée, et une autre fonctionnalité n'ayant aucun rapport avec elle devient plus lente ? Ce n'est pas une coïncidence. Au lieu de ça, enquêtez.
 
@@ -82,7 +82,7 @@ Je pense qu'il y a beaucoup de vrai dans la loi de Hofstadter :  _Cela prends to
 
 **21. Changez.** Ne soyez pas effrayé de changer de rôles et de métiers de temps en temps. C'est stimulant de travailler avec des personnes différentes, sur un produit différent ou dans une entreprise différente. De mon point de vue, trop de personnes restent passivement au même poste année après année, et changent uniquement lorsqu'elles sont forcées de le faire.
 
-**22. Continuez à apprendre.** L'une des plus belles choses dans le développement logiciel est qu'il y a toujours l'opportunité d'apprendre et d'en savoir davantage. Essayez différents langages de programmations et différents outils, lisez des livres sur le développement logiciel, suivez des cours en ligne. 
+**22. Continuez à apprendre.** L'une des plus belles choses dans le développement logiciel est qu'il y a toujours l'opportunité d'apprendre et d'en savoir davantage. Essayez différents langages de programmations et différents outils, lisez des livres sur le développement logiciel, suivez des cours en ligne.
 Et l'accumulation des petites avancées fera bientôt une vraie différence dans vos connaissances et dans vos compétences.
 
 ---  
@@ -101,5 +101,3 @@ Date de traduction : 28/10/2015
 ---
 
 {% include share_buttons.html %}
-
-

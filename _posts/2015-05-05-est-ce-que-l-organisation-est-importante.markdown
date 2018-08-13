@@ -2,7 +2,10 @@
 layout: post
 title:  "Est-ce que l'organisation compte ?"
 date:   2015-05-05 22:01:53
-categories: equipe developpement refactoring 
+tags:
+- équipe
+- développement
+- refactoring 
 ---
 
 > Je me demande s'il est même possible d'avoir les trois en même temps : la lisibilité, la facilité à être maintenu/modifié (ou bidouillabilité - NdT) et l'abstraction. -- Ben Kuhn, extrait de [Readability, hackability, and abstraction](http://www.benkuhn.net/rha)
@@ -68,7 +71,7 @@ Cela peut sembler presque intolérable. Parce que au fur et à mesure que le pro
 
 Et donc la question que tu pose est si cela vaut le coup d'investir dans un quelconque schéma d'organisation  étant donné qu'il deviendra obsolète un jour.
 
-La réponse à cette question devrait être évidente. Si tu décides qu'organiser ton système ne vaut pas les efforts investis, tu finiras par être 
+La réponse à cette question devrait être évidente. Si tu décides qu'organiser ton système ne vaut pas les efforts investis, tu finiras par être
 un [thésauriseur de code]({{ site.url }}equipe/developpement/refactoring/2015/05/05/les-thesauriseurs-de-code.html).
 
 ---

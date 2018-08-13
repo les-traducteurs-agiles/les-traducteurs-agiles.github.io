@@ -3,7 +3,7 @@ layout: post
 title:  "Quelques outils pour le test agile"
 date:   2015-10-16 21:00:55
 published: true
-categories: 
+tags: 
 - test
 - pratique
 ---
@@ -27,4 +27,3 @@ Date de traduction : 16/10/2015
 ---
 
 {% include share_buttons.html %}
-

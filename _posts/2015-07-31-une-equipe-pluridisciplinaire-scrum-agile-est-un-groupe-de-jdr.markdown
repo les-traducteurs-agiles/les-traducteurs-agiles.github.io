@@ -3,7 +3,7 @@ layout: post
 title:  "Une équipe pluridisciplinaire scrum agile est un groupe de JdR"
 date:   2015-08-10 21:59:53
 published: true
-categories: équipe
+tags: équipe
 ---
 
 <div align="right" style="float:right; padding-left:30px">
@@ -83,7 +83,7 @@ Comme je l'ai dit sur la montée de niveau dans les JdRs, une équipe pluridisci
 
 # En conclusion
 
-Je voudrais réitérer mon affirmation qu'une équipe pluridisciplinaire scrum est comme un groupe de JdR. Cela ne se fait pas en une nuit, cela peut prendre un peu de temps pour le faire, les membres doivent avoir une connaissance approfondie de leur spécialisation tout en ayant une connaissance superficielle des autres domaines de compétences dans lesquels les autres membres sont spécialisés afin que, si le besoin survient, l'équipe soit capable de continuer d'avancer. 
+Je voudrais réitérer mon affirmation qu'une équipe pluridisciplinaire scrum est comme un groupe de JdR. Cela ne se fait pas en une nuit, cela peut prendre un peu de temps pour le faire, les membres doivent avoir une connaissance approfondie de leur spécialisation tout en ayant une connaissance superficielle des autres domaines de compétences dans lesquels les autres membres sont spécialisés afin que, si le besoin survient, l'équipe soit capable de continuer d'avancer.
 
 Le plus important est de toujours garder des attitudes positives au sein de l'équipe. Si vous jouez à des JdRs comme Lunar Silver Star, je ne pense pas que vous trouverez des personnages de votre groupe grogner ou blâmer les uns sur les autres tout le temps (d'accord, peut être que cela arrive dans d'autres jeux que je connais pas, mais pas dans Lunar !), à la place les membres sont toujours prêts à avancer vers la prochaine quête quoi qu'il se passe. Dans certains cas, le personnage ennemi peut même devenir un des membres du groupe. Pourquoi est-ce que les histoires sont écrites dans ce sens ? Parce que c'est toujours plus amusant lorsque tout le monde a une attitude positive même lorsqu'ils font face aux défis les plus difficiles.
 

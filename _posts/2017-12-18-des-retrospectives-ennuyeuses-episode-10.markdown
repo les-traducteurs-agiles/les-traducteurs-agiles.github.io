@@ -14,7 +14,7 @@ Dans mes articles précédents sur les rétrospectives ennuyeuses, j’ai introd
 
 ![promenade le long du tableau]({{ site.url }}assets/retrospectives_ennuyeuses/walktheboard.jpg)
 
-L’exercice d’aujourd’hui s’appelle ‘**Promenade le long du tableau**’. C’est un exercice que j’ai fait plusieurs fois avec différentes équipes et qui a conduit à des améliorations et à certains réflexions vraiment stupéfiantes. 
+L’exercice d’aujourd’hui s’appelle ‘**Promenade le long du tableau**’. C’est un exercice que j’ai fait plusieurs fois avec différentes équipes et qui a conduit à des améliorations et à certains réflexions vraiment stupéfiantes.
 
 Il est idéal pour les équipes après quelques sprints qui luttent pour livrer le contenu du _backlog_ de sprint.
 
@@ -23,7 +23,7 @@ Voici comment cela se passe :
 1. Invitez l’équipe à **se rassembler autour du tableau de tâches**. Comme ce n’est pas un _standup_, vous pouvez très bien amener des chaises si vous le souhaitez.
 
 2. **Expliquez le but** de l’exercice : “_Nous allons reconstituer l’histoire de chaque user story. Ensemble, nous essaierons de raconter ce qu’il s’est passé, dire quand quelqu’un a travaillé dessus, quelles sont les difficultés qui sont survenues, quand a t’elle été testée, pourquoi elle est restée en attente, etc…_” <br/> <br/>
-Expliquez à l’équipe que notre objectif est de trouver des schémas nous aidant à comprendre là où le flux de notre processus est bloqué. Dit autrement, où se situe notre plus gros goulot d’étranglement. Si nous pouvons comprendre cela, nous pouvons réfléchir à des améliorations nous permettant de le réduire ou de l’éliminer. De cette manière, il y aura moins de _user stories_ bloquées dans le processus et nos chances de livrer ce que nous avons planifié augmenteront. 
+Expliquez à l’équipe que notre objectif est de trouver des schémas nous aidant à comprendre là où le flux de notre processus est bloqué. Dit autrement, où se situe notre plus gros goulot d’étranglement. Si nous pouvons comprendre cela, nous pouvons réfléchir à des améliorations nous permettant de le réduire ou de l’éliminer. De cette manière, il y aura moins de _user stories_ bloquées dans le processus et nos chances de livrer ce que nous avons planifié augmenteront.
 
 3. Je **commence toujours avec une _user story_** terminée récemment. Étant toujours présente dans l’esprit des gens, c’est plus facile. <br/> <br/>
 En tant que facilitateur, posez des questions et aidez l’équipe à réfléchir sur ce qu’il s’est passé sur cette _user story_ à chaque étape du processus. Lorsque cela est terminé, mettez vous d’accord avec l’équipe sur le goulot d’étranglement majeur pour cette _user story_. Écrivez-le sur un pense-bête adhésive et collez-le sur la _user story_. Faites de même sur la _user story_ suivante et ainsi de suite.
@@ -53,5 +53,3 @@ Date de traduction : 22/12/2017
 ---
 
 {% include share_buttons.html %}
-
-

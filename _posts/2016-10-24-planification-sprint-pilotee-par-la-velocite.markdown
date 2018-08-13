@@ -3,7 +3,7 @@ layout: post
 title:  "Planification de sprint pilotée par la vélocité"
 date:   2016-10-25 00:00:01
 published: true
-categories: 
+tags: 
 - scrum
 - planification
 ---
@@ -49,7 +49,7 @@ Munis de la vélocité moyenne, les membres de l’équipe sélectionnent les it
 
 La plupart des équipes qui préfèrent la planification de sprint pilotée par la vélocité ont bien conscience que planifier un sprint en quelques secondes est probablement insuffisant. Et beaucoup d’entre elles y ajouteront alors cette troisième étape pour identifier les tâches à réaliser.
 
-Pour faire ça, les membres de l’équipe discutent de chaque item du _product backlog_ sélectionné pour le sprint et tentent d’identifier les étapes clés nécessaires pour livrer chacun d’eux. Les équipes ne peuvent pas raisonnablement penser à tout donc à la place elles s’emploient en toute bonne foi à y réfléchir autant qu’elles peuvent. 
+Pour faire ça, les membres de l’équipe discutent de chaque item du _product backlog_ sélectionné pour le sprint et tentent d’identifier les étapes clés nécessaires pour livrer chacun d’eux. Les équipes ne peuvent pas raisonnablement penser à tout donc à la place elles s’emploient en toute bonne foi à y réfléchir autant qu’elles peuvent.
 
 Après avoir identifié la plupart des tâches qui devraient être nécessaires, les membres de l’équipe regardent les items du _product backlog_ sélectionnés et les tâches correspondantes, et décident si le sprint semble complètement remplit. Ils peuvent conclure que le sprint est trop remplit ou insuffisamment remplit et ajouter ou abandonner des items du _product backlog_. À partir de là, certaines équipes auront fini et concluent la planification du sprint avec un ensemble d’items du _product backlog_ sélectionnés et une liste de tâches pour les livrer. Néanmoins certaines équipes passent par une dernière étape :
 
@@ -77,5 +77,3 @@ Copyright ©1998-2016 Mountain Goat Software. All Rights Reserved.
 ---
 
 {% include share_buttons.html %}
-
-  

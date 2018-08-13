@@ -2,7 +2,10 @@
 layout: post
 title:  "XP sur une page"
 date:   2015-01-17 20:45:55
-categories: xp fiche outil
+tags:
+- xp
+- fiche
+- outil
 ---
 
 ![XP sur une page]({{ site.url }}assets/une_page/xp.jpg)

@@ -3,13 +3,13 @@ layout: post
 title:  "Manifeste pour le développement agile à reculons de logiciels"
 date:   2016-07-29 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 ---
 
 <div align="center" style="background: url(/assets/agile_a_reculons/drones.png) no-repeat scroll center top">
 
-<p><span style="font-size:20px"> Nous avons entendu parler des nouvelles façons de développer des logiciels avec des consultants que nous avons payé et en lisant des rapports de chez Gartner. Fort de ces éléments, on nous a dit de valoriser :</span></p> 
+<p><span style="font-size:20px"> Nous avons entendu parler des nouvelles façons de développer des logiciels avec des consultants que nous avons payé et en lisant des rapports de chez Gartner. Fort de ces éléments, on nous a dit de valoriser :</span></p>
 
 <p><span style="font-size:24px">Les individus et leurs interactions</span><span style="font-size:20px"> plus que les processus et les outils</span><br><em style="color:dimgray"> mais chez nous il y a des processus à respecter obligatoirement et des outils pour contrôler comment ces individus (nous préférons le terme “ressources”) interagissent</em></p>
 
@@ -41,4 +41,3 @@ Date de traduction : 29/07/2016
 ---
 
 {% include share_buttons.html %}
-

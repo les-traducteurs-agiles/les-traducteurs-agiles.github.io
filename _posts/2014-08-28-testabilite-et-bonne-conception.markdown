@@ -2,7 +2,7 @@
 layout: post
 title:  "Testabilité et bonne conception"
 date:   2014-08-28 23:24:55
-categories: test
+tags: test
 ---
 La plupart du temps, le groupe de discussion yahoo sur le développement piloté par les tests est plutôt calme, mais récemment, il a été réveillé de son sommeil hivernal. La question "Est-il correct d'ajouter du code à une classe uniquement pour améliorer sa testabilité ?" a provoqué une discussion tous azimut ayant aboutit à la discussion de ce qui constitue une bonne conception. Avec le commentaire suivant, "Oncle Bob" Martin a tracé dans le sable une ligne jaune à ne pas franchir :
 

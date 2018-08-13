@@ -2,7 +2,7 @@
 layout: post
 title:  "Penser niveau 2"
 date:   2015-03-31 21:30
-categories: inspiration 
+tags: inspiration 
 ---
 
 **Niveau 0** : faire ce que vous êtes en train de faire, y compris bavarder. Exemple : taper dans un ballon, parler avec quelqu'un

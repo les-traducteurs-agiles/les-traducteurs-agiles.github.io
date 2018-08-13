@@ -4,8 +4,8 @@ title:  "Contrats agiles"
 date:   2013-10-15 00:01
 published: true
 tags:
-- tag1
-- tag2
+- agile
+- contractuel
 ---
 
 Rédiger des contrats est un élément clé pour les équipes de commerciaux impliqués dans des projets agiles. Dans des projets utilisant une méthodologie traditionnelle, les entreprises ont initié deux types de modèles de contrats populaires :

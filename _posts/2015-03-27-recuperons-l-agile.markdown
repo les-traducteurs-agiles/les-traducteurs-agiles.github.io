@@ -2,7 +2,9 @@
 layout: post
 title:  "Récupérons l'agile"
 date:   2015-03-27 22:00
-categories: agile pratique
+tags:
+- agile
+- pratique
 ---
 
     * Qu'est-ce qui a bien marché pour nous précédemment ?
@@ -10,8 +12,8 @@ categories: agile pratique
 
 
 À lire [ici](http://www.infoq.com/fr/news/2015/03/taking-back-agile)  
-  
-  
+
+
 ---
 Auteur : [Rui Miguel Ferreira](http://www.infoq.com/author/Rui-Miguel-Ferreira)  
 Source : [Taking Back Agile](http://www.infoq.com/news/2015/03/taking-back-agile)  

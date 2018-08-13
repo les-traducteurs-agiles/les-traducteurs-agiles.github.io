@@ -3,7 +3,7 @@ layout: post
 title:  "La curiosité plutôt que le jugement : aller au-delà de l’attitude défensive"
 date:   2016-08-29 00:00:01
 published: true
-categories: 
+tags: 
 - agile
 ---
 
@@ -21,7 +21,7 @@ On m’a dit que le secret du succès est de remplacer le jugement (“ce n’es
 
 La curiosité. Hmm. Essayons cela. Je me demande où cela va mener.
 
-Je vais devoir mettre de côté ma colère, mon jugement, mes reproches et arrêter d’en vouloir aux autres si je veux pouvoir passer à la curiosité. 
+Je vais devoir mettre de côté ma colère, mon jugement, mes reproches et arrêter d’en vouloir aux autres si je veux pouvoir passer à la curiosité.
 
 Il y a tellement de possibilités maintenant, et tellement de questions :
 

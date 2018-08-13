@@ -3,13 +3,13 @@ layout: post
 title:  "Anomalies, corrections et demandes de supports - c’est bien trop petit pour une user story"
 date:   2016-03-14 10:26:55
 published: true
-categories: 
-- user-stories
+tags:
+- user stories
 ---
 
-_Bien qu’elles doivent être gérées tout aussi efficacement durant le sprint, certaines choses s’avèrent trop petites pour faire l’objet d’une **user story**. Je propose donc d’utiliser une taxonomie simple permettant de les classifier et de les gérer._ 
+_Bien qu’elles doivent être gérées tout aussi efficacement durant le sprint, certaines choses s’avèrent trop petites pour faire l’objet d’une **user story**. Je propose donc d’utiliser une taxonomie simple permettant de les classifier et de les gérer._
 
-Grâce à un vocabulaire adapté pour ces petites choses, Scrum devient plus facile au quotidien, car cela permet à l’équipe ayant adopté ce type de conventions de travail de savoir comment gérer chacune d’entre elles 
+Grâce à un vocabulaire adapté pour ces petites choses, Scrum devient plus facile au quotidien, car cela permet à l’équipe ayant adopté ce type de conventions de travail de savoir comment gérer chacune d’entre elles
 
 ## Anomalies
 
@@ -51,7 +51,7 @@ Si vous avez trop de problèmes de support, vous devez les analyser et trouver c
 
 Ce genre de petites choses peuvent être assez frustrantes et prennent quelques fois beaucoup de temps pour s’en occuper. En les classant, en les visualisant et en gardant à jour des statistiques, cela devient plus facile de vivre avec.
 
-[^1]: TDD - Test Driven Development ou Développement piloté par les tests, est une technique de développement - pour plus d’informations reportez-vous à cette [article d’introduction](https://fr.wikipedia.org/wiki/Test_driven_development) sur Wikipedia. 
+[^1]: TDD - Test Driven Development ou Développement piloté par les tests, est une technique de développement - pour plus d’informations reportez-vous à cette [article d’introduction](https://fr.wikipedia.org/wiki/Test_driven_development) sur Wikipedia.
 
 ---  
 Auteur : [Per Lundholm](https://www.crisp.se/konsulter/per-lundholm)  

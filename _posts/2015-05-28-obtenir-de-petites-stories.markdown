@@ -3,18 +3,18 @@ layout: post
 title:  "Obtenir de petites stories"
 date:   2015-05-31 21:45:53
 published: true
-categories: 
+tags: 
 - user stories
 - pratique
 ---
 
 Ce matin - dans un fil de discussion où nous débattions de savoir si c’était une bonne idée de faire des estimations en heures (et à mon avis ce n’est pas une bonne idée) - Robin Dymond m’a lancé ce défi :
 
-      Pendant des années, vous avez prôné que les équipes devraient être capables de 
-    découper les stories de telle façon qu'elles puissent être développées en une 
-    journée. 
-    Je souhaiterais que vous le montriez par écrit à la communauté agile avec des 
-    exercices et des exemples non triviaux. J'aimerai en apprendre plus sur la 
+      Pendant des années, vous avez prôné que les équipes devraient être capables de
+    découper les stories de telle façon qu'elles puissent être développées en une
+    journée.
+    Je souhaiterais que vous le montriez par écrit à la communauté agile avec des
+    exercices et des exemples non triviaux. J'aimerai en apprendre plus sur la
     manière dont vous vous y prenez.
 
 Au pied levé, voici une réponse :
@@ -41,7 +41,7 @@ Il est probable que Chet et moi ayons dit un certain nombre de fois “Eh bien, 
 
 Plus tard - quelques minutes après, pas des heures ni des jours - un ingénieur présent dans la pièce dit “Eh bien, ça ne marcherait pas, mais ce que nous pourrions faire serait ...” et de décrire quelque chose qu’ils pourraient faire.
 
-C’est ce qui arrive tout le temps. Quelqu’un arrive avec un exemple stupide de story, quelque soit le sujet en question, qui pourrait être faite en un jour ou en une semaine. Généralement, ce quelqu’un c’est moi, parce que j’ai la tête remplie d’idées stupides et que je n’ai aucun scrupule à les sortir. 
+C’est ce qui arrive tout le temps. Quelqu’un arrive avec un exemple stupide de story, quelque soit le sujet en question, qui pourrait être faite en un jour ou en une semaine. Généralement, ce quelqu’un c’est moi, parce que j’ai la tête remplie d’idées stupides et que je n’ai aucun scrupule à les sortir.
 
 Et tout à coup, les choses changent. En une seule étape, nous passons d’“impossible” à une chose stupide mais néanmoins faisable. Le ton de la réunion change immédiatement, nous passons de “impossible de faire cela” à perfectionner l’idée ou à l’améliorer.
 
@@ -51,27 +51,27 @@ Ensemble ou séparément, Chet et moi avons déjà fait ça à maintes reprises 
 
 En se référant à l’exercice du “carpaccio d’éléphant” d’Alistair Cockburn, Robin dit alors :
 
-    Je connais bien le carpaccio d'éléphant d'Alistair, mais cet exercice utilise 
-    une calculatrice, et généralement les développeurs ne pensent pas que cet 
-    exemple soit applicable à leurs problèmes. 
+    Je connais bien le carpaccio d'éléphant d'Alistair, mais cet exercice utilise
+    une calculatrice, et généralement les développeurs ne pensent pas que cet
+    exemple soit applicable à leurs problèmes.
 
 ## Ils pensent toujours ça
 
 Un million d’exemples, pas dans leur domaine, et ils pensent toujours cela.
 
-      Oui, mais dans le monde réel, nous devons livrer chacun des films existants 
-    depuis les débuts de l'histoire du cinéma dans toutes les maisons en temps 
-    réel, avec toutes les critiques de film des majors, avec ou sans le son 
-    surround, écran large ou quatre-tiers, 3D ou non, avec les sous-titres dans 
-    toutes les langues connues y compris le FORTRAN, avec amélioration des 
-    couleurs pour le daltonisme, en prenant en charge les cartes de crédits les 
+      Oui, mais dans le monde réel, nous devons livrer chacun des films existants
+    depuis les débuts de l'histoire du cinéma dans toutes les maisons en temps
+    réel, avec toutes les critiques de film des majors, avec ou sans le son
+    surround, écran large ou quatre-tiers, 3D ou non, avec les sous-titres dans
+    toutes les langues connues y compris le FORTRAN, avec amélioration des
+    couleurs pour le daltonisme, en prenant en charge les cartes de crédits les
     plus répandues y compris les coupons de réductions des magasins canadiens
     accrédités, avec les parties indécentes floutées ou non, avec la possibilité
-    de mettre en pause ou de zoomer, de mettre en accélérer ou au ralenti ainsi 
-    qu'à vitesse normale, sans fil ou avec des cables de toute sorte, sans 
-    aucune émission électromagnétique sur l'ensemble du spectre, en diffusant 
+    de mettre en pause ou de zoomer, de mettre en accélérer ou au ralenti ainsi
+    qu'à vitesse normale, sans fil ou avec des cables de toute sorte, sans
+    aucune émission électromagnétique sur l'ensemble du spectre, en diffusant
     sur n'importe quelle télévision, ordinateur, tablette, téléphone, montre, ou
-    chevalière à n'importe quel endroit du système solaire, immédiatement. 
+    chevalière à n'importe quel endroit du système solaire, immédiatement.
     Vous ne pouvez pas faire cela dans le monde réel.
 
 Ouais, eh ben, nous venons bien de le faire. Et je doute que cela nous ait pris une heure.
@@ -106,5 +106,3 @@ Date de traduction : 31/05/2015
 ---
 
 {% include share_buttons.html %}
-
-
