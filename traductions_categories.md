@@ -9,26 +9,26 @@ Trouvé sur https://codinfox.github.io/dev/2015/03/06/use-tags-and-categories-in
 The following part extracts all the tags from your posts and sort tags, so that you do not need to manually collect your tags to a place.
 =======================
 {% endcomment %}
-{% assign rawcategories = "" %}
+{% assign rawtags = "" %}
 {% for post in site.posts %}
-    {% assign ccategories = post.categories | join:'|' | append:'|' %}
-    {% assign rawcategories = rawcategories | append:ccategories %}
+    {% assign ctags = post.tags | join:'|' | append:'|' %}
+    {% assign rawtags = rawtags | append:ctags %}
 {% endfor %}
-{% assign rawcategories = rawcategories | split:'|' | sort %}
+{% assign rawtags = rawtags | split:'|' | sort %}
 
 {% comment %}
 =======================
-The following part removes dulpicated categories and invalid tags like blank tag.
+The following part removes dulpicated tags and invalid tags like blank tag.
 =======================
 {% endcomment %}
-{% assign categories = "" %}
-{% for category in rawcategories %}
-    {% if category != "" %}
-        {% if categories == "" %}
-            {% assign categories = category | split:'|' %}
+{% assign tags = "" %}
+{% for tag in rawtags %}
+    {% if tag != "" %}
+        {% if tags == "" %}
+            {% assign tags = tag | split:'|' %}
         {% endif %}
-        {% unless categories contains category %}
-            {% assign categories = categories | join:'|' | append:'|' | append:category | split:'|' %}
+        {% unless tags contains tag %}
+            {% assign tags = tags | join:'|' | append:'|' | append:tag | split:'|' %}
         {% endunless %}
     {% endif %}
 {% endfor %}
@@ -41,8 +41,8 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 <div>
-{% for category in categories %}
-  <a href="#{{ category | slugify }}" style="font-size:125%"> {{ category }} &nbsp; </a>
+{% for tag in tags %}
+  <a href="#{{ tag | slugify }}" style="font-size:125%"> {{ tag }} &nbsp; </a>
 {% endfor %}
 </div>
 
@@ -58,14 +58,14 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 {% endcomment %}
 
 
-{% for category in categories %}
+{% for tag in tags %}
   &nbsp;
-  <h1 id="{{ category | slugify }}"> {{ category }} &nbsp;  
+  <h1 id="{{ tag | slugify }}"> {{ tag }} &nbsp;  
     <a class="post-meta" href="#top" title="retour vers le nuage de mots des catégories">⤴︎</a>
   </h1>
   <ul class="post-list">
   {% for post in site.posts %}
-    {% if post.categories contains category %}
+    {% if post.tags contains tag %}
     <li>
       <h2>
         <a class="post-link" href="{{ post.url }}"> {{ post.title }} </a>
