@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 6ème épisode"
 date:   2017-05-23 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 ![Modèle de Tuckman d’évolution d’un groupe]({{ site.url }}assets/retrospectives_ennuyeuses/tuckmangroupdevelopmentmodel_fr.png)

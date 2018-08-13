@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 11ème épisode"
 date:   2018-01-17 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 **Comment démarrez-vous** une rétrospective ? Demandez-vous seulement à votre équipe ce qui s’est mal passé et quelles sont leurs idées pour améliorer le processus actuel ?
@@ -75,5 +75,3 @@ Date de traduction : 17/01/2018
 ---
 
 {% include share_buttons.html %}
-
-

@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 5ème épisode"
 date:   2017-03-27 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Mon prochain exercice dans la série “Des rétrospectives ennuyeuses” est la **chronologie inversée**.

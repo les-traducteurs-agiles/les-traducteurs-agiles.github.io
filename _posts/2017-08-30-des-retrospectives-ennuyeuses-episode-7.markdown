@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 7ème épisode"
 date:   2017-08-30 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Les gens s’imaginent souvent en train de **faire votre boulot**, et je parie que vous faites de même.

@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 1er épisode"
 date:   2016-12-14 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Lorsque vous travaillez depuis longtemps avec une équipe, il est vital que les rétrospectives conservent un caractère dynamique.

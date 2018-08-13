@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 9ème épisode"
 date:   2017-11-27 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Dans l’un des mes articles précédents, je vous ai présenté le concept de [rétrospectives orientées vision](http://www.les-traducteurs-agiles.org/2017/11/21/retrospectives-orientees-vision.html). En utilisant la vision de l’état idéal de votre équipe/entreprise/famille/ … il est plus facile de donner du poids à des suggestions d’améliorations. Laquelle est la plus proche de la vision ? Quelle est la prochaine étape ?

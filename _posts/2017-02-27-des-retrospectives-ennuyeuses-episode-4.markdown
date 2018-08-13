@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 4ème épisode"
 date:   2017-02-27 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Ces dernières semaines ont été assez chargées et cela a eu comme conséquence que je n’ai pas été capable de tenir mon objectif d’écrire au moins un article sur ce blog par semaine.

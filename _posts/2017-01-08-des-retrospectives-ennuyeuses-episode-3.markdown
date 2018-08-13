@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 3ème épisode"
 date:   2017-01-10 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Notre projet ayant connu quelques turbulences dernièrement, j’ai senti qu’il était temps de prendre la température de l’équipe pour connaître son ressenti sur l’état du projet.

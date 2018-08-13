@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives orientées vision - éviter les actions d’améliorations inutiles"
 date:   2017-11-21 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 Comme la plupart d’entre vous le savent déjà, je suis assez friand d’**amélioration continue**. Je suppose que c’est à cause de l’idée d’admettre qu’il est impossible de prévoir le futur. Et par conséquent, si nous souhaitons nous améliorer, nous devons apprendre et nous adapter en conséquence au lieu d’essayer de faire de meilleures prévisions. Pas uniquement sur les projets, mais également sur la manière dont nous organisons notre travail.
@@ -36,9 +36,9 @@ Je vais vous montrer comment j’utilise ce que j’entends par vision lors de *
 
 Si nous comprendre notre manière idéale de travailler, nous devons être capable de le faire facilement. Par conséquent, dans l’une de nos rétrospectives d’équipes, nous nous sommes focalisé à **coucher par écrit notre futur idéal**. Cette réunion fut très interactive, dans laquelle nous avons commencé par mettre par écrit tout ce qui comptait pour nous.
 
-Puis nous avons essayé de regrouper les éléments par similarité ou par catégorie. Nous avons combiné des sujets en doublons ou similaires jusqu’à ce que le modèle soit suffisamment restreint pour être facile à comprendre, sans trop de pertes d’informations. 
+Puis nous avons essayé de regrouper les éléments par similarité ou par catégorie. Nous avons combiné des sujets en doublons ou similaires jusqu’à ce que le modèle soit suffisamment restreint pour être facile à comprendre, sans trop de pertes d’informations.
 
-En fin de réunion, j’ai consolidé l’ensemble dans une **carte heuristique**. De cette façon, nous étions en mesure de pouvoir **facilement réutiliser** l’ensemble lors de futures rétrospectives. 
+En fin de réunion, j’ai consolidé l’ensemble dans une **carte heuristique**. De cette façon, nous étions en mesure de pouvoir **facilement réutiliser** l’ensemble lors de futures rétrospectives.
 
 ![Carte heuristique]({{ site.url }}assets/retrospectives_ennuyeuses/carte_heuristique_etat_ideal.png)
 
@@ -82,5 +82,3 @@ Date de traduction : 21/11/2017
 ---
 
 {% include share_buttons.html %}
-
-

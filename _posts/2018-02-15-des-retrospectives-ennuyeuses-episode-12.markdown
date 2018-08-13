@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 12ème épisode"
 date:   2018-02-15 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 <div align="left" style="float:left; padding-right:30px" >
@@ -26,7 +26,7 @@ L'équipe procède à la **nomination** des _user stories_ pour les Oscars. Nous
 * La _story_ la plus ennuyante
 * La _story_ la plus complexe techniquement
 
-Chaque membre de l'équipe est autorisé à nominer une seule _user story_ par catégorie. Une nomination se fait en écrivant la _story_ sur un pense-bête adhésif et l'explique brièvement en la mettant sur le tableau blanc. 
+Chaque membre de l'équipe est autorisé à nominer une seule _user story_ par catégorie. Une nomination se fait en écrivant la _story_ sur un pense-bête adhésif et l'explique brièvement en la mettant sur le tableau blanc.
 
 Lorsque toutes les personnes de l'équipe ont fini de faire les nominations, le **vote** peut commencer. Chaque membre de l'équipe dispose d'un certain nombre de gommettes (dans notre cas 3) qu'il peut distribuer à volonté sur les nominés.
 
@@ -61,5 +61,3 @@ Date de traduction : 15/02/2018
 ---
 
 {% include share_buttons.html %}
-
-

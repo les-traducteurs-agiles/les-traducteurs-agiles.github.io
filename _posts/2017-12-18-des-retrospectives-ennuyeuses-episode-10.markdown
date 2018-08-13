@@ -3,9 +3,9 @@ layout: post
 title:  "Des rétrospectives ennuyeuses - 10ème épisode"
 date:   2017-12-22 00:00:01
 published: true
-tags: 
+tags:
 - agile
-- retrospective
+- rétrospective
 ---
 
 En tant que facilitateur, il est **difficile de trouver de nouveaux exercices de rétrospective**. Toutefois, je crois qu’entretenir une certaine fraîcheur dans les rétrospectives permet de donner un coup de fouet aux résultats d’amélioration continue de l’équipe.
