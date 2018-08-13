@@ -3,7 +3,7 @@ layout: post
 title:  "Crystal Clear - 7 propriétés pour des projets couronnés de succès"
 date:   2015-12-02 21:00:55
 published: true
-tags: 
+tags:
 - crystal
 ---
 
@@ -233,8 +233,6 @@ L'**accès facile aux utilisateurs experts** leur donne l'opportunité de décou
 La **livraison fréquente** créé du _feedback_ sur les exigences du système et sur le processus de développement.
 
 L'environnement de développement technique incluant **test automatisé, gestion de configuration @ intégration fréquente** permet aux personnes de faire des changements dans le système en toute sécurité, de synchroniser de multiples esprits  qui sont en mouvement en même temps, et d'obtenir rapidement du _feedback_ sur les étapes intermédiaires du système. L'**attention** permet à l'équipe de donner toute son énergie dans le bon sens sur les choses les plus importantes.
-
-Ron Jeffries once characterized Crystal Clear as, “Bring a few developers together in peace, love and harmony, shipping code every other month, and good software will emerge.” He is close.
 
 Un jour, Ron Jeffries a défini Crystal comme suit : "Rassemblez quelques développeurs dans la paix, l'amour et l'harmonie livrant du code un mois sur deux, et un bon logiciel en émergera." Il est proche de la vérité.
 
