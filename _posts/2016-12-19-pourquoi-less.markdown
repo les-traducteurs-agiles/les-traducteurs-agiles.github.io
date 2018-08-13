@@ -4,7 +4,7 @@ title:  "Pourquoi LeSS ?"
 date:   2016-12-19 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)

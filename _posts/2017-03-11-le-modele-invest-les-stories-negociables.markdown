@@ -3,8 +3,8 @@ layout: post
 title:  "Le modèle INVEST - N comme stories Négociables"
 date:   2017-03-12 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 Le **N** dans le modèle INVEST signifie **Négociable** (et **Négocié**). Par Négociable, plusieurs choses importantes sur les _stories_ sont sous-entendues :
@@ -17,7 +17,7 @@ Le **N** dans le modèle INVEST signifie **Négociable** (et **Négocié**). Par
 
 Pourquoi les entreprises existent-elles ? Pourquoi est-ce que tout ce qui est fait par des individus ne se négocie-t-il pas directement sur une place de marché ? La réponse suivante fut donnée par Le prix Nobel d’économie Ronald Coase : “parce que les entreprises permettent de réduire la friction du travailler ensemble”.
 
-Travailler avec des individus distincts a un coût : vous devez trouver quelqu’un avec qui travailler, négocier un contrat, surveiller minutieusement ce qu’il fait - et tout cela présente des frais généraux supérieurs au fait de travailler avec quelqu’un au sein d’une même entreprise. En effet, une entreprise créée une zone dans laquelle les personnes peuvent interagir à un niveau de confiance plus élevée (ce qui conduit souvent à de meilleurs résultats à moindre coût). 
+Travailler avec des individus distincts a un coût : vous devez trouver quelqu’un avec qui travailler, négocier un contrat, surveiller minutieusement ce qu’il fait - et tout cela présente des frais généraux supérieurs au fait de travailler avec quelqu’un au sein d’une même entreprise. En effet, une entreprise créée une zone dans laquelle les personnes peuvent interagir à un niveau de confiance plus élevée (ce qui conduit souvent à de meilleurs résultats à moindre coût).
 
 C’est cette même dynamique qui est ici en jeu, bien sûr, dans les équipes de développement logiciel ; les équipes qui peuvent agir en toute confiance et qui font preuve de bonne volonté ont normalement de bien meilleurs résultats. Et les fonctionnalités Négociables tirent avantage de ce climat de confiance : les gens travaillent ensemble, partagent des idées et s’approprient ensemble le résultat.
 
@@ -39,7 +39,7 @@ En faisant en sorte que la _story_ reste à un niveau grosse maille, celo nous l
 
 ## Retour d’information
 
-Le développement dans une approche classique dite en cascade est décrite quelque fois comme “jeter tout par-dessus le mur” : faire une description “parfaite” de la solution, la donner à une équipe pour qu’elle fasse sa conception, une autre pour l’implémentation, encore une autre pour les tests, et ainsi de suite, et ceci sans aucuns réels retours d’informations entre les équipes. Mais cette approche suppose que non seulement vous soyez en mesure d’identifier correctement les problèmes et les solutions, mais aussi de les communiquer de la bonne manière pour que cela déclenche le comportement attendu chez les autres. 
+Le développement dans une approche classique dite en cascade est décrite quelque fois comme “jeter tout par-dessus le mur” : faire une description “parfaite” de la solution, la donner à une équipe pour qu’elle fasse sa conception, une autre pour l’implémentation, encore une autre pour les tests, et ainsi de suite, et ceci sans aucuns réels retours d’informations entre les équipes. Mais cette approche suppose que non seulement vous soyez en mesure d’identifier correctement les problèmes et les solutions, mais aussi de les communiquer de la bonne manière pour que cela déclenche le comportement attendu chez les autres.
 
 Certains projets peuvent bien fonctionner avec cette approche ou du moins fonctionner au mieux. Mais d’autres doivent gérer de “vicieux problèmes” dans lesquelles n’importe laquelle des solutions a des impacts sur la perception des besoins de manière imprévisible. Notre seul espoir dans ce cas est d’intervenir d’une manière ou d’une autre, d’obtenir des retours d’informations, et de (re)partir de là.
 
@@ -65,5 +65,3 @@ Date de traduction : 12/03/2017
 ---
 
 {% include share_buttons.html %}
-
-

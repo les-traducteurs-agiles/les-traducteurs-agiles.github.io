@@ -3,9 +3,9 @@ layout: post
 title:  "Améliorez la collaboration en un clin d'oeil"
 date:   2016-05-17 11:00:55
 published: true
-tags: 
+tags:
 - agile
-- outils
+- outil
 ---
 
 À découvrir en cliquant sur ce [lien]({{ site.url }}assets/cartes_collaboration/ameliorez-la-collaboration-en-un-clin-d-oeil.pdf).

@@ -3,11 +3,11 @@ layout: post
 title:  "Le rôle de Product Owner"
 date:   2016-11-04 00:00:01
 published: true
-tags: 
+tags:
 - scrum
 - fiche
 - outil
-- product-owner
+- product owner
 ---
 
 Il y a quelques temps , j’ai fait une illustration du rôle du _product owner_ scrum et qui après réflexion pourrait être utile à d’autres personnes. Cette illustration est basée en grande partie sur le rôle de _product owner_ tel que présenté par scrum.org, l’une des branches existantes de Scrum[^1], auquel j’ai ajouté quelques détails supplémentaires. Cette illustration n’est pas sur Scrum à proprement parler mais sur le rôle _product owner_ au sein de scrum. La raison pour laquelle je l’ai faite est que d’après mon expérience, le rôle de _product owner_ est le rôle le plus difficile à adopter dans beaucoup d’entreprises en raison de leurs contraintes et de leurs organisations. L’illustration est sous licence creative common, donc allez-y, partagez-la et utilisez-la.

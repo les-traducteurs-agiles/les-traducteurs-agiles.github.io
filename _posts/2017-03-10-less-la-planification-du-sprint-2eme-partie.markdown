@@ -4,7 +4,7 @@ title:  "LeSS - La Planification du Sprint (2ème partie)"
 date:   2017-03-10 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)

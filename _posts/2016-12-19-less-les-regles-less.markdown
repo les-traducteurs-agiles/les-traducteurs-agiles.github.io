@@ -4,7 +4,7 @@ title:  "LeSS - Les Règles LeSS"
 date:   2016-12-19 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS](http://www.les-traducteurs-agiles.org/2016/12/26/portail-less.html)

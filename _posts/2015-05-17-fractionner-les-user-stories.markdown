@@ -2,8 +2,8 @@
 layout: post
 title:  "Fractionner les user stories"
 date:   2015-05-17 17:45:53
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 J’ai déjà écrit par le passé sur les [user stories](http://blog.gdinwiddie.com/2009/09/13/using-user-stories/) (en VO - NdT) et j’avais rendu public un [papier avec une page sur le fractionnement des stories,]({{ site.url }}assets/fractionner_stories/User_stories.pdf) (en VF - NdT) qui outre la présence d’une liste d’heuristiques de fractionnement, présente plusieurs liens vers diverses techniques de fractionnement de stories.

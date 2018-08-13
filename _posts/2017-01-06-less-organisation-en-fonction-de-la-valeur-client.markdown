@@ -4,7 +4,7 @@ title:  "LeSS - Organisation en fonction de la valeur client"
 date:   2017-01-06 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Structure](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-structure.html)

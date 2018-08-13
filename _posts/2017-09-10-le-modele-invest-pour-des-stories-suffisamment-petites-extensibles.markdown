@@ -3,11 +3,11 @@ layout: post
 title:  "Le modèle INVEST - S comme stories Suffisamment petites, extenSibles "
 date:   2017-10-16 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
-Le **S** du modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est pour “Suffisamment petites”. J’utilise désormais ce **S** pour quelque chose d’autre qui je pense capture cette idée encore mieux : extenSible. 
+Le **S** du modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est pour “Suffisamment petites”. J’utilise désormais ce **S** pour quelque chose d’autre qui je pense capture cette idée encore mieux : extenSible.
 
 Extensible signifie “pouvoir changer de taille ou d’échelle”, ce qui est plutôt pratique dans une _storie_. Nous voulons des _stories_ taillées selon ce que nous essayons de faire.
 
@@ -32,7 +32,7 @@ Je ne suis pas un expert en location de véhicules, mais il y a sûrement d’au
 
 Il ne s’agit donc pas du type de _stories_ que quelqu’un peut implémenter directement. Nous utilisons ce type de _stories_ pour répondre à la question “Avons-nous oublier quelque chose d’important ?”
 
-## Les _stories_ de de niveau intermédiaire : les gros titres 
+## Les _stories_ de de niveau intermédiaire : les gros titres
 
 Le niveau intermédiaire correspond aux gros titres des _stories_. Plus précisément au niveau de la cartographie des _stories_ et des plannings de livraison.
 
@@ -93,7 +93,7 @@ Un gros titre peut couvrir plusieurs _stories_ potentielles.
 
 Vous êtes peut-être déjà familier avec l’idée de la [décomposition des _stories_](http://xp123.com/articles/twenty-ways-to-split-stories/). Par exemple, sur une _story_ quelconque, l’équipe peut venir vous voir et vous dire “Cette _story_ est trop grosse, un plus petit morceau nous irait amplement.”
 
-Mais la décomposition peut s’avérer traumatisante : vous avez bâti une description complète d’une _story_ avec toutes les possibilités et toutes les idées possibles que vous ayez pu imaginer. Puis l’équipe prend un scalpel, un couteau, ou une massue, et la met en charpie. 
+Mais la décomposition peut s’avérer traumatisante : vous avez bâti une description complète d’une _story_ avec toutes les possibilités et toutes les idées possibles que vous ayez pu imaginer. Puis l’équipe prend un scalpel, un couteau, ou une massue, et la met en charpie.
 
 Ce processus peut amener un _product owner_ au bord des larmes.
 
@@ -105,7 +105,7 @@ Passez de la _décomposition_ des _stories_ à l’__**intensification**___ des 
 
 > Passez de la _décomposition_ des _stories_ à l’__**intensification**___ des _stories_.
 
-En tant que _product owner_, travailler graduellement. Démarrez petit - encore plus petit que vous ne pourriez l’imaginer - et faites grandir vos _stories_  - 
+En tant que _product owner_, travailler graduellement. Démarrez petit - encore plus petit que vous ne pourriez l’imaginer - et faites grandir vos _stories_  -
 
 ## Quelle taille ?
 
@@ -117,7 +117,7 @@ Les grosses _stories_ c’est compliqué.
 
 * Les grosses _stories_ obligent l’équipe de livraison à digérer et à livrer des grosses portions de travail.
 
-> Les grosses _stories_ c’est compliqué 
+> Les grosses _stories_ c’est compliqué
 
 Vous avez peut être appris à faire des _stories_ qui soient des FMV : Fonctionnalités Minimales Vendables. Mais même ce genre de _stories_, c’est trop gros dans un monde de livraison continue. À la place, pensez au Minimum de Fonctionnalités Utiles - un ensemble de petites choses qui rendent la vie d’une personne un peu plus facile (et qui peuvent se transformer en choses plus imposantes).
 
@@ -138,7 +138,7 @@ John Gall a dit “Tout système complexe opérationnel est à l’origine un sy
 Rappelez-vous les trois niveaux vus précédemment :
 
 1. **Thème - Haut niveau** : Abordons-nous les bonnes choses ?
-2. **Gros titre - Niveau intermédiaire** : Est-ce que l’utilisateur obtient quelque chose qui soit important à ses yeux ? 
+2. **Gros titre - Niveau intermédiaire** : Est-ce que l’utilisateur obtient quelque chose qui soit important à ses yeux ?
 3. **Détails - Bas niveau** : Avons-nous besoin de quelque chose de nouveau, ou pouvons-nous améliorer quelque chose d’existant ?
 
 Plutôt que de décomposer des _stories_ trop grosses, entraînez-vous à démarrer avec des versions plus petites, puis à les étendre et à les intensifier. Si vous devez les décomposer, faites-le d’un point de vue utilisateur et non d’un point de vue technique.
@@ -166,5 +166,3 @@ Date de traduction : 16/10/2017
 ---
 
 {% include share_buttons.html %}
-
-

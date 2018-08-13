@@ -3,8 +3,7 @@ layout: post
 title:  "L'approche des deux pizzas pour un travail d'équipe productif"
 date:   2014-11-03 00:01
 published: true
-tags: 
-- entreprise
+tags:
 - équipe
 ---
 
@@ -45,5 +44,3 @@ Date de traduction : 03/11/2014
 ---
 
 {% include share_buttons.html %}
-
-

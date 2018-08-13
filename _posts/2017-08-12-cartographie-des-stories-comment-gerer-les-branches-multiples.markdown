@@ -3,8 +3,8 @@ layout: post
 title:  "Comment gérer les branches des cartographies des user stories"
 date:   2017-08-15 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 ## Question reçue récemment de Douglas Ferguson (mais qui m’est posée régulièrement)
@@ -55,13 +55,13 @@ Voyant apparaître, de la manière dont je venais de la dessiner, cette très gr
 
 En échangeant avec Doug, ce dernier m’évoqua ce qui suit :
 
->“ Imagines ce flux 
-> 
+>“ Imagines ce flux
+>
 > un marchand ajoute un nouveau produit à son catalogue — l’utilisateur parcoure le catalogue — l’utilisateur consulte les informations détaillées sur le produit — l’utilisateur passe commande — le service production reçoit la commande — le service livraison expédie le produit — l’utilisateur reçoit les informations de suivi de livraison
 >
 > Il s’agit donc d’un flux avec différents acteurs. Mes propres flux sont un peu plus complexes, spécifiques à mon cas d’utilisation et peuvent donner lieu à différentes branches, mais d’après ton FAQ il semble que je pourrais les aplatir sans trop de difficulté. ”
 
-Eh oui, Doug, tu as tout compris. Et ainsi que tu peux le voir la carte ci-dessous a été dessinée selon ton récit. 
+Eh oui, Doug, tu as tout compris. Et ainsi que tu peux le voir la carte ci-dessous a été dessinée selon ton récit.
 
 >“ Cartographie du flux du processus produit avec différents types d’utilisateur ”
 
@@ -73,7 +73,7 @@ Je n’ai pas écrit tous les détails sur les cartes, mais vous avez l’idée 
 
 ## Ne cartographiez pas tout si vous n’avez pas à le faire
 
-Je dois vous dire  que je ne construis pas toutes les cartographies de processus produits de cette manière sauf si je suis amené à reconstruire complètement un processus produit. Je travaille généralement avec des entreprises qui ont déjà un produit sur le marché, et qui aiment ajouter des nouvelles fonctionnalités ou de nouveaux éléments à leur produit. Quelques fois, elles font l’erreur d’imaginer qu’elles doivent cartographier l’ensemble de leur processus produit. 
+Je dois vous dire  que je ne construis pas toutes les cartographies de processus produits de cette manière sauf si je suis amené à reconstruire complètement un processus produit. Je travaille généralement avec des entreprises qui ont déjà un produit sur le marché, et qui aiment ajouter des nouvelles fonctionnalités ou de nouveaux éléments à leur produit. Quelques fois, elles font l’erreur d’imaginer qu’elles doivent cartographier l’ensemble de leur processus produit.
 
 Ne faites pas cela. Cela prend beaucoup de temps. Et la seule raison pour le faire c’est d’aider les autres à comprendre votre processus produit s’ils ne le comprennent pas encore.
 
@@ -107,4 +107,3 @@ Date de traduction : 15/08/2017
 ---
 
 {% include share_buttons.html %}
-

@@ -3,8 +3,8 @@ layout: post
 title:  "Soyez bienveillant avec votre code"
 date:   2016-06-05 21:00:55
 published: true
-tags: 
-- developpement
+tags:
+- développement
 ---
 
 En tant que programmeur, je passe beaucoup de temps en face d'un ordinateur. Mais en dépit des apparences, je ne suis pas là, je ne suis pas devant un ordinateur 8 heures par jour m'abîmant les yeux et affaiblissant mes muscles. Je suis quelque part ailleurs.

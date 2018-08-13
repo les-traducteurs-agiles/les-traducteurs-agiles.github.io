@@ -4,9 +4,9 @@ title:  "LeSS - Portail Adoption"
 date:   2016-12-26 00:01
 published: true
 tags:
-- LeSS
-- Adoption
-- Conduite du changement
+- less
+- adoption
+- conduite du changement
 ---
 
 

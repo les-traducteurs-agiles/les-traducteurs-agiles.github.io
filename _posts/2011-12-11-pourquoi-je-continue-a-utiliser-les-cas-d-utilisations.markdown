@@ -4,7 +4,7 @@ title:  "Pourquoi je continue à utiliser les cas d'utilisations"
 date:   2011-12-11 00:01
 published: true
 tags:
-- exigences
+- exigence
 - cas d'utilisations
 ---
 

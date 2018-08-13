@@ -3,9 +3,9 @@ layout: post
 title:  "Kit de démarrage du stand-up quotidien"
 date:   2015-06-25 18:59:53
 published: true
-tags: 
+tags:
 - stand-up
-- equipe
+- équipe
 ---
 La stand-up quotidien peut être l'une des pratiques agiles les plus faciles ou les plus  difficiles à faire correctement. Le but initial, lorsque l'on introduit le **stand-up quotidien** (connu également sous le nom de **mêlée quotidienne** ou de **rassemblement**) est d'amener les gens à faire part brièvement de leur avancée. L'accent devrait être mis particulièrement sur :
 

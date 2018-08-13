@@ -3,9 +3,9 @@ layout: post
 title:  "10 tableaux kanban et leur contexte"
 date:   2018-01-12 00:00:01
 published: true
-tags: 
+tags:
 - kanban
-- outils
+- outil
 ---
 Salut !
 
@@ -32,6 +32,3 @@ Date de traduction : 12/01/2018
 ---
 
 {% include share_buttons.html %}
-
-
-

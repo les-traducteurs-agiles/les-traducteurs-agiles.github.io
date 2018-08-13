@@ -4,7 +4,7 @@ title:  "LeSS - Contrôle du processus empirique"
 date:   2016-12-24 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Principes](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-principes.html)

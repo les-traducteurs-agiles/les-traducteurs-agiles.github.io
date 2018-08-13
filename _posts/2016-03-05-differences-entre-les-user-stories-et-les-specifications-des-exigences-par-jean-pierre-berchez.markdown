@@ -3,8 +3,8 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Jean-Pierre Berchez"
 date:   2016-03-09 11:26:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 _Voici le sixième article de la série d’entretiens que j’ai réalisé de plusieurs experts agiles pour montrer les différences entre les **user stories** et les spécifications des exigences ainsi que leurs applications dans les systèmes d’informations soumis à la réglementation (par exemple  dans le domaine médical). Vous pouvez lire le précédent article de cette série [ici](http://www.les-traducteurs-agiles.org/user-stories/2016/03/08/differences-entre-les-user-stories-et-les-specifications-des-exigences-par-alistair-cockburn.html)_

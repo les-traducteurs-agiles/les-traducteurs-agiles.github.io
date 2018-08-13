@@ -4,9 +4,9 @@ title:  "LeSS - Rester sain d'esprit"
 date:   2016-12-19 00:01
 published: true
 tags:
-- LeSS
-- Adoption
-- Conduite du changement
+- less
+- adoption
+- conduite du changement
 ---
 
 [<< Portail LeSS < Portail Adoption](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-adoption.html)

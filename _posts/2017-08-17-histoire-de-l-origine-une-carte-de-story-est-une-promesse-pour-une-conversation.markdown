@@ -3,8 +3,8 @@ layout: post
 title:  "Histoire de l’origine - une carte de story est une promesse pour une conversation"
 date:   2017-08-17- 00:00:01
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 - histoire
 ---
 
@@ -51,6 +51,3 @@ Date de traduction : 17/08/2017
 ---
 
 {% include share_buttons.html %}
-
-
-

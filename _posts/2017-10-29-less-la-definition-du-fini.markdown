@@ -4,7 +4,7 @@ title:  "LeSS - La Définition du Fini"
 date:   2017-10-29 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 

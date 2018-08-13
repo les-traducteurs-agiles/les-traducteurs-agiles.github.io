@@ -3,8 +3,8 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences - Entretien avec Ron Jeffries"
 date:   2016-02-07 11:26:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 _Ainsi que nous l’avions mentionné dans notre article [La différence entre les user stories et les spécifications des exigences](http://www.les-traducteurs-agiles.org/user-stories/2016/02/04/differences-entre-les-user-stories-et-les-specifications-des-exigences.html), nous avons décidé de parler avec des experts agiles au cours d’une série d’entretiens afin de lever l’ambiguïté qui peut exister dans l’industrie informatique sur ce sujet. Chaque entretien de cette série fera l’objet d’un article à part entière._

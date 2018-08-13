@@ -3,16 +3,16 @@ layout: post
 title:  "Présentation de la cartographie des exemples"
 date:   2017-03-21 00:00:01
 published: true
-tags: 
+tags:
 - user story
-- outils
+- outil
 ---
 
 ![Cartes et stylos]({{ site.url }}assets/cartographier_exemples/titre_cartographie_exemple.jpg)
 
 Avant de mettre en développement une _user story_, avoir une [conversation pour clarifier et valider](http://wiki.ayeba.fr/XP%2C+l%27essentiel+-+Carte%2C+Conversation%2C+Confirmation) les critères d’acceptation est vital.
 
-Certaines personnes le font pendant leurs sessions d’affinage de _backlog_ ou de _planning poker_. D’autres équipes font une réunion spécifique des [trois amigos](http://www.velocitypartners.net/blog/2014/02/11/the-3-amigos-in-agile-teams/), un [atelier de spécification](http://gojko.net/2008/11/12/specification-workshops-an-agile-way-to-get-better-requirements/) ou de [découverte](http://dannorth.net/2010/08/30/introducing-deliberate-discovery/). 
+Certaines personnes le font pendant leurs sessions d’affinage de _backlog_ ou de _planning poker_. D’autres équipes font une réunion spécifique des [trois amigos](http://www.velocitypartners.net/blog/2014/02/11/the-3-amigos-in-agile-teams/), un [atelier de spécification](http://gojko.net/2008/11/12/specification-workshops-an-agile-way-to-get-better-requirements/) ou de [découverte](http://dannorth.net/2010/08/30/introducing-deliberate-discovery/).
 
 Peu importe le nom que vous donnez à cette conversation, un certain nombre d’équipes éprouvent des difficultés à la tenir : la conversation n’est pas structurée, elle est trop longue et ennuyeuse. Par conséquent, ces réunions ne sont pas faites régulièrement ou systématiquement, ou abandonnées tout simplement.
 
@@ -50,7 +50,7 @@ Au cours de notre conversation, nous construisons une représentation visuelle s
 * Une table couverte de cartes bleues (de règles) nous indique que cette _story_ est grosse et compliquée. Peut-être pouvons-nous la fractionner ? C’est le moment de prendre alors un nouvelle carte jaune (_story_) et de mettre cette _story_ fractionnée dans le backlog.
 * Une règle avec énormément d’exemples pourrait s’avérer trop complexe. Est-ce qu’il y a plusieurs règles en jeu qui auraient besoin d’être clarifiées ?
 
-Quelque fois, vous trouverez que certaines règles seront si évidentes que vous n’aurez pas besoin d’exemples. La conversation aura été suffisamment claire pour que chacun soit en mesure de comprendre la règle. Super ! Vous pouvez continuez, vous n’êtes pas forcé de pondre des exemples comme des automates BDD[^1] sans cerveaux. 
+Quelque fois, vous trouverez que certaines règles seront si évidentes que vous n’aurez pas besoin d’exemples. La conversation aura été suffisamment claire pour que chacun soit en mesure de comprendre la règle. Super ! Vous pouvez continuez, vous n’êtes pas forcé de pondre des exemples comme des automates BDD[^1] sans cerveaux.
 
 ## Réfléchir dans le temps impartit
 
@@ -118,13 +118,13 @@ Pour une équipe déjà à niveau ayant un vocabulaire métier plutôt mature, j
 
 > Est-ce que c’est comme cela que j’aurais dû l’écrire ?
 
-Cela vous laisse l’opportunité de tester de l’efficacité de la conversation de cartographie des exemples pour transférer la connaissance de la personne du métier à ses amigos 
+Cela vous laisse l’opportunité de tester de l’efficacité de la conversation de cartographie des exemples pour transférer la connaissance de la personne du métier à ses amigos
 
 ## À quelle périodicité devrions-nous faire cela ?
 
 Les gens du métier sont souvent occupés. Respectez cela en planifiant ces sessions de telle manière à ce qu’ils soient en capacité de vous donner toute leur attention.
 
-Ma recommandation, basée sur ce que j’ai pu observer dans plusieurs équipes et qui a bien fonctionné en pratique, c’est de les faire fréquemment : un rythme d’un jour sur deux se révèle être souvent un bon rythme. Prenez une et une seule _story_, accordez-lui 25 minutes d’attention, puis chacun retourne vaquer à ses occupations. En faire par paquets de 10 ne ferait qu’épuiser votre énergie. 
+Ma recommandation, basée sur ce que j’ai pu observer dans plusieurs équipes et qui a bien fonctionné en pratique, c’est de les faire fréquemment : un rythme d’un jour sur deux se révèle être souvent un bon rythme. Prenez une et une seule _story_, accordez-lui 25 minutes d’attention, puis chacun retourne vaquer à ses occupations. En faire par paquets de 10 ne ferait qu’épuiser votre énergie.
 
 ## Mais mon équipe est une équipe distribuée !
 
@@ -168,6 +168,3 @@ Date de traduction : 21/03/2017
 ---
 
 {% include share_buttons.html %}
-
-
-

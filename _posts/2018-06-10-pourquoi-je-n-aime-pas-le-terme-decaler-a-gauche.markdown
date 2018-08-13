@@ -5,7 +5,7 @@ date:   2018-06-17 00:01
 published: true
 tags:
 - devops
-- tests
+- test
 ---
 
 Depuis plusieurs années maintenant, je dis sur Twitter ou à différentes occasions que je n'aime pas le terme "déplacer vers la gauche", et j'ai toujours dit que je devais écrire un article à ce propos. Cette semaine, l'un de mes stagiaires m'a interpellé à ce sujet, je pense donc que le moment est venu.

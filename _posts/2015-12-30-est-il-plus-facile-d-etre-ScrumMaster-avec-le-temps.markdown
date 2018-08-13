@@ -3,9 +3,9 @@ layout: post
 title:  "Est-il plus facile d’être ScrumMaster avec le temps ?"
 date:   2015-12-30 21:00:55
 published: true
-tags: 
+tags:
 - scrum
-- scrum-master
+- scrum master
 ---
 ![Coach]({{ site.url }}assets/travail_scrummaster_plus_facile/est-il-plus-facile-d-etre-ScrumMaster-avec-le temps.png)
 

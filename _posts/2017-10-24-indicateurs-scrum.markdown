@@ -3,10 +3,10 @@ layout: post
 title:  "Indicateurs Scrum"
 date:   2017-10-24 00:01
 published: true
-tags: 
+tags:
 - scrum
 - scrum master
-- indicateurs
+- indicateur
 ---
 
 Il y a des tas d'indicateurs qui pourraient être collectés pour évaluer les compétences, le succès, l'ingéniosité, la qualité et la quantité de travail d'une équipe de développement logiciel. Si vous souhaitez vous faire une idée des indicateurs à collecter, jetez un coup d'oeil aux 185 pratiques du [CMMI pour le Développement](https://www.sei.cmu.edu/cmmi/index.cfm). L'Agilité, au contraire de CMMI, n'a pas besoin de "preuve" sur le fait que les pratiques d'ingénierie sont appliquées et ne dispose, par conséquent, que de peu d'indicateurs qu'une Equipe de Développement pourrait collecter pour mesurer le succès de chaque sprint. Ci-dessous, on a 9 indicateurs qu'une Equipe Scrum pourrait envisager d'utiliser :
@@ -216,5 +216,3 @@ Date de traduction : 24/10/2017
 ---
 
 {% include share_buttons.html %}
-
-

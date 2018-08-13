@@ -4,7 +4,7 @@ title:  "LeSS - L'Affinage Initial du Backlog Produit"
 date:   2017-10-30 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)
@@ -21,7 +21,7 @@ Une compréhension partagée de la vision globale et des éléments spécifiques
 
 ## Créer une Définition du Fini
 
-Cet atelier est généralement l'occasion de créer la Définition initiale du Fini. Vous pouvez regarder le chapitre sur [La Définition du Fini (fr)](http://www.les-traducteurs-agiles.org/2017/10/29/less-la-definition-du-fini.html) pour plus de détails. 
+Cet atelier est généralement l'occasion de créer la Définition initiale du Fini. Vous pouvez regarder le chapitre sur [La Définition du Fini (fr)](http://www.les-traducteurs-agiles.org/2017/10/29/less-la-definition-du-fini.html) pour plus de détails.
 
 
 ---

@@ -3,8 +3,8 @@ layout: post
 title:  "Est-ce qu’une spécification des exigences traditionnelles peut être convertie en user stories ?"
 date:   2016-02-14 20:00:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 Un certain nombre de projets gérés de manière traditionnelle débutent avec une spécification des exigences. Puis quelques fois il arrive pendant la vie d’un projet que la décision soit prise d’adopter une approche agile. Survient alors la question toute naturelle de savoir si une spécification des exigences peut servir de _product backlog_ pour ce projet nouvellement devenu agile. Certaines équipes envisagent d’aller jusqu’à procéder à la réécriture de la spécification des exigences sous la forme d’un _product backlog_ et de _user stories_. Regardons si cela est vraiment nécessaire

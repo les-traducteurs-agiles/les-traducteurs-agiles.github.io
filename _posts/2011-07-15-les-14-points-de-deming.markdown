@@ -4,7 +4,7 @@ title:  "Les 14 points de Deming"
 date:   2011-07-15 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 Les 14 points de W. Edwards Deming sont les fondements de la transformation de l'industrie. L'adoption et la mise en œuvre des 14 points constituent un message fort comme quoi le management a bien l'intention de poursuivre les activités de l'entreprise, de protéger les investisseurs et les emplois. Un tel système fut à la base des leçons données au top management japonais à partir de 1950.

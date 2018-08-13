@@ -3,8 +3,8 @@ layout: post
 title:  "Comment cartographier les user stories de la mauvaise manière"
 date:   2015-10-25 21:00:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 - pratique
 ---
 

@@ -4,7 +4,7 @@ title:  "LeSS - Service d'amélioration"
 date:   2016-12-29 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 

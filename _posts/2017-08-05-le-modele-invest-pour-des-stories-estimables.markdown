@@ -3,13 +3,13 @@ layout: post
 title:  "Le modèle INVEST - E comme stories Estimables"
 date:   2017-08-08 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 Des stories **estimables** peuvent être estimées : qu’il s’agisse de la taille, du coût ou de la durée de réalisation (Nous aurions pu vouloir utiliser le terme _estimatibilité_ [^1] , mais il n’existe pas dans mon dictionnaire, et je ne suis pas assez fan des estimations pour l’inventer.)
 
-Pour qu’elles soient estimables, les stories doivent être suffisamment comprises, suffisamment stables pour que nos suppositions puissent rester dans des limites raisonnables. 
+Pour qu’elles soient estimables, les stories doivent être suffisamment comprises, suffisamment stables pour que nos suppositions puissent rester dans des limites raisonnables.
 
 _Message d’avertissement : l’estimabilité est l’aspect le plus mal compris du modèle INVEST (c’est-à-dire celui ayant le rapport énergie dépensée / valeur le moins intéressant). Si je devais choisir à nouveau une signification à lettre E d’INVEST, nous aurions “E = Externe” ; pour plus d’informations voir [V pour des stories ayant de la Valeur](http://www.les-traducteurs-agiles.org/2017/04/25/le-modele-invest-pour-des-stories-de-valeur.html)._
 
@@ -97,7 +97,7 @@ Mais ce n’est pas si simple :
 
 * Dans le modèle INVEST, le [N pour négociable](http://www.les-traducteurs-agiles.org/2017/03/12/le-modele-invest-les-stories-negociables.html) suggère que la flexibilité des stories est bénéfique : des stories flexibles nous aident à trouver des marges de négociation nous permettant de tirer un maximum valeur par rapport au coût. Mais plus vous vous autorisez de variation, plus la storie sera difficile à estimer.
 
-* Le [I pour indépendante](http://www.les-traducteurs-agiles.org/2017/02/21/le-modele-invest-les-stories-independantes.html) suggère que nous créons des stories qui peuvent être estimées et implémentées indépendamment. Bien que cela s’avère exact dans la plupart des cas, c’est une simplification de la réalité : quelque fois le coût d’une story dépend de l’ordre de l’implémentation ou sur la chose implémentée. Cela peut être difficile à cerner dans les estimations. 
+* Le [I pour indépendante](http://www.les-traducteurs-agiles.org/2017/02/21/le-modele-invest-les-stories-independantes.html) suggère que nous créons des stories qui peuvent être estimées et implémentées indépendamment. Bien que cela s’avère exact dans la plupart des cas, c’est une simplification de la réalité : quelque fois le coût d’une story dépend de l’ordre de l’implémentation ou sur la chose implémentée. Cela peut être difficile à cerner dans les estimations.
 
 * Les facteurs qui rendent les estimations difficiles à réaliser ne sont **pas toujours stables dans le temps**. Même si vous êtes capables de prendre tous ces facteurs en compte, vous devez aussi prendre en compte leur instabilité.
 
@@ -105,7 +105,7 @@ Faire des estimations est-il sans espoir ? Si vous pensez que l’estimation est
 
 Certains projets ont besoin d’estimations détaillées, et sont prêt à prendre le temps nécessaire pour les avoir. En général, toutefois, Tom DeMarco nous dit que : “Un contrôle strict est quelque chose qui compte beaucoup pour des projets relativement futiles et beaucoup moins sur des projets utiles.”
 
-Où est-ce que cela nous mène ? La meilleure solution est d’utiliser un processus d’estimation tellement léger que vous serez en mesure de le tolérer. 
+Où est-ce que cela nous mène ? La meilleure solution est d’utiliser un processus d’estimation tellement léger que vous serez en mesure de le tolérer.
 
 Nous explorerons trois approches : le comptage de stories, les estimations basées sur des données historiques, et les estimations basées sur un ordre de grandeur approximatif
 
@@ -163,7 +163,7 @@ Nous pourrions utiliser ce type d’estimations de la manière suivante :
 
 ## Conclusion
 
-Les stories sont estimables lorsque nous pouvons faire une prédiction suffisamment fiable de la durée, du coût ou de tout autre attribut qui nous semble important. 
+Les stories sont estimables lorsque nous pouvons faire une prédiction suffisamment fiable de la durée, du coût ou de tout autre attribut qui nous semble important.
 
 Nous avons examiné différentes approches des estimations et les éléments clés qui influencent les estimations.
 
@@ -195,5 +195,3 @@ Date de traduction : 08/08/2017
 ---
 
 {% include share_buttons.html %}
-
-

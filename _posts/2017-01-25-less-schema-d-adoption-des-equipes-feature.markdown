@@ -4,9 +4,9 @@ title:  "LeSS - Schéma d'adoption des équipes feature"
 date:   2017-01-25 00:01
 published: true
 tags:
-- LeSS
-- Adoption
-- Conduite du changement
+- less
+- adoption
+- conduite du changement
 ---
 
 [<< Portail LeSS < Portail Adoption](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-adoption.html)

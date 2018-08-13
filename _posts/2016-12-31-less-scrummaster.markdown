@@ -4,7 +4,7 @@ title:  "LeSS - ScrumMaster"
 date:   2016-12-31 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Structure](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-structure.html)

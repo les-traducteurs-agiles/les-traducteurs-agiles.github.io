@@ -3,8 +3,8 @@ layout: post
 title:  "Patterns de décomposition des user stories"
 date:   2016-02-15 23:19:55
 published: false
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 > Ce fichier est et doit demeurer uniquement la source de la traduction publiée sur le site de l’auteur sur cette [page](http://agileforall.com/splitting-stories-in-french/). En effet, l’auteur souhaitant que la publication soit faite sur son site, le flag published est et doit être laissé à false

@@ -4,7 +4,7 @@ title:  "Visualiser un kanban avec des MIP"
 date:   2013-10-15 00:01
 published: true
 tags:
-- indicateurs
+- indicateur
 - kanban
 ---
 

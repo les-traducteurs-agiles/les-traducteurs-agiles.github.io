@@ -2,7 +2,8 @@
 layout: post
 title:  "INVESTissez dans de bonnes stories et dans des tâches SMART"
 date:   2015-02-23 22:35:55
-tags: story
+tags:
+- user story
 ---
 > Les équipes XP ont à gérer des stories et des tâches. Les acronymes INVEST et SMART peuvent permettre aux équipes de se rappeler les bonnes caractéristiques de chacune.  
 

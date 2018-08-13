@@ -3,8 +3,8 @@ layout: post
 title:  "Patterns de décomposition des user stories"
 date:   2016-04-26 10:30:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 Pour lire cette traduction, cliquez sur ce [lien](http://agileforall.com/splitting-stories-in-french/) pour vous rendre sur notre traduction accessible directement sur le site de l’auteur.

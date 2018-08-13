@@ -3,8 +3,8 @@ layout: post
 title:  "Le modèle INVEST - I comme stories Indépendantes"
 date:   2017-02-21 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 Le modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est un moyen mnémotechnique permettant de se rappeler des principales caractéristiques des _user stories_ et il commence par un **I** comme **Indépendant**.
@@ -72,7 +72,7 @@ la plus grosse réserve au sujet d’une décomposition hiérarchique est bien q
 
 ## Dernière ligne droite
 
-Des _stories_ indépendantes nous aident à la fois du point de vue métier et du point de vue technique d’un projet. D’un point de vue métier, le projet se concentre sur les objectifs métiers à l’aide d’un modèle simple. D’un point de vue technique, des _stories_ techniques incitent à la réalisation d’une implémentation minimale, et renforcent les approches de conceptions minimisant et gérant l’implémentation des dépendances. 
+Des _stories_ indépendantes nous aident à la fois du point de vue métier et du point de vue technique d’un projet. D’un point de vue métier, le projet se concentre sur les objectifs métiers à l’aide d’un modèle simple. D’un point de vue technique, des _stories_ techniques incitent à la réalisation d’une implémentation minimale, et renforcent les approches de conceptions minimisant et gérant l’implémentation des dépendances.
 
 [^1]: ou d’epics - pour ceux qui préfèrent le terme en vo - NdT
 
@@ -92,5 +92,3 @@ Date de traduction : 21/02/2017
 ---
 
 {% include share_buttons.html %}
-
-

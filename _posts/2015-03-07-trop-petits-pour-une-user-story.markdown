@@ -4,7 +4,7 @@ title:  "Anomalies, corrections et demandes de supports - c’est bien trop peti
 date:   2016-03-14 10:26:55
 published: true
 tags:
-- user stories
+- user story
 ---
 
 _Bien qu’elles doivent être gérées tout aussi efficacement durant le sprint, certaines choses s’avèrent trop petites pour faire l’objet d’une **user story**. Je propose donc d’utiliser une taxonomie simple permettant de les classifier et de les gérer._

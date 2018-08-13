@@ -3,8 +3,8 @@ layout: post
 title:  "Le pouvoir magique du chiffre pi pour les chefs de projets"
 date:   2017-12-06- 00:00:01
 published: true
-tags: 
-- estimations
+tags:
+- estimation
 - pi
 ---
 
@@ -25,7 +25,7 @@ _(De mon point de vue, un projet si petit n’a pas besoin d’un coordinateur t
 J’ai commencé à poser quelques questions et j’ai obtenu en retour des réponses étranges indiquant que ce projet ne serait pas vraiment un projet de 15 semaines de travail. Nous avons donc décider de faire un point d’estimation en bonne et due forme (à l’époque malheureusement, je ne connaissais pas encore  la technique du [Blitz Planning](http://alistair.cockburn.us/Blitz+Planning)).  
 En nous y rendant, je décrivais au sponsor du projet, les effets magiques de **π^2** sur les estimations ; je n’étais pas vraiment sérieux, c’était juste histoire de discuter.  
 Lorsque nous avons fini le point, la durée estimée pour le projet avait bondi à 130 semaines de travail ! Arghl ! (et vous pouvez bien sûr imaginez la conversation _amusante_ qui s’en est suivi avec les différents groupes de personnes finançant le projet !).  
-Alors que nous partions, elle me dit “130 semaines, c’est plus de 9 fois 15 semaines. Comment pouvais-tu le savoir ?”. Je lui répondit “Je ne le savais pas, c’est encore un coup de ces chiffres magiques.” 
+Alors que nous partions, elle me dit “130 semaines, c’est plus de 9 fois 15 semaines. Comment pouvais-tu le savoir ?”. Je lui répondit “Je ne le savais pas, c’est encore un coup de ces chiffres magiques.”
 
 Environ 4 mois plus tard, faisant de nouvelles ré-estimations, elle vient me voir en me disant “Continuer à multiplier leurs estimations par **π^2** n’a plus aucun sens, qu’est-ce que je peux faire ?” Je lui ai répondu “L’équipe est en vitesse de croisière désormais et ses membres travaillent bien ensemble. Multiplies simplement leurs estimations par **√π** à partir de maintenant.”
 C’est ce qu’elle a fait et cela s’est avéré juste.
@@ -41,7 +41,7 @@ OK, pour être honnête, je n’en sais rien. C’est ce qui est magique dans ce
 **Vous allez en fait à 1/3 de la vitesse à laquelle vous pensez que vous iriez.**
 
 N’avez-vous jamais fait une liste de chose à faire le samedi ? Vous savez comme :  
-  
+
 * emmener le chien chez le vétérinaire
 * acheter un pièce de remplacement pour le schmilblik
 * emmener les enfants voir tata
@@ -69,7 +69,7 @@ Imaginez que vous faites une liste de toutes les choses que vous devriez faire p
 
 * Ou bien encore, mettez par écrit comment préparer un repas ou quelque chose du même genre pour un enfant, et regardez bien le nombre d’éléments que vous faites normalement sans y penser.
 
-Le fait est, que lorsque nous pensons aux choses à faire, nous passons sur bon nombre de petites choses, nous oublions les préparations avant, le nettoyage après et ce qui se passe entre. 
+Le fait est, que lorsque nous pensons aux choses à faire, nous passons sur bon nombre de petites choses, nous oublions les préparations avant, le nettoyage après et ce qui se passe entre.
 
 Pour beaucoup (si ce n’est la totalité) des choses que nous faisons et tout particulièrement les choses que nous n’avons jamais faites, nous arrivons à gérer qu’environ 1/3 des choses à faire sur une liste.
 
@@ -117,6 +117,3 @@ Date de traduction : 06/12/2017
 ---
 
 {% include share_buttons.html %}
-
-
-

@@ -2,7 +2,9 @@
 layout: post
 title:  "Le cube user story"
 date:   2015-02-18 20:20:55
-tags: outil
+tags:
+- outil
+- user story
 ---
 
 ![Le cube user story](https://conceptcubes.files.wordpress.com/2015/02/userstorycube_preview-french.jpg?w=620)

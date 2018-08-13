@@ -3,8 +3,8 @@ layout: post
 title:  "Les user stories ne sont pas des exigences"
 date:   2016-02-27 11:15:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 <div align="left" style="float:left; padding-right:30px" >

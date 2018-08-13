@@ -4,7 +4,7 @@ title:  "LeSS - L'Incrément Produit Potentiellement Déployable"
 date:   2017-08-29 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)

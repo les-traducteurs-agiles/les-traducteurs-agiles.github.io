@@ -3,8 +3,8 @@ layout: post
 title:  "Obtenir de petites stories"
 date:   2015-05-31 21:45:53
 published: true
-tags: 
-- user stories
+tags:
+- user story
 - pratique
 ---
 

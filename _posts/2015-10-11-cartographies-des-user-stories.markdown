@@ -3,8 +3,8 @@ layout: post
 title:  "Présentation de la cartographie des user stories"
 date:   2015-10-12 21:00:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 - pratique
 ---
 

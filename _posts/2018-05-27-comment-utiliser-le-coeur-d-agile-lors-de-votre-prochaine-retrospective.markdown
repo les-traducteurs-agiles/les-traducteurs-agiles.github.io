@@ -4,7 +4,7 @@ title:  "Comment utiliser le cœur d'agile lors de votre prochaine rétrospectiv
 date:   2018-05-27 00:01
 published: true
 tags:
-- cœur d'agile
+- cœur d’agile
 - rétrospective
 ---
 

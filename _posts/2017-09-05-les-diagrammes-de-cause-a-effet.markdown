@@ -3,9 +3,9 @@ layout: post
 title:  "Les diagrammes de cause à effet"
 date:   2017-10-04- 00:00:01
 published: true
-tags: 
+tags:
 - lean
-- outils
+- outil
 ---
 
 Voici un nouvel article pour vous :
@@ -35,6 +35,3 @@ Date de traduction : 04/10/2017
 ---
 
 {% include share_buttons.html %}
-
-
-

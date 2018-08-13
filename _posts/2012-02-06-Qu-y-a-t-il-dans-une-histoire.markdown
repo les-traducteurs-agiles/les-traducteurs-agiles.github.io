@@ -3,8 +3,8 @@ layout: post
 title:  "Qu'y a-t'il dans une histoire (une Story) ?"
 date:   2012-02-06 00:01
 published: true
-tags: 
-- story
+tags:
+- user story
 ---
 
 Suivez le lien suivant pour accéder à la traduction :
@@ -28,5 +28,3 @@ Crédit : tweet de Claude Aubry ([@claudeaubry](https://twitter.com/claudeaubry)
 ---
 
 {% include share_buttons.html %}
-
-

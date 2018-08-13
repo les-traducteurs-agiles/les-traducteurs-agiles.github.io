@@ -3,8 +3,8 @@ layout: post
 title:  "20 Anti patterns de product owners pour Scrum"
 date:   2015-09-05 15:10:55
 published: true
-tags: 
-- product-owner
+tags:
+- product owner
 ---
 
 ## Des mauvaises odeurs chez les product owners

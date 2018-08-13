@@ -2,7 +2,8 @@
 layout: post
 title:  "Cube des cérémonies agiles"
 date:   2015-01-28 23:07:55
-tags: outil
+tags:
+- outil
 ---
 
 ![Cube des cérémonies agiles](https://conceptcubes.files.wordpress.com/2015/01/agile-meeting-cube-french.jpg?w=180&h=181)

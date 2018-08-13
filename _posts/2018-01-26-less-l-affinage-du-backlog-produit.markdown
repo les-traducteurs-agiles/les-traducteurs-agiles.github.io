@@ -4,7 +4,7 @@ title:  "LeSS - L'Affinage du Backlog Produit"
 date:   2018-01-26 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)

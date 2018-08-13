@@ -4,8 +4,8 @@ title:  "LeSS - Rôle du Manager"
 date:   2016-12-26 00:01
 published: true
 tags:
-- LeSS
-- Management
+- less
+- management
 ---
 
 [<< Portail LeSS < Portail Management](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-management.html)

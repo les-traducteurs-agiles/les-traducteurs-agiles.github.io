@@ -3,8 +3,8 @@ layout: post
 title:  "Le modèle INVEST - V comme stories ayant de la Valeur"
 date:   2017-04-25 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 Parmi toutes les caractéristiques d’une bonne _story_ présentées dans le modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html), la “Valeur” est la plus facile à … euh … valoriser. Après tout, qui peut être contre la valeur ?
@@ -20,7 +20,7 @@ Jetons un coup d’œil aux points clés suivants :
 La valeur dépend de ce que nous essayons d’accomplir. Pour qualifier la valeur, nous pouvons utiliser la bonne vieille formule connue sous l’acronyme ARECAS[^1] (mentionnée en 1977 par Gane & Sarson dans leur ouvrage [Structured Systems Analysis](http://www.amazon.com/exec/obidos/ASIN/0138545472/xp123com/), sans pour autant qu’ils en aient réclamé la paternité). ARECAS signifie :
 
 * Augmenter les Recettes
-* Éviter les Coûts 
+* Éviter les Coûts
 * Améliorer le Service
 
 **Augmenter les recettes** : La seule présence de nouvelles fonctionnalités ou l’amélioration d’anciennes peuvent s’avérer suffisantes pour motiver un acheteur potentiel à payer davantage afin d’en disposer.
@@ -37,11 +37,11 @@ ARECAS couvre plusieurs types de valeur, il en existe toutefois d’autres :
 
 **Se créer des options** : Certaines choses peuvent nous donner plus de flexibilité pour le futur. Par exemple, nous pouvons investir pour être indépendant vis-à-vis des bases de données afin d’avoir la capacité de changer rapidement de base de données dans le futur. Le futur est incertain, avoir des options est une assurance en la matière.
 
-**Produire de l’information** : Certaines fois, nous avons besoin d’avoir des informations plus pertinentes pour prendre la bonne décision. Par exemple, nous pourrions faire un test A/B pour savoir la couleur du bouton qui se vend le plus. Les expérimentations _à la ExtremeProgramming_ font également partie de cette catégorie. 
+**Produire de l’information** : Certaines fois, nous avons besoin d’avoir des informations plus pertinentes pour prendre la bonne décision. Par exemple, nous pourrions faire un test A/B pour savoir la couleur du bouton qui se vend le plus. Les expérimentations _à la ExtremeProgramming_ font également partie de cette catégorie.
 
 **Construire une équipe** : D’autres fois, une fonctionnalité est choisie parce qu’elle aidera l’équipe à faire ou à apprendre quelque chose d’important qui pourra s’avérer utile dans un futur proche.
 
-Plusieurs valeurs peuvent s’appliquer en même temps (il ne s’agit pas là non plus d’une liste exhaustive) et d’ailleurs nous devons faire arbitrer sur ces différentes valeurs lorsqu’il y en a plusieurs en jeu, ce qui ne facilite pas la prise de décisions. 
+Plusieurs valeurs peuvent s’appliquer en même temps (il ne s’agit pas là non plus d’une liste exhaustive) et d’ailleurs nous devons faire arbitrer sur ces différentes valeurs lorsqu’il y en a plusieurs en jeu, ce qui ne facilite pas la prise de décisions.
 
 ## Valoriser l’impact extérieur
 
@@ -62,9 +62,9 @@ Si nous cadrons les _stories_ afin que leur impact soit clair, les _product owne
 
 Qui tirent les bénéfices du logiciel que nous créons ? (Pour pouvoir répondre à cette question, nous devons envisager quel rôle une personne est susceptible d’avoir parmi les rôles suivants - il s’agit là-aussi d’une liste non exhaustive -)
 
-**Utilisateurs** : Le mot “utilisateur” n’est sans doute pas le meilleur terme, toutefois nous devrons vraiment parler des gens qui utilisent le logiciel. Certaines fois, il ne s’agit pas d’un utilisateur direct : dans un centre d’appel, le télé-opérateur du centre d’appel est l’utilisateur direct, et le client qui appelle est un utilisateur indirect. 
+**Utilisateurs** : Le mot “utilisateur” n’est sans doute pas le meilleur terme, toutefois nous devrons vraiment parler des gens qui utilisent le logiciel. Certaines fois, il ne s’agit pas d’un utilisateur direct : dans un centre d’appel, le télé-opérateur du centre d’appel est l’utilisateur direct, et le client qui appelle est un utilisateur indirect.
 
-**Acheteurs** : Les acheteurs sont responsables pour choisir et ouvrir les cordons de la bourse pour obtenir le logiciel. (Quelque fois, il peut s’agir de deux rôles séparés). Il arrive que les besoins des acheteurs ne soient pas exactement alignés sur ceux des utilisateurs. Par exemple, les télé-opérateurs du centre d’appel qui utilisent le logiciel peuvent vouloir ne pas faire l’objet d’un suivi par celui-ci, mais l’acheteur du système lui pourrait bien exiger cette possibilité. 
+**Acheteurs** : Les acheteurs sont responsables pour choisir et ouvrir les cordons de la bourse pour obtenir le logiciel. (Quelque fois, il peut s’agir de deux rôles séparés). Il arrive que les besoins des acheteurs ne soient pas exactement alignés sur ceux des utilisateurs. Par exemple, les télé-opérateurs du centre d’appel qui utilisent le logiciel peuvent vouloir ne pas faire l’objet d’un suivi par celui-ci, mais l’acheteur du système lui pourrait bien exiger cette possibilité.
 
 **Organisations de développement** : Dans certains cas, les équipes de développement peuvent avoir aussi des besoins comme la conformité à des standards, l’utilisation de certains langages ou de certaines architectures, etc.
 
@@ -74,7 +74,7 @@ Il existe bien d’autres catégories de personnes qui peuvent tirer de la valeu
 
 ## En résumé
 
-Nous avons examiné ce que nous pouvions entendre par valeur : ARECAS (Accroître les Recettes, Éviter les Coûts, Améliorer le Service), ainsi que d’autres choses comme Respecter les contraintes réglementaires, Produire de l’information et Se créer des options. 
+Nous avons examiné ce que nous pouvions entendre par valeur : ARECAS (Accroître les Recettes, Éviter les Coûts, Améliorer le Service), ainsi que d’autres choses comme Respecter les contraintes réglementaires, Produire de l’information et Se créer des options.
 
 Nous avons exploré brièvement l’idée que généralement de bonnes _stories_ parlent  de ce qu’il se passe à limite du système : les impacts du logiciel sur le monde.
 
@@ -100,5 +100,3 @@ Date de traduction : 25/04/2017
 ---
 
 {% include share_buttons.html %}
-
-

@@ -3,9 +3,9 @@ layout: post
 title:  "Leçons apprises en développement logiciel"
 date:   2015-10-28 21:00:55
 published: true
-tags: 
+tags:
 - pratique
-- developpement
+- développement
 ---
 
 Voici ma liste de trouvailles heuristiques et de règles empiriques que j'ai pu trouver utiles pour le développement logiciel tout au long de ces années  :

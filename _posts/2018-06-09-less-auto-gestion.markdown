@@ -4,8 +4,8 @@ title:  "LeSS - Auto-gestion"
 date:   2016-12-19 00:01
 published: true
 tags:
-- LeSS
-- Management
+- less
+- management
 ---
 
 

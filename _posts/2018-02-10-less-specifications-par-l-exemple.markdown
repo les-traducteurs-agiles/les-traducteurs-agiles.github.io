@@ -4,7 +4,7 @@ title:  "LeSS - Spécifications par l'exemple"
 date:   2018-02-10 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 

@@ -4,7 +4,7 @@ title:  "LeSS - Portail Excellence technique"
 date:   2016-12-26 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 

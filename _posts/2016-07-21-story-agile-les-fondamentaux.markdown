@@ -3,8 +3,8 @@ layout: post
 title:  "Story agile - les fondamentaux"
 date:   2016-07-21 00:00:01
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 - pratique
 ---
 

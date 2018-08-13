@@ -3,8 +3,8 @@ layout: post
 title:  "Le modèle INVEST - T comme stories Testables"
 date:   2017-12-17 00:00:01
 published: true
-tags: 
-- user stories
+tags:
+- user story
 ---
 
 Dans le modèle INVEST, le T signifie Testable.
@@ -36,17 +36,17 @@ Certains tests reposent sur une part de magie ou d’intuition. Malheureusement,
 
 Un test se passe dans un certain contexte, avec des données en entrées et/ou des étapes, puis produit des résultats en sortie et/ou des effets de bord.
 
-Ce n’est pas parce que nous écrivons des données en entrée et que nous obtenons des résultats que cela veut dire que nous avons un bon test. Les résultats doivent aussi être en fonction des éléments en entrée ; ils ne peuvent dépendre d’éléments en entrée non spécifiées. 
+Ce n’est pas parce que nous écrivons des données en entrée et que nous obtenons des résultats que cela veut dire que nous avons un bon test. Les résultats doivent aussi être en fonction des éléments en entrée ; ils ne peuvent dépendre d’éléments en entrée non spécifiées.
 
 > Par exemple, nous aimerions avoir un programme permettant de prédire le cours de la bourse du lendemain en fonction de ceux des jours précédents.
 >
-> Nous avons beaucoup de cas de tests - près d’un siècle d’exemples concernant plusieurs centaines de titres en bourse. 
+> Nous avons beaucoup de cas de tests - près d’un siècle d’exemples concernant plusieurs centaines de titres en bourse.
 >
 > Mais, au fond, ce que l’on veut c’est de la magie, à moins de croire en quelque chose de très improbable : que le cours de bourse du jour soit uniquement déterminé par l’historique des cours précédents. Supposons que 50% des raffineries de pétrole vont s’arrêter pour les 6 prochains mois. Croyez-vous vraiment que cette nouvelle n’affectera pas les cours des compagnies du pétrole, aériennes et automobiles ?
 
 ## Le flou intentionnel
 
-Dans certains cas, des algorithmes existent mais des choix doivent être faits. Un certain flou peut s’avérer accidentel mais dans certains cas intentionnel : le service commercial veut rouge, et le marketing veut vert. Plutôt que de faire un choix qui pourrait vexer l’un ou l’autre, le test se cachera derrière un certain flou artistique en indiquant “la couleur appropriée”. 
+Dans certains cas, des algorithmes existent mais des choix doivent être faits. Un certain flou peut s’avérer accidentel mais dans certains cas intentionnel : le service commercial veut rouge, et le marketing veut vert. Plutôt que de faire un choix qui pourrait vexer l’un ou l’autre, le test se cachera derrière un certain flou artistique en indiquant “la couleur appropriée”.
 
 ## L’infaisabilité technique
 
@@ -64,13 +64,13 @@ Une autre partie du non déterminisme se produit lorsqu’il existe une variét�
 
 > Par exemple, je souhaite un programme de génération de puzzles qui, à partir d’une liste de mots, créant et affichant un plateau à la _Boggle_ c.à.d sous la forme  d’une grille de lettres à partir de laquelle vous pouvez former des mots, en allant d’une lettre à une autre adjacente dans n’importe quel ordre.
 >
-> Si cela peut être fait dans l’absolu, cela peut être fait sûrement de plusieurs manières, étant donné qu’à partir d’une solution vous pouvez en générer d’autres par réplication ou par rotation. (Vous pourriez avoir encore plusieurs autres solutions différentes.) 
+> Si cela peut être fait dans l’absolu, cela peut être fait sûrement de plusieurs manières, étant donné qu’à partir d’une solution vous pouvez en générer d’autres par réplication ou par rotation. (Vous pourriez avoir encore plusieurs autres solutions différentes.)
 >
 > Je me fiche de savoir quelle solution est choisie ; n’importe solution valide me convient.
 
 Au final, le résultat d’une opération arithmétique à virgule flottante n’est qu’une approximation d’une opération sur un nombre réel. En raison des variations possibles dans le calcul, vous pourriez obtenir des réponses qui varient d’un pouième.
 
-Le premier défi avec le non-détermine est de reconnaître quand ce dernier se produit. Lorsque cela arrive, vous pourriez avoir à spécifier lorsque deux réponses sont équivalentes ou également acceptables 
+Le premier défi avec le non-détermine est de reconnaître quand ce dernier se produit. Lorsque cela arrive, vous pourriez avoir à spécifier lorsque deux réponses sont équivalentes ou également acceptables
 
 ## Subjectivité
 
@@ -86,7 +86,7 @@ Il n’y a aucune garantie en terme de faisabilité pour des tests subjectifs. D
 
 Il est possible de spécifier ou de définir un test qui est valide, mais que vous ne savez pas vraiment résoudre. (Testable ? Oui ! Risqué ? Très !)
 
-C’est-à-dire : vous pouvez écrire des tests pour quelque chose que vous ne savez comment implémenter, et toute estimation que vous ferez s’avèrera suspecte parce ce que vous estimez est un projet de recherche. 
+C’est-à-dire : vous pouvez écrire des tests pour quelque chose que vous ne savez comment implémenter, et toute estimation que vous ferez s’avèrera suspecte parce ce que vous estimez est un projet de recherche.
 
 > Par exemple, considérons le défi d’identifier des piétons dans la rue. À partir d’une image, nous pourrions demander à 1 000 personnes d’identifier les piétons avec un indice de confiance plutôt élevé. Mains nous ne sommes pas certain de comment les gens ont fait - nous pensons que cela peut être fait de manière algorithmique, mais le prouver peut représenter un projet de recherche de plusieurs années. (Toutefois, les progrès dans les véhicules autonomes montre que cela est possible).
 
@@ -96,7 +96,7 @@ Il n’y a rien de mal à avoir un projet de recherche si c’est ce dont vous a
 
 Étant donné tous les défis relatifs aux tests que nous avons mentionnés ci-dessus, comment pouvons-nous être sûr que nous écrivons les bons tests ?
 
-J’ai découvert qu’il y a des mots-clés qui peuvent vous alerter de problèmes potentiels présents dans les tests ou dans des discussions tournant autour des tests : 
+J’ai découvert qu’il y a des mots-clés qui peuvent vous alerter de problèmes potentiels présents dans les tests ou dans des discussions tournant autour des tests :
 
 * “**Juste**” – c’est un si petit mot, mais il est souvent utilisé comme un élément déstabilisant, pour minimiser l’importance de certaines difficultés sans les résoudre. (“Vérifie juste chacun de ces éléments par rapport aux autres.”)
 
@@ -112,7 +112,7 @@ J’ai découvert qu’il y a des mots-clés qui peuvent vous alerter de problè
 
 * “**Amusant**,” “**facile à utiliser**,” “**personnes**,” “**aimer**“, … – on retrouve généralement ces mots dans des attributs non-fonctionnels, ou ils peuvent dissimuler un projet de recherches.
 
-* “**Je saurai quand je le verrais**” – il n’y a aucune chance que vous y arriviez en une fois. 
+* “**Je saurai quand je le verrais**” – il n’y a aucune chance que vous y arriviez en une fois.
 
 ## En résumé
 
@@ -155,5 +155,3 @@ Date de traduction : 17/12/2017
 ---
 
 {% include share_buttons.html %}
-
-

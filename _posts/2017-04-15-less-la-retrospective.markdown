@@ -4,14 +4,14 @@ title:  "LeSS - La Rétrospective"
 date:   2017-04-15 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Framework](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html)
 
 A la fin du sprint, toutes les équipes mènent leurs propres rétrospectives. C'est la même chose que la rétrospective d'une unique équipe Scrum.
 
-Lors de chacune de ces rétrospectives d'équipes, une équipe réfléchit aussi aux obstacles plus larges qui l'empêchent de travailler elle et les autres équipes, et les ajoutent au [backlog d'amélioration de l'organisation (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-service-d-amelioration.html). 
+Lors de chacune de ces rétrospectives d'équipes, une équipe réfléchit aussi aux obstacles plus larges qui l'empêchent de travailler elle et les autres équipes, et les ajoutent au [backlog d'amélioration de l'organisation (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-service-d-amelioration.html).
 
 ## Vue d'ensemble de la Rétrospective
 

@@ -3,9 +3,9 @@ layout: post
 title:  "XP, l'essentiel - Carte, Conversation, Confirmation"
 date:   2009-11-12 00:01
 published: true
-tags: 
+tags:
 - équipe
-- story
+- user story
 - xp
 ---
 
@@ -52,5 +52,3 @@ Date de traduction : 12/11/2009
 ---
 
 {% include share_buttons.html %}
-
-

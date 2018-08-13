@@ -3,9 +3,9 @@ layout: post
 title:  "Le tableau de bord projet et produit du Product Owner"
 date:   2016-12-07 00:00:01
 published: true
-tags: 
+tags:
 - scrum
-- product-owner
+- product owner
 ---
 
 L’équipe a un radiateur d’information avec son tableau Scrum et c’est une excellente manière pour avoir une vue globale sur le sprint. Mais, et nous les _product owners_ ? N’avons-nous pas besoin d’en avoir un aussi ? Bien sûr que oui, nous avons nous aussi besoin d’avoir une vue globale de notre travail et de diffuser de l’information. Aux parties prenantes qui passent par là et qui demandent “qu’est-ce qu’il y aura dans le prochain sprint ?”, “quand est-ce que nous allons migrer”, nous aimerions leur répondre d’un simple geste de la main vers le mur pour leur indiquer que c’est là, affiché aux yeux de tous.

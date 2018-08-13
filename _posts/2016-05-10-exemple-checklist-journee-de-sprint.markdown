@@ -3,9 +3,9 @@ layout: post
 title:  "Checklist d’une journée spéciale sprint"
 date:   2016-05-11 10:30:55
 published: true
-tags: 
+tags:
 - scrum
-- outils
+- outil
 ---
 On me demande souvent comment des équipes peuvent organiser leurs sprints. En cliquant sur ce [lien]({{ site.url }}assets/sprint_checklist/un-exemple-de-checklist-journee-speciale-sprint.pdf), vous y trouverez un exemple de calendrier et de checklist qu’une équipe utilise pour revoir, prendre du recul et planifier leurs sprints de manière efficace.
 

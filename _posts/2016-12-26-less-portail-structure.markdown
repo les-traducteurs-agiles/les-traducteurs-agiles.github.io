@@ -4,7 +4,7 @@ title:  "LeSS - Portail Structure"
 date:   2016-12-26 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS](http://www.les-traducteurs-agiles.org/2016/12/26/portail-less.html)

@@ -4,7 +4,7 @@ title:  "Ne devez-vous pas vous CONNECTER d'abord ?"
 date:   2011-12-06 00:01
 published: true
 tags:
-- user stories
+- user story
 ---
 
 Dans mon précédent article, []Éviter l'itération zéro](http://www.les-traducteurs-agiles.org/2011/12/06/evitez-l-iteration-zero.html), je proposais de commencer avec “la **première chose évidente** ayant besoin d'être réalisée. (_Indice: ce n'est pas ‘se connecter’)_” Comme [Jon Kern l'a mentionné récemment](http://technicaldebt.com/?p=957), ce sujet est apparu ailleurs, j'étais également présent dans cette liste de discussion.

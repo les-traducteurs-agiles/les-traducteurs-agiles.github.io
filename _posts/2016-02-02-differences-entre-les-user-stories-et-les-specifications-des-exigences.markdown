@@ -3,8 +3,8 @@ layout: post
 title:  "La différence entre les user stories et les spécifications des exigences"
 date:   2016-02-04 21:00:55
 published: true
-tags: 
-- user-stories
+tags:
+- user story
 ---
 
 _Aujourd’hui, il devient de plus en plus facile de créer des logiciels non soumis à un cadre réglementaire mais c’est toujours aussi difficile de créer des systèmes soumis à un cadre réglementaire ou certifiés tels que les logiciels de gestion des dossiers électroniques de santé, les logiciels embarqués dans les appareils médicaux, et les systèmes d’informations gouvernementaux.

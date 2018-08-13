@@ -4,8 +4,8 @@ title:  "LeSS - Structure organisationnelle pour LeSS Huge"
 date:   2016-12-30 00:01
 published: true
 tags:
-- LeSS
-- À grande échelle
+- less
+- à grande échelle
 ---
 
 [<< Portail LeSS < Portail LeSS Huge](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-less-huge.html)

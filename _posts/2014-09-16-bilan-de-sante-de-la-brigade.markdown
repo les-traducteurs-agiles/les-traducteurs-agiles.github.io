@@ -3,11 +3,10 @@ layout: post
 title:  "Bilan de santé de la brigade (modèle)"
 date:   2014-09-16 00:01
 published: true
-tags: 
+tags:
 - coaching
 - dette technique
 - équipe
-- entreprise
 ---
 
 ![Vue générale du bilan de santé de la brigade]({{ site.url }}assets/henrik_kniberg/squad-health-check-model-overview.png)
@@ -173,7 +172,7 @@ Source : [Squad Health Check model – visualizing what to improve (Spotify Labs
 Date de parution originale : 16 Septembre 2014  
 
 ---
-Traducteurs : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/) (uniquement PDF et PPTX) 
+Traducteurs : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/) (uniquement PDF et PPTX)
 Date de traduction : 16/09/2014 - MàJ 14/11/2016  
 
 ---
@@ -183,5 +182,3 @@ Date de traduction : 16/09/2014 - MàJ 14/11/2016
 ---
 
 {% include share_buttons.html %}
-
-

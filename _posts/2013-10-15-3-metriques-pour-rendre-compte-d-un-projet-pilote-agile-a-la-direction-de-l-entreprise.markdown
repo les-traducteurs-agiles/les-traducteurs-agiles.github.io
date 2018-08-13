@@ -4,7 +4,7 @@ title:  "3 Métriques pour rendre compte d'un projet pilote agile à la directio
 date:   2013-10-15 00:01
 published: true
 tags:
-- indicateurs
+- indicateur
 ---
 
 Lors de l'introduction de Scrum en entreprise, par le biais d'un projet pilote agile par exemple, se pose la question de savoir **comment rendre compte à la direction de l'entreprise**. Je suggèrerais d'utiliser les trois métriques suivantes comme point de départ :

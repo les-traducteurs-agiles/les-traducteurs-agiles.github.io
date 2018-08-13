@@ -4,7 +4,7 @@ title:  "LeSS - Communautés"
 date:   2017-01-02 00:01
 published: true
 tags:
-- LeSS
+- less
 ---
 
 [<< Portail LeSS < Portail Structure](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-structure.html)
@@ -27,7 +27,7 @@ La culture d'apprentissage de Toyota est de "diffuser la connaissance latéralem
 
 Est-ce qu'une CoP ne serait pas une matrice organisationnelle déguisée ? Non, il y a bien une différence clairement conceptuelle entre les deux.
 
-> Les communautés de pratiques fournissent une approche différente fondamentale pour converger vers le même objectif. La structure matricielle se concentre uniquement sur l'attribution de l'autorité et la coordination des ressources en multipliant les relations de reporting. Elles ne créent pas de structures différentes pour des objectifs différents. Alors qu'une matrice a des relations de reporting, les communautés de pratique fournissent une structure d'un genre différent pour se concentrer sur la connaissance. Elles sont basées sur des relations collégiales, et pas sur des relations hiérarchiques. Même la communauté des leaders [coordinateurs CoPs] ne fait pas partie de vos chefs, mais de vos pairs. Cette combinaison de structures formelle et informelle est fondamentalement différente d'une matrice. [[WSM02](https://www.amazon.com/Cultivating-Communities-Practice-Etienne-Wenger/dp/1578513308)] 
+> Les communautés de pratiques fournissent une approche différente fondamentale pour converger vers le même objectif. La structure matricielle se concentre uniquement sur l'attribution de l'autorité et la coordination des ressources en multipliant les relations de reporting. Elles ne créent pas de structures différentes pour des objectifs différents. Alors qu'une matrice a des relations de reporting, les communautés de pratique fournissent une structure d'un genre différent pour se concentrer sur la connaissance. Elles sont basées sur des relations collégiales, et pas sur des relations hiérarchiques. Même la communauté des leaders [coordinateurs CoPs] ne fait pas partie de vos chefs, mais de vos pairs. Cette combinaison de structures formelle et informelle est fondamentalement différente d'une matrice. [[WSM02](https://www.amazon.com/Cultivating-Communities-Practice-Etienne-Wenger/dp/1578513308)]
 
 
 ---

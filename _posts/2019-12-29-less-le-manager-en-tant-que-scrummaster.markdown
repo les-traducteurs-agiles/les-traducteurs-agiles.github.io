@@ -4,8 +4,8 @@ title:  "LeSS - Le Manager en tant que ScrumMaster"
 date:   2016-12-29 00:01
 published: true
 tags:
-- LeSS
-- Management
+- less
+- management
 ---
 
 

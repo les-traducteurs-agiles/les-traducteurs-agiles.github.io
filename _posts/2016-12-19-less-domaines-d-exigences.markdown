@@ -4,8 +4,8 @@ title:  "LeSS - Domaines d'exigences"
 date:   2016-12-19 00:01
 published: true
 tags:
-- LeSS
-- À grande échelle
+- less
+- à grande échelle
 ---
 
 

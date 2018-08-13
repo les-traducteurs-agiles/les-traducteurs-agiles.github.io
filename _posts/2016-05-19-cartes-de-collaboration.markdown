@@ -3,9 +3,9 @@ layout: post
 title:  "Collaboration - La danse de la contribution : le jeu de cartes"
 date:   2016-05-19 11:00:55
 published: true
-tags: 
+tags:
 - agile
-- outils
+- outil
 ---
 
 À découvrir et à télécharger en cliquant sur ce [lien]({{ site.url }}assets/cartes_collaboration/Jeu-de-cartes-de-collaboration.pdf).
