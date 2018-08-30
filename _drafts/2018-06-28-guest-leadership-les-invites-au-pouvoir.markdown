@@ -10,134 +10,69 @@ tags:
 
 ---
 
-**Abstract:** Guest leaders perform temporary acts of leadership, such helping a shorter person get a bag from overhead, organizing neighborhood cleanups, or ensuring customers are happy. This article explores the concept of guest leadership, looking at what enhances and inhibits it, where it can be found, and how a culture for guest leadership might be grown.
-
-**Résumé :** Les _guest leaders_ sont des personnes qui font preuve d'actes ponctuels de leadership, tel qu'aider une personne trop petite à récupérer un bagage du compartiment à bagages au-dessus de sa tête, organiser des nettoyages de quartier ou de s'assurer que les clients sont contents. Cet article explore le concept de _guest leadership_, examine ce qui permet de l'améliorer ou de l'inhiber, où pouvons-nous le trouver, et de quelle manière une culture du _guest leadership_ pourrait s'épanouir.
+**Résumé :** Les _guest leaders_ sont des personnes qui font preuve d'actes ponctuels de leadership, tel qu'aider une personne trop petite à récupérer un bagage du compartiment à bagages au-dessus de sa tête, organiser des nettoyages de quartier ou de s'assurer que les clients sont contents. Cet article explore le concept de _guest leadership_, examine ce qui permet de l'améliorer ou de l'inhiber, où pouvons-nous le trouver, et examiner de quelle manière une culture du _guest leadership_ pourrait s'épanouir.
 
 ---
 
-Usually we think of leaders in large terms: Nelson Mandela, Martin Luther King, Steve Jobs, and so. However, small acts of leadership happen every day, forming the glue that holds civil society together. These include helping a shorter person put a bag in the overhead compartment, organizing neighborhood cleanups or starting petitions to change the government.
-
-Généralement, nous pensons au concept de _leader_ en termes très généraux : Nelson Mandela, Martin Luther King, Steve Jobs, etc. Toutefois, chaque jour se produisent de petits actes de _leadership_, formant ainsi le ciment de la société civile. Aider une personne trop petite à hisser son bagage dans le compartiment à bagages au-dessus des sièges, organiser des nettoyages de quartier ou démarrer des pétitions pour changer de gouvernement font partie de ce type d'actes.
-
-These are moments of “guest leadership”.
+Généralement, nous pensons au concept de _leader_ en termes très généraux : Nelson Mandela, Martin Luther King, Steve Jobs, etc. Toutefois, chaque jour se produisent de petits actes de _leadership_, qui par là-même forme le ciment de la société civile. Aider une personne trop petite à hisser son bagage dans le compartiment à bagages au-dessus des sièges, organiser des nettoyages de quartier ou démarrer des pétitions pour changer de gouvernement font partie de ce type d'actes.
 
 Ces actes sont des moments de "_guest leadership"
 
-    _Guest Leadership at a Filming_
-
-    **_Guest leadership_ lors d'un tournage**
-
-    No one was not in control at the filming of this musician’s music video, certainly not the musician. He had a vague idea what he was after, but, not being an organizer, was not set to coordinate the movements of the dozen or so of his friends and their friends who had come to be supportive and have a cameo in his video.
-
-    Lors du tournage du clip vidéo d'un musicien, personne n'était en charge de quoi que ce soit, et certainement pas le musicien. Il avait bien un vague idée de ce qu'il voulait, mais, n'étant pas un organisateur, il ne coordonnait pas les mouvements de sa douzaine d'amis présents venus le soutenir et faire une apparition dans son clip vidéo.
-
-    At some moment, someone said that a section of wall should be draped. One person went and found a curtain rod and a curtain, but the guest leader of the moment was the person who found a ladder and then coordinated a few other people to hang the curtain high enough to make the semblance of a wall. None of the people knew each other, nor was the musician present to oversee. He was not even aware of what was being done, he only saw that the wall had been draped per his desire.
-
-    À un moment donné, quelqu'un a dit qu'une section de mur devrait être drapé. Quelqu'un est partit trouver un rideau et une tringle, mais le _guest leader_ du moment a été la personne qui a trouvé une échelle et qui a coordonné les autres personnes pour accrocher le rideau suffisamment haut pour faire un semblant de mur. Aucune de ces personnes ne se connaissaient, et le musicien n'était pas là pour superviser ce qui se passait. Il n'était même pas au courant de ce qui était en train d'être fait, il a seulement vu que le mur avait été drapé comme il le souhaitait.
-
-    This activity of sporadic leadership by various people present continued for an hour or so. Some guests organized others, some were arms and legs for those with ideas, and some just sat and watched.
-
-    Cette activité de _leadership_ sporadique effectuée par différentes personnes s'est poursuivit pendant une heure environ. Certains _invités_ en coordonnaient d'autres, certains étaient les bras et les jambes de ceux qui avaient des idées, et certains étaient simplement assis et regardaient.
-
-    Finally satisfied, the musician shot the video, not having any idea who had contributed what. All of the guests and helpers were simple guests in his final video.
-
-    Finalement satisfait, le musicien lança le tournage du clip vidéo, ignorant qui avaient contribué à quoi. Tous les invités[^1] et les aidants étaient de simples figurants[^1] dans la vidéo finale.
-
-Guest leadership is rarer in work environments than in daily communities. In work places, employeeds typically wait to be told what to do, then consider how their actions will affect their annual work review and pay raise. Spontaneous moments of leadership do happen, but the usual corporate environments are not so conducive to it.
+> **Le _guest leadership_ lors d'un tournage**
+>  
+> Lors du tournage de ce clip vidéo, personne n'était en charge de quoi que ce soit, et certainement pas le musicien pour lequel le tournage avait lieu. Ce dernier avait bien un vague idée de ce qu'il voulait, mais, n'étant pas un organisateur, il ne coordonnait pas les différentes actions de sa douzaine d'amis présents venus le soutenir et faire une apparition dans son clip vidéo.
+>  
+> À un moment donné, quelqu'un a dit qu'une section de mur devrait être drapé. Quelqu'un est partit trouver un rideau et une tringle, mais le _guest leader_ du moment a été la personne qui a trouvé une échelle et qui a coordonné les autres personnes pour accrocher le rideau suffisamment haut pour faire un semblant de mur. Aucune de ces personnes ne se connaissaient, et le musicien n'était pas là pour superviser ce qui se passait. Il n'était même pas au courant de ce qui était en train d'être fait, il a seulement vu que le mur avait été drapé comme il le souhaitait.
+>  
+> Cette activité de _leadership_ sporadique effectuée par différentes personnes s'est poursuivit pendant une heure environ. Certains _invités_ en coordonnaient d'autres, certains étaient les bras et les jambes de ceux qui avaient des idées, et certains étaient simplement assis et regardaient.
+>  
+> Finalement satisfait, le musicien lança le tournage du clip vidéo, ignorant qui avaient contribué à quoi. Tous les invités[^1] et les aidants étaient de simples figurants[^1] dans le clip vidéo final.
 
 Le _guest leadership_ se produit plus rarement dans l'environnement professionnel que dans la vie quotidienne. Dans l'environnement professionnel, les employés attendent généralement qu'on leur dise quoi faire, puis regardent comment leurs actions auront un impact sur leur entretien d'activités annuel et sur leur augmentation de salaire. Des moments spontanés de _leadership_ peuvent se se produisent tout de même, mais l'environnement habituel des entreprises n'y incite pas beaucoup.
 
-The agile software revolution legitimized decentralized decision-making with its call for self-organization. Decentralized decision-making is useful in complex environments as found in modern software development. In these environments there is not enough time to funnel all the necessary information to a central point of control and wait for a decision. Quite the opposite, often the people close to the situation have the experience and information to resolve the problem more quickly themselves.
-
 La révolution agile du développement logiciel a légitimé la prise de décision décentralisée avec son appel à l'auto-organisation. La prise de décision décentralisée est utile dans des environnements complexes tels que ceux que l'on peut trouver dans le développement moderne de logiciels. Dans ces environnements, il n'y a pas assez de temps pour faire transiter toute l'information nécessaire vers un point de contrôle central et pour attendre une décision. À l'opposé, les gens sur le terrain ont souvent l'expérience et l'information nécessaire pour résoudre plus rapidement par eux-mêmes le problème.
 
-An increasing number of work environments have the same characteristic of complex flows of information needing quick decisions and rapid actions. Additionally, the rising demographic of millennials is increasingly allergic to centralized power and bosses telling them what to do. They also are looking for ways to decentralize decision making.
+De plus en plus d'environnements professionnels partagent ces mêmes caractéristiques qui sont d'avoir des flux complexes d'informations nécessitant des décisions et des actions rapides. De plus, la génération du millénaire, qui prend de l'importance sur le plan démographique, est de plus en plus allergique au pouvoir centralisé et aux patrons qui leur disent quoi faire. Elle est aussi à la recherche de nouvelles manières de prises de décisions décentralisées.
 
-De plus en plus d'environnements professionnels partagent ces mêmes caractéristiques qui sont d'avoir des flux complexes d'informations nécessitant des décisions et des actions rapides. De plus, la génération du millénaire, de plus en plus importante sur le plan démographique, est de plus en plus allergique au pouvoir centralisé et aux patrons qui leur disent quoi faire. Elle est aussi à la recherche de nouvelles manières de prise de décisions décentralisée.
-
-Organizations that are able to create a culture of guest leadership multiply the efforts of the staff. The question is, how does anyone, a person – whether in a power position or not – increase people’s inclination to step forward into acts of guest leadership?
-
-Les organisations qui sont capables de créer une culture du _guest leadership_ multiplient les capacités de leur personnel. La question est, comment qui que ce soit, une personne - qu'elle soit en position d'autorité ou pas - peut pousser l'inclinaison d'une personne a transformé l'acte de faire un pas en avant en acte de _guest leadership_ ?
-
-## Leadership Stances
+Les organisations qui sont capables de créer une culture du _guest leadership_ multiplient les capacités de leur personnel. La question est, comment qui que ce soit, une personne - qu'elle soit en position d'autorité ou pas - peut pousser l'inclinaison des gens a transformé l'acte de faire un pas en avant en acte de _guest leadership_ ?
 
 ## Les différents positionnements du _leadership_
 
-Some leaders are charismatic. They create a following. Others spend their energy evolving the environment around their people. Typically, we refer to the former as a “leader”, and often we refer to the other as a “manager”. They are both leaders, in different ways, taking different stances for different purposes. The former sets the direction so that people feel inclined to pursue it. The latter sets the environment so that people’s actions are effective.
-
 Certains _leaders_ sont charismatiques. Ils créent une certaine attirance. D'autres dépensent leur énergie à faire évoluer l'environnement autour des personnes qui leur sont acquises. Généralement, nous nous référons aux premiers comme étant des "meneurs", et nous nous référons souvent aux seconds comme étant des "manageurs". Tous les deux sont des _leaders_, de différentes manières, ayant des positionnements différents avec différents objectifs. Le premier indique la direction dans laquelle les personnes sont naturellement enclines à poursuivre. Le second met en place l'environnement afin que les actions des personnes soient efficaces.
 
-Mark McKergow and Helen Bailey introduced the term “host leader” for the second kind of leader. Think of a party, perhaps a formal dinner party, perhaps a pot-luck dinner party or a masquerade or pool party. The organizer is responsible for creating the mood and legitimate action set of the attendees, starting from the invitation to the party, and then for seeing to it that everyone is thriving during the party.
-
-Mark McKergow et Helen Bailey ont introduis le terme de "_leader_ hôte" pour la deuxième catégorie de _leader_. Pensez à une soirée, il s'agira peut-être d'un repas formel, peut être d'un repas à la fortune du pot ou d'un bal masqué ou d'une partie de billard. L'organisateur est responsable pour créer l'ambiance et légitimer l'ensemble des actions possibles des invités, cela commence avec l'invitation des personnes puis cela se poursuit en allant voir si chaque personne profite bien de la soirée.
-
-I find it useful to allocate words to the different stances of a leader. Here are ones I use in this article:
+Mark McKergow et Helen Bailey ont introduit le terme de "_leader_ hôte" pour la deuxième catégorie de _leader_. Pensez à une soirée, il s'agira peut-être d'un repas formel, peut être d'un repas à la fortune du pot ou d'un bal masqué ou d'une partie de billard. L'organisateur est responsable pour créer l'ambiance et légitimer l'ensemble des actions possibles des invités, cela commence avec l'invitation des personnes puis cela se poursuit en allant voir si chaque personne profite bien de la soirée.
 
 Je trouve utile d'utiliser des mots différents pour qualifier les différents positionnements d'un _leader_. Voici ceux que j'utiliserai dans cet article.
 
-### Leader 1: Leader as direction-setter
-
 ### Leader 1: celui qui donne des directions
-
-The Leader 1 is the type of leader we reflexively imagine with the word leader: Gandhi, Mandela, Hitler, Kennedy, Martin Luther King. Whether you agree with their platform or not, they were effective. What is it that this kind of a leader does that makes them effective? They
 
 Le _Leader_ 1 est le type de _leader_ que nous imaginons tout de suite lorsque nous entendons le mot _leader_ : Gandhi, Mandela, Hitler, Kennedi, Martin Luther King. Que vous soyez d'accord avec leurs doctrines ou pas, ils s'avèrent être très persuasifs. Qu'est-ce qui rend ce type de _leader_ aussi persuasif ? Ils
 
-* Attract attention,
-* Redirect that attention to some direction,
-* Enroll others in considering that direction interesting.
+* Attirent l'attention,
+* Redirigent l'attention dans une certaine direction,
+* Enrôlent les autres de telle manière qu'ils trouvent cette direction intéressante.
 
-* Attirent l'attention
-* Redirigent l'attention dans une certaine directions
-* Enrôlent les autres de telle manière qu'ils trouvent cette direction intéressante
-
-We typically associate a Leader 1 with changing direction. When there is no change of direction to be made, the Leader 1’s work is to keep highlighting the importance of the current direction, to keep people from getting distracted and working toward any other direction. The work of a Leader 1 is always direction.
-
-Nous associons généralement un _Leader_ 1 avec la capacité de changement de direction. Lorsqu'il n'y a aucun changmeent de direction à faire, le travail du Leader 1 est de continuer à souligner l'importance de la direction actuelle, de continuer à faire en sorte que l'attention des gens ne soient pas distraite et qu'ils continuent à travailler dans cette direction et pas dans d'autres. Le travail de Leader 1 porte toujours sur la direction.
-
-### Leader 2: Leader as host
+Nous associons généralement un _Leader_ 1 avec la capacité de changement de direction. Lorsqu'il n'y a aucun changmeent de direction à faire, le travail du _Leader_ 1 est de continuer à souligner l'importance de la direction actuelle, de continuer à faire en sorte que l'attention des gens ne soient pas distraite et qu'ils continuent à travailler dans cette direction et pas dans d'autres. Le travail de _Leader_ 1 porte toujours sur la direction.
 
 ### Leader 2 : le _leader_ en tant qu'hôte
 
-Leader 2 captures the stance described by McKergow and Bailey. Here are the things this person does:
-
 Le _Leader_ 2 est la représentation même du positionnement décrit par McKergow et Bailey. Voici les choses qu'une personne de ce type fait :
-
-* Create a mood and an environment to support it.
-* Participate with the guests to see that they feel welcome, safe, included, and involved.
-* Step in periodically to move the attention around, introduce people to each other, change the music, make announcements, and so on.
-* Step away periodically to monitor the scene, to make judgments about what to change or not to change.
 
 * Créée une ambiance et un environnement permettant de l'entretenir.
 * Se rend présent auprès des invités pour voir s'ils se sentent accueillis, en sécurité, inclus et impliqués.
 * Intervient périodiquement pour détourner l'attention, présenter des personnes les unes aux autres, changer la musique, faire des annonces, et ainsi de suite.
-* S'écarte périodiquement pour observer la scène, déterminer ce qu'il a changé ou pas.
+* S'écarte périodiquement pour observer la scène, déterminer ce qui a changé ou pas.
 
-Note that in the Leader 2 stance, there is no particular direction, the accomplishment is the creation and retention of a mood or quality of interaction. However, the Leader 2 is still a leader, because this person is taking initiative and is responsibility for the mood and interactions.
-
-Remarquez bien que dans le cas du _Leader_ 2, il n'y a pas de direction particulière, l'accomplissement est la création et la rétention d'une ambiance ou de la qualité de l'interaction. Toutefois, le _Leader_ 2 reste un _leader_, parce qu'il est la personne qui prend l'initiative et qu'il est responsable de l'ambiance et des interactions.
-
-### Leader 0: Solo leader
+Remarquez bien que dans le cas du _Leader_ 2, il n'y a pas de direction particulière, l'accomplissement est la création et la rétention d'une ambiance ou la qualité de l'interaction. Toutefois, le _Leader_ 2 reste un _leader_, parce qu'il est la personne qui prend l'initiative et qu'il est responsable de l'ambiance et des interactions.
 
 ### Leader 0 : le _leader_ solitaire
 
-Leader 0 is the degenerate but important form of leadership, and the first form of guest leadership. The Leader 0 is a solo leader, that is, does not enroll any followers. Nonetheless, the Leader 0 is still a leader because they step out from the crowd and take initiative. Here are the things this person does:
-
-Le _Leader_ 0 est une forme dégénérée mais toutefois importante de _leadership_, et la première forme de _guest leadership_. Le _Leader_ 0 est un leader solitaire, qui, n'enrôlent personne. Néanmoins, le _Leader_ 0 reste un _leader_ car il sort de la foule et prend des initiatives. Voici les choses que ce type de personne fait :
-
-* Detect that an intervention is needed.
-* Decide, “This is for me to take care of.”
-* Step out of the crowd and takes some action.
-* Step back into previous position.
+Le _Leader_ 0 est une forme dégénérée mais toutefois importante de _leadership_, et la première forme de _guest leadership_. Le _Leader_ 0 est un _leader_ solitaire, qui, n'enrôlent personne. Néanmoins, le _Leader_ 0 reste un _leader_ car il sort de la foule et prend des initiatives. Voici les choses que ce type de personne fait :
 
 * Détecte qu'une intervention quelconque est nécessaire.
 * Décide, "C'est à moi de m'en occuper".
 * Sort de la foule et fait une action quelconque
 * Retourne à sa position initiale.
-
-A Leader 0 is the person who opens a window in a hot meeting room, who helps a shorter person reach a bag in the overhead bin, who picks up a dropped wallet and gives it back to the owner, who tells you your backpack is open.
-Almost everyone acts as Leader 0 sometime, even people who swear they never lead. Leaders 0 are very important to the creation of friendly spaces and the feeling of safety.
 
 Le _Leader_ 0 est la personne qui ouvre la fenêtre dans une salle de réunion surchauffée, qui aide une personne petite à hisser son bagage dans le compartiment à bagages au-dessus des sièges, qui ramasse un portefeuille tombé par terre et qui le ramène à son propriétaire, qui vous dit que votre sac à dos est ouvert.
 Tout le monde a été _Leader_ 0 au moins une fois, même les personnes qui jurent n'avoir fait aucun acte de _leadership_. Les _Leaders_ 0 sont très importants dans la création d'espaces conviviaux et dans le sentiment de sécurité.
@@ -146,60 +81,34 @@ Tout le monde a été _Leader_ 0 au moins une fois, même les personnes qui jure
 
 ### Leader 3 : les invités en tant que _leader_
 
-Leader 3 is the guest leader, as subject of this article. This person is not an anointed or recognized leader in the situation. If at a party, is not the host or deputy of the host. If at work, not the boss or manager. Here are the things the guest leader does:
+Le Leader 3 est le _guest leader_, le sujet de cet article. Cette personne n'est pas un _leader_ qui a été nommé ou qui est reconnu en tant que tel. Dans une fête, il ne s'agit pas de l'hôte ou du remplaçant de l'hôte. Dans un environnement professionnel, il ne s'agit pas du patron ou du manageur. Voici les choses que fait un _guest leader_ :
 
-Le Leader 3 est le _guest leader_, le sujet de cet article. Cette personne n'est pas un _leader_ ayant été nommé ou qui est reconnu en tant que tel. Dans une fête, il ne s'agit pas de l'hôte ou du remplaçant de l'hôte. Dans un environnement professionnel, il ne s'agit pas du patron ou du manageur. Voici les choses que fait un _guest leader_ :
+* Détecte qu'une intervention quelconque est nécessaire.
+* Décide, "C'est à moi de m'en occuper".
+* Devient un Leader 0-2 pendant un certain temps
+* Retourne à sa position précédente.
 
-    Detect that an intervention is needed.
-    Decide, “This is for me to take care of.”
-    Become Leader 0-2 for some period of time.
-    Step back into previous position.
-
-    Détecte qu'une intervention quelconque est nécessaire.
-    Décide, "C'est à moi de m'en occuper".
-    Devient un Leader 0-2 pendant un certain temps
-    Retourne à sa position précédente.
-
-In a neighborhood, a Leader 3 is the person who decides to organize a block party or neighborhood pot-luck dinner in the street, or to clean up the neighborhood. At work, a Leader 3 is the person who argues for a change in office furniture to improve collaboration, starts a monthly social event, or who motivates coworkers try a new technique.
-
-Dans le voisinnage, un Leader 3 est la personne qui décide d'organiser une fête de quartier ou un dîner improvisé à la bonne franquette dans la rue, ou de nettoyer le quartier. Au travail, un Leader 3 est la personne qui va argumenter pour obtenir un changement de fournitures de bureaux pour améliorer la collaboration, démarrer un évènement social mensuel, ou qui va motiver ses collègues à essayer une nouvelle technique.
-
-### Moving Between Stances
+Dans un quartier, un _Leader_ 3 est la personne qui décide d'organiser une fête de quartier ou un dîner improvisé à la bonne franquette dans la rue, ou de nettoyer le quartier. Au travail, un _Leader_ 3 est la personne qui va argumenter pour obtenir un changement de fournitures de bureaux pour améliorer la collaboration, démarrer un évènement social mensuel, ou qui va motiver ses collègues à essayer une nouvelle technique.
 
 ### Aller d'un positionnement à un autre
 
-It is common for people to move between stances in a situation. Here is a small example:
-
 Il est assez courant pour les gens de changer de positionnements au cours d'une situation. Voici un petit exemple :
 
-    ![Guest leadership, moving between stances]()
+> _Guest leadership_, aller d'un positionnement à un autre
+>
+> **Personne :** Il est environ 2 heures du matin à Buenos Aires, les rues sont désertes. Un ami et moi traversons une rue très grande à sens unique. Une voiture tourne dans cette rue très large, et généralement très encombrée, dans le mauvais sens. _Invité_ [^1]
+>
+> **Leader 3 :** Je décide d'intervenir. _Leader en tant qu'invité_.
+>
+> **Leader 0 :** Je bondis sur la route pour avertir le conducteur qu'il est en train de se diriger vers une grande rue à sens unique dans le mauvais ses. _Leader solitaire_.
+>
+> **Leader 1 :** Mon espagnol n'est pas assez bon pour lui faire comprendre rapidement ce qu'il se passe. (Il a juste vu quelqu'un d'étrange bondir sur la route et qui est en train de lui hurler dessus dans un mauvais espagnol). Je demande à mon ami de lui parler et de lui expliquer la situation. Elle le fait, devenant de fait un suivant enrôlé. _Leader en tant que donneur de direction_.
+>
+> **Leader 2 :** Je me recule et observe l'environnement, regardant si des véhicules arrivent dans un sens ou dans l'autre tout en m'assurant que son explication est bien comprise. _Leader en tant qu'hôte_.
+>
+> **Personne :** Le conducteur fait demi-tour. Nous reprenons notre marche. _Invité_ [^1].
 
-    ![_Guest leadership_, aller d'un positionnement à un autre]()
-
-    **Nobody:** It was about 2 a.m. in Buenos Aires, deserted in the streets. A friend and I were crossing a very large, one-way street. A car turned into the very large, usually very busy one-way street the wrong way. Guest.
-
-    **Personne : ** Il est environ 2 heures du matin à Buenos Aires, les rues sont désertes. Un ami et moi traversons une rue à sens unique très large. Une voiture tourne dans cette rue très large, et généralement très encombrée, dans le mauvais sens. Invité (_guest_)
-
-
-    **Leader 3:** I decide to intervene. Guest as leader.
-
-    **Leader 3 :** Je décide d'intervenir. Leader en tant qu'invité
-
-    **Leader 0:** I jumped into the road to warn the driver that he was about to head up a very large one-way road the wrong way. Solo leader.
-
-    **Leader 0 :** Je bondis sur la route pour avertir le conducteur qu'il est en train de se diriger vers une grande rue à sens unique dans le mauvais ses. Leader solitaire.
-
-    **Leader 1:** My Spanish was not good enough to get him to understand quickly what was happening. (He just saw someone strange jump into the road and shout bad Spanish at him.) I asked my friend to talk to him and explain what was up. She did, becoming an enrolled follower. Leader as direction-setter.
-
-    **Leader 1 :** Mon espagnol n'est pas assez bon pour lui faire comprendre rapidement ce qu'il se passe. (Il a juste vu quelqu'un d'étrange bondir sur la route et qui est en train de lui hurler dessus dans un mauvais espagnol). Je demande à mon ami de lui parler et de lui expliquer la situatin. Elle le fait, devenant de fait un suivant enrollé. Leader en tant que donneur de direction.
-
-    **Leader 2:** I stepped back and watched the environment, looking for oncoming cars in either direction, and to check that she was being successful with her explanation. Leader as host.
-
-    **Leader 2 :** Je me recule et observe l'environnement, regardant si des véhicules arrivent dans un sens ou dans l'autre et s'assurant d'être compris dans son explication. Leader en tant qu'hôte.
-
-    **Nobody:** The driver turned around. We resumed walking. Guest.
-
-    **Personne :** Le conducteur fait demi-tour. Nous reprenons notre marche. Invité (_guest_).
+#### RELECTURE
 
 We see the same progression in the story at the start of the article: guest, follower, leader as direction setter, leader as host, guest. This appears to be a common progression.
 
