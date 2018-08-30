@@ -108,126 +108,70 @@ Il est assez courant pour les gens de changer de positionnements au cours d'une 
 >
 > **Personne :** Le conducteur fait demi-tour. Nous reprenons notre marche. _Invité_ [^1].
 
-#### RELECTURE
-
-We see the same progression in the story at the start of the article: guest, follower, leader as direction setter, leader as host, guest. This appears to be a common progression.
-
-Nuos avons vue la même progression de l'histoire au début de l'article : invité, suiveur, leader en tant que donneur de direction, leader en tant qu'hôte, invité. Il semble qu'il y ait une progression identique.
-
-Two interesting questions are:
+Nous avons vue la même progression de l'histoire au début de l'article : invité, suiveur, _leader_ en tant que donneur de direction, _leader_ en tant qu'hôte, invité. Il semble qu'il y ait une progression identique.
 
 Il y a ici deux questions intéressantes :
 
-    What enhances or diminishes people’s inclination to take that crucial step to intervene?
-    Is there anything that can be done, either by a boss or established leader, or by simply anyone, to increase people’s inclination to take that crucial step?
-
-    Qu'est-ce qui augmente ou diminue l'inclinaison d'une personne de franchir cette étape cruciale d'intervenir ?
-    Quelque chose peut-elle être faite, que ce soit par un patron ou un _leader_ établit, ou par simplement par qui que ce soit, pour augmenter l'inclinaison d'une personne à franchir cette étape cruciale ?
-
-To pursue those, let us first look at collaboration, the preamble to guest leadership.
+* Qu'est-ce qui augmente ou diminue l'inclinaison d'une personne de franchir cette étape cruciale d'intervenir ?
+* Quelle chose peut-elle être faite, que ce soit par un patron ou un _leader_ établit, ou par simplement par qui que ce soit, pour augmenter l'inclinaison d'une personne à franchir cette étape cruciale ?
 
 Pour continuer, jetons d'abord un œil sur la collaboration, le préambule au _guest leadership_.
 
-## Collaboration Can Be Influenced
-
 ## La collaboration peut être influencée
 
-In 2006, I wrote [“Collaboration: The Dance of Contribution (discussion: Re: Collaboration: the dance of contribution)”](). The punchline of that research is this:
-Collaboration requires that a person step forward out of a crowd, attract attention to themselves, offer an idea or contribution, and step back into the crowd.
+En 2006, j'ai écrit [“Colloration: The Dance of Contribution (discussion: Re: Collaboration: the dance of contribution))”](http://alistair.cockburn.us/Collaboration:+the+dance+of+contribution). Le phrase-clé de cette étude est : la collaboration exige qu'une personne sorte de la foule, attire l'attention sur elle, offre une idée ou une contribution, et retourne dans la foule.
 
-
-En 2006, j'ai écrit [“Collaboration: la danse de la contribution (discussion: Re: Collaboration: la dance de la contribution)”](). Le slogan de cette recherceh est : la collaboration exige qu'une personne sorte de la foule, attire l'attention sur elle, offre une idée ou une contribution, et retourne dans la foule.
-
-
-This is very similar to what we are asking for in guest leadership.
-
-C'est très similaire avec ce que nous demandons pour le _guest leadership_.
-
-Everyone in the group can enhance the inclination to step forward by taking action in one of five ways:
+C'est très similaire avec ce que nous demandons avec le _guest leadership_.
 
 Tout le monde dans un groupe peut augmenter l'inclinaison à faire un pas en avant en réalisant une action parmi les 5 suivantes :
 
-### 1. Lift Others
-
 ### 1. Élever autrui
 
-Many people feel too modest about themselves and their ideas to speak up. You can help by raising their relative self-esteem and social rank:
+Beaucoup de personnes se sentent trop modestes à leur sujet et pour parler de leurs idées. Vous pouvez les aider en élevant leur estime d'elles-mêmes et leur rang social :
 
-Beaucoup de personnes se sentent trop modestes à leurs sujets et pour parler de leurs idées. Vous pouvez les aider en élément leur estime d'elles-mêmes et leur rang social :
+* Reconnaissez autrui
+* Abaissez votre position sociale relative
+* S'enquérier et non contredire
+* Mettez à l'épreuve mais adoptez
 
-* Recognize others
-* Lower your relative social position
-* Inquire, don’t contradict
-* Challenge, but adopt
-
-* Reconnaître autrui
-* Abaisser votre position sociale relative
-* Demandez, ne pas contredire
-* Mettre à l'épreuve, mais adopter
-
-### 2. Increase Safety
-
-### 3. Accroître la sécurité
-
-Attracting attention and stepping forward is scary to most people. Offering an idea is potentially embarrassing, if it is rejected. Therefore, the first thing to do is to create an environment where people feel safe to offer their ideas:
+### 2. Accroître la sécurité
 
 Attirer l'attention et faire un pas en avant est quelque chose d'effrayant pour la plupart des personnes. Offrir une idée est potentiellement embarrassant, si elle est rejetée. Par conséquent, la première choses à faire est de créer un environnement où les personnes se sentent en sécurité pour offrir leurs idées :
 
-* Be yourself
-* Show you won’t hurt
-* Add humor
-* Say something honest, on the edge of what you think is allowed
-
-* Soyer vous-même
-* Montrer que vous ne ferez pas de mal
+* Soyez vous-même
+* Montrez que vous ne ferez pas de mal
 * Ajouter de l'humour
-* Dire quelque chose d'honnête, à la limite de ce que vous pensez de ce qui est permis
-
-### 3. Get Results
+* Dites quelque chose d'honnête à la limite, selon vous, de ce qui est permis
 
 ### 3. Obtenir des résultats
 
-Results are what matter in collaboration, plus, getting results actually improves collaboration. So:
-
-Les résultats sont ce qui compte dans la collaboration, de plus, obtenir des résultats améliore vraiment la collaboration. Par conséquent :
+Les résultats sont ce qui compte dans la collaboration, de plus, obtenir des résultats permet vraiment d'améliorer la collaboration. Par conséquent :
 
 * Get back from diversions
 * Clarify the way forward
 * Say something valuable
 * Get one result
 
-* Ne pas se laisser distraire
-* Clarifier la voie à suivre
-* Dire quelque chose ayant de la valeur
-* Obtenir un résultat
-
-### 4. Add Energy
+* Ne vous laissez pas distraire
+* Clarifiez la voie à suivre
+* Dites quelque chose ayant de la valeur
+* Obtenez un résultat
 
 ### 4. Ajouter de l'énergie
 
-Finally, the energy in the room matters to the inclination to collaborate. So:
+Finalement, l'énergie dans la pièce s'avère être importante pour être enclin à collborer. Par conséquent :
 
-Finalement, l'énergie dans la pièce s'avère être important pour être enclin à collborer. Par conséquent :
+* Maintez votre niveau d'énergie élevé
+* Contribuez
+* Mettez à l'épreuve (pour augmenter le niveau d'énergie)
 
-* Keep your own energy high
-* Contribute
-* Challenge (to raise the energy)
+Dans les dix ans qui ont suivis la publication de cet article sur la collaboration. J'ai vu à quel point ces actions sont efficaces, à la fois pour élever et abaisser l'inclinaison au sein d'un groupe à collaborer. Toute personne dans le groupe faisant ces actions aide les personnes à rentrer dans un état de collaboration, et inversement, lorsque quelqu'un dans le groupe fait l'inverse de ces actions, nous pouvons voir immédiatement que les personnes dans le groupe se mettent en retrait par rapport à la collaboration.
 
-* Garder votre propre niveau d'énergie élevé
-* Contribuer
-* Mettre à l'épreuve (pour élever l'énergie)
+Si nous sommes intéressés par le fait d'améliorer les personnes à faire un pas en avant et à faire preuve d'initiative, alors très clairement, ce sont les premières choses dont nous devons nous occuper.
 
-In the ten years since the publication of the article on collaboration, I have seen how effective these actions are, both for raising and lowering (!) the inclination within a group to collaborate. Anyone in the group doing these actions helps get people into a state to collaborate, and conversely, when anyone in the group does the opposite of these actions, we can immediately see the people in the group retreat from collaboration.
+Ces choses en mains, que pouvons-nous apprendre d'autre pour faire en sorte que les invités se comportent comme des _leaders_ ?
 
-Dans les dix ans qui ont suivis la publication de cet article sur la collaboration. J'ai vu à quel point ces actions sont efficaces, à la fois pour élever et abaisser l'inclination au sein d'un groupe à collaborer. Toute personne dans le groupe faisant ces actions aide les personnes à rentrer dans un état de collaboration, et inversement, lorsque quelqu'un dans le groupe fait l'inverse de ces actions, nous pouvons voir immédiatement que les personnes dans le groupe se mettent en retrait de la collaboration.
-
-If we are interested in enhancing people’s to step forward and lead, then clearly all of these are the first things to take care of.
-
-Si nous sommes intéressés pour améliorer les personnes à faire un pas en avant et faire preuve d'initiative, alors de manière tout à fait claire, ce sont les premières choses dont nous devons nous occuper.
-
-Having those in hand, what else can we learn about getting guests to act as leaders?
-
-Ces choses en mains, que pouvons-nous apprendre d'autre pour faire en sorte que les invités se comportent comme des leaders ?
+### RELECTURE
 
 ## The Guest Leadership Workshops
 
