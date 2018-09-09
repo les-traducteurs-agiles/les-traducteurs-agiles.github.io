@@ -79,7 +79,7 @@ Tout le monde a été _Leader_ 0 au moins une fois, même les personnes qui jure
 
 ### Leader 3: Guest as leader
 
-### Leader 3 : les invités en tant que _leader_
+### Leader 3 : les invités en tant que _leaders_
 
 Le Leader 3 est le _guest leader_, le sujet de cet article. Cette personne n'est pas un _leader_ qui a été nommé ou qui est reconnu en tant que tel. Dans une fête, il ne s'agit pas de l'hôte ou du remplaçant de l'hôte. Dans un environnement professionnel, il ne s'agit pas du patron ou du manageur. Voici les choses que fait un _guest leader_ :
 
@@ -264,7 +264,7 @@ La “marche de l'esquive” est un jeu qui m'a été présenté par Diego Fontd
 
 Pour les choses que tout le monde peut faire, les meilleures suggestions ont été :
 
-* Demandez à des amis et à des collègues de confiance de donner l'exemple pour montrer comment passer du pas en avant au _guest leadership_, et ainsi de donner le **la** à la communauté.
+* Demandez à des amis et à des collègues de confiance de donner l'exemple pour montrer comment passer du pas en avant au _guest leadership_, et ainsi de donner le ton à la communauté.
 * Commencez à raconter des anecdotes positives lorsque vous voyez cela se produire, n'importe où, mais tout spécialement dans votre communauté.
 * Discuter ensemble, peut être lors d'ateliers de réflexions ou de rétrospectives, quelles ont été les bonnes opportunités pour du _guest leadership_ dans un passé récent.
 * Pour les patrons et les hôtes :
@@ -323,7 +323,7 @@ L'un des mes étudiants nous a raconté ces histoires, après une journée pass�
 1.McKergow, M., Bailey, H., Host, Solutions Books, 2014.
 2.http://alistair.cockburn.us/collaboration+cards
 
-[^1]: guest(s)
+[^1]: NdT - le terme original est guest(s) - en français sa traduction peut varier selon le contexte
 
 ---
 Auteur : [Alistair Cockburn](http://alistair.cockburn.us/)  
@@ -332,7 +332,7 @@ Date de parution originale : 01 Janvier 2017
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 02/09/2018  nbsp
+Date de traduction : 09/09/2018  
 
 ---
 
