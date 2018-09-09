@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Guest Leadership - les invités au pouvoir"
-date:   2018-06-28 00:01
+date:   2018-09-09 00:01
 published: true
 tags:
-- tag1
-- tag2
+- coaching
+- agile
+- guest leadership
 ---
 
 ---
