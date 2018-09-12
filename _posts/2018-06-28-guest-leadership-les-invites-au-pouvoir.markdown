@@ -17,7 +17,7 @@ tags:
 
 Généralement, nous pensons au concept de _leader_ en termes très généraux : Nelson Mandela, Martin Luther King, Steve Jobs, etc. Toutefois, chaque jour se produisent de petits actes de _leadership_, qui par là-même forme le ciment de la société civile. Aider une personne trop petite à hisser son bagage dans le compartiment à bagages au-dessus des sièges, organiser des nettoyages de quartier ou démarrer des pétitions pour changer de gouvernement font partie de ce type d'actes.
 
-Ces actes sont des moments de "_guest leadership"
+Ces actes sont des moments de "_guest leadership_"
 
 > **Le _guest leadership_ lors d'un tournage**
 >  
@@ -155,9 +155,9 @@ Les résultats sont ce qui compte dans la collaboration, de plus, obtenir des r�
 
 ### 4. Ajouter de l'énergie
 
-Finalement, l'énergie dans la pièce s'avère être importante pour être enclin à collborer. Par conséquent :
+Finalement, l'énergie dans la pièce s'avère être importante pour être enclin à collaborer. Par conséquent :
 
-* Maintez votre niveau d'énergie élevé
+* Maintenez votre niveau d'énergie élevé
 * Contribuez
 * Mettez à l'épreuve (pour augmenter le niveau d'énergie)
 
@@ -321,7 +321,7 @@ L'un des mes étudiants nous a raconté ces histoires, après une journée pass�
 
 ## Quelques ouvrages pour continuer à approfondir le sujet
 
-1.McKergow, M., Bailey, H., Host, Solutions Books, 2014.
+1.McKergow, M., Bailey, H., Host, Solutions Books, 2014.  
 2.http://alistair.cockburn.us/collaboration+cards
 
 [^1]: NdT - le terme original est guest(s) - en français sa traduction peut varier selon le contexte
