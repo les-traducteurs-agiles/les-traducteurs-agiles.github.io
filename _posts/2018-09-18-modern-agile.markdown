@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Modern Agile"
-date:   2018-09-18 00:01
+date:   2018-09-19 00:01
 published: true
 tags:
 - agile
