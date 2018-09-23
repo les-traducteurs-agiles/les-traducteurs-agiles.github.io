@@ -67,6 +67,8 @@ Je remarque ici une différences entre ces deux noms, et c'est une différence q
 
 De ces huit items, je veux mettre en avant "Faire de la sécurité un pré-requis", car je pense qu'il est de loin la chose nouvelle la plus importante dans l'esprit Agile, et je suis reconnaissant à Joshua et à ses amis pour cela. Si une organisation veut devenir plus efficace dans son utilisation des approches Agiles, les gens doivent se sentir _safe_ [^8], en sécurité. (Pas SAFe au fait. Simplement _safe_)
 
+![SAFe vs safe]({{ site.url }}assets/ron_jeffries/safe.jpeg)
+
 Mais je m'égare … où en étions-nous ? Oh l'esprit …
 
 Il y aurait encore beaucoup à dire à propos de l'"esprit", pour arriver à la notion de "Rythme Soutenable" d'XP.  Il y aurait beaucoup à dire à propos de la collaboration, sur comment nous passons en revue l'avancement et le processus dans un environnement sûr, et ainsi de suite. Peut-être en temps et en heure, si je me décide à définir un cadre de travail [^9], j'en dirai sans doute plus sur "l'Esprit Agile". J'aurai sans doute beaucoup plus de choses à dire que je ne le ferai. Pour l'instant, ce sera tout sur "l'Esprit"
