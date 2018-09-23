@@ -4,8 +4,9 @@ title:  "Un nouveau cadre de travail ? XP revisité ? Non ..."
 date:   2018-09-20 00:01
 published: true
 tags:
-- tag1
-- tag2
+- nouveau cadre de travail de développement logiciel
+- agile
+- xp
 ---
 
 Je ne vais pas vraiment "Revisiter XP", et je ne vais pas vraiment définir un nouveau cadre de travail, néanmoins j'ai réfléchi sur ce que je crois et sur ce que je ressent à propos d'Agile, XP, Scrum et tutti quanti. L'une des choses que j'ai faite a été de poster ce dessin, réalisé au BAR [^1] dimanche :
@@ -86,21 +87,21 @@ Pour aujourd'hui, c'est les Personnes, le Produit, le Temps et l'Esprit. Demain,
 
 [^1]: BAR : Brighton Agile Roundtable - NdT
 
-[^2]: NdT: ou TDD (pour Test-Driven Development) si vous préférez le terme anglo-saxon
+[^2]: ou TDD (pour Test-Driven Development) si vous préférez le terme anglo-saxon - NdT
 
-[^3]: NdT: en français dans le texte original
+[^3]: en français dans le texte original - NdT
 
 [^4]: Ce "quelqu'un" est probablement Ray Cummings dans le magasine Argosy en 1921. La citation a également été attribuée à Einstein, Feynman, Wheeler et même à Woody Allen.
 
-[^5]: NdT : Time box si vous préférez le terme anglo-saxon
+[^5]: _Time box_ si vous préférez le terme anglo-saxon - NdT
 
 [^6]: Avant, ça s'appelait "style". Je pense que je préfère "esprit".  
 
 [^7]: Au sujet d'Agile - NdT
 
-[^7]: En plus du terme traduit _en sécurité_, le terme original a été laissé sinon le jeu de mot avec SAFe (Scaled Agile Framework) n'aurait pas été compréhensible - NdT
+[^8]: En plus du terme traduit _en sécurité_, le terme original a été laissé sinon le jeu de mot avec SAFe (Scaled Agile Framework) n'aurait pas été compréhensible - NdT
 
-[^8]: Je ne le ferais pas. Du moins probablement.
+[^9]: Je ne le ferais pas. Du moins probablement.
 
 ---
 Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)  
