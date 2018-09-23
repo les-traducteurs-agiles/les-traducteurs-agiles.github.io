@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Un nouveau cadre de travail ? XP revisité ? Non ..."
-date:   2018-09-20 00:01
+date:   2018-09-23 00:01
 published: true
 tags:
 - nouveau cadre de travail de développement logiciel
