@@ -196,7 +196,7 @@ Les meilleures équipes combinent ces trois éléments en **intégration continu
 
 Il y a un effet secondaire à traiter la **sécurité personnelle**, la capacité à être amicale dans une équipe, et la **facilité d'accès aux utilisateurs experts** : il devient naturel également d'inclure d'autres parties prenantes dans les projets.
 
-Géry Derbien, qui a travaillé avec les services de La Poste pour élaborer un logiciel pour piloter une nouvelle infrastructure traitant tous les courriers entrant et sortant du nord de la France, a rapporté avoir utilisé Crystal. Avec 25 personnes, son projet rentrait dans la catégorie Crystal Jaune. Toutefois, les principes de la famille des méthodologies Crystal lui étaient connus, tout particulièrement le principe "étirer pour adapter", et par conséquent, lorsque cela était possible il a choisi d'étendre Crystal Clear à son contexte qui était plus important.  
+Géry Derbier, qui a travaillé avec les services de La Poste pour élaborer un logiciel pour piloter une nouvelle infrastructure traitant tous les courriers entrant et sortant du nord de la France, a rapporté avoir utilisé Crystal. Avec 25 personnes, son projet rentrait dans la catégorie Crystal Jaune. Toutefois, les principes de la famille des méthodologies Crystal lui étaient connus, tout particulièrement le principe "étirer pour adapter", et par conséquent, lorsque cela était possible il a choisi d'étendre Crystal Clear à son contexte qui était plus important.  
 
 > Nous avons discuté de son projet, et à un moment donné nous avons abordé le point des relations entre l'équipe de test d'intégration située à 30 km de là, le métier et l'ergonome travaillant pour La Poste. J'ai posé des questions du style : "À quelle fréquence cette personne rendait-elle visite à l'équipe ? Comment ressentait-elle cette situation ? Que ressentait son responsable à de ses allées-venues si fréquente ?" La réponse de Géry pour les deux groupes externes a été : "Un jour par semaine ; confortable ; content d'avoir été impliqué si tôt."
 
@@ -232,7 +232,7 @@ L'**accès facile aux utilisateurs experts** leur donne l'opportunité de décou
 
 La **livraison fréquente** créé du _feedback_ sur les exigences du système et sur le processus de développement.
 
-L'environnement de développement technique incluant **test automatisé, gestion de configuration @ intégration fréquente** permet aux personnes de faire des changements dans le système en toute sécurité, de synchroniser de multiples esprits  qui sont en mouvement en même temps, et d'obtenir rapidement du _feedback_ sur les étapes intermédiaires du système. L'**attention** permet à l'équipe de donner toute son énergie dans le bon sens sur les choses les plus importantes.
+L'environnement de développement technique incluant **test automatisé, gestion de configuration & intégration fréquente** permet aux personnes de faire des changements dans le système en toute sécurité, de synchroniser de multiples esprits  qui sont en mouvement en même temps, et d'obtenir rapidement du _feedback_ sur les étapes intermédiaires du système. L'**attention** permet à l'équipe de donner toute son énergie dans le bon sens sur les choses les plus importantes.
 
 Un jour, Ron Jeffries a défini Crystal comme suit : "Rassemblez quelques développeurs dans la paix, l'amour et l'harmonie livrant du code un mois sur deux, et un bon logiciel en émergera." Il est proche de la vérité.
 
