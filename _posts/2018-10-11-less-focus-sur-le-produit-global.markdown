@@ -17,16 +17,16 @@ Dans beaucoup de groupes de développement de produit ayant une grande taille, f
 
 Restez toujours focalisé sur le produit dans sa globalité, rappelez à tout le monde que des parties séparées de l'ensemble ou des parties à moitié terminées n'ont aucune valeur.
 
-Ce principe suggère l'application d'une [Approche systémique](https://less.works/less/principles/systems-thinking.html).
+Ce principe suggère l'application d'une [Approche systémique (en)](https://less.works/less/principles/systems-thinking.html).
 
 
 ---
-Auteur : [The LeSS Company B.V.]  
+Auteur : The LeSS Company B.V.  
 Source : [Whole Product Focus - Large Scale Scrum (LeSS)](https://less.works/less/principles/whole-product-focus.html)  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relecteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)
+Relecteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
 Date de traduction : 11/10/2018  
 
 ---
