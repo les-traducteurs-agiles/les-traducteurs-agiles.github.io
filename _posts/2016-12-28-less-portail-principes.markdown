@@ -22,7 +22,7 @@ tags:
 * [Transparence (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
 * [Amélioration continue vers la perfection](http://less.works/less/principles/continuous-improvement-towards-perfection.html)
 * [Centré client](http://less.works/less/principles/customer_centric.html)
-* [Focus sur le produit global](http://less.works/less/principles/whole-product-focus.html)
+* [Focus sur le produit global (fr)](http://www.les-traducteurs-agiles.org/2018/10/11/less-focus-sur-le-produit-global.html)
 * [Théorie des files d'attente (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
 
 
