@@ -15,13 +15,13 @@ tags:
 
 * [Présentation des principes (fr)](http://www.les-traducteurs-agiles.org/2017/11/01/less-presentation-des-principes.html)
 * [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html)
-* [Plus avec LeSS](http://less.works/less/principles/more-with-less.html)
+* [Plus avec LeSS (fr)](http://www.les-traducteurs-agiles.org/2018/10/19/less-plus-avec-less.html)
 * [Pensée Lean](http://less.works/less/principles/lean-thinking.html)
 * [Approche systémique](http://less.works/less/principles/systems_thinking.html)
 * [Contrôle du processus empirique (fr)](http://www.les-traducteurs-agiles.org/2016/12/24/less-controle-du-processus-empirique.html)
 * [Transparence (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
 * [Amélioration continue vers la perfection](http://less.works/less/principles/continuous-improvement-towards-perfection.html)
-* [Centré client](http://less.works/less/principles/customer_centric.html)
+* [Centré client (fr)](http://www.les-traducteurs-agiles.org/2018/10/17/less-centre-client.html)
 * [Focus sur le produit global (fr)](http://www.les-traducteurs-agiles.org/2018/10/11/less-focus-sur-le-produit-global.html)
 * [Théorie des files d'attente (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
 
