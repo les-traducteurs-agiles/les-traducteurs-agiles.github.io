@@ -7,6 +7,8 @@ tags:
 - less
 ---
 
+« [Portail LeSS](http://www.les-traducteurs-agiles.org/2016/12/26/portail-less.html) < [Portail Principes](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-principes.html)
+
 Les clients n'achètent pas une partie du produit mais le produit tout entier. Cela peut sembler évident mais il est important de le rappeler. Cela nous mène à énoncer deux ou trois principes directeurs :
 
 * Les parties du logiciel qui ne sont pas intégrées à l'ensemble du produit n'ont pas de valeur pour l'instant.
