@@ -254,7 +254,7 @@ Jusqu’à présent, nous n’avons pas encore vu l’ensemble des étapes mis e
 
 Le diagramme ci-dessous vous donne un exemple de système d’intégration continue comportant plusieurs étapes. Dans cet exemple, chaque composant a un système d’intégration continue exécutant des tests unitaires, de l’analyse statique ainsi que des indicateurs de couverture de code. Une compilation réussie promeut alors le composant et déclenche ensuite les systèmes d’intégration continue au niveau *feature* qui eux-mêmes exécutent des tests de plus haut niveau. Une compilation quotidienne exécute les tests systèmes comme par exemple des tests de performance.
 
-![Exemple à grande échelle d'intégration continue](xcontinuous-integration-scaled-system-example-fr.png)
+![Exemple à grande échelle d'intégration continue]({{ site.url }}assets/less/xcontinuous-integration-scaled-system-example-fr.png)
 
 Un système d’intégration continue peut effectivement inclure du management visuel - qui est l’un des principes lean. Lorsque la compilation plante, un signal visuel indique son échec - autrement dit un système *andon* (dans la terminologie Toyota). Ce signal n’est pas à l’attention des manageurs pour qu’ils punissent le développeur responsable de l’échec de la compilation ; il est pour les développeurs afin de voir l’état de la compilation. Que vont-ils faire de cette information ? Enquêter sur ce qui se passe ou sur ce qui retarde l’intégration à l’échec de la compilation. Si plus tard, le signal visuel indique que l’échec est toujours présent, des personnes supplémentaires pourront chercher pourquoi cela n’a pas été corrigé.
 
@@ -262,9 +262,9 @@ La lampe à lave est un outil visuel branché aux systèmes d’intégration con
 
 Après les lampes à lave, les gens ont commencé à brancher toutes sortes d’éléments pour visualiser le résultat de la compilation, comme des guirlandes lumineuses de Nöel, des sirènes, des squelettes animés qui crient lorsque la compilation est cassée. Même si cela est moins amusant, un simple moniteur avec une page web présentant un gros cercle de couleur rouge ou vert (un *écran rouge-vert*) est plus facilement reproductible. Les écrans rouge-vert sont en train de devenir la norme dans les systèmes d’intégration continue à grande échelle. Certaines versions incluent un signal jaune pour indiquer que “la compilation qui était plantée a été corrigée”. Un gros cercle de couleur tout simple - visible de loin - est un élément clé, mais l’affichage peut être enrichi de textes ou de diagrammes chiffrés, tel que la durée de compilation ou le taux de couverture de test. L’information n’a pas à se limiter aux informations de compilation \[Rogers08\].  
 
-![andon-skeleton.jpg]({{ site.url }}assets/less/xcontinuous-integration-andon-skeleton.jpg)  
+![Andon squelette]({{ site.url }}assets/less/xcontinuous-integration-andon-skeleton.jpg)  
 
-![andon-red-green.jpg]({{ site.url }}assets/less/xcontinuous-integration-andon-red-green.jpg)  
+![Andon rouge vert]({{ site.url }}assets/less/xcontinuous-integration-andon-red-green.jpg)  
 
 Voici un petit message d’avertissement de Jeffrey Liker à propos du management visuel [LH08](http://www.amazon.com/Toyota-Culture-Heart-Soul-Way/dp/0071492178):
 
