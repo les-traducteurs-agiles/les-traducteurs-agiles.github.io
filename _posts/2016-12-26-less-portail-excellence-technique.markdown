@@ -13,7 +13,7 @@ tags:
 ![Vue générale excellence technique]({{ site.url }}assets/less/technical-excellence-overview_fr.png)
 
 * [Spécifications par l'exemple (fr)](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html)
-* [Intégration Continue](http://less.works/less/technical-excellence/continuous-integration.html)
+* [Intégration Continue (fr)](http://www.les-traducteurs-agiles.org/2018/11/20/less-integration-continue.html)
 * [Livraison Continue](http://less.works/less/technical-excellence/continuous-integration.html)
 * [Tests d'Acceptation](http://less.works/less/technical-excellence/acceptance-testing.html)
 * [Architecture & Conception](http://less.works/less/technical-excellence/architecture-design.html)
