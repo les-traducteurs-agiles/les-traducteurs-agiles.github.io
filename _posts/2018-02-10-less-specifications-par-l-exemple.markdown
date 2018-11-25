@@ -236,7 +236,7 @@ Lors de la Planification du Sprint, une alternative possible est de définir les
 
 
 ---
-Auteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Auteur : The LeSS Company B.V.  
 Source : [Specification by Example - Large Scale Scrum (LeSS)](http://less.works/less/structure/teams.html)  
 
 ---
