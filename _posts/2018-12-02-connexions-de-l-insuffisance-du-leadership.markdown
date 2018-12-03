@@ -30,7 +30,7 @@ Dans une entreprise, nous devons atteindre les hautes sphères du comité de dir
 
 C'est cet effet que j'appelle Dark Agile™️ ou Dark Scrum™️. C'est pernicieux, et pour ainsi dire inévitable sans une attention particulière sur l'apprentissage de ce qu'est réellement Agile au niveau opérationnel
 
-![nuages orageux, dark agile]({{ site.url }}assets/ron_jeffries/connections-leadership-p5.jpg)
+![nuages orageux, dark agile]({{ site.url }}assets/ron_jeffries/dark-agile.jpg)
 
 La seule manière de transformer réellement une organisation est de transformer la manière dont le travail est fait, pas uniquement pour polir les poignées de portes de la salle du comité de direction, du comité exécutif et des bureaux de la direction.
 
