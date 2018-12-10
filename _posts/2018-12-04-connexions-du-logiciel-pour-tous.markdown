@@ -24,20 +24,18 @@ Il existe une autre manière ! Nous pouvons travailler en fines tranches, des pe
 
 ![De bas en haut, de bas en haut et en tranches]({{ site.url }}assets/ron_jeffries/connections-tb-4.jpg)
 
-This approach is iterative and incremental. The bits we give them are called Increments. They are central to our success.
-
-Cette approche est itérative et incrémentale. Les petits morceaux que nous leur donnons s'appellent des incréments. Ces incréments sont les éléments cruciaux de notre succès.
+Cette approche est itérative et incrémentale. Les petits morceaux que nous leur donnons s'appellent des Incréments. Ces incréments sont les éléments cruciaux de notre succès.
 
 C'est ça le développement agile de logiciels.
 
 ---
-Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)  
-Source : [Connections - Top to Bottom Software](https://ronjeffries.com/articles/018-01ff/top-bottom-twitter/)  
-Date de parution originale : 28 Novembre 2018  
+Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)
+Source : [Connections - Top to Bottom Software](https://ronjeffries.com/articles/018-01ff/top-bottom-twitter/)
+Date de parution originale : 28 Novembre 2018
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 09/12/2018  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
+Date de traduction : 09/12/2018
 
 ---
 
