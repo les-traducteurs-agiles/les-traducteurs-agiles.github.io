@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Connexions - de l'insuffisance du leadership"
+title:  "Connexions - De l'insuffisance du leadership"
 date:   2018-12-02 00:01
 published: true
 tags:
-- Dark Scrum
+- dark Scrum
 - agile
 ---
 
