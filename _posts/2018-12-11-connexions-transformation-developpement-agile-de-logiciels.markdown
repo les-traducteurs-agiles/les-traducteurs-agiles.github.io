@@ -62,9 +62,9 @@ La quasi totalité de ce site est dédié à ce sujet. Voici quelques liens sur 
 ## Catégories d'articles en relation
 
 * Dark-Scrum ([vo](https://ronjeffries.com/categories/dark-scrum), [vf](http://www.les-traducteurs-agiles.org/traductions_categories/#dark-scrum))
-* Practices ([vo](https://ronjeffries.com/categories/practices/), [vf](http://www.les-traducteurs-agiles.org/traductions_categories/#pratique))
+* Pratiques ([vo](https://ronjeffries.com/categories/practices/), [vf](http://www.les-traducteurs-agiles.org/traductions_categories/#pratique))
 * SAFe ([vo](https://ronjeffries.com/categories/safe/) uniquement)
-* New Framework ([vo](https://ronjeffries.com/categories/new_framework/), [vf](http://www.les-traducteurs-agiles.org/traductions_categories/#nouveau-cadre-de-travail-de-d%C3%A9veloppement-logiciel))
+* Nouveau cadre de travail de développement logiciel ([vo](https://ronjeffries.com/categories/new_framework/), [vf](http://www.les-traducteurs-agiles.org/traductions_categories/#nouveau-cadre-de-travail-de-d%C3%A9veloppement-logiciel))
 
 ---
 
