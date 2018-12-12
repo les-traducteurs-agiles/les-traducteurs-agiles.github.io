@@ -4,8 +4,8 @@ title:  "Connexions - Du logiciel pour tous"
 date:   2018-12-09 00:01
 published: true
 tags:
-- tag1
-- tag2
+- pratique
+- agile
 ---
 
 Le but du développement logiciel, à ce qu'il me semble, est de connecter les gens qui ont des problèmes avec les solutions à ces problèmes, en utilisant des logiciels.
