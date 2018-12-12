@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Connexions, 'Transformation', Développement agile de logiciels"
-date:   2018-12-11 00:01
-published: false
+date:   2018-12-12 00:01
+published: true
 tags:
-- tag1
-- tag2
+- agile
+- nouveau cadre de travail de développement logiciel
+- dark scrum
+- dark agile
 ---
 
 
@@ -53,44 +55,47 @@ But we digress.
 
 Meanwhile, the company at large will receive benefit. This will come, primarily, from shortening lines of communication, and in particular, from applying Lean principles to the production of product. They’ll limit WIP, working only on the most important things first. They’ll streamline the decision process, and so on.
 
-
+Dans cet intervalle, l'entreprise dans son ensemble en tirera profit. Cela viendra, tout d'abord, sous la forme de lignes de communications plus courtes, et en particulier en appliquant les principes Lean sur la production du produit. Ces principes vont limiter le TEC[^1], ce qui va permettre de travailler uniquement sur les choses les plus importantes d'abord. Ils vont rationnaliser le processus de décision et ainsi de suite.  
 
 These are all good things, even great things. Done with any diligence at all, the company will benefit, often profoundly. More work will be important, decisions will flow more smoothly. Good things happen.
 
-
+Il s'agit de bonnes choses, et même de grandes choses. Faites avec diligence, l'entreprise en bénéficiera, et souvent de manière radicale.
 
 The company is not, however, Agile. A company can’t be doing Real Agile™ until its development teams are doing Real Agile™.
 
+Néanmoins, l'entreprise ne sera pas Agile. Une entreprise ne peut faire de la Vraie Agilité™ tant que ses équipes de développement n'en font pas.
 
+And because the development teams are not trained in Agile, and therefore can’t do Agile, they will often come under more pressure than before, resulting in what I call [Dark Agile™](https://ronjeffries.com/categories/dark-scrum) and in the “Code Mines of Ohio”[^2].
 
-And because the development teams are not trained in Agile, and therefore can’t do Agile, they will often come under more pressure than before, resulting in what I call [Dark Agile™](https://ronjeffries.com/categories/dark-scrum) and in the “Code Mines of Ohio”[^1].
-
-
+Et parce que les équipes de développement ne sont pas formées à ce qu'est l'Agile ; elles ne peuvent pas par conséquent travailler en mode Agile, ce qui aura pour conséquence le plus souvent qu'elles seront soumises à davantage de pression qu'avant, c'est ce que j'appelle [Dark Agile™](https://ronjeffries.com/categories/dark-scrum) et être dans les “Mines de Code de l'Ohio”[^2]
 
 I’m not sure whether this is irony or tragedy. I’m never sure about irony. But whatever it is, I find it sad that under the flag of “Agile”, good ideas, often but not always borrowed from Lean, result in a bad situation for developers, and don’t even produce the benefits that Real Agile™ promises and can deliver.
 
-
+Toutefois, je ne suis pas sûr qu'il s'agisse d'ironie ou d'une tragédie. Je ne sais jamais trop lorsqu'on parle d'ironie. Mais quoi que cela puisse être, je trouve cela triste que sous la bannière d'“Agile”, que de bonnes idées, souvent mais pas toujours emprunté à Lean, se traduisent par mettre les développeurs dans une mauvaise posture, et ne produisent pas les bénéfices que la Vraie Agilité™ promet et peut vraiment donner.
 
 What can we do about this, Ron?
 
-<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Il y a toujours une date butoir</div>
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Que pouvons-faire à ce sujet, Ron ?</div>
 
 Some idiot once said “Bring me solutions, not problems.” He never heard about any problems, ever again, and I hope he went right down the tubes. More likely, he bailed in time and moved on to even bigger mistakes.
 
-
+Un idiot a dit un jour “Donnez-moi des solutions, pas des problèmes”. Il n'a plus jamais entendu parler des problèmes après coup, et j'espère qu'il est tombé par inadvertence dans des oubliettes. Plus probablement, il a dû se sauver à temps et commettre de plus grosses bêtises par la suite.
 
 Be that as it may, I don’t know any great solutions. My [Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/) article is a serious attempt to start answering the question. Developers need to recognize that the thing called “Agile” they are encountering is very likely not going to help them, but that they can thrive within it if they learn a bit about producing the Increment, and related topics.
 
-
+Quoi qu'il en soit, je ne connais aucunes bonnes solutions. Mon article [Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)(en vo - traduction à venir - NdT) est une véritable tentative pour répondre à la question. Les développeurs ont besoin de reconnaître cette chose appelée “Agile” qu'ils rencontrent, et qui très probablement ne les aidera pas, mais qu'ils peuvent néanmoins faire grandir de l'intérieur s'ils apprennent ne serait-ce qu'un chouia sur le sujet de produire un Incrément, et sur les sujets connexes.
 
 More is surely needed, much more. I don’t know what it is, or how to do it. Mostly all I can do today is cry out a warning.
 
-
+Il y a sûrement besoin de plus, beaucoup plus. Je ne sais pas de quoi il s'agit, ou comment le faire. Le maximum que je puisse faire aujourd'hui est de crier un avertissement.
 
 Most everything on this site is related to this topic. Here are some links to things you might want to look at.
 
+La quasi totalité de ce site est dédié à ce sujet. Voici quelques liens sur quelques petites choses auxquelles vous voudriez jeter un coup d'œil.
 
-[^1]: Unfortunately not at all limited to Ohio. ↩
+[^1]: TEC = travail en cours ou en anglais WIP = work in progress - NdT
+[^2]: Unfortunately not at all limited to Ohio.
+[^2]: Malheureusement, ce n'est pas limité uniquement à l'Ohio.
 
 ---
 Auteur : [Ron Jeffries](url_bio)  
@@ -98,8 +103,8 @@ Source : [Connections, 'Transformation', Agile Software Development](https://ron
 Date de parution originale : 27 Novembre 2018  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 12/12/2018  
 
 ---
 
