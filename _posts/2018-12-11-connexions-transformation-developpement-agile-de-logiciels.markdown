@@ -40,7 +40,7 @@ Et parce que les équipes de développement ne sont pas formées à ce qu'est l'
 
 Toutefois, je ne suis pas sûr que cela soit de l'ironie ou de la tragédie. Je ne sais jamais trop lorsqu'on parle d'ironie. Mais quoi que cela puisse être, je trouve cela triste que sous la bannière d'“Agile”, que de bonnes idées, souvent mais pas toujours emprunté à Lean, se traduisent par mettre les développeurs dans une mauvaise posture, et ne produisent pas les bénéfices que la Vraie Agilité™ promet et peut donner.
 
-<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Que pouvons-nous faire à ce sujet, Ron ?</div>
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Qu'est-ce que nous pouvons faire à ce sujet, Ron ?</div>
 
 Un jour, un idiot a dit “Donnez-moi des solutions, pas des problèmes”. Il n'a plus jamais entendu parler des problèmes après coup, et j'espère qu'il est tombé par inadvertence dans des oubliettes. Plus probablement, il a dû se sauver à temps et commettre d'encore plus grosses bêtises par la suite.
 
