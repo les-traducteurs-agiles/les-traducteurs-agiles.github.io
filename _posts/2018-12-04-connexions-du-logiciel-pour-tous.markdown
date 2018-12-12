@@ -29,13 +29,13 @@ Cette approche est itérative et incrémentale. Les petits morceaux que nous leu
 C'est ça le développement agile de logiciels.
 
 ---
-Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)
-Source : [Connections - Top to Bottom Software](https://ronjeffries.com/articles/018-01ff/top-bottom-twitter/)
-Date de parution originale : 28 Novembre 2018
+Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)  
+Source : [Connections - Top to Bottom Software](https://ronjeffries.com/articles/018-01ff/top-bottom-twitter/)  
+Date de parution originale : 28 Novembre 2018  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 09/12/2018
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 09/12/2018  
 
 ---
 
