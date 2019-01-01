@@ -57,7 +57,7 @@ Date de parution originale : 17 Juillet 2018
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 01/01/2018  
+Date de traduction : 01/01/2019  
 
 ---
 
