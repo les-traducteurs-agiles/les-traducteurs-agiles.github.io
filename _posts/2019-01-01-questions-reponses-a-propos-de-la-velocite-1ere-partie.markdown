@@ -21,14 +21,14 @@ Il suffit de savoir que vous allez me retrouver (à différentes étapes de mon 
 
 Voici dont la 1ère partie annotée
 
-> A: À combien d'heures correspondent un point de story ?  
-> B: Combien de points de story avez-vous réalisé lors de votre dernier sprint ?  
-> A: 23  
-> B: Alors pour vous, cela correspond à 1/23ème de sprint  
-> A: Mais la fois d'avant cela avait été 19  
-> B: À ce moment là cela correspondait à 1/19ème de sprint.  
-> A: Mais à combien de temps cela correspond-il ?  
-> B: C'est ce que nous venons juste de déterminer.  
+> A : À combien d'heures correspondent un point de story ?  
+> B : Combien de points de story avez-vous réalisé lors de votre dernier sprint ?  
+> A : 23  
+> B : Alors pour vous, cela correspond à 1/23ème de sprint  
+> A : Mais la fois d'avant cela avait été 19  
+> B : À ce moment là cela correspondait à 1/19ème de sprint.  
+> A : Mais à combien de temps cela correspond-il ?  
+> B : C'est ce que nous venons juste de déterminer.  
 
 Cela fût très tôt une découverte capitale pour moi. Je n'avais pas réalisé jusqu'alors que la quantité de travail réalisée est à peu près la même chaque semaine. Les points de story correspondent à une estimation grossière de la taille du travail, et non une évaluation.
 
