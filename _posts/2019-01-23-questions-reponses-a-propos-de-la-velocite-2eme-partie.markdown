@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Questions/Réponses à propos de la vélocité 2ème partie"
-date:   2019-01-23 00:01
+date:   2019-01-29 00:01
 published: true
 tags:
 - vélocité
@@ -47,8 +47,6 @@ Si la fraction est égale à 1, alors vous êtes efficient dans votre boulot. Ma
 … attendez une seconde. Ce n'est pas vrai.
 
 L'autre alternative est de réduire la quantité d'effort exigée par le travail à faire, ce qui nous permet alors de le faire plus facilement.
-
-Increasing effort doesn't scale, and doesn't sustain. It is a great way to lose people.
 
 Faire plus d'effort à grande échelle ne fonctionne pas, et n'est pas soutenable. Par contre, c'est une super manière de perdre des gens.
 
