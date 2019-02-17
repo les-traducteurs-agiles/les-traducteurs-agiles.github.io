@@ -74,7 +74,7 @@ tags:
 * [Portail Excellence Technique (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-excellence-technique.html) - 36%
   * [Spécifications par l'exemple (fr)](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html)
   * [Intégration Continue (fr)](http://www.les-traducteurs-agiles.org/2018/11/20/less-integration-continue.html)
-  * [Livraison Continue](http://less.works/less/technical-excellence/continuous-integration.html)
+  * [Livraison Continue](https://less.works/less/technical-excellence/continuous-delivery.html)
   * [Tests d'Acceptation (fr)](http://www.les-traducteurs-agiles.org/2019/01/09/less-tests-d-acceptation.html)
   * [Architecture & Conception](http://less.works/less/technical-excellence/architecture-design.html)
   * [Ecrire du Code Propre](http://less.works/less/technical-excellence/clean-code.html)
