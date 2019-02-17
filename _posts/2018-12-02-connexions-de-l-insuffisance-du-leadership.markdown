@@ -4,7 +4,7 @@ title:  "Connexions - De l'insuffisance du leadership"
 date:   2018-12-02 00:01
 published: true
 tags:
-- dark Scrum
+- dark scrum
 - agile
 ---
 
