@@ -4,7 +4,7 @@ title:  "Le Cœur d'agile - présentation à l'université de Copenhague, Danema
 date:   2019-02-19 00:01
 published: true
 tags:
-- cœur d'agile
+- cœur d’agile
 ---
 
 Présentation donnée par Alistair Cockburn à l'université de Copenhague au Danemark le 23 octobre 2018 à télécharger et à lire au format PDF à partir de ce [lien]({{ site.url }}assets/alistair_cockburn/2018.10.23-DK-fr.pdf) ou en cliquant directement sur l’image.
