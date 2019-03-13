@@ -7,9 +7,9 @@ tags:
 - cœur d’agile
 ---
 
-À télécharger à partir de ce [lien]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr.pdf) ou en cliquant directement sur l’image.  
+À télécharger à partir de ce [lien]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr-.pdf) ou en cliquant directement sur l’image.  
 
-[![cœur d'agile lego]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr.png)]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr.pdf)
+[![cœur d'agile lego]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr.png)]({{ site.url }}assets/alistair_cockburn/HoA-poster-LEGO-pieces-fr-.pdf)
 
 
 
