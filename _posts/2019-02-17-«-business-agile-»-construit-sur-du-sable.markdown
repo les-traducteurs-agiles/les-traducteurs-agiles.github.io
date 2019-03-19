@@ -8,9 +8,9 @@ tags:
 - agile
 ---
 
-> Vous les rencontrerez là où ils sont
-> Vous travaillerez là où ils travaillent
-> Et quand vous partirez, ils SERONT encore là
+> Vous les rencontrerez là où ils sont.  
+> Vous travaillerez là où ils travaillent.  
+> Et quand vous partirez, ils SERONT encore là.
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Le côté droit est le mauvais côté</div>
 
@@ -28,7 +28,7 @@ Même s'il est exact que les approches Agile peuvent tout à fait être utilisé
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Le développement Agile de logiciels c'est différent.</div>
 
-Le développement Agile de logiciels est différent de ce que les développeurs connaissent habituellement. Pour être efficace dans le développement Agile de logiciels, les développeurs et les équipes doivent apprendre et pratiquer certaines compétences de développement. Ces compétences ne sont généralement pas enseignées dans les écoles, et la plupart des développeurs n'y sont pas confrontés dans le développement ordinaire de logiciels. Même s'il existe des formations sur le développement Agile de logiciels, les formateurs qualifiés sont relativement peu nombreux.
+Le développement Agile de logiciels est différent de ce que les développeurs[^4] connaissent habituellement. Pour être efficace dans le développement Agile de logiciels, les développeurs et les équipes doivent apprendre et pratiquer certaines compétences de développement. Ces compétences ne sont généralement pas enseignées dans les écoles, et la plupart des développeurs n'y sont pas confrontés dans le développement ordinaire de logiciels. Même s'il existe des formations sur le développement Agile de logiciels, les formateurs qualifiés sont relativement peu nombreux.
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Une formation c'est coûteux en temps et en argent.</div>
 
@@ -76,9 +76,7 @@ Tout en essayant d'orienter les gens vers un apprentissage tout au long de la vi
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Malheureusement, vendre de l'Agile même de piètre qualité est quelque chose de très lucratif.</div>
 
-Scrum and Agile training and coaching are big business. There has been a trend toward consolidation in the first and second tier Agile companies, and as those become larger, the quality of their offerings does not always improve. In part this is simply due to the lack of people who have actually experienced Agile ideas at their pinnacle. If all you’ve seen is “pretty good Agile”, you’re not likely to take people to really awesome Agile. And now, we’re seeing big consulting firms “merging”[^6] with those consolidated firms. This may spread a little bit of Agile Jam into the consulting company, but it’ll be getting thinner and thinner. We need stronger Agile Jam, not weaker.
-
-La formation et l'accompagnement de Scrum et Agile sont de gros business. Il y a eu une certaine tendance dans les entreprises Agile les plus importantes, et au fur et à mesure qu'elles deviennent plus grosses, la qualité de leur offre ne va pas toujours en s'améliorant. C'est simplement dû en partie au manque de personnes ayant réellement expérimenté les idées agiles jusqu'au bout. Si tout ce que vous avez vu est du « plutôt bon Agile », il est peu probable que vous allez prendre des personnes pour faire vraiment de l'Agile impressionnant. Et aujourd'hui, nous voyons des grosses entreprises de consultants « fusionner » avec ces entreprises consolidées. Cela peut faire se propager le gloubiboulga Agile dans les entreprises de consultants, mais cela ne fera que rendre Agile de plus en ténu. Nous avons besoin d'un gloubiboulga Agile plus fort, pas plus faible.
+La formation et l'accompagnement de Scrum et Agile sont de gros business. Il y a eu une certaine tendance dans les entreprises Agile les plus importantes, et au fur et à mesure qu'elles deviennent plus grosses, la qualité de leur offre ne va pas toujours en s'améliorant. C'est simplement dû en partie au manque de personnes ayant réellement expérimenté les idées agiles jusqu'au bout. Si tout ce que vous avez vu est du « plutôt bon Agile », il est peu probable que vous allez prendre des personnes pour faire vraiment de l'Agile impressionnant. Et aujourd'hui, nous voyons des grosses entreprises de consultants « fusionner »[^6] avec ces entreprises consolidées. Cela peut faire se propager le gloubiboulga Agile dans les entreprises de consultants, mais cela ne fera que rendre Agile de plus en ténu. Nous avons besoin d'un gloubiboulga Agile plus fort, pas plus faible.
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Vous les rencontrerez là où ils sont. Vous travaillerez là où ils sont. Et quand vous partirez, ils seront toujours là où ils sont.</div>
 
