@@ -60,8 +60,6 @@ Une équipe intelligente trouvera -- à travers les retours d'informations -- qu
 Si nous avons besoin de moins, nous pouvons livrer plus tôt.
 Si nous pouvons correctement prioriser, nous pouvons sacrifier des choses ayant peu de valeur.
 
-_Feedback from customers_ improves our prioritization and our ability to descope intelligently but requires us to release code to them early and often.
-
 _Les retours d'informations des clients_ améliorent notre priorisation et notre capacité à sortir des éléments du périmètre intelligemment mais cela nous demande de leur livrer du code le plus tôt et le plus souvent possible.
 
 Si les développeurs sont poussés à livrer des solutions brutes, bâclées alors cela augmente le coût des modifications en raison de difficultés plus grandes pour rechercher les modifications et à repérer les problèmes.
