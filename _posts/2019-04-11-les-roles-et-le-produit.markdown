@@ -8,63 +8,33 @@ tags:
 
 ---
 
-We have many words for people who shepherd the business value of a product. The many words aren't a problem, as long as we can all agree on what these various people are and they take responsibility for. When we don't agree, we run the risk of not managing our strategy, not thinking in terms of problems, and not managing our tactics. Here's how I think of the various agile product roles: product managers, product owners, and business analysts.
-
-Il existe plusieurs termes que nous utilisons pour désigner les personnes qui s'occupent de la valeur métier d'un produit. L'existence de tout ces mots n'est pas un problème, aussi longtemps que nous mettons tous d'accord sur ce que sont ces différentes personnes et qu'elles prennent la responsabilité qui va avec. Si nous ne sommes pas d'accord, nous courrons le risque de ne pas être en mesure de maîtriser notre stratégie, de ne pas penser en terme de problèmes, et de ne pas être en mesure de maîtriser nos tactiques. Voici comment j'envisage les différents rôles agiles en lien avec le produit : product managers, product owners, et business analysts[^1].
-
-## Product Managers Manage the Product's Strategy
+Il existe plusieurs termes que nous utilisons pour désigner les personnes qui s'occupent de la valeur métier d'un produit. L'existence de tout ces mots n'est pas un problème, aussi longtemps que nous nous mettons tous d'accord sur ce que sont ces différentes personnes et qu'elles prennent la responsabilité qui va avec. Si nous ne sommes pas d'accord, nous courrons le risque de ne pas être en mesure de maîtriser notre stratégie, de ne pas penser en terme de problèmes, et de ne pas être en mesure de maîtriser nos tactiques. Voici comment j'envisage les différents rôles agiles en lien avec le produit : product managers, product owners, et business analysts[^1].
 
 ## Le Product Managers gère la stratégie du produit
 
-Someone (and I do mean one person) champions the product to the customers, to the people who make the strategic decisions for the company, and to the people inside the organization.
-
 Il s'agit de quelqu'un (et par là je veux dire une seule personne) qui défend la cause du produit auprès des clients, auprès des personnes qui prennent les décisions stratégiques de l'entreprise, et auprès des personnes de l'organisation.
 
-That person might work with customers to understand the various problems the customer has. That person might then work with other people in the organization to define the problems the organization wants to solve for those people.
+Cette personne pourrait travailler avec les clients pour comprendre les différents problèmes que le client rencontre. Cette personne pourrait alors travailler avec d'autres personnes dans l'organisation pour définir les problèmes que l'organisation veut résoudre pour ces gens.
 
-Cette personne pourrait travailler avec les clients pour comprendre les différents problèms que le client rencontre. Cette personne pourrait alors travailler avec d'autres personnes dans l'organisation pour définir les problèmes que l'organisation veut résoudre pour ces gens.
+Le _product champion_/_product manager_ travaille aussi avec les gens qui font les décisions stratégiques pour l'organisation. Ce groupe de personnes peut porter différents noms :
 
-The product champion/product manager also works with the people who make strategic decisions for the organization. That group of people might have several names:
-
-Le _product champion_/_product manager_ travaille aussi avec les gens qui font les décisions stratégiques pour l'organisation. Ce groupe de personnes pourrait porter plusieurs noms :
-
-* Operations committee/group/team
-* Project portfolio team
-* PMO (Project Management Office)
-
-* Le comité/groupe/équipe opérationnel
+* Le comité/groupe/équipe opérationnel(le)
 * L'équipe en charge du portefeuille projet
 * Le _PMO_ (_Project Management Office_)
 
-Whatever their name, these people take the organization's strategy and decide which mix of products and services the company will offer to fulfill its strategy. (I wrote about my approach to strategy in [Manage Your Project Portfolio](https://www.jrothman.com/books/manage-your-project-portfolio-increase-your-capacity-and-finish-more-projects/).)
-
 Quel que soit leur nom, ces gens ont en charge la stratégie de l'organisation et décide de quelle variété de produits et de services l'entreprise va offrir pour remplir sa stratégie. (J'ai déjà écrit à propos de la stratégie dans [Manage Your Project Portfolio](https://www.jrothman.com/books/manage-your-project-portfolio-increase-your-capacity-and-finish-more-projects/).)
 
-You might call this person a product champion, product manager, or something else that denotes the strategic part of this person's role.
-
-Vous pourriez désigner cette personne sous le terme de _product champion_, _product manager_, ou sous un autre terme qui démontre la partie stratégique du rôle de cette personne.
-
-(I do not like “Chief Product Owner” because I don't like “[Chief](https://www.jrothman.com/mpd/agile/2010/10/agile-program-titles/)” anything in an agile approach. And, the words “Chief Product Owner” don't describe the strategic nature of the position.)
+Vous pourriez désigner cette personne sous le terme de _product champion_, _product manager_, ou sous un autre terme qui montre cet aspect stratégique du rôle de cette personne.
 
 (Je n'apprécie guère le terme de « _Chief Product Owner_» parce ce que je n'apprécie pas le terme « [Chef](https://www.jrothman.com/mpd/agile/2010/10/agile-program-titles/) ») dans une approche agile. Et l'expression « _Chief Product Owner_» ne décrit en rien la nature stratégique du poste.
 
-A product champion spends much of their time with customers, with salespeople (to see potential problems to solve), and with the senior managers who define the organization's strategy.
+Un _product champion_ passe la plupart de leur temps avec les clients, avec les commerciaux (pour voir les problèmes potentiels à résoudre), et avec les équipes de direction pour définir la stratégie de l'organisation.
 
-Un _product champion_ passe la plupart de leur temps avec les clients, avec les commerciaux (pour voir les problèmes potentiels à résoudre), et avec les équipes de directions pour définir la stratégie de l'organisation.
+Remarque : la planification stratégique ne peut pas être évoquée qu'une fois par an. Elle doit être continue et itérative. Je suppose que cela devra faire l'objet d'un autre article à part entière.
 
-Note: strategic planning cannot occur once a year. It needs to be ongoing and iterative. Guess that's another blog post.
+Je pense au _product manager_/_product champion_ comme la personne qui définit le « problème dans sa globalité ». C'est une des raisons pour lesquelles cette personne apprécie avoir des feuilles de route à grosse mailles. Ces feuilles de route aident les gens à se projeter dans le futur du produit et dans l'aspect stratégique.
 
-Remarque : la planification stratégique ne peut pas se dérouler une fois par an. Elle doit être continue et itérative. Je suppose que cela fera l'objet d'un autre article à part entière.
-
-I think of the product manager/product champion as defining the “problem in the large.” That's one of the reasons they love their big picture roadmaps. Those roadmaps help people peer into the future of the product and strategy.
-
-Je pense que le _product manager_/_product champion_ comme la personne qui défint le « problème dans sa globalité ». C'est une des raisons pour lesquels elles aiment des feuilles de route à grosse mailles. Ces feuilles de route aident les gens à se projeter dans le futur du produit et dans la stratégie.
-
-And, the product champion needs to work with the people who actually work with teams, the product owners. When they do, they create product roadmaps as a team.
-
-Et le _product champion_ doit travailler avec les gens qui travaillent au quotidien avec les équipes, les _product owners_. Lorsqu'ils le font, les feuilles de route sont crééent en équipe.
-
-## Product Owners Define Problems for Teams to Solve
+Et le _product champion_ doit travailler avec les gens qui travaillent au quotidien avec les équipes, les _product owners_. Lorsqu'ils le font, les feuilles de route sont créées en équipe.
 
 ## Les _product owners_ définissent les problèmes que les équipes vont résoudre
 
