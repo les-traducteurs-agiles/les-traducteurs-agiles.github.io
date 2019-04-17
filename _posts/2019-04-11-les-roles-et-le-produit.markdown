@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "les rôles et le produit - épisode 1 : Product Manager, Product Owners, Business Analysts"
-date:   2019-04-11 22:16
+date:   2019-04-17 22:16
 published: true
 tags:
 - product owner
