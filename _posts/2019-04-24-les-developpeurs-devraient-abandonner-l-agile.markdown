@@ -9,21 +9,21 @@ tags:
 - dark scrum
 ---
 
-> Un gros business
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Un gros business </div>
 
 L' « Agile »[^1] est devenu un gros business.  Lancé, sans l'ombre d'un doute, par le succès qu'a pu rencontrer par la Scrum Alliance avec l'offre de formation certifiante de ScrumMaster. À aujourd'hui, nous voyons des centaines, peut être des milliers de soit-disant formateurs et coachs « Agile », ainsi que plusieurs cadres de travail et méthodes en concurrence. Nous voyons aussi des formations en _leadership_ agile, en gestion de projets « Agile », et ainsi de suite.
 
-> Bon pour l'entreprise
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Bon pour l'entreprise </div>
 
 Toutefois, certaines de ces offres, voire la plupart ne sont pas mauvaises, du moins pour l'entreprise. Les organisations qui essayent de s'améliorer généralement s'améliorent, et même si les idées « Agile » sont appliquées de manière médiocre, le simple fait d'essayer apporte toujours ou presque toujours quelque chose de positif à l'organisation. L'organisation devrait bénéficier d'une meilleure visibilité sur ce qu'il se passe, et ce qui conduit le plus souvent, même pour le management le moins éclairé, à prendre de meilleurs décisions. C'est quelque chose de bien, et je suis entièrement d'accord avec ça.
 
-> Pas si bon que ça pour les développeurs
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Pas si bon que ça pour les développeurs </div>
 
 L'image n'est pas aussi bonne que ça pour les développeurs, en fait pour toutes les personnes impliquées dans la réalisation des produits que les entreprises « Agile » font. Lorsque les idées « Agile » sont appliquées de manière médiocre, cela conduit le plus souvent à davantage d'interférences avec les développeurs, à moins de temps à faire le travail, à davantage de pression et à « aller plus vite ». C'est mauvais pour les développeurs, et, en dernier ressort, mauvais pour l'entreprise aussi, parce que faire de l'« Agile » de manière médiocre aura comme résultat, le plus souvent, d'obtenir davantage d'anomalies et d'avancer beaucoup plus lentement que ce qu'il aurait été droit d'espérer atteindre. Le plus souvent, les bons développeurs quittent ce type d'organisation, ce qui a comme conséquence une entreprise encore moins efficace qu'avant la mise en place d'« Agile ».
 
 Ma réflexion vient de ce qu'a dit Kent Beck il y a dix ans. _J'aimerais que le monde soit plus sûr pour les développeurs_. Au fond de moi, je suis un développeur, malgré toutes ces années de management, de consulting et d'écriture. J'ai fait du code un peu plus tôt dans la journée et j'en fais toutes les semaines si ce n'est tous les jours. Cela me fend donc le cœur de voir les idées que nous avons écrites dans le Manifeste Agile utilisées pour rendre la vie des développeurs pire, plutôt que meilleur. Cela m'attriste aussi que l'entreprise ne puisse en tirer ce qu'elle pourrait, mais mon soucis principal est avant tout les personnes qui font le boulot.
 
-> Safe, pas SAFe[^2]
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Safe, pas SAFe[^2] </div>
 
 Depuis quelques années, j'entends plusieurs développeurs qui disent qu'« Agile » c'est de la merde. (Ils disent généralement que « Scrum » c'est de la merde, parce que la plupart des gens dans les organisations qui essayent de faire de l'« Agile » essayent de faire en fait du Scrum). J'essaye d'aider ces personnes à comprendre que leur organisation font mal de l'« Agile » : ces organisations ne font pas ce que les auteurs du Manifeste recommandent, ce que Scrum recommandent, ce que les experts en développement agile de logiciels recommandent. Mon espoir est que les personnes et leur organisation, qui entendent ma voix puissent s'en sortir et se rapprocher des idées authentiques qui se cachent derrière le Manifeste Agile et s'éloignent de ces formes de Faux Agile ou de _Dark Agile_ que nous voyons autour de nous.
 
@@ -35,7 +35,7 @@ Il est temps d'essayer quelque chose de nouveau, et voici ce que c'est :
 
 Bien entendu, les développeurs vont continuer à se retrouver à travailler dans un environnement Scrum, ou dans des organisations qui utilisent SAFe. Certains peuvent même être amenés à rencontrer des approches « Agile » comme « DAD », ou, s'ils sont chanceux, des approches plus éclairées comme « Modern Agile », ou « Heart of Agile ». Certains peuvent être suffisamment chanceux pour se retrouver à faire de l'Extreme Programming que l'on appele également « Le Scrum qui fonctionne vraiment »
 
-> Se détacher des méthodes ayant un nom
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Se détacher des méthodes ayant un nom </div>
 
 Quoi qu'il en soit, je crois que les développeurs devraient détacher leur façon de penser de toute méthode « Agile » ayant un nom. À la place, ils devraient tourner leur attention et leurs facultés d'apprentissage vers des manières de faire du développement logiciel qui marchent au sein même de ces méthodes « Agile ». Ces approches de développement, pour moi, impliquent l'utilisation de pratiques telles que, sans y être limité, celles d'Extreme Programming. Plus généralement, le travail du développeur devrait adhérer aux principes fondamentaux qui sous-tendent le développement agile de logiciels, tels que nous les avions à l'esprit lorsque nous avons écrit le Manifeste. Aujourd'hui, je résume les idées de cette manière :
 
@@ -57,11 +57,11 @@ Trop souvent, l'approche « Agile » utilisée par une équipe est imposée. Les
 
 En tant que développeur, vous pouvez être certain que ce lancement ne se passera pas en douceur ni de manière vraiment Agile. Il y a de grandes chances que vous n'aurez pas de formation, encore moins éduqué, encore moins avoir une vraie aide pour faire votre boulot. Vos dirigeants auront peut être reçu une formation, peut-être même une semaine entière (!), pour les préparer à apporter ce changement drastique dans l'approche de l'organisation par rapport au produit et au développement logiciel. La route risque d'être un peu chaotique.
 
-> Un vrai logiciel est notre seul espoir - Leia (communication secrète)
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Un vrai logiciel est notre seul espoir - Leia (communication secrète) </div>
 
 Mais si vous pouvez de manière fiable sélectionner du travail à faire au cours d'un « Sprint » ou d'un « wagon de marchandises »[^3] ou quel que soit la dénomination donnée à la période de temps par le conducteur du train de livraison, et faire ce boulot, rassemblé le tout dans une nouvelle version du système fonctionnelle, testée, intégrée, prête à être livrée, vous serez préparé à faire au mieux tout ce qui est possible d'être fait.
 
-> Ralentissez pour livrer
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Ralentissez pour livrer </div>
 
 Si vous n'êtes pas en capacité de gérer cela, je vous conseille de prendre en charge moins de travail à chaque période de temps, jusqu'à que vous ayez pris un lot de travail suffisamment petit que vous pouvez réellement terminer. _Cela sera dificile ! Les gens vous pousseront à « aller plus vite ». Faites de votre mieux !_ Sous la pression pour signer à faire plus que vous n'êtes en capacité, je vous suggère que vous travailler sur un ou deux items, de les terminer complètement - complètement empaqueté, testé et opérationnel - et puis faites-en un autre, de telle manière qu'à la fin du wagon vous ayez quelque chose que vous puissiez de manière absolue dire c'est terminé. Prenez cette décision irrémédiable de ne pas tout faire, et d'essayer d'orienter les plannings et les attentes à partir de la réalité, non à partir de la fantaisie de ce qui était demandé, et que vous n'auriez jamais eu de toute façon la chance de pouvoir terminer.
 
@@ -75,17 +75,17 @@ J'ai été dans ce genre de situations, et plutôt que partir, le mieux que je c
 
 Le Manifeste appelle à avoir des équipes « auto-organisées », et dans le meilleur des cas, cela se matérialise en laissant l'équipe choisir son propre processus. Si je devais lancer une entreprise, je laisserais les équipes choisir le processus de leur choix.
 
-> Je demanderais des résultats, non un processus spécifique
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Je demanderais des résultats, non un processus spécifique </div>
 
 Toutefois, il devrait y avoir des contraintes, non pas sur la manière dont elles choisissent de travailler, mais ce sur quoi j'ai besoin d'avoir de la visibilité. J'indiquerais clairement qu'environ toutes les deux semaines, j'aimerais voir une tranche de leur produit testé et opérationnel. Elles me montreraient ce qu'elles ont pu prévoir de construire, et ce qu'elles ont construit. Cette tranche devrait être vraiment opérationnel et inclure des capacités visibles que je serais en mesure de comprendre. Nous parlerions de ce qu'elles devraient faire lors de l'intervalle suivant. Et j'indiquerais clairement qu'une semaine serait mieux que deux, et qu'une journée serait mieux qu'une semaine.
 
-> J'offrirais mon aide
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > J'offrirais mon aide </div>
 
 Je leur offrirais mon aide. J'offrirais aux gens une connexion stable avec les besoins du métier à concrétiser par le produit, ce qui devrait les aider à décider quelle tranche de travail à faire par la suite. J'offrirais un accès à des formations et à du support pour faire le boulot qu'elles doivent faire. Je ferais en sorte d'être sûr qu'elles soient équipées pour faire ce que je leur demande de faire.
 
 Bien sûr, je ferais cela parce que je sais la manière de faire ce genre de boulot. Vous pourriez être suffisamment chanceux si vous étiez dans une situation similaire à celle-ci, tout du moins jusqu'au moment où vous pouvez choisir votre propre processus.
 
-> Chhut. Peut-être XP !
+<div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" > Chhut. Peut-être XP ! </div>
 
 Si vous avez la chance de choisir, je recommanderais que vous commenciez par quelque chose comme Extreme Programming (XP). XP contient tout ce dont vous avez besoin en terme de planification, de circuits de retours d'informations, et qui comprend les pratiques techniques de base dont vous avez besoin pour faire ce dont nous avons pu parler jusqu'à présent ici, et de faire ce que j'aurais pu demander.
 
