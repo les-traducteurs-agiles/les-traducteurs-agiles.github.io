@@ -11,10 +11,10 @@ Lors de notre [dernier épisode](http://www.les-traducteurs-agiles.org/2019/04/0
 
 Aujourd'hui, nous allons regarder plus en profondeur l'un des éléments de cette dichotomie :
 
-> A: Ce planning représente la meilleure hypothèse valable actuellement, mais il y a une vraie promesse qui se cache derrière celui-ci.  
-> B: Comment cela peut-il affecter le rythme auquel les choses avancent ?  
-> A: Est-il possible de mettre davantage de monde sur le projet ?  
-> B: Peut-être, mais jetez donc un coup d'œil à la loi de Brook  
+> A : Ce planning représente la meilleure hypothèse valable actuellement, mais il y a une vraie promesse qui se cache derrière celui-ci.  
+> B : Comment cela peut-il affecter le rythme auquel les choses avancent ?  
+> A : Est-il possible de mettre davantage de monde sur le projet ?  
+> B : Peut-être, mais jetez donc un coup d'œil à la loi de Brook  
 
 Ces plannings bien qu'artificiels ont un certain côté réel également. Dans cet échange, la personne A rappelle ce fait à la personne B.
 
