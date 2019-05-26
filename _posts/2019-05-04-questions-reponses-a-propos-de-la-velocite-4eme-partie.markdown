@@ -47,26 +47,27 @@ Si nous étions en train d'installer une cloison sèche ou de poser la moquette,
 
 But no. This is different. Programming is a chain of logic that is fed by and feeds into many other chains of logic. The parts are not as independent as we think, and not understanding the larger context (and the flaws in the parts in the larger context) will lead to many defects.  
 
-Mais non. C'est différent. La programmation est un enchainement logique alimenté par d'autres enchainement logique et qui va alimenter d'autres enchainement logiques. Les parties ne sont pas aussi indépendantes que nous le pensons, et ne pas comprendre
+Mais non. C'est différent. La programmation est un enchainement logique alimenté par d'autres enchainement logique et qui va alimenter d'autres enchainement logiques. Les parties ne sont pas aussi indépendantes que nous le pensons, et ne pas comprendre un contexte plus grand (et les ce qui ne va pas dans les différentes parties dans un contexte plus grand) engendrera des anomalies.
 
 I once switched a bit of code from a bad way of doing work (building JSON strings by concatenation) to a more proper use of a JSON library, and took a system down for a little while. Sometimes the system depends on the work having been done the way it was -- the wrong way -- in order to function. Things stick together in a weird way.  
 
-
+Un jour, j'ai changé un bout de code développé d'une mauvaise manière (en construisant des chaînes JSON par concaténation) pour le redévelopper en utilisant de manière plus propre une bibliothèque JSON, ce qui a eu comme conséquence de faire planter le système quelques temps. Quelques fois, le système dépend de la manière dont le travail a été fait -- la mauvaise manière -- pour pouvoir fonctionner. Les choses s'assemblent parfois de manière bizarres.
 
 Bringing in developers who don't know the way that the code works doesn't help. Mob programming or pair programming with people who know more about the different parts of the code certainly does help. Adding knowledgeable people to the effort does lead to a better result, but doesn't necessarily make the work go faster.  
 
-
+Ramener des développeurs qui ne connaissent pas la manière dont le code fonctionne n'aide pas. La programmation en groupe ou la programmation en binôme avec des gens qui en savent plus que les différentes parties du code, ça aide. Ajouter des sachants à l'effort commun mène à un meilleur résultat, mais cela ne fait pas nécessairement avancer le travail plus vite.
 
 [Brooks' Law](https://en.wikipedia.org/wiki/Brooks%27s_law) is the observation that adding people to a late project makes it later. This has been studied and documented at length, and anyone wanting to try to accelerate a project by adding people should beware. It's not impossible to add people to a project, but often a flood of new workers who don't know the system will make it FAR worse.  
 
-
+La loi de Brook résulte de l'observation qu'ajouter des personnes à un projet en retard ne fait que le retarder davantage. Cela a été étudié et documenté en long et en large, et quiconque voulant essayer de faire accélérer un projet en ajoutant des personnes devraient en être averti. Il n'est pas impossible de rajouter des personnes à un projet , mais rajouter un paquet de nouvelles personnes qui ne connaissent pas le système le rendront encore bien pire.
 
 These are inconvenient truths, which press us to look into more promising alternatives if we want to see work delivered to an all-to-real schedule.  
 
-
+Ce sont ces vérités dérangeantes, qui nous obligent à chercher des alternatives prometteuses si nous voulons voir aboutir les travaux dans un planning réaliste.
 
 Follow us to [Part V](https://agileotter.blogspot.com/2018/10/q-and-on-velocity-part-v.html)
 
+Rejoignez-nous pour le [5ème épisode](https://agileotter.blogspot.com/2018/10/q-and-on-velocity-part-v.html)
 
 ---
 Auteur : Tim Ottinger  
