@@ -65,7 +65,7 @@ Les manageurs devraient prendre un peu de temps pour lire [The Systems Bible](ht
 * Les systèmes ont tendance à s'opposer à leur propre meilleure fonction
 
 
-Rendez-vous à la [3ème partie](https://agileotter.blogspot.com/2018/07/q-and-on-velocity-part-iii.html).
+Rendez-vous à la [3ème partie](http://www.les-traducteurs-agiles.org/2019/04/08/questions-reponses-a-propos-de-la-velocite-3eme-partie.html).
 
 
 [^1]: pour les lectrices et lecteurs n'ayant pas lu le 1er article ou souhaitant se le remémorer - NdT

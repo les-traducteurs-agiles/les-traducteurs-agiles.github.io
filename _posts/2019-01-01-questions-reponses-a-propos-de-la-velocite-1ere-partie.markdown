@@ -46,7 +46,7 @@ Mais quoi qu'il en soit, la taille d'un point de _story_ n'est pas vraiment sign
 
 C'est souvent quelque chose de mal utilisé. Une alternative possible est d'[arrêter d'utiliser les points de _story_](https://www.industriallogic.com/blog/stop-using-story-points/).
 
-Je vous revois pour la [2ème partie](https://agileotter.blogspot.com/2018/07/q-on-velocity-part-ii.html).
+Je vous revois pour la [2ème partie](http://www.les-traducteurs-agiles.org/2019/01/29/questions-reponses-a-propos-de-la-velocite-2eme-partie.html).
 
 [^1]: le nom du site de l'auteur est Otter en anglais ou loutre en français et c'est aussi le surnom de l'auteur ;) - NdT
 
