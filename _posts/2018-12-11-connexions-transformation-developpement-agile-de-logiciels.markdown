@@ -53,11 +53,11 @@ La quasi totalité de ce site est dédié à ce sujet. Voici quelques liens sur 
 ---
 ## Articles en relation
 
-* [“Business Agile” - Built Upon Sand](https://ronjeffries.com/articles/017-08ff/sand/)[^3]
+* [« Le business Agile » : Construit sur du sable](http://www.les-traducteurs-agiles.org/2019/03/19/business-agile-construit-sur-du-sable.html)
 * [Connexions - de l'insuffisance du leadership](http://www.les-traducteurs-agiles.org/2018/12/02/connexions-de-l-insuffisance-du-leadership.html)
 * [Connexions - Du logiciel pour tous](http://www.les-traducteurs-agiles.org/2018/12/09/connexions-du-logiciel-pour-tous.html)
 * [How to Impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/)[^3]
-* [Developers Should Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)[^3]
+* [Les développeurs devraient abandonner l'« Agile »](http://www.les-traducteurs-agiles.org/2019/04/26/les-developpeurs-devraient-abandonner-l-agile.html)
 
 ## Catégories d'articles en relation
 
@@ -70,7 +70,6 @@ La quasi totalité de ce site est dédié à ce sujet. Voici quelques liens sur 
 
 
 [^1]: TEC = travail en cours ou en anglais WIP = work in progress - NdT
-[^2]: Unfortunately not at all limited to Ohio.
 [^2]: Malheureusement, ce n'est pas limité uniquement à l'Ohio.
 [^3]: Sera peut-être traduire prochainement ;)
 
