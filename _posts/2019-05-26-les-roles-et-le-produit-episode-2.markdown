@@ -94,52 +94,52 @@ Lorsque les POs et les équipes interagissent avec le client, ils peuvent obteni
 
 ## Teams Might Need to Work Directly with Customers
 
-
+## Les équipes pourraient avoir besoin de travailler directement avec les clients
 
 Sometimes, the team needs to learn by watching a customer. Customers might work differently than internal people acting as customers. Or, from people who think they represent the customers' problems.
 
-
+Quelques fois, l'équipe doit apprendre par l'observation d'un client. Les clients pourraient travailler différemment que des personnes du projet jouant le rôle des clients. Ou, de personnes pensant qu'elles représentent les clients et leurs problèmes.
 
 POs and teams need the opportunity to work with a customer. Every team has different needs. That means that part of the product value team's work is planning when teams can gain information from the customer.
 
-
+Les POs et les équipes ont besoin d'avoir l'opportunité de travailler avec un client. Chaque équipe a des besoins différents. Cela signifie qu'une partie du travail de l'équipe _product value_ est de planifier quand les équipes pourront avoir accès à l'information de la part du client.
 
 ## Product Value Teams Can Replan as a Team
 
-
+## Les équipes _product value_ peuvent replanifier en tant qu'équipe
 
 I'm not fond of big-room planning only once a quarter for programs. I find the (tactical) work needs to change more often than that. And, I don't like the two-three weeks of prep that too many teams require for that meeting.
 
-
+Je ne suis pas trop pour les séances de planifications dans une grande pièce une fois par trimestre pour les programmes. Je trouve que le travail (tactique) doit faire l'objet de changements plus fréquent. Et je n'aime pas les deux-trois semaines de préparation en vue de cette réunion que cela exige de la part des équipes.
 
 Instead, I'm fond of small-world networks to help information move around the organization. Sometimes, those networks are formal. One formality might be a biweekly roadmap or replanning between the teams in a program. (I'm assuming the program is longer than three months. You might need more meetings if the program is short.) The biweekly meeting helps maintain a rolling wave.
 
-
+À la place, j'aime bien les réseaux à petite échelle qui permettent de faire circuler l'information au sein de l'organisation. Parfois, ces réseaux sont formels. Une feuille de route bihebdomadaire ou une replanification bihebdomadaire entre les équipes d'un programmation pourrait être une manière de faire formelle. (Je pars de l'hypothèse que le programme ne dure pas plus de 3 mois. Vous pourriez avoir besoin de davantages de réunions si le programme est plus court.). Une réunion bihebdomadaire permet de maintenir un mouvement en continu.
 
 I wrote about [rolling wave planning for a quarter and how to move it to a shorter wave before.](https://www.jrothman.com/mpd/2017/09/alternatives-for-agile-and-lean-roadmapping-part-2-rolling-wave-planning-inside-one-quarter/) The shorter your customer feedback loops, the smaller your rolling wave needs to be.
 
-
+J'ai déjà écrit à propos de [la planification en vagues continues pour un trimestre et comment faire en forte pour une vague plus courte avant cela](https://www.jrothman.com/mpd/2017/09/alternatives-for-agile-and-lean-roadmapping-part-2-rolling-wave-planning-inside-one-quarter/). Plus vos boucles de retours d'informations sont courtes, plus vos vagues doivent être petites.
 
 With short feedback loops, you don't need detailed planning for an entire quarter. Instead, you might plan for two to four weeks at a time.
 
-
+Avec des boucles de retours d'informations courtes, vous n'avez pas besoin de faire un planning détaillé pour un trimestre entier. À la place, vous pourriez planifier à horizon d'une à deux semaines.
 
 The product manager maintains the business value of the product's strategy. I often see product managers needing to revisit the strategy anywhere from once a month for early-in-life products to yearly for late-in-life products. The POs maintain the business value of the backlogs.
 
-
+Le _product manager_ maintient la valeur métier selon la stratégie du produit. J'ai souvent vu des _product managers_ devoir revisiter la stratégie d'une fois par mois pour les produits en début de vie à une fois par an pour les produits en fin de vie. Les POs maintiennent la valeur métier des _backlogs_.
 
 Do they ever need the teams to also plan? Yes, if they don't have feature or product teams. I'll address that in the next post.
 
-
-
----
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Ont-ils besoin que les équipes planifient également ? Eh bien oui s'ils n'ont pas d'équipes produit ou d'équipes feature. J'aborderai ces sujets dans mon prochain article.
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Auteur : [Johanna Rothman](https://www.createadaptablelife.com/about)  
+Source : [Product Roles, Part 2: The Product Value Team](https://www.jrothman.com/mpd/2019/04/product-roles-part-2-the-product-value-team/)  
+Date de parution originale : 8 Avril 2019  
+
+---
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 30/05/2019  
 
 ---
 
