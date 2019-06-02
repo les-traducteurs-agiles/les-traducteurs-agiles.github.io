@@ -158,127 +158,127 @@ Bonne question, Ron. Mais le fait est que je n'ai pas l'intention de vous faire 
 
 What I am telling us–all of us–is that we’re going to measure our product teams based on their ability to literally deliver value every couple of weeks. To the extent that a team can do that, they’ll look good, and to the extent that they can’t, they’ll not look so good. And we’re going to invest whatever it takes to make it possible for every team to look good by that measure. With some teams, it may take some time. As they get better at doing it, they’ll look better. Once a quarter is better than twice a year. Once a month is better still, and it’s nearly every couple of weeks. I have reason to believe we can do this and I’m committed to providing what we need to make it happen.
 
-
+Ce que je suis en train de dire c'est nous - tous autant que nous sommes - c'est que nous sommes en train de mesurer les équipes produits sur la base de leur capacité  à livrer au sens littéral de la valeur toutes les deux semaines. Dans la mesure où une équipe peut faire cela, elle semble bonne, et dans la mesure où une équipe ne peut pas faire cela, elle ne semble pas aussi bonne. Et nous allons investir tout ce qu'il faut afin que cela soit possible pour chaque équipe, qu'elles soient en capacité de sembler bonne sur cette mesure précise. Avec certains équpes, cela peut prendre un certain temps. Au fur et à mesure qu'elles s'améliorent pour y arriver, elles sembleront meilleures. Une fois par trimestre c'est mieux que deux fois par an. Une fois par mois c'est encore mieux, et cela se rapproche de toutes les deux semaines. J'ai des raisons de croire que nous pouvons y arriver et je me suis engagé à offrir tout ce qui est nécessaire pour faire en sorte que que cela se produise.
 
 The bottom line here is that we’re not imposing a process on anyone, though we’ll help you improve your process if you need and want help. What we are doing is providing an enabling constraint on what you produce, not how you do it. Let’s talk about why.
 
-
+La ligne rouge est que nous n'allons pas imposer un processus à quiconque, même si nous allons vous aider à améliorer votre processus si vous besoin d'aide et si vous voulez de l'aide. Ce que nous faisons c'est de donner une `contrainte secourable` sur ce que vous produisez, non pas sur comment vous allez le faire. Parlons donc du pourquoi.
 
 I want to succeed here, and I want all of us to succeed, and I want the organization to succeed. We’ll do that by providing solutions to our customers that they need, appreciate, and will pay for. Their needs change, the market changes, our understanding of what is needed and how to do it changes.
 
-
+Que nous soyons clair, je veux réussir et je veux que nous tous, nous réussissions, et je veux que l'organisation réussisse. Nous ferons cela en offrant des solutions à nos clients, des solutions dont ils ont besoin, qu'ils apprécient, qu'il seront prêt à payer pour les avoir. Leurs besoins changent, notre compréhension sur ce qui souhaité et sur comment le faire change.
 
 If we can only offer new value to our customers every six months, they’ll benefit slowly, we’ll benefit slowly, and, worst of all, we’ll learn slowly. That puts us all at risk. We need to speed up our cycle of learning and our cycle of delivering value. The foundation of doing that is to provide visible increments of value, which we can see, talk about, learn from, and provide to our users.
 
-
+Si nous pouvons simplement offrir quelque chose de nouveau ayant de la valeur à nos clients tous les six mois, ils en bénéficieront lentement, nous en bénéficieront lentement, et le pire dans tout cela, nous apprendrons lentement. Cela nous met tous en risque. Nous devons accélérer notre cycle d'apprentissage et notre cycle de livraison de valeur. Le fondement même de faire c'est d'offrir des incréments visibles de valeur, que nous pouvons voir, dont nous pouvons parler, dont nous pouvons apprendre et fournir à nos clients.
 
 Sometimes doing that will be easy. Sometimes it will be more difficult, but we’ll work and learn to make it easier. We’ll work it out together, and we’ll benefit together.
 
-
+Parfois, faire sera facile. Parfois, ce sera plus difficile, mais nous travaillerons et apprendrons à comment le faire plus facilement. Nous y travaillerons ensemble et nous en bénéficierons ensemble.
 
 ### Won’t this put us under incredible pressure?
 
-
+### Est-ce que cela ne va pas nous mettre sous une pression incroyable ?
 
 My intention isn’t to increase pressure, but to reduce it. I don’t believe that pressure helps us work better, but that it’s more likely to cause trouble and slow things down. There will be learning involved, lots of it, and sometimes learning is painful–wow do I know that–but we’ll try to keep the pain and pressure as low as we can. And I’ve found working in the way I’m asking to be fun, and I surely hope to make it more pleasurable for everyone.
 
-
+Mon intention n'est pas d'augmenter la pression, mais de la réduire. Je ne crois pas que la pression nous aide à mieux travailler, mais qu'elle est plus susceptible de nous causer des problèmes et de faire ralentir les choses. Il y aura de l'apprentissage à faire, beaucoup d'apprentissage, et quelques fois l'apprentissage peut se faire dans la douleur - wow est-ce que je connais ça - mais nous essayerons de faire en sorte que la douleur et la pression soit la plus faible possible. `Et j'ai trouvé` ... je demande à ce que cela soit amusant, et j'espère sincèrement faire en sorte que cela soit plus plaisant pour tout le monde.
 
 To have time to learn, people need some slack. I’m well aware of this and committed to it. I do expect that we’ll all work hard, but we won’t be trying to fit ten pounds of work into a five pound sack. We’ll find a sensible balance between progress and learning. If you find that you, or your team, are out of balance, I want to hear about it and I will work to fix it.
 
-
+Pour avoir le temps d'apprendre, les gens ont besoin d'avoir un peu de temps de relâche. Je suis bien conscient de cela et je m'y engage. Je m'attends à ce que nous travaillons tous durement, mais nous n'essaierons pas de faire tenir cinq kilos de boulot dans un sac de deux kilos cinq. Nous trouverons un équilibre subtile entre avancée et apprentissage. Si vous trouvez que vous ou votre équipe, êtes en déséquilibre, je veux l'entendre et je travaillerai de telle sorte que cela soit corrigé.
 
 We may encounter some emergencies and have to bear down a bit. Life seems to work like that. But every day can’t be an emergency, and we’ll invest to keep that sort of thing to a minimum.
 
-
+Nous pouvons avoir des urgences et devrons en gérer quelques-unes. Mais chaque jour n'est pas une urgence, et nous investirons pour que ce genre de choses soit réduit au minima.
 
 ### What about long term planning?
 
-
+### Qu'en est-il du planning à long terme ?
 
 I do expect each team to have a coherent current view of where it thinks its going. We can call that a plan if you wish.
 
-
+J'attends de chaque équipe d'avoir une vue cohérent de la situation actuelle dans laquelle elle pense se trouver. Nous pouvons appeler cela un plan si vous voulez.
 
 Your plan should speak in terms of the needs of your customers or users, and the solutions you plan to provide. It should tell me enough to get a good sense of the need and the solutions you intend. We’ll work together to improve the communication.
 
-
+Votre plan devrait être exprimé en terme de besoins de vos clients ou de vos utilisateurs, et des solutions que vous planifiez d'offrir. Cela devrait me dire suffisamment de choses pour avoir une bonne idée du besoin et des solutions que vous envisagez. Nous travaillerons ensemble pour améliorer la communication.
 
 However–and this is very important–we’ll not be measuring you on following your plan. We’ll be measuring ourselves by how well what we actually _do_ satisfies our customers. Part of your continuing work is to suss out what your customers want and need, to provide solutions to those wants and needs, and to be on top of how satsified your customers are with what you’re providing.
 
-
+Toutefois - et c'est très important - nous n'allons pas vous évaluer sur le suivi de votre pla. Nous allons nous mesurer sur la manière dont nous _satisfaisons_ réellement nos clients. Une partie de votre boulot `en continu` est de comprendre ce que veulent et ce dont ont besoin vos clients, de leur offrir des solutions à ce qu'ils veulent et à ce dont ils ont besoin, et d'être au meilleur niveau sur comment satisfaire vos clients avec ce que vous êtes en train de leur offrir.
 
 The way I think of it is that each team has a view of its surroundings, and where it wants to go next. Each time something new is built and deployed, the team is in a new place and now has a new, different, and more complete view. I expect your team to have such a view, to keep it current, and to communicate it with your stakeholders.
 
-
+La manière dont j'y pense est que chaque équipe ait une vue de ce qui l'entoure, et de là où elle veut aller ensuite. Chaque fois que quelque chose de nouveau est construit et déployer, l'équipe est à un nouvel endroit et a désormais une vue nouvelle, différente et plus complète des choses. J'attends de votre équipe d'avoir ce type de vue, de la garder à jour, et de la communiquer à vos parties prenantes.
 
 ### What should that view look like?
 
-
+### À quoi devrait ressembler cette vue ?
 
 Honestly, I don’t think we care what the view looks like. I’d prefer not to view an hour of PowerPoint slides, so I advise against that. But if that’s the best way to communicate your view, I’ll try to deal with it. Your team owns the problem of creating and communicating the view, and that includes finding out from your stakeholders how well the view is working for them.
 
-
+Honnêtement, je ne pense pas que nous nous soucions de savoir à quoi cette vue doit ressembler. Je ne préfère pas avoir à subir une heure de visionnage de diapositives PowerPoint, donc je ne vous conseillerai pas ça. Mais si c'est la meilleure manière de communiquer votre vision des choses, j'essayerai de faire avec. C'est à votre équipe de gérer le problème de créer et de communiquer la vision, et cela inclut de trouver de la part des parties prenantes à quel degré votre vision leur convient.
 
 I’m sure we’ll come to have some favorite ways of presenting the view, and I’m hoping that Grand Opera will not be one of those. That would be even worse than PowerPoint.
 
-
+Je suis certain que nous trouverons des manières privilégiées pour présenter la vision, et j'espère que le Grand Opéra ne sera pas l'un d'entre eux. Ce serait encore pire que PowerPoint.
 
 Summing up, we’ll be creating customer and product focused teams, with the full responsibility and authority to address some set of customers and customer concerns. Those teams will create a rolling view of the customer and product landscape, and they’ll decide what to build next based on that view. They’ll produce new versions of their product every couple of weeks. They’ll share what they’ve created with their stakeholders every couple of weeks. We’ll talk about the current view and the current product, and about what to do next. The teams will decide next steps and repeat.
 
-
+En résumé, nous allons créer des équipes focalisées sur le client et le produit, avec la responsabilité et l'autorité plein et entière de pouvoir gérer certains clients et leurs préoccupations. Ces équipes créeront une vision en continu du paysage du client et du produit, elles décideront ce qui doit être construit ensuite sur la base de cette vision. Elles produiront de nouvelles versions de leurs produits toutes les deux semaines. Elles partageront sur ce qu'elles ont créés avec leurs parties prenantes toutes les deux semaines. Nous parlerons de la vision actuelle et du produit actuel, et de ce qui à faire ensuite. Les équipes décideront des prochaines étapes et ce sera reparti pour un tour.
 
 Our focus will be on creating concrete new solutions for our customers every couple of weeks, reviewing those running, tested, shippable solutions, getting them quickly into the hands of our customers, and using results to guide future decisions.
 
-
+Notre focalisation sera mise sur le fait de créer de nouvelles solutions concrètes pour nos clients toutes les deux semaines, des solutions opérationnelles, testées, livrables qui seront passées en revue, mises au plus vite dans les mains de nos clients, et d'utiliser ces résultats pour guider les décisions futures.
 
 Any questions?
 
-
+Des questions ?
 
 ### This still sounds like you’re imposing some kind of “Agile” process on us.
 
-
+### On dirait que vous êtes toujours en train de nous imposer une espère de processus "Agile"
 
 No. I am, however, setting forth, as clearly as I can, the results we need to see from whatever process you use: an improving view of the customer and solution landscape, rapid production of customer-ready solutions to their needs, and continuous communication as to what’s going on and how it’s going.
 
-
+Non. Je suis, toutefois, en train de mettre un cadre, aussi clairement que possible, quant aux résultats que nous devons voir du processus que vous utilisez : une vision améliorée du paysage du client et de la solution, une production rapide de solution prêt à être mise aux mains des clients par rapport à leurs besoins, et une communication en continu sur ce qu'il se passe et comment cela se passe.
 
 As for the process you use, we are imposing nothing. We’re asking for a certain kind of results, which the company needs, and we’re committing to helping you learn how to produce those results.
 
-
+Quant au processus que vous utilisez, nous n'imposons rien. Nous demandons un certain type de résultats, dont l'entreprise a besoin, et nous nous engageons à vous aider à apprendre à comment produire ces résultats.
 
 ### Isn’t this just some kind of covert way to force us to go “Agile”?
 
-
+### N'est-ce pas simplement une manière déguisée de nous forcer à devenir "Agile" ?
 
 Well, we’re asking for running, tested, shippable software every two weeks, delivering what you set yourselves to deliver two weeks ago. It does happen that I only know one basic way to do that, with cross-functional teams with all the needed capabilities to do the job. It does happen that I believe those teams will find comprehensive unit and acceptance tests to be key, that they’ll want to learn to evolve their designs smoothly with refactoring that they’ll need to keep their systems integrated all the time, and so on.
 
-
+Eh bien, nous demandons un logiciel opérationnel, testé, livrable toutes les deux semaines, de livrer ce que vous avez été en mesure de livrer il y a deux semaiens. Il arrive simplement que je connais une manière basique d'y arriver, avec des équipes pluridisciplinaires ayant toutes les compétences nécessaires pour faire le boulot. Il arrive simplement que je coris que ces équipes trouveront des tests unitaires et d'acceptations exhaustifs seront la clé pour y arriver, qu'ils voudront apprendre pour faire évoluter leur conception en douceur grâce au refactoring dont ils auront besoin pour que leur système reste intégré tout le temps et ainsi de suite.
 
 Since we’re setting a two-week planning and review cadence, you may want to consider adopting process elements that are conducive to that, and you’ll likely find them in the “Agile” thought space. I’m sure you will be able to find many ways to do that, and can point you to some options if you need them.
 
-
+Étant donné que nous mettons en place une cadence de deux semaines pour la planification et la revue, vous pourriez vouloir envisager d'adopter des éléments de processus qui soit en accord avec cela et il y a de grandes chances que vous les trouviez dans l'espace de réflexion "Agile". Je suis certain que vous trouverez plusieurs manières de faire cela, et je peux vous indiquez certaines options si vous en avez besoin.
 
 But you are absolutely free to use any process you want, so long as you’re giving us what we need: a clear product view, and shippable product every two weeks.
 
-
+Mais vous êtes absolument libre d'utiliser le processus de votre choix, aussi longtemps que vous nous donner ce dont nous avons besoin : une vison claire du produit, et un produit livrable toutes les deux semaines.
 
 My intention is to give you everything you need to give me what I need to ensure the organization’s success. And what I need is running, tested, shippable product, built according to an evolving view of customer and solution, every couple of weeks.
 
-
+Mon intention est de vous donner tout ce dont vous avez besoin pour que vous donniez l'assurance que l'entreprise réussisse. Et ce dont j'ai besoin, c'est d'avoir un produit opérationnel, testé, livrable, réalisé selon la vision évolutive du client et de la solution, toutes les deux semaines.
 
 Any more questions? You know where to find me.
 
-
+D'autres questions ? Vous savez où me trouvez.
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
+Auteur : [Ron Jeffries](url_bio)  
+Source : [How to impose Agile ?](https://ronjeffries.com/articles/018-01ff/imposition/)  
 Date de parution originale : 20 Juillet 2018  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : jj/mm/yyyy  nbsp
 
 ---
