@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Les rôles et le produit - épisode 2 : l'équipe orientée valeur produit
+title:  "Les rôles et le produit - épisode 2 : l'équipe orientée valeur produit"
 date:   2019-06-02 00:01
 published: true
 tags:
