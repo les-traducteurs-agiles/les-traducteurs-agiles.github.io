@@ -35,8 +35,7 @@ Le boulot est bien trop grand pour une seule personne
 ## Jetons un coup d'œil à l'équipe orientée valeur produit
 
 <div align="left" style="float:left; padding-right:30px" >
-  <img title="Équipe agile orientée valeur produit" src="{{ site.url }}assets/johanna/AgileProductValueTeamfr.png" />
-</div> À la place d'avoir une seule personne essayant de penser à tout ce qui touche au produit, pourquoi ne pas créer une équipe ? C'est l'équipe orientée valeur produit.
+  <a href="{{ site.url }}assets/johanna/AgileProductValueTeamfr.png"><img title="Équipe agile orientée valeur produit" src="{{ site.url }}assets/johanna/AgileProductValueTeamfr.png" width="300px" height="224px"/></a></div> À la place d'avoir une seule personne essayant de penser à tout ce qui touche au produit, pourquoi ne pas créer une équipe ? C'est l'équipe orientée valeur produit.
 
 J'attire votre attention que nous avons des équipes pour tout dans une organisation agile.
 
