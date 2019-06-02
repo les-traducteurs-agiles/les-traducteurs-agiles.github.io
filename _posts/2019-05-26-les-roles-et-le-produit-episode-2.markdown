@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Dans un monde idéal agile, l'équipe devrait travailler directement avec le client. Lorsque vous avez un produit de taille réduite, utiliser par peut-être trois types de client (débutant, expert, admin par exemple), et que ce client est au bout du couloir, vous n'aurez sans doute pas besoin de personnes dédiées au produit. Vous pouvez mettre en place des boucles de retours d'informations courtes avec votre client. (Voir la [partie 1](http://www.les-traducteurs-agiles.org/2019/04/17/les-roles-et-le-produit.html) pour plus d'informations))
+Dans un monde idéal agile, l'équipe devrait travailler directement avec le client. Lorsque vous avez un produit de taille réduite, utilisé par peut-être trois types de client (débutant, expert, admin par exemple), et que ce client est au bout du couloir, vous n'aurez sans doute pas besoin de personnes dédiées au produit. Vous pouvez mettre en place des boucles de retours d'informations courtes avec votre client. (Voir la [partie 1](http://www.les-traducteurs-agiles.org/2019/04/17/les-roles-et-le-produit.html) pour plus d'informations))
 
 Plus votre produit est important en terme de taille, plus vos clients sont diversifiés, plus il est probable qu'une seule personne ne pourra pas embrasser les différents rôles stratégiques et tactiques et être le seul et unique _product owner_ ou _product manager_.
 
@@ -24,13 +24,13 @@ Toutes ces raisons exigent des boucles de retour d'informations plus courtes si 
 
 La stratégie aide l'organisation à affiner quel produit résout quel problème pour qui. La réflexion stratégique aide les organisations à avoir des produits séparés pour ne pas finir avec un produit gloubiboulga - un produit qui ne résout plus le problème pour l'utilisateur d'origine. (Et parfois, cela quel que soit l'utilisateur !).
 
-Lorsque nous vérifions que nous comprenons bien le problème ou que le produit résout bien le problème pour un client spécifique, nous avons besoin de boucles de retours d'informations qui soient courtes. Nous avons besoins de boucles de retours d'informations stratégiques et de boucles de retours d'informations tactiques. Ces boucles de retours d'informations ont souvent des cadences différentes et ont différents besoins en matière d'information.
+Lorsque nous vérifions que nous comprenons bien le problème ou que le produit résout bien le problème pour un client spécifique, nous avons besoin de boucles de retours d'informations qui soient courtes. Nous avons besoins de boucles de retours d'informations stratégiques et de boucles de retours d'informations tactiques. Ces boucles de retours d'informations ont souvent des cadences différentes et ont des besoins différents en matière d'information.
 
 Une _startup_ pourrait avoir besoin de retours d'informations stratégiques et tactiques quotidiennement ou toutes les semaines. Quelqu'un pourrait avoir besoin de ces retours d'informations et inviter l'équipe à travailler avec un client spécifique pour obtenir ces retours d'informations
 
-Néanmoins, une fois que vous avez différentes sortes de clients ou un produit de taille importante avec plusieurs équipes, il n'est pas possible pour personne seule de gérer tous ces retours d'informations. Essayer de gérer en même temps des problématiques stratégiques et tactiques génère un coût trop important pour faire du multi-tâches.
+Néanmoins, une fois que vous avez différentes sortes de clients ou un produit de taille importante avec plusieurs équipes, il n'est pas possible pour une personne seule de gérer tous ces retours d'informations. Essayer de traiter en même temps des problématiques stratégiques et tactiques génère un coût trop important pour faire du multi-tâches.
 
-Le boulot est trop grand pour une seule personne
+Le boulot est bien trop grand pour une seule personne
 
 ## Jetons un coup d'œil à l'équipe orientée valeur produit
 
@@ -62,11 +62,11 @@ Les POs et les équipes ont besoin d'avoir l'opportunité de travailler avec un 
 
 Je ne suis pas trop pour les séances de planifications dans une grande pièce une fois par trimestre pour les programmes. Je trouve que le travail (tactique) doit faire l'objet de changements plus fréquents. Et je n'aime pas les deux-trois semaines de préparation en vue de cette réunion que cela exige de la part des équipes.
 
-À la place, j'aime bien les réseaux à petite échelle qui permettent de faire circuler l'information au sein de l'organisation. Parfois, ces réseaux sont formels. Une feuille de route bihebdomadaire ou une replanification bihebdomadaire entre les équipes d'un programmation pourrait être une manière de faire formelle. (Je pars de l'hypothèse que le programme ne dure pas plus de 3 mois. Vous pourriez avoir besoin de davantage de réunions si le programme est plus court.). Une réunion bihebdomadaire permet de maintenir un mouvement en continu.
+À la place, j'aime bien les réseaux à petite échelle qui permettent de faire circuler l'information au sein de l'organisation. Parfois, ces réseaux sont formels. Une feuille de route bihebdomadaire ou une replanification bihebdomadaire entre les équipes d'un programme pourrait être une manière de faire formelle. (Je pars de l'hypothèse que le programme ne dure pas plus de 3 mois. Vous pourriez avoir besoin de davantage de réunions si le programme est plus court.). Une réunion bihebdomadaire permet de maintenir un mouvement en continu.
 
 J'ai déjà écrit à propos de [la planification en vagues continues pour un trimestre et comment faire en forte pour avoir une vague plus courte encore avant cela](https://www.jrothman.com/mpd/2017/09/alternatives-for-agile-and-lean-roadmapping-part-2-rolling-wave-planning-inside-one-quarter/). Plus vos boucles de retours d'informations sont courtes, plus vos vagues doivent être petites.
 
-Avec des boucles de retours d'informations courtes, vous n'avez pas besoin de faire un planning détaillé pour un trimestre entier. À la place, vous pourriez planifier à horizon d'une à deux semaines.
+Avec des boucles de retours d'informations courtes, vous n'avez pas besoin de faire un planning détaillé pour un trimestre entier. À la place, vous pourriez planifier à l'horizon d'une à deux semaines.
 
 Le _product manager_ maintient la valeur métier selon la stratégie du produit. J'ai souvent vu des _product managers_ devoir revisiter la stratégie d'une fois par mois pour les produits en début de vie à une fois par an pour les produits en fin de vie. Les POs maintiennent la valeur métier des _backlogs_.
 
