@@ -144,7 +144,7 @@ D'autres questions ? Vous savez où me trouvez.
 
 ---
 Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)  
-Source : [How to impose Agile ?](https://ronjeffries.com/articles/018-01ff/imposition/)  
+Source : [How to impose Agile](https://ronjeffries.com/articles/018-01ff/imposition/)  
 Date de parution originale : 20 Juillet 2018  
 
 ---
