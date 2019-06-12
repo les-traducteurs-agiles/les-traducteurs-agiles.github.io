@@ -1,42 +1,42 @@
 ---
 layout: post
 title:  "Comment imposer l'agile"
-date:   2019-06-10 00:00
-published: false
+date:   2019-06-12 00:00
+published: true
 tags:
 - dark scrum
 - agile
 ---
 
-> Il y a beaucoup de grignouseries actuellement concernant le fait d'imposer les pratiques et les méthodes 'Agile'. Ces grignouseurs ne savent tout simplement pas comment l'imposer correctement. Moi non plus, mais voici ce que j'essaierais de faire.
+> Il y a beaucoup de jérémiades actuellement autour du sujet d'imposer les pratiques et les méthodes 'Agile'. Ces geignards ne savent tout simplement pas comment l'imposer correctement. Moi non plus, mais voici ce que j'essaierais de faire.
 
-Si, pour mes péchés, j'étais condamné à être « en charge » d'une organisation de développement logiciels, et d'une manière ou d'une autre tenu pour responsable de son succès ou de son échec, je voudrais certainement que cette organisation mette en pratique « le développement agile de logiciels », quoi que cela puisse être. J'aurais le sentiment que cela serait ma seule chance.
+Si, pour mes péchés, j'étais condamné à être « en charge » d'une organisation de développement logiciels, et d'une manière ou d'une autre tenu pour responsable de son succès ou de son échec, je voudrais à coup sûr que cette organisation mette en pratique « le développement agile de logiciels », quoi que cela puisse être. J'aurais le pressentiment que ce serait là ma seule chance.
 
-Étant donné que ma survie serait en jeu, devenir « Agile » deviendrait une nécessité. Bien sûr, j'irais suggérer ça à tout le monde, je ferais former tout le monde, j'essaierais de mener tout le monde sur cette voie-là. Toutefois, ma survie étant en jeu, s'ils ne voulaient pas aller vers l'Agile, eh bien, je n'aurais pas le choix, je devrais faire le nécessaire pour les _faire_ aller vers l'Agile.
+Étant donné que ma survie serait en jeu, devenir « Agile » deviendrait une nécessité. Bien sûr, j'irais suggérer ça à tout le monde, je ferais former tout le monde, j'essaierais de mener tout le monde sur cette voie. Toutefois, ma survie étant en jeu, s'ils ne voulaient pas aller vers l'Agile, eh bien, je n'aurais pas le choix, je devrais faire le nécessaire pour les _faire_ aller vers l'Agile.
 
-Bien sûr, ce serait mal. Je n'aime pas suivre les ordres, par conséquent ma règle personnelle est de ne jamais donner d'ordres. Jetez donc un œil sur le « Voile d'ignorance »[^1] à vos imposants moments perdus. Regardez-le plus tard, pour l'instant, nous avons du boulot à faire. S'ils ne veulent pas faire de l'Agile, je dois l'imposer.
+Bien sûr, ce serait mal. Je n'aime pas suivre les ordres, par conséquent ma règle personnelle est de ne jamais donner d'ordres. Jetez donc un œil sur le « Voile d'ignorance »[^1] à vos moments perdus pantagruéliques. Regardez-le plus tard, pour l'instant, nous avons du boulot à faire. S'ils ne veulent pas faire de l'Agile, je dois l'imposer.
 
-Comment puis-je imposer l'Agile et apaiser ma conscience, admettons-le, un peu mollassonne en même temps ? Et quelle est la meilleure méthode Agile à imposer ? Est-ce qu'il serait mieux d'en imposer une vraiment simple, comme Scrum, ou d'y aller à fond et d'imposant quelque chose de vraiment exhaustif comme SAFe ? Il s'agit là de questions importantes.
+Comment puis-je imposer l'Agile et apaiser ma conscience, admettons-le, quelque peu mollassonne en même temps ? Et quelle est la meilleure méthode Agile à imposer ? Est-ce qu'il serait mieux d'en imposer une vraiment simple, comme Scrum, ou d'y aller à fond et d'imposant quelque chose de vraiment exhaustif comme SAFe ? Il s'agit là de questions importantes.
 
 Ma réponse est « non ». Voici ce que je ferais. J'ai écris ce texte comme si j'étais en train de faire une présentation, avec des questions venant du public. Si vous avez des commentaires ou des questions, j'adorerais que vous me les envoyiez par mél, ou sur le Slack [Agile Mentoring](https://agilementoring.com/), ou même sur Twitter. Sur Twitter, cela risque d'être un peu confus. Il est plus probable que la discussion sera plus aisée sur Agile Mentoring. Toutefois, c'est vous qui voyez.
 
 ## Comment allons-nous construire du logiciel ici à XYZ
 
-Bonjour tout le monde ! Parlons de comment nous allons construire du logiciel ici chez XYZ.
+Bonjour tout le monde ! Abordons le sujet de comment nous allons construire du logiciel ici chez XYZ.
 
 TL-PL, nous allons tout construire avec de petites équipes. Par petite, je veux dire, le plus souvent, moins de dix personnes, avec toutes les compétences nécessaires pour construire ce que nous avons à construire. Cela inclura les experts du domaine, les experts métiers, ainsi que les développeurs. Dans certains cas, une équipe pourrait avoir besoin de se reposer sur une fonction support, tel que le juridique ou le financier, mais l'idée générale est que chaque équipe aura facilement accès à toutes les connaissances et les compétences nécessaires pour construire le produit.
 
 ### Et si … il n'y avait personne de disponible avec une compétence importante ?
 
-Trois choses me viennent à l'esprit. La première, nous construirons nos équipes par ordre de priorité, et s'il nous manque une compétence importante, ce sera une indication-clé comme quoi nous avons trop de choses à faire. La deuxième, je suis très intéressé par aider les gens à apprendre de nouvelles choses, et un manque de compétences sera un signal comme quoi nous devons faire quelque chose à cet endroit-là. La troisième, si l'effort semble vraiment important, nous pourrions embaucher du personnel pour cela. Ce que nous essaierons d'éviter à tout prix c'est d'éviter de répartir les gens sur plein de tâches/initiatives/efforts différents. Ce n'est pas bon ni pour les personnes ni pour les tâches.
+Trois choses me viennent à l'esprit. La première, nous construirons nos équipes par ordre de priorité, et s'il nous manque une compétence importante, ce sera une indication-clé comme quoi nous avons trop de choses à faire. La deuxième, je suis très intéressé par aider les gens à apprendre de nouvelles choses, et un manque de compétences sera un signal comme quoi nous devons faire quelque chose à cet endroit précis. La troisième, si l'effort semble vraiment important, nous pourrions embaucher du personnel pour cela. Ce que nous essaierons d'éviter à tout prix c'est d'éviter de répartir les gens sur plein de tâches/initiatives/efforts différents. Ce n'est pas bon ni pour les personnes ni pour les tâches.
 
 ### Qu'en est-il pour de petits efforts en continu, est-ce que chacun d'entre eux aura une équipe dédiée ?
 
-La plupart des petites maintenances seront associées avec un produit, et cette équipe produit fera tout le petit boulot. Il est possible que nous aurons certains types de petites choses en continu qui ne seront pas associées avec un produit. Je n'ai pas une opinion tranchée sur comment cela devrait être fait, et je laisserai cela volontiers à la personne qui aura en charge la responsabilité du produit. L'idée principale sera de se focaliser sur les choses importantes et de fluidifier le travail autant que possible. Nous discuterons des éléments de petites tailles mais importants lorsqu'ils arriveront, et essayerons de trouver ce qui est le mieux.
+La plupart des petites maintenances sera associée avec un produit, et cette équipe produit fera tout le petit boulot. Il est possible que nous aurons certains types de petites choses en continu qui ne seront pas associées avec un produit. Je n'ai pas une opinion tranchée sur comment cela devrait être fait, et je laisserai cela volontiers à la personne qui aura en charge la responsabilité du produit. L'idée principale sera de se focaliser sur les choses importantes et de fluidifier le travail autant que possible. Nous discuterons des éléments de petites tailles mais importants lorsqu'ils arriveront, et nous essayerons de trouver ce qui est le mieux.
 
 ## Qu'en est-il des gros produits, de ceux qui ont besoin d'avoir plus d'une équipe ?
 
-Quelques fois, nous pourrions partitionner le produit. Nous pourrions scinder le processus de crédit et de débit de la fonctionnalité de comptabilisation de notre logiciel de comptabilité personnelle. Puis nous pourrions avoir une équipe pour chaque. Ou nous pourrions considérer un autre produit à intégrer et y affecter deux équipes. Pour cela, je me repose sur le fait d'être guidé par vous, les personnes qui travaillent dessus et par le besoin.
+Quelques fois, nous pourrions partitionner le produit. Nous pourrions scinder le processus de crédit et de débit de la fonctionnalité de comptabilisation de notre logiciel de comptabilité personnelle. Puis nous pourrions avoir une équipe pour chacun des deux. Ou nous pourrions considérer un autre produit à intégrer et y affecter deux équipes. Pour cela, je me repose sur le fait d'être guidé par vous, les personnes qui travaillent dessus et par le besoin.
 
 ### Et si … nous avons vraiment besoin d'une seule grosse équipe ?
 
@@ -44,7 +44,7 @@ Mon opinion est que les équipes perdent de l'efficacité au fur et à mesure qu
 
 ## Qu'est-ce que ces équipes feront ?
 
-Comme la plus grande majorité des entreprises du secteur, nous aurons généralement une seule activité - et une équipe produit focalisée avec l'autorité et la responsabilité de construire l'un (ou plusieurs) de nos produits. En travaillant avec de vrais clients et utilisateurs, chaque équipe déterminera les besoins des utilisateurs et les solutions, et les construira. Ils auront une vision générale du produit que nous pourrons tous comprendre, et nous passerons en revue le vrai logiciel très fréquemment, en examinant ce qu'il est, à quel pont fonctionne t'il bien, à quel point satisfait-il les utilisateurs. Nous discuterons ensuite qu'est-ce que l'équipe devrait faire ensuite, et l'équipe décidera quoi faire et le fera.
+Comme la plus grande majorité des entreprises du secteur, nous aurons généralement une seule activité - et une équipe produit focalisée avec l'autorité et la responsabilité de construire l'un (ou plusieurs) de nos produits. En travaillant avec de vrais clients et utilisateurs, chaque équipe déterminera les besoins des utilisateurs et les solutions, et les construira. Ils auront une vision générale du produit que nous pourrons tous comprendre, et nous passerons en revue le vrai logiciel très fréquemment, en examinant ce qu'il est, à quel point fonctionne t'il bien, à quel point satisfait-il les utilisateurs. Nous discuterons ensuite qu'est-ce que l'équipe devrait faire ensuite, et l'équipe décidera quoi faire et le fera.
 
 ### Comment les décisions seront-elles prises ?
 
@@ -60,7 +60,7 @@ J'y arrivais. S'il est question de donner une décision difficile sur cette chos
 
 Oui, ça l'est probablement. Et c'est ce que nous allons apprendre à faire, parce que nous sommes tous ensemble plus intelligents et plus forts qu'isolément. Mais il y a encore bien plus. Parlons du cycle de développement.
 
-Nous sommes dans le business de satisfaire les besoins utilisateurs grâce à des logiciels. C'est le boulot de l'informatique, bien sûr, que de servir les désidératas et les besoins de nos clients. Étant donné que l'informatique est ce que nous faisons, nous nous focaliserons avant tout sur notre management et sur la gestion de nos efforts. Nous nous focaliserons sur le produit : sur ce qu'il est, comment il évolue, comment il est accepté. La manière dont nous faisons cela sera différente de la manière dont certains d'entre vous sont habitués à le  faire. Certains autres dans l'organisation reconnaîtront ces idées, parce qu'ils les pratiquent déjà ou sont sur la bonne route.
+Nous sommes dans le business de satisfaire les besoins utilisateurs grâce à des logiciels. C'est le boulot de l'informatique, bien sûr, que de servir les désidératas et les besoins de nos clients. Puisque c'est le logiciel qui nous intéresse, c'est là dessus que nous mettrons l'accent de notre management et la focalisation de nos efforts. Nous nous focaliserons sur le produit : sur ce qu'il est, comment il évolue, comment il est accepté. La manière dont nous faisons cela sera différente de la manière dont certains d'entre vous sont habitués à le  faire. Certains autres dans l'organisation reconnaîtront ces idées, parce qu'ils les pratiquent déjà ou sont sur la bonne route.
 
 La règle est la suivante : _Chaque équipe produit sera responsable par avoir un produit prêt-à-être-livré, opérationnel, testé à tout moment, et contenant toutes les solutions que l'équipe aura choisie pour être incorporées dans le produit._
 
@@ -68,15 +68,15 @@ Toutes les deux semaines, votre équipe et les parties prenantes, y compris moi,
 
 ### Attendez un peu ! Nous sommes supposés mettre une nouvelle version à disposition dans tout juste deux semaines ?
 
-Oui. Il s'agit peut être de la partie la plus difficile quant à la manière dont nous allons faire les choses. Certains de nos produits actuels tiennent à peine sur leurs pieds. Certains, et tout spécialement avec certains de nos produits les plus anciens, tout semble durer une éternité et nous pouvons à peine livrer une version tous les six mois et encore. Donc cela veut dire que nos réunions toutes les deux semaines vous plutôt être ennuyeuses. Je vais demander à voir le produit, l'équipe Monolithe  va me montrer la même vieille version , je vais demander ce qu'il y a de nouveau, ils diront qu'il n'y a rien de nouveau. Je vais avoir l'air triste.  Ils essaieront de me dire ce « ouais … mais » il y a aura vraiment des choses sympas dans la Prochaine Version. Je vais demander si cela est opérationnel, si c'est intégré, si c'est testé, si cela fonctionne, prêt à être livré dans la version en face de moi. Ils diront non, et je dirai alors ne m'en parlez pas, je suis uniquement intéressé par ce qui peut être mis dans les mains du client dès maintenant.
+Oui. Il s'agit peut être de la partie la plus difficile quant à la manière dont nous allons faire les choses. Certains de nos produits actuels tiennent à peine sur leurs pieds. Certains, et tout spécialement avec certains de nos produits les plus anciens, tout semble durer une éternité et nous pouvons à peine livrer une version tous les six mois et encore. Donc cela veut dire que nos réunions toutes les deux semaines vont plutôt être ennuyeuses. Je vais demander à voir le produit, l'équipe Monolithe  va me montrer la même vieille version , je vais demander ce qu'il y a de nouveau, ils diront qu'il n'y a rien de nouveau. Je vais avoir l'air triste.  Ils essaieront de me dire ce « ouais … mais » il y a aura vraiment des choses sympas dans la Prochaine Version. Je vais demander si cela est opérationnel, si c'est intégré, si c'est testé, si cela fonctionne, prêt à être livré dans la version en face de moi. Ils diront non, et je dirai alors ne m'en parlez pas, je suis uniquement intéressé par ce qui peut être mis dans les mains du client dès maintenant.
 
-Je pourrais même être un vrai enfoiré là-dessus et réaliser un tableau de bords ou quelques graphiques, qui montre d'autres produits ayant, eux, ajouter des fonctionnalités toutes les deux semaines, et montrer le gros monolithe qui ne grossit pas pendant des mois, l'équipe Monolithe à coup sûr va être embarrassé.
+Je pourrais même être un vrai enfoiré là-dessus et réaliser un tableau de bord ou quelques graphiques, qui montre d'autres produits ayant, eux, ajouté des fonctionnalités toutes les deux semaines, et montrer le gros monolithe qui ne grossit pas pendant des mois, l'équipe Monolithe à coup sûr va être embarrassé.
 
 ### Mains nous ne pouvons pas faire ça ! Nous ne pouvons pas ajouter de nouvelles choses toutes les deux semaines
 
 Si l'équipe ne sait pas comment construire une version toutes les deux semaines avec au moins une nouvelle chose dedans, nous leur donnerons toute l'aide dont ils ont besoin pour apprendre à le faire. Mon expérience suggère que la plupart du temps, ils savent ce dont ils ont besoin, la plupart d'entre eux ont besoin d'un peu plus de temps pour rentrer dans ce mode. Mais peu importe le travail que cela demande, je suis sûr qu'ils vont arriver à trouver la solution, parce que l'équipe Monolithe coûte assez cher, et que l'entreprise mérite de voir ce dont ils sont capables et d'obtenir les bénéfices de leur travail avant que six mois s'écoulent.
 
-Je suis très impliqué sur ce type de sujet. Je fais ce type de boulot depuis longtemps, et chaque fois, j'ai trouvé que l'équipe trouve comment livrer de nouvelles choses de valeur toutes les deux semaines. Il y a peut-être des exceptions, et s'il y en a vraiment une, nous nous en occuperons. Mais nous allons prendre comme hypothèse que chaque équipe est capable de produire un incrément de logiciel toutes les deux semaines, et nous allons investir peu importe ce qu'il faut pour que cela arrive.
+Je suis très impliqué sur ce type de sujet. Je fais ce type de boulot depuis longtemps, et chaque fois, j'ai constaté que l'équipe trouve comment livrer de nouvelles choses de valeur toutes les deux semaines. Il y a peut-être des exceptions, et s'il y en a vraiment une, nous nous en occuperons. Mais nous allons prendre comme hypothèse que chaque équipe est capable de produire un incrément de logiciel toutes les deux semaines, et nous allons investir peu importe ce qu'il faut pour que cela arrive.
 
 Maintenant laissez-moi poser une question à mon tour, afin que personne dans la pièce ne se sente obligé de montrer trop sa tête. « Ron, c'est comme si vous étiez en train d'essayer de nous faire avaler contre notre gré une espèce de processus agile. Et si nous ne voulons pas le faire ? »
 
@@ -116,7 +116,7 @@ Honnêtement, je ne pense pas que nous nous soucions vraiment de savoir à quoi 
 
 Je suis certain que nous trouverons des manières appropriées pour présenter la vision, et j'espère que le Grand Opéra ne sera pas l'un d'entre eux. Ce serait encore pire que PowerPoint.
 
-En résumé, nous allons créer des équipes focalisées sur le client et le produit, avec la responsabilité et l'autorité pleine et entière de pouvoir gérer certains types de clients et ce qui les préoccupent. Ces équipes créeront une vision en continu du paysage du client et du produit, elles décideront ce qui doit être construit ensuite sur la base de cette vision. Elles produiront de nouvelles versions de leurs produits toutes les deux semaines. Elles partageront sur ce qu'elles ont créés avec leurs parties prenantes toutes les deux semaines. Nous parlerons de la vision actuelle et du produit actuel, et de ce qui à faire ensuite. Les équipes décideront des prochaines étapes et ce sera reparti pour un tour.
+En résumé, nous allons créer des équipes focalisées sur le client et le produit, avec la responsabilité et l'autorité pleine et entière de pouvoir gérer certains types de clients et ce qui les préoccupent. Ces équipes créeront une vision en continu du paysage du client et du produit, elles décideront ce qui doit être construit ensuite sur la base de cette vision. Elles produiront de nouvelles versions de leurs produits toutes les deux semaines. Elles partageront sur ce qu'elles ont créé avec leurs parties prenantes toutes les deux semaines. Nous parlerons de la vision actuelle et du produit actuel, et de ce qui à faire ensuite. Les équipes décideront des prochaines étapes et ce sera reparti pour un tour.
 
 Notre priorité sera mise sur le fait de créer de nouvelles solutions concrètes pour nos clients toutes les deux semaines, des solutions opérationnelles, testées, livrables qui seront passées en revue, mises au plus vite dans les mains de nos clients, et d'utiliser ces résultats pour guider des décisions futures.
 
@@ -130,7 +130,7 @@ Quant au processus que vous utilisez, nous n'imposons rien. Nous demandons un ce
 
 ### N'est-ce pas simplement une manière déguisée de nous forcer à devenir "Agile" ?
 
-Eh bien, nous demandons un logiciel opérationnel, testé, livrable toutes les deux semaines, de livrer ce que vous avez été en mesure de livrer il y a deux semaines. Il arrive simplement que je connais une manière basique d'y arriver, avec des équipes pluridisciplinaires ayant toutes les compétences nécessaires pour faire le boulot. Il arrive simplement que je crois que ces équipes trouveront des tests unitaires et d'acceptations exhaustifs qui seront la clé pour y arriver, qu'ils voudront apprendre pour faire évoluer leur conception en douceur grâce au refactoring dont ils auront besoin pour que leur système reste intégré tout le temps et ainsi de suite.
+Eh bien, nous demandons un logiciel opérationnel, testé, livrable toutes les deux semaines, de livrer ce que vous avez été en mesure de livrer il y a deux semaines. Il arrive simplement que je connais une manière basique d'y arriver, avec des équipes pluridisciplinaires ayant toutes les compétences nécessaires pour faire le boulot. Il arrive simplement que je crois que ces équipes trouveront des tests unitaires et d'acceptations exhaustifs qui seront la clé pour y arriver, qu'ils voudront apprendre pour faire évoluer leur conception en douceur grâce au _refactoring_ dont ils auront besoin pour que leur système reste intégré tout le temps et ainsi de suite.
 
 Étant donné que nous mettons en place une cadence de deux semaines pour la planification et la revue, vous pourriez vouloir envisager d'adopter des éléments de processus qui soit en accord avec cela et il y a de grandes chances que vous les trouviez dans l'espace de réflexion "Agile". Je suis certain que vous trouverez plusieurs manières de faire cela, et je peux vous indiquez certaines options si vous en avez besoin.
 
@@ -143,13 +143,13 @@ D'autres questions ? Vous savez où me trouvez.
 [^1]: Le Voile d'ignorance est une méthode pour établir la moralité d'un problème. Veuillez consulter cet [article](https://fr.wikipedia.org/wiki/Voile_d%27ignorance) de Wikipedia pour en savoir plus.
 
 ---
-Auteur : [Ron Jeffries](url_bio)  
+Auteur : [Ron Jeffries](https://ronjeffries.com/about.html)  
 Source : [How to impose Agile ?](https://ronjeffries.com/articles/018-01ff/imposition/)  
 Date de parution originale : 20 Juillet 2018  
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : jj/mm/yyyy  nbsp
+Date de traduction : 12/06/2019  
 
 ---
 
