@@ -51,7 +51,7 @@ Une variante habituelle à la fois dans le développement à usage interne et da
 
 L’illustration suivante montre le Product Owner dans différentes organisations :
 
-![Qui est le Product Owner selon les différents types de développement](({{ site.url }}assets/less/who-is-the-product-owner-in-different-types-of-development-fr.png))
+![Qui est le Product Owner selon les différents types de développement]({{ site.url }}assets/less/who-is-the-product-owner-in-different-types-of-development-fr.png | width=100)
 
 Dans tous les cas, un super Product Owner est une personne passionnée par le produit.
 
@@ -65,7 +65,7 @@ Le terme Product Owner n’est pas un nouveau nom donné à un responsable de pr
 
 Le Product Owner doit être en mesure de comprendre et travailler pour améliorer les cinq types de relations clés impactées par l’adoption de LeSS :
 
-![Les différents types de relation du Product Owner](({{ site.url }}assets/less/xproduct-owner-relationships-fr.png))
+![Les différents types de relation du Product Owner]({{ site.url }}assets/less/xproduct-owner-relationships-fr.png | width=400)
 
 * **Product Owner <-> Équipes**
 
