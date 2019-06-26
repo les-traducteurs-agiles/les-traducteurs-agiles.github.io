@@ -11,7 +11,7 @@ Le rôle de Product Owner dans LeSS est conceptuellement le même que celui dans
 
 ## Le Product Owner à grande échelle
 
-S’il est une chose assez répandu dans le développement de produit à grande échelle c’est que différentes personnes tirent dans différentes directions et pour des sous-groupes de se focaliser sur des sur-optimisations au niveau local. Avoir un seul Product Owner avec un seul Backlog de Produit permet de maintenir un [focus sur le produit global (fr)](http://www.les-traducteurs-agiles.org/2018/10/11/less-focus-sur-le-produit-global.html).
+S’il est une chose assez répandue dans le développement de produit à grande échelle c’est que différentes personnes tirent dans différentes directions et pour des sous-groupes de se focaliser sur des sur-optimisations au niveau local. Avoir un seul Product Owner avec un seul Backlog de Produit permet de maintenir un [focus sur le produit global (fr)](http://www.les-traducteurs-agiles.org/2018/10/11/less-focus-sur-le-produit-global.html).
 
 Dans les traditionnels groupes produit à grande échelle, nous trouvons d’une part un groupe (souvent des responsables produits - product managers -) focalisé vers l’extérieur et d’autre part un groupe (généralement les développeurs) focalisé vers l’intérieur - et jamais aucun des deux ne se rejoignent. Dans LeSS, le Product Owner unique dispose de beaucoup de temps pour se focaliser vers l’extérieur - les clients et leurs priorités - tout en étant aussi en capacité de prendre du temps pour se focaliser vers l’intérieur - les équipes. Il agit en tant que connecteur, faisant se réunir ensemble les équipes et les clients/utilisateurs afin que les équipes deviennent encore plus [orientées clients (fr)]https://less.works/less/principles/customer-centric.html).
 
@@ -19,7 +19,7 @@ Par rapport à d’autres approches de Scrum à grande échelle, il est possible
 
 ## Priorisation plus que Clarification
 
-Il y a deux flux d’informations-clés dans Scrum qui sont liés au Product Owner : (1) la priorisation (ordonnancement) des éléments dans le Backlog de Produit et (2) la clarification des éléments dans le Backlog de Produit. Dans le premier flux (priorisation), les informations liées aux centres de profits, aux clients stratégiques, aux risques métiers, et à d’autres préoccupations métiers sont recherchées et analysées. Dans le second flux (clarification), l’information est recherchée pou détailler le comportement et les qualités intrinsèques des éléments, l’expérience utilisateur, et à d’autres préoccupations sur la conception des fonctionnalités.
+Il y a deux flux d’informations-clés dans Scrum qui sont liés au Product Owner : (1) la priorisation (ordonnancement) des éléments dans le Backlog de Produit et (2) la clarification des éléments dans le Backlog de Produit. Dans le premier flux (priorisation), les informations liées aux centres de profits, aux clients stratégiques, aux risques métiers, et à d’autres préoccupations métiers sont recherchées et analysées. Dans le second flux (clarification), l’information est recherchée pour détailler le comportement et les qualités intrinsèques des éléments, l’expérience utilisateur, et à d’autres préoccupations sur la conception des fonctionnalités.
 
 Un Product Owner LeSS porte une réflexion accrue sur la priorisation mais collabore avec les équipes sur la clarification. De plus, il encourage et aide les équipes à entrer en communication directe avec les véritables utilisateurs et clients pour plus de clarification. Il agit en tant que connecteur, pas en tant qu’intermédiaire.
 
