@@ -36,7 +36,7 @@ La [loi de Brook](https://fr.wikipedia.org/wiki/Loi_de_Brooks) résulte de l'obs
 
 Ce sont ces vérités dérangeantes, qui nous obligent à chercher des alternatives prometteuses si nous voulons voir aboutir les travaux dans un délai réaliste.
 
-Rejoignez-nous pour le [5ème épisode](https://agileotter.blogspot.com/2018/10/q-and-on-velocity-part-v.html)
+Rejoignez-nous pour le [5ème épisode](http://www.les-traducteurs-agiles.org/2019/07/15/questions-reponses-a-propos-de-la-velocite-5eme-partie.html)
 
 [^1]: le surnom de l'auteur est _Agile Otter_, la loutre agile - NdT
 [^2]: Steven M. R. Covey surnommé le second a écrit « la vitesse de la confiance » et son père a écrit notamment « Les sept habitudes des gens efficaces » ainsi que « Le pouvoir de la confiance »
