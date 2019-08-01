@@ -49,48 +49,52 @@ Lorsqu'une organisation est structurée autour d'équipes _projet_, elles sont t
 
 When organizations create component-based teams, even if the teams are cross-functional, they need to plan all together to see when a feature might be ready. They do need everyone in the room for Big Planning, where they have string connecting the various interdependencies. I explained about this in [How Long Are Your Iterations, Part 2.](https://www.jrothman.com/mpd/agile/2015/11/how-long-are-your-iterations-part-2/)
 
-Lorsque des organisations créent des équipes composants même si les équipes sont pluridisciplinaires, elles doivent planifier ensemble pour voir lorsqu'une fonctionnalité pourra être prête. Elles ont besoin que tout le monde soit présent dans la pièce pour faire le Grand Planning
+Lorsque des organisations mettent en place des équipes composants même si les équipes sont pluridisciplinaires, elles doivent planifier ensemble pour voir lorsqu'une fonctionnalité pourra être prête. Elles ont besoin que tout le monde soit présent dans la pièce pour faire le Grand Planning pendant lequel elles doivent relier les différentes interdépendances. J'ai déjà expliqué tout ceci dans mon article [How Long Are Your Iterations, Part 2.](https://www.jrothman.com/mpd/agile/2015/11/how-long-are-your-iterations-part-2/).
 
 The planning is a problem because the team configuration means we interrupt the teams on a regular basis to replan. They're not working on new features. They spend time estimating and organization in prep for a new plan that might need to change the next week.
 
-
+La planification est un problème en tant que tel parce que au niveau de la configuration de l'équipe cela signifie que nous interrompons les équipes régulièrement pour replanifier. Elles ne travaillent plus sur de nouvelles fonctionnalités. Elles passent un certain temps à estimer et à s'organiser en vue de préparer un nouveau plan qui pourrait être amené à changer la semaine d'après.
 
 That's a problem, but it's even worse for the product value team. When teams organize by component, not features, the product value team cannot shepherd the business value of the product.
 
-
+C'est un problème, mais c'est encore pire pour l'équipe valeur produit. Lorsque les équipes sont organisées par composants, non par fonctionnalités, l'équipe valeur produit s'avère incapable de guider et d'orienter la valeur métier du produit.
 
 ## Change Team Organization to Focus on Product or Features
 
-
+## Changer l'organisation de l'équipe pour se concentrer sur le produit ou les fonctionnalités
 
 I do recommend that the teams move from component-based teams to feature teams. I suggested one way everyone in a given location could do that in [One Experimental Possibility: Self-Organization from Component Teams to Feature Teams](https://www.jrothman.com/mpd/agile/2014/09/one-experimental-possibility-self-organization-from-component-teams-to-feature-teams/).
 
-
+Je recommande vivement que les équipes passent d'équipes composants à des équipes features. J'ai proposé une certaine manière de faire pour que tout le monde dans un certain lieu géographique soit en capacité de le faire dans cet article [One Experimental Possibility: Self-Organization from Component Teams to Feature Teams](https://www.jrothman.com/mpd/agile/2014/09/one-experimental-possibility-self-organization-from-component-teams-to-feature-teams/).
 
 The value of product or feature teams is that the product value team can then create small rolling waves and replan without a lot of pre-work in the form of story breakdown with estimation. Instead, they can use cycle time. For example, teams might always do an experiment in one day—they would timebox the work to one day and work on just that experiment as a team in one day.
 
-
+L'intérêt et la valeur d'une équipe produit ou d'une équipe feature est que l'équipe valeur produit est en mesure de créer de petites vagues en continu et replanifier sans avoir à faire énormément de travail préparatoire de décomposition et d'estimation de _stories_. À la place de cela, elle peut utiliser le temps de cycle. Par exemple, les équipes devraient toujours faire une expérience sur une journée - elles devraient limiter le travail sur une journée et travailler en équipe uniquement sur cette expérience sur une seule journée.
 
 When feature teams don't rely on anyone else to finish a feature, lots of the difficulties in product development becomes easier:
 
-
+Lorsque les équipes feature ne sont pas dépendantes de qui que ce soit pour finir une fonctionnalité, un bon nombre de difficultés deviennent plus faciles à gérer :
 
 * The team can deploy on its own
 * The team can define its various cycle times, either with measurement or with timeboxing
 * The product value team can replan more often with less pain
 * Everyone spends much less time in meetings and in estimation because the  work has more ease.
 
-
+* L'équipe peut déployer toute seule
+* L'équipe peut définir ses propres temps de cycle, soit à partir d'un indicateur soit à partir d'une délai imparti
+* L'équipe valeur produit est en mesure de replanifier plus souvent avec moins de difficultés
+* Tout le monde passe moins de temps en réunions et en estimation parce que le travail est rendu plus confortable
 
 I will have to write a post about the cost of creation. Argh, this series is getting longer!
 
-
+Je pense que je vais devoir écrire un article à part entière sur le coût de la création. Argh, cette série d'articles devient de plus en plus longue !
 
 When everyone focuses on _product-based_ roles instead of project-based roles, everyone wins. (You can still do projects. Yes, that's part of the next post, I think.)
 
+Lorsque tout le monde est focalisé sur des rôles orientés produit plutôt qu'orientés proejt, tout le monde y gagne. (Vous pouvez toujours faire des projets. Et cela fera l'objet aussi, je pense, du prochain article).
 
 [^1]: NdT : [ici](https://www.jrothman.com/mpd/program-management/2013/01/managing-the-stream-of-features-in-a-program/) pour être plus précis
-[^2]: NdT : par minimum, l'auteure fait allusion aux notions de MVP et de MMF évoquées dans le 1er épisode de cette série d'articles  
+[^2]: NdT : par minimum, l'auteure fait allusion aux notions de MVP et de MMF évoquées dans le 1er épisode de cette série d'articles
 ---
 Auteur : [Prénom_Nom](url_bio)  nbsp
 Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
