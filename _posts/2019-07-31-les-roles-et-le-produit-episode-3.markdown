@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "les rôles et le produit - épisode 3"
-date:   2019-07-31 00:01
-published: false
+title:  "Les rôles et le produit - épisode 3 : équipes orientées produit ou feature vs équipes projet"
+date:   2019-08-03 00:01
+published: true
 tags:
 - product owner
 ---
@@ -55,9 +55,9 @@ Lorsque tout le monde est focalisé sur des rôles orientés produit plutôt qu'
 [^1]: NdT : [ici](https://www.jrothman.com/mpd/program-management/2013/01/managing-the-stream-of-features-in-a-program/) pour être plus précis
 [^2]: NdT : par minimum, l'auteure fait allusion aux notions de MVP et de MMF évoquées dans le 1er épisode de cette série d'articles  
 [^3]: NdT : ou intergiciel pour la traduction française toutefois moins répandue
-[^4]: NdT : question posée par l'auteur dans le texte original
+[^4]: NdT : question posée par l'auteure dans le texte original
 [^5]: NdT : et pas uniquement dans un même lieu géographique, l'auteure dans cet article évoque aussi cela pour des équipes géographiquement distribuées
-[^6]: NdT : Ou timebox pour les personnes préférant le terme anglo-saxon
+[^6]: NdT : Ou _timebox_ pour les personnes préférant le terme anglo-saxon
 ---
 Auteur : [Johanna Rothman](https://www.createadaptablelife.com/about)  
 Source : [Product Roles, Part 3: Product or Feature Teams vs Project Teams](https://www.jrothman.com/mpd/agile/2019/04/product-roles-part-3-product-or-feature-teams-vs-project-teams/)  
@@ -65,7 +65,7 @@ Date de parution originale : 11 Avril 2019
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 01/08/2019  
+Date de traduction : 03/08/2019  
 
 ---
 
