@@ -25,11 +25,11 @@ tags:
 ## Articles thématiques
 ---
 
-* [Portail Framework LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html) - 90%
+* [Portail Framework LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html) - 95%
   * [Introduction à LeSS](http://less.works/less/framework/introduction.html)
   * [Pourquoi LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/pourquoi-less.html)
   * [Le Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/15/less-le-produit.html)
-  * [Le Product Owner](http://less.works/less/framework/product-owner.html)
+  * [Le Product Owner (fr)](http://www.les-traducteurs-agiles.org/2019/06/16/less-product-owner.html)
   * [Le Backlog du Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/22/less-le-backlog-du-produit.html)
   * [Les Équipes (fr)](http://www.les-traducteurs-agiles.org/2017/03/02/less-les-equipes.html)
   * [Le Sprint (fr)](http://www.les-traducteurs-agiles.org/2017/04/17/less-le-sprint.html)
