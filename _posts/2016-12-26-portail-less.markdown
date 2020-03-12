@@ -71,7 +71,7 @@ tags:
   * [ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2016/12/31/less-scrummaster.html)
 
 
-* [Portail Excellence Technique (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-excellence-technique.html) - 36%
+* [Portail Excellence Technique (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-excellence-technique.html) - 45%
   * [Spécifications par l'exemple (fr)](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html)
   * [Intégration Continue (fr)](http://www.les-traducteurs-agiles.org/2018/11/20/less-integration-continue.html)
   * [Livraison Continue](https://less.works/less/technical-excellence/continuous-delivery.html)
@@ -79,7 +79,7 @@ tags:
   * [Architecture & Conception](http://less.works/less/technical-excellence/architecture-design.html)
   * [Ecrire du Code Propre](http://less.works/less/technical-excellence/clean-code.html)
   * [Tests unitaires](http://less.works/less/technical-excellence/unit-testing.html)
-  * [Développement piloté par les tests](http://less.works/less/technical-excellence/test-driven-development.html)
+  * [Développement piloté par les tests (fr)](http://www.les-traducteurs-agiles.org/2020/03/08/less-developpement-pilote-par-les-tests.html)
   * [Réflexions à propos des tests](http://less.works/less/technical-excellence/thinking-about-testing.html)
   * [Automatisation des tests](http://less.works/less/technical-excellence/test-automation.html)
 
