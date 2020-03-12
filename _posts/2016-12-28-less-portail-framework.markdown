@@ -14,7 +14,7 @@ tags:
 ![Framework LeSS]({{ site.url }}assets/less/why-less-framework_fr.png)
 
 * [Introduction à LeSS](http://less.works/less/framework/introduction.html)
-* [Pourquoi LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/pourquoi-less.html)
+* [Pourquoi LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/pourquoi-less.html) 
 * [Le Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/15/less-le-produit.html)
 * [Le Product Owner (fr)](http://www.les-traducteurs-agiles.org/2019/06/16/less-product-owner.html)
 * [Le Backlog du Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/22/less-le-backlog-du-produit.html)
