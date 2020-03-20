@@ -39,7 +39,7 @@ Cet article aborde le problème lorsque les gens travaillent individuellement.
 
 L'Entreprise A travaille sur son énième « transformation agile ». J'ai mis cela entre guillemets parce que les managers veulent que les équipes changent. En réalité ce sont les managers qui doivent d'abord changer.
 
-L'un des plus gros problèmes c'est que les managers pensent que les approches agiles leur permettront de livrer plus vite. Oui, et, cette livraison ne se produit qu'à partir de cycles de feedback rapides, autrement dit d'apprentissages rapides.
+L'un des plus gros problèmes c'est que les managers pensent que les approches agiles leur permettront de livrer plus vite. Oui, et, cette livraison découle de cycles de feedback rapides, autrement dit d'apprentissages rapides.
 
 [Le dévelopement de produit logiciel c'est de l'apprentissage (vo)](https://www.jrothman.com/mpd/project-management/2013/10/why-do-we-estimate-anyway/) avant tout. Le plus rapidement nous apprenons, le plus vite nous pouvons livrer quelque chose d'utile.
 
