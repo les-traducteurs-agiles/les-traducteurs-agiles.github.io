@@ -109,7 +109,7 @@ Plus vous en faites en sorte de réduire vos boucles de feedback, plus vous renf
 
 La série :
 
-* [Construire la résilience d'une équipe : travailler ensemble (1ère partie)](http://www.les-traducteurs-agiles.org/2020/03/19/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html)
+* [Construire la résilience d'une équipe : travailler ensemble (1ère partie)](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html)
 * [Construire la résilience d'une équipe : Raccourcir les boucles de feedbacks (2ème partie)](http://www.les-traducteurs-agiles.org/2020/03/31/construire-la-resilience-d-une-equipe-raccourcir-les-boucles-de-feedbacks-2eme-partie.html)
 * [Construire la résilience d'une équipe : Travailler « n'importe où » et « n'importe quand » (3ème partie - traduction à venir)](https://www.jrothman.com/mpd/management/2020/03/build-team-resilience-work-anywhere-and-anytime-part-3/)
 * [Construire la résilience d'une équipe en résumé (4ème partie - traduction à venir)](https://www.jrothman.com/mpd/management/2020/03/build-team-resilience-summary-part-4/)
