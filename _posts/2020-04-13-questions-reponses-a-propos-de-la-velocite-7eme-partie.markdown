@@ -57,7 +57,7 @@ Nous commençons à voir ici, nous l'espérons, une lumière commencer à appara
 
 Rejoignez-nous, A, B et moi-même dans la [8ème partie (vo)](https://agileotter.blogspot.com/2018/12/q-and-on-velocity-part-viii.html)
 
-[^1]: NdT - Pour en savoir plus sur le cône d'incertitude : http://www.les-traducteurs-agiles.org/2013/10/15/contrats-agiles.html
+[^1]: NdT - Pour en savoir plus sur le cône d'incertitude : [http://www.les-traducteurs-agiles.org/2013/10/15/contrats-agiles.html](http://www.les-traducteurs-agiles.org/2013/10/15/contrats-agiles.html)
 
 ---
 Auteur : Tim Ottinger  
