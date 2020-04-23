@@ -112,7 +112,7 @@ La série :
 * [Construire la résilience d'une équipe : travailler ensemble (1ère partie)](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html)
 * [Construire la résilience d'une équipe : raccourcir les boucles de feedbacks (2ème partie)](http://www.les-traducteurs-agiles.org/2020/03/31/construire-la-resilience-d-une-equipe-raccourcir-les-boucles-de-feedbacks-2eme-partie.html)
 * [Construire la résilience d'une équipe : travailler « n'importe où » et « n'importe quand » (3ème partie)](http://www.les-traducteurs-agiles.org/2020/04/08/construire-la-resilience-d-une-equipe-travailler-n-importe-ou-et-n-importe-quand-3eme-partie.html)
-* [Construire la résilience d'une équipe en résumé (4ème partie - traduction à venir)](https://www.jrothman.com/mpd/management/2020/03/build-team-resilience-summary-part-4/)
+* [Construire la résilience d'une équipe en résumé (4ème partie)](http://www.les-traducteurs-agiles.org/2020/04/23/construire-la-resilience-d-une-equipe-en-resume-4eme-partie.html)
 
 [^1]: NdT : Copie du contenu de tout ou partie d'une base de données ou de la mémoire d'une machine sous la forme d'un fichier à des fins d'analyse.  
 
