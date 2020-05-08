@@ -8,7 +8,7 @@ tags:
 - jeu
 ---
 
-À télécharger à partir de ce lien : [xpgame-FR.zip](https://db.tt/gA3JSsz1)
+À télécharger à partir de ce lien : [xpgame-FR.zip](https://www.dropbox.com/s/7v3qyw370rxmi79/xpgame-FR.zip?dl=0)
 
 
 ---
@@ -18,7 +18,7 @@ Date de parution originale : 24 Décembre 2010
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relecteurs : [Sylvain Fraïssé, Laurent Carbonnaux, Fabrice Aimetti](http://www.les-traducteurs-agiles.org/traducteurs/)
+Relecteurs : [Sylvain Fraïssé, Laurent Carbonnaux, Fabrice Aimetti](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 25/06/2012  
 
 ---
