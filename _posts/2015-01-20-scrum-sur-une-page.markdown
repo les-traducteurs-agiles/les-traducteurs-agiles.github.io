@@ -14,7 +14,7 @@ tags:
 
 ---
 Auteur : [Bill Wake](http://xp123.com/about/)  
-Source : [XP on one page](http://xp123.com/articles/xp-on-one-page/)  
+Source : [Scrum Development on a Page](https://xp123.com/articles/scrum-development-on-a-page/)  
 Date de parution originale : 06 Juillet 2005  
 
 ---
