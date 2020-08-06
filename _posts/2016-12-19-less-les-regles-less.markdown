@@ -11,7 +11,7 @@ tags:
 
 [(ce qui a changé depuis la dernière version)](http://less.works/less/rules/rules-changes.html)
 
-Les Règles LeSS constituent la définition du Framework LeSS. C'est ce que nous considérons comme étant indispensable. Pourquoi ? C'est ce que nous expliquons dans l'article [Pourquoi LeSS ? (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/pourquoi-less.html).
+Les Règles LeSS constituent la définition du Framework LeSS. C'est ce que nous considérons comme étant indispensable. Pourquoi ? C'est ce que nous expliquons dans l'article [Pourquoi LeSS ? (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/pourquoi-less.html).
 
 ## Les règles du framework LeSS
 
