@@ -62,7 +62,7 @@ Nous avons alors réalisé que notre premier travail sur la mise à l'échelle n
 
 ## LeSS en tant que framework
 
-LeSS est bien plus qu'un ensemble de principes et d'expériences. Il fournit aussi un framework avec des règles. Les [Règles LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/29/less-les-regles-less.html) définissent ce qu'est (et n'est pas) LeSS et fournissent un framework concret pour mettre en oeuvre LeSS. Au sein du framework LeSS, les groupes produit peuvent mener des expériences et découvrir ce qui fonctionne le mieux pour eux à un certain moment.
+LeSS est bien plus qu'un ensemble de principes et d'expériences. Il fournit aussi un framework avec des règles. Les [Règles LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-les-regles-less.html) définissent ce qu'est (et n'est pas) LeSS et fournissent un framework concret pour mettre en oeuvre LeSS. Au sein du framework LeSS, les groupes produit peuvent mener des expériences et découvrir ce qui fonctionne le mieux pour eux à un certain moment.
 
 Ceci est à la base du troisième livre sur LeSS, simplement nommé [Large-Scale Scrum](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710). Dans ce livre, LeSS est défini avec :
 
