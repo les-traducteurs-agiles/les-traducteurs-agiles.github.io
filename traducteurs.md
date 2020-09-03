@@ -52,6 +52,15 @@ permalink: /traducteurs/
 </div>
 
 <div class="thumbnails">
+  <img src="/assets/lta/cidalia_de_bastos.png" />  
+
+  <h4> Cidalia de Bastos </h4>
+  <p>[Linkedin](https://www.linkedin.com/in/cidalia-de-bastos-1991a0ba/)</p>
+  <p>&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+<div class="thumbnails">
   <img src="http://www.gravatar.com/avatar/1f997170569f6150ae82919e4f2e3659?s=180" />  
 
   <h4> Pierre Fauvel </h4>
