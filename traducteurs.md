@@ -74,7 +74,7 @@ permalink: /traducteurs/
 
   <h4> Sylvain Fraïssé </h4>
   <p>Twitter : <a href="https://twitter.com/sfui">@sfui</a></p>
-  <p>&nbsp;</p>
+  <p>&nbsp;<br />&nbsp;</p>
   <p>&nbsp;</p>
 </div>
 
@@ -83,7 +83,7 @@ permalink: /traducteurs/
 
   <h4> Florent Lothon </h4>
   <p>Twitter : <a href="https://twitter.com/lagiliste">@lagiliste</a></p>
-  <p>Web : <a href="http://agiliste.fr">L'agiliste</a></p>
+  <p>Web : <a href="http://agiliste.fr">L'agiliste</a><br />&nbsp;</p>
   <p>&nbsp;</p>
 </div>
 
