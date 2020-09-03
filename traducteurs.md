@@ -92,7 +92,7 @@ permalink: /traducteurs/
 
   <h4> Nicolas Mereaux </h4>
   <p>Twitter : <a href="https://twitter.com/__nime__">@__nime__</a></p>
-  <p>&nbsp;</p>
+  <p>&nbsp; <br />&nbsp; </p>
   <p>&nbsp;</p>
 </div>
 
@@ -101,7 +101,7 @@ permalink: /traducteurs/
 
   <h4> Nicolas Mingo </h4>
   <p>Twitter : <a href="https://twitter.com/nicolas_mingo">@nicolas_mingo</a></p>
-  <p>&nbsp;</p>
+  <p>&nbsp; <br />&nbsp; </p>
   <p>&nbsp;</p>
 </div>
 
