@@ -8,7 +8,7 @@ tags:
 - sécurité psychologique
 ---
 
-élécharger à partir de ce [lien]({{ site.url }}assets/modern_agile/High_Performance_via_Psychological_Safety-fr.pdf) ou en cliquant directement sur l’image.  
+À télécharger à partir de ce [lien]({{ site.url }}assets/modern_agile/High_Performance_via_Psychological_Safety-fr.pdf) ou en cliquant directement sur l’image.  
 
 [![Haute performance via la sécurité psychologique]({{ site.url }}assets/modern_agile/miniature.png)]({{ site.url }}assets/modern_agile/High_Performance_via_Psychological_Safety-fr.pdf)
 
