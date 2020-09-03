@@ -56,7 +56,7 @@ permalink: /traducteurs/
 
   <h4> Cidalia de Bastos </h4>
   <p><a href="https://www.linkedin.com/in/cidalia-de-bastos-1991a0ba/">LinkedIn</a></p>
-  <p>&nbsp;</p>
+  <p>&nbsp; <br />&nbsp; </p>
   <p>&nbsp;</p>
 </div>
 
