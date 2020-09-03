@@ -110,7 +110,7 @@ permalink: /traducteurs/
 
   <h4> Antoine Vernois </h4>
   <p>Twitter : <a href="https://twitter.com/avernois">@avernois</a></p>
-  <p>Web : <a href="https://blog.crafting-labs.fr/">Crafting Labs : le blog</a></p>
+  <p>Web : <a href="https://blog.crafting-labs.fr/">Crafting Labs : le blog</a><br /></p>
   <p>&nbsp;</p>
 </div>
 
