@@ -52,7 +52,7 @@ permalink: /traducteurs/
 </div>
 
 <div class="thumbnails">
-  <img src="/assets/lta/cidalia_de_bastos.png" />  
+  <img src="/assets/lta/cidalia_de_bastos.jpg" />  
 
   <h4> Cidalia de Bastos </h4>
   <p><a href="https://www.linkedin.com/in/cidalia-de-bastos-1991a0ba/">LinkedIn</a></p>
