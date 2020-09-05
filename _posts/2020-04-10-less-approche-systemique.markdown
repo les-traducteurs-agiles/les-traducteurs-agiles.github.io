@@ -330,11 +330,11 @@ Enlever le système de récompense est une solution à la cause racine de ce dys
 
 **Interaction effects**—There is the constraint of cash supply on hiring. One hard and slow solution is to get more cash. A quicker fix is to hire _much_ cheaper developers. In this case, the level of cash supply now has an _interaction effect_ with other causal links. Low cash tends to strengthen the hire rate of much cheaper developers when there is pressure to increase hire rates.
 
-
+**Effets d'interaction** - Il y a la contrainte budgétaire pour pouvoir embaucher. Une solution de longue haleine et assez difficile est d'obtenir davantage de budget. Une solution de fortune est de recruter un _grand_ nombre de développeurs bon marché. Dans ce cas, le niveau du budget a un _effet d'interaction_ avec les autres boucles causales. Un budget peu élevé aura tendance à renforcer le taux de développeurs bon marché lorsque la pression pour recruter augmentera.
 
 One could simply draw an (opposite) causal link directly from _cash supply_ to _hire rate of very cheap developers_ , but that merely says that less cash leads to more hiring of extremely cheap developers. That is not quite what we want to say; rather, we want to show the interaction effect—that effect A influences _effect_ B. This is done by showing a causal link entering another causal link. For example, from _cash supply_ to the quick-fix line going into _hire rate of very cheap developers_ :
 
-
+On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée budgétaire_ à _taux de recrutement de développeurs bon marché_, mais cela veut simplement dire qu'avoir un budget moindre a pour conséquence de recruter davantage de développeurs bon marché. Mais ce n'est pas tout à fait ce que nous voulons dire ; ce que voulons montrer en fait, c'est l'effet d'interaction - c'est-à-dire qu'un effet A influence un _effet_ B. Cela se fait en montrant un lien de causalité heurtant un autre lien de causalité. Par exemple, en traçant une ligne de _rentrée budgétaire_ vers la ligne représentant la solution de fortune qui va vers 
 
 ![systems thinking-13.png](https://less.works/img/systems-thinking/xsystems,P20thinking-13.png.pagespeed.ic.LvAE8ewRFJ.webp)
 
