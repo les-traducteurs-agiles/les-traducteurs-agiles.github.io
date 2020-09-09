@@ -334,7 +334,7 @@ Enlever le système de récompense est une solution à la cause racine de ce dys
 
 One could simply draw an (opposite) causal link directly from _cash supply_ to _hire rate of very cheap developers_ , but that merely says that less cash leads to more hiring of extremely cheap developers. That is not quite what we want to say; rather, we want to show the interaction effect—that effect A influences _effect_ B. This is done by showing a causal link entering another causal link. For example, from _cash supply_ to the quick-fix line going into _hire rate of very cheap developers_ :
 
-On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée budgétaire_ à _taux de recrutement de développeurs bon marché_, mais cela veut simplement dire qu'avoir un budget moindre a pour conséquence de recruter davantage de développeurs bon marché. Mais ce n'est pas tout à fait ce que nous voulons dire ; ce que voulons montrer en fait, c'est l'effet d'interaction - c'est-à-dire qu'un effet A influence un _effet_ B. Cela se fait en montrant un lien de causalité heurtant un autre lien de causalité. Par exemple, en traçant une ligne de _rentrée budgétaire_ vers la ligne représentant la solution de fortune qui va vers 
+On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée budgétaire_ à _taux de recrutement de développeurs bon marché_, mais cela veut simplement dire qu'avoir un budget moindre a pour conséquence de recruter davantage de développeurs bon marché. Mais ce n'est pas tout à fait ce que nous voulons dire ; ce que voulons montrer en fait, c'est l'effet d'interaction - c'est-à-dire qu'un effet A influence un _effet_ B. Cela se fait en montrant un lien de causalité heurtant un autre lien de causalité. Par exemple, en traçant une ligne de _rentrée budgétaire_ vers la ligne représentant la solution de fortune qui va vers _taux de recrutement de développeurs bon marché_.
 
 ![systems thinking-13.png](https://less.works/img/systems-thinking/xsystems,P20thinking-13.png.pagespeed.ic.LvAE8ewRFJ.webp)
 
@@ -342,11 +342,11 @@ On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée bud
 
 **Extreme effects**—We have worked with some very inexpensive developers with excellent skill and some very expensive developers that are terrible, but on average, you get what you pay for—when you hire from a large pool of very cheap labor, the average skill level is lower. In the model we want to show that the impact of hiring very cheap labor on the _number of low-skilled developers_ is a significantly greater effect than average.
 
-
+**Effets extrêmes** - Il nous est arrivé de travailler avec d'excellents développeurs très bon marché et avec d'autres développeurs très chers et très nuls, mais en moyenne, vous avez ce p à hauteur de ce que vous payez - lorsque vous recrutez en masse au moins disant, le niveau moyen en terme de compétences est plus bas. Nous voulons montrer que l'impact du recrutement de personnes bon marché en rapport avec le _nombre de développeurs peu qualifiés_ à un impact ici sensiblement plus grand que la moyenne.
 
 To show an _extreme effect_ in the model, use a thick line:
 
-
+Pour montrer un _effet extrême_ sur le modèle, faites un trait épais :
 
 ![systems thinking-14.png](https://less.works/img/systems-thinking/xsystems,P20thinking-14.png.pagespeed.ic.JYkqz8Qe24.webp)
 
