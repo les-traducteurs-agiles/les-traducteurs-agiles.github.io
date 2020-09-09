@@ -354,15 +354,15 @@ Pour montrer un _effet extrême_ sur le modèle, faites un trait épais :
 
 **Delays**—One problem in hiring in software development is the _fallacy of mild programmer variance_ —the mistaken belief that programmer variance (in terms of productivity, code quality, etc.) is relatively small. However, programmer variance studies suggest an average of four times faster in the top versus bottom quartile [[Prechelt00]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.4788). Rather significant. Also, the COCOMO model—based on large and longitudinal studies—shows that the capability of the development personnel is by far the most important factor for productivity [[Boehm00]](http://www.amazon.com/Software-Cost-Estimation-Cocomo-II/dp/0130266922/ref=sr_1_1?ie=UTF8&qid=1413597244&sr=8-1&keywords=Software+Cost+Estimation+with+Cocomo+II). And, on average, very weak programmers create poor-quality code (poor design) and more defects, creating another drag on the system.
 
-
+**Retards** Un problème courant au niveau du recrutement dans un projet de développement logiciel est _l'erreur au niveau de la variance d'un développeur moyen_ - autrement dit la croyance fausse que la variance d'un développeur à un autre (en terme de productivité, de qualité de code, etc.) est relativement faible. Toutefois, les études de la variance au sujet des développeurs montrer un rapport de un à 4 entre le 1er quartile et le dernier [[Prechelt00]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.4788). C'est plutôt quelque chose de significatif. De même des études - aussi bien longitudinales que transversales - du modèle COCOMO  montrent que la capacité du développement personnel est le facteur de loin le plus important quant à la productivité [[Boehm00]](http://www.amazon.com/Software-Cost-Estimation-Cocomo-II/dp/0130266922/ref=sr_1_1?ie=UTF8&qid=1413597244&sr=8-1&keywords=Software+Cost+Estimation+with+Cocomo+II). Et, en moyenne, il s'avère que les développeurs peu qualifiés font du code de mauvaise qualité (mauvaise conception) et de plus d'anomalies, ceci rajoute un autre frein au système.
 
 But the impacts of these effects are not immediately obvious. For example, it takes a relatively long time after hiring a large pool of weak programmers before the impacts of more and more bad code/design start to be felt. Similarly, the average _decrease_ in feature velocity (because of the powerful impact of programmer variance) will not show up immediately.
 
-
+Mais l'impact de ces effets ne sont pas visibles immédiatement. Par exemple, cela prend un temps relativement long après avoir recruté un grand nombre de développeurs peu qualifiés avant que les impacts ne fassent sentir en terme de mauvais code ou de mauvaise conception. De manière similaire, la _baisse_ moyenne de la vélocité au niveau des features (en raison de l'impact majeur de la variance au niveau des développeurs évoquée plus haut) ne se verra pas immédiatement.
 
 To show these _delayed effects_ in the model, use a double-line through the effect line:
 
-
+Pour montrer ces _effets tardifs_ dans le modèle faites une double-ligne en travers de la ligne d'effet.
 
 ![systems thinking-15.png](https://less.works/img/systems-thinking/xsystems,P20thinking-15.png.pagespeed.ic.0fwliLJm6G.webp)
 
@@ -370,11 +370,11 @@ To show these _delayed effects_ in the model, use a double-line through the effe
 
 Delay has an intriguing influence on the _educational_ or corrective power in a system. If an impact or unintended consequence is long delayed, one does not feel the effect (pain or gain) and so does not clearly see how A influenced B, or more subtly how _A influenced B influenced A_ .
 
-
+Le retard  a une influence assez intéressant sur le pouvoir _pédagogique_ ou correctif sur un système. Si un impact ou une conséquence inattendue est retardé longtemps, personne ne voit l'effet (qu'il soit bénéfique ou néfaste) et il est en de même sur comment A influence B ou plus subtilement comment _A a influencé B qui a influencé A_.  
 
 Therefore, one does not learn from or correct mistakes—in policy, management actions, tools, and so forth. Likewise, gradual improvement through the lean thinking practice of _kaizen_ can take a long time; patience and insight are needed to see if and how things improve.
 
-
+Par conséquent, personne n'apprend de ses erreurs ni ne les corrige - que ce soit en terme de stratégie, d'actions d'encadrement, d'outils ou de quoi que ce soit. De la même manière, l'amélioration graduelle à travers la pratique _kaizen_ de l'approche lean peut prendre un certain temps ; de la patience et de la perspicacité sont nécessaires pour voir si et comment les choses s'améliorent. 
 
 **Positive feedback loops**—Negative or positive feedback loops<sup>[5](https://less.works/less/principles/systems-thinking.html#footnote-5)</sup> and delays are where things start to get more subtle in a system—and in understanding a system. For example, how does one become a better programmer? In part, by mentoring from great programmers and seeing lots of examples of great code. But an office with a lot of low-skill developers does not generate a lot of great code examples, nor does it attract or retain the small pool of great programmers who could act as mentors. They would rather work somewhere else.
 
