@@ -374,19 +374,19 @@ Le retard  a une influence assez intéressant sur le pouvoir _pédagogique_ ou c
 
 Therefore, one does not learn from or correct mistakes—in policy, management actions, tools, and so forth. Likewise, gradual improvement through the lean thinking practice of _kaizen_ can take a long time; patience and insight are needed to see if and how things improve.
 
-Par conséquent, personne n'apprend de ses erreurs ni ne les corrige - que ce soit en terme de stratégie, d'actions d'encadrement, d'outils ou de quoi que ce soit. De la même manière, l'amélioration graduelle à travers la pratique _kaizen_ de l'approche lean peut prendre un certain temps ; de la patience et de la perspicacité sont nécessaires pour voir si et comment les choses s'améliorent. 
+Par conséquent, personne n'apprend de ses erreurs ni ne les corrige - que ce soit en terme de stratégie, d'actions d'encadrement, d'outils ou de quoi que ce soit. De la même manière, l'amélioration graduelle à travers la pratique _kaizen_ de l'approche lean peut prendre un certain temps ; de la patience et de la perspicacité sont nécessaires pour voir si et comment les choses s'améliorent.
 
 **Positive feedback loops**—Negative or positive feedback loops<sup>[5](https://less.works/less/principles/systems-thinking.html#footnote-5)</sup> and delays are where things start to get more subtle in a system—and in understanding a system. For example, how does one become a better programmer? In part, by mentoring from great programmers and seeing lots of examples of great code. But an office with a lot of low-skill developers does not generate a lot of great code examples, nor does it attract or retain the small pool of great programmers who could act as mentors. They would rather work somewhere else.
 
-
+**Boucles de feedback positives** - Les boucles de feedback négatives ou positives <sup>[5](https://less.works/less/principles/systems-thinking.html#footnote-5)</sup> et les retards sont le point de départ pour une approche plus subtile d'un système - et pour sa compréhension. Par exemple, de quelle manière une personne peut-elle devenir un meilleure développeur ? En partie, en bénéficiant du mentorat de très bons développeurs et en jetant un œil sur du très bon code. Mais il est impossible de trouver du bon code dans un endroit remplit de développeurs peu qualifiés, il est impossible également d'y attirer ou de retenir le petit groupe de développeurs très qualifiés qui pourraient prendre le rôle de mentors. ils préfèrent largement aller travailler ailleurs.
 
 Now the development group starts to enter a self-reinforcing downward spiral—a set of _positive feedback loops_ . Fortunately, the downward trend is constrained by the supply of cash.
 
-
+Ce groupe de développeurs peu qualifiés rentrent dans une spirale descendante à cause d'un ensemble de _boucles de feedback positives_. Fort heureusement, la spirale descendante est sujette au montant du budget.
 
 More great programmers—who could craft great code and mentor others—leave. So there is less and less quality code to look at and to learn from. The percentage of weak programmers grows even larger and feature velocity drops further. Code becomes more messy, awkward, and duplication-riddled, so the capacity to swiftly implement features declines. Since feature velocity is dropping further, there is more pressure to hire yet more very cheap programmers. All this leads to multiple positive reinforcement loops in the system, for example:
 
-
+La p
 
 ![systems thinking-16.png](https://less.works/img/systems-thinking/xsystems,P20thinking-16.png.pagespeed.ic.ONFuUmJHSE.webp)
 
