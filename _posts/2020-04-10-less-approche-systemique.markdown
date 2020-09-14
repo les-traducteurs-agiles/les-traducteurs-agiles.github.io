@@ -386,7 +386,7 @@ Ce groupe de développeurs peu qualifiés rentrent dans une spirale descendante 
 
 More great programmers—who could craft great code and mentor others—leave. So there is less and less quality code to look at and to learn from. The percentage of weak programmers grows even larger and feature velocity drops further. Code becomes more messy, awkward, and duplication-riddled, so the capacity to swiftly implement features declines. Since feature velocity is dropping further, there is more pressure to hire yet more very cheap programmers. All this leads to multiple positive reinforcement loops in the system, for example:
 
-La p
+La plupart des très bons développeurs - ceux en capacité d'élaborer du très bon code et de faire du mentorat auprès des autres développeurs - partent. Par conséquent, il y a de moins en moins de code de qualité à regarder et à apprendre à en tirer des leçons. Le pourcentage de développeurs peu qualifiés augmente de plus en plus et la vélocité au niveau des features continue à chuter. Le code devient de plus en plus brouillon, difficile, avec pleins de bouts de code dupliqués à gauche et à droite, le tout de telle manière que la capacité d'implémenter des features décline. Étant donné que la vélocité des features continue de chuter, il y a davantage de pression pour recruter des développeurs très bon marché. Tout cela conduit à de multiples boucles de renforcement positives dans le système comme illustré par cet exemple :
 
 ![systems thinking-16.png](https://less.works/img/systems-thinking/xsystems,P20thinking-16.png.pagespeed.ic.ONFuUmJHSE.webp)
 
@@ -394,15 +394,15 @@ La p
 
 _Tip_ : You can find positive feedback loops by finding cycles with an _even number_ of ‘Opposite’ effect relationships. There are several examples in the model above.
 
-
+_Astuce_ : Vous pouvez trouver des boucles de feedback positives en cherchant des cycles ayant un _nombre pair_ de relations. Vous en trouverez plusieurs exemples ci-dessus.
 
 ##### Conclusion
 
-
+##### Conclusion
 
 The example scenario is only that—an example. A causal loop diagram can visualize rich dynamics in a workplace system. These are best created by a group at a whiteboard.
 
-
+Le scénario donné à titre d'exemple est uniquement cela - un exemple. Une diagre de boucle causale permet de visualiser la richesse de la dynamique dans le système d'un lieu de travail. La meilleure manière de modéliser un tel système est de le faire en groupe face à un tableau blanc.
 
 ## Seeing Mental Models
 
