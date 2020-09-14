@@ -406,27 +406,27 @@ Le scénario donné à titre d'exemple est uniquement cela - un exemple. Une dia
 
 ## Seeing Mental Models
 
-
+## Voir les modèles mentaux
 
 The previous causal loop diagrams reflect people’s mental models of causation, which may be wrong. It is interesting to note that people’s models of causation are influenced by the timeliness (delay) and quality of feedback in the system.
 
-
+Les précédents diagrammes des boucles causales reflètent les modèles mentaux de causalité des individus … qui peuvent s'avérer faux. Il est intéressant de remarquer que les modèles de causalité des individus sont influencés par la ponctualité (les retards) et la qualité des feedbacks dans le système.
 
 The implication of “mental models” is to improve our meta-cognitive skill to see and question our own assumptions and chains of reasoning. Are we making faulty leaps of logic? It also implies when working with others to discuss (inquiring rather than abusing) the mental models of our colleagues.
 
-
+Les « modèles mentaux » nous permettent d'améliorer nos compétences de méta-cognition pour voir et questionner nos propres postulats et l'enchaînement de nos raisonnements. Brûlons-nous des étapes de manière erronée ? Cela implique aussi de travailler avec les autres, de discuter (s'enquérir plutôt que reprocher) des modèles mentaux de nos collègues.
 
 _Seeing_ these mental models is step one; _changing_ them is the even harder part of step two. That art is beyond the scope of this introduction, though a successful LeSS adoption must involve changes in mindset and insight among many groups.
 
-
+_Voir_ les modèles mentaux n'est que la première étape ; les _changer_ constitue une seconde partie bien plus difficile. Cet art est bien au-delà du sujet de cette introduction, même si une adoption réussie de LeSS implique des changements en terme d'état d'esprit et de prise de conscience au sein de très nombreuses équipes.
 
 A tip to better _see_ the mental models (beliefs, chains of inference, …) playing out in the system dynamics is to ask the following question during a modeling workshop and then sketch the answers. “Let’s talk about the assumptions behind this model. What do we _believe_ or assume in terms of facts and effects that led us here?”
 
-
+Une astuce pour mieux _voir_ les modèles mentaux (croyances, échelle d'inférence, …) en jeu au niveau des dynamiques du système est de poser les questions suivantes lors d'un atelier de modélisation puis de tracer les éléments de réponse au tableau blanc. « Parlons donc des hypothèses derrière ce modèle. Que _croyons_-nous ou tenons pour acquis en terme de faits et d'effets qui nous ont conduits ici ? »
 
 Answers are sketched on the whiteboard model, for example:
 
-
+Les éléments de réponse sont dessinés sur le tableau blanc. En voici un exemple :
 
 <figure>![systems thinking-17.png](https://less.works/img/systems-thinking/xsystems,P20thinking-17.png.pagespeed.ic.5UIqBnJfK1.webp)
 
@@ -434,7 +434,7 @@ Answers are sketched on the whiteboard model, for example:
 
 <figcaption>Visualizing the assumptions in our heads... our mental models.</figcaption></figure>
 
-
+<figcaption>Visualiser les postulats présents dans nos têtes … nos modèles mentaux.</figcaption></figure>
 
 ### Example: The “Faster is Slower” Dynamic
 
