@@ -438,19 +438,19 @@ Les éléments de réponse sont dessinés sur le tableau blanc. En voici un exem
 
 ### Example: The “Faster is Slower” Dynamic
 
-
+### Exemple : La dynamique « Aller plus vite c'est aller plus lentement »
 
 With the vocabulary of quick fixes, delays, positive feedback loops, and mental models, it is fascinating to see that there can be a short-term apparent improvement in a variable as the result of a quick fix, but a _delayed degradation_ of the very same variable—the “faster is slower” dynamic. This is a recurrent dynamic in the workplace and a cause of weakness. So it is worth another illustration.
 
-
+Dorénavant, avec le vocabulaire des solutions de fortune, des boucles de feedback positives et des modèles mentaux, il est fascinant de voir qu'il peut y avoir un semblant d'amélioration à court terme sur une variable donnée, mais entraîne en même temps une _dégradation tardive_ de cette même variable - d'où la dynamique « Aller plus vite c'est aller plus lentement ». Il s'agit d'une dynamique récurrente en milieu professionnel et d'un défaut de vulnérabilité. Cet exemple mérite bien sa propre illustration
 
 _The story of Microsoft Word and the_ **_secret developer toolbox_** : A classic example of the short-term ‘improving’ but long-term degrading dynamic is the story of the first release of Microsoft Word for Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). It was released _years_ later than desired. Why? _Because managers tried to follow the original schedule and pushed developers to meet it_ .
 
-
+_Histoire de Microsoft Word et de_ **_la boîte à outils secrète du développeur_** : Un exemple typique d'une ‘amélioration’ à court terme mais d'une dynamique de dégradation (entropique - NiMe) à long terme est le récit de la première livraison de Microsoft Word sur Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). Le logiciel a été livré des _années_ en retard par rapport à la date prévue. Pourquoi ? _Parce que les managers ont essayé à tout prix de suivre le planning de départ et ont fait pression sur les développeurs pour le respecter_.  
 
 The story illustrates why _wishful thinking_ is identified as one of the wastes in lean thinking. In this case the wishful thinking of insisting on (apparently) following a schedule, which implies the misconception or wishful thinking that development estimates are not estimates but are commitments—a common myth that propels degradation of a system.
 
-
+Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - NiMe) est bien identifiée comme une source de gâchis dans l'approche lean. Dans le cas présent la pensée miraculeuse consiste à insister (du moins apparemment) à suivre le planning, ce qui implique une idée fausse ou une approche miraculeuse que les estimations ne sont pas de simples estimations mais des promesses - un mythe classique qui pousse à la dégration d'un système.
 
 [The next model](https://less.works/less/principles/systems-thinking.html#figure-1) illustrates a _summary_ of the dynamics of what happened when the managers pushed people to evidently keep to the original schedule, and why this quick-fix reaction to slow progress appeared to make things faster in the short term but actually even _slower_ in the long term. See the dynamic of schedule pressure and the secret toolbox. intentionally omits some deeper dynamics that are expanded and shown in See deeper dynamics of schedule pressure and the secret toolbox..
 
