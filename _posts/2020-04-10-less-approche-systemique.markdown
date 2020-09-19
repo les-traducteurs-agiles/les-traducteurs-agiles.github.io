@@ -503,23 +503,23 @@ Les personnes de chez Microsoft n'ont pas réfléchi sur la situation que bien a
 
 ## Seeing (and Hearing) Local Optimization
 
-
+## Voir (et entendre) l'optimisation locale
 
 “Everyone is doing their best yet overall systems throughput is degrading. How can that be?” This is the paradox of **local optimization** —when a person or departmental decision maker optimizes for the local view or self-interest. The party making the decision frequently _believes they are making the best decision_ , but because ‘best’ is a local optimization, in fact it sub-optimizes overall system throughput. This is a result of “silo mentality,” misunderstanding, fear, limited information, delayed feedback, ignorance, careerism, avarice, and other common _organizational learning disorders_ .
 
-
+« Chacun fait de son mieux mais malgré tout le flux de production du système se dégrade.  Comment cela est-il possible ? ». Il s'agit du paradoxe de **l'optimisation locale** - c'est-à-dire lorsqu'une personne à titre individuel ou un responsable de département prend une décision d'un point de vue locale ou dans son propre intérêt. Les personnes prenant ce type de décision _croient fréquemment qu'ils prennent la meilleure décision_, mais parce que ‘meilleure’ est en l'occurence une optimisation locale, cela a pour résultat une sous-optimisation générale du flux du système. Il s'agit en fait du résultat d'une « mentalité de silo », de l'incompréhension, de la peur, de la restriction d'informations, des feedbacks à retardement, de l'ignorance, du carriérisme, de l'avarice et de bien d'autres _dysfonctionnements d'apprentissages organisationnels_.
 
 A small product group of 30 people does not have the time or money to engage in much nonsense or waste. But large companies, with large product groups, centralized process and tool groups, a centralized “project management office,” and so forth, seem to have raised local optimization and waste to an art form. Government bureaucracies are the quintessential example, of course. As such, when you serve as a guide in large-scale agile adoption, _seeing_ (or _hearing_ ) and dealing with local optimization is singularly vital.
 
-
+Une petite équipe produit de 30 personnes n'a pas le temps ou l'argent pour s'engager dans ce genre de non-sens ou de gâchis. Mais les grandes entreprises avec de grands groupes produit, des processus centralisés et des groupes outils, un « bureau de gestion de projet » centralisé, et ainsi de suite, semblent avoir élevé l'optimisation locale et le gâchis à une forme d'art. Les bureaucraties gouvernementales en sont bien sûr la quintessence. En conséquence, lorsque vous servez de guide dans une adoption agile à grande échelle, _voir_ (ou _entendre_) et s'occuper de l'optimisation locale est tout simplement vital.
 
 For example, the legal and corporate security departments put in place a policy that seems terribly important from their perspective. In the aim of preventing loss of intellectual property (IP), the legal department decrees “no one shall put any information on the walls.” Or, in response to cost-cutting pressure, the facilities management says, “It is important to ensure our walls are not dirty or damaged.” And thus they shut down a practice in lean thinking, visual management (which is usually done on walls), and they inhibit a well-known innovation practice, group whiteboard work. The lawyers may succeed in reducing loss of IP (actually, that is questionable), and the facilities people will succeed in keeping the walls clean—at the cost of inhibiting the product development group from innovating and collaborating. Finally, the company falls behind with less and less IP even worth protecting because tools for innovation and delivering fast have been disallowed, but the lawyers have successfully fulfilled their mandate from the executive team to “ensure our IP is protected.” And the _furniture police_ have clear walls. _They have done their best_ .
 
-
+Par exemple, les départements juridiques et sécurité mettent en place des politiques qui leurs semblent très importantes de leurs points de vue. Dans l'objectif de prévenir la perte de propriété intellectuelle, le département juridique peut décréter « il est interdit d'afficher tout type d'information sur les murs. ». Or, en réaction à la pression des coupes budgétaires, le département des immeubles peut dire « il est vital de s'assurer que nos murs ne soient ni sales ni endommagés ». Et ainsi s'arrête une des pratiques de l'approche lean à savoir le management visuel (qui se fait habituellement sur les murs), et ils inhibent une pratique d'innovation bien connu à savoir le travail de groupe devant un tableau blanc. Les juristes peuvent réussir à réduire la perte de propriété intellectuelle (ce qui en réalité devrait poser question), et les gens des immeubles réussiront à garder les murs propres - au prix d'inhiber le groupe de développement produit dans sa capacité d'innover et de collaborer. Finalement, l'entreprise se laisse distancer par la concurrence avec de moins en moins de propriété intellectuelle valant la peine d'être défendue parce que les outils permettant l'innovation et de livrer rapidement ont été bannis, mais les juristes ont rempli leur mandat vis-à-vis de la direction de « s'assurer que la propriété intellectuelle est protégée ». Et la police de la logistique a nettoyé les murs. _Ils ont fait de leur mieux_.  
 
 The following is a real e-mail quote from the _FURNITURE POLICE_ in one organization that dissallowed visual management on the walls. Can you identify the local optimizations and mental models driving this?
 
-
+Ce qui suit est extrait d'un vrai message électronique de la _POLICE DE LA LOGISTIQUE_ dans une organisation qui a banni le management visuel sur les murs. Pouvez-vous identifier les optimisationslocales et les modèles mentaux qui sont derrière tout ça ?
 
 > _Individual work cubic partition can be personalized. But things obvious higher than the partition or harming the office environment’s harmony are restricted._
 
@@ -569,12 +569,32 @@ In addition to becoming a systems thinker yourself, encourage others to learn mo
 ## Recommended Readings
 
 * W. Edwards Deming’s [_Out of the Crisis_](http://www.amazon.com/Out-Crisis-W-Edwards-Deming-ebook/dp/B00653KTES/ref=sr_1_1?ie=UTF8&qid=1413601625&sr=8-1&keywords=out+of+the+crisis) is a master work by arguably the most well-known systems thinker and quality expert. It opens with the modest goal, “The aim of this book is transformation of the style of American management… It requires a whole new structure, from foundation upward.” Deming also advocates the _System of Profound Knowledge_ in which managers (1) appreciate there is a _system_ , (2) understand common-cause and special-cause variation (queueing theory is related to variation), (3) understand limitations of knowledge and reasoning mistakes, and (4) know credible psychology and social research results so that behavior- or motivation-related policies are _not_ based on “common sense.” The core of the book centers around his famous _14 Points for Management_ , including (for example), “_Eliminate management by objective. Eliminate management by numbers, numerical goals. Substitute leadership_ .”   
+
+
+
 * Jay Forrester’s [_Industrial Dynamics_](http://www.amazon.com/Industrial-Dynamics-Jay-Wright-Forrester/dp/1614275335/ref=sr_1_1?ie=UTF8&qid=1413601681&sr=8-1&keywords=industrial+dynamics) is the classic text on system dynamics—well written and insightful. Although written in the early 1960s, it is as relevant today as when published. It goes beyond cause-effect modeling to also model the flow and inventories of information, money, and material in systems. The book includes formal mathematical modeling but this is not obligatory to appreciate system dynamics.
+
+
+
 * Weinberg’s _Quality Software Management: Systems Thinking_ and _An Introduction to General Systems Thinking_ are worthwhile. Written from the perspective of an experienced consultant in systems development.    
+
+
+
 * Senge’s [_The Fifth Discipline_](http://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK/ref=sr_1_1?ie=UTF8&qid=1413601715&sr=8-1&keywords=the+fifth+discipline) is a classic that advocates the need for leadership to apply systems thinking (it is the _fifth_ discipline) and other key disciplines for a great, sustainable enterpise. The others include leaders with (1) personal mastery and (2) reflection on their beliefs and faulty reasoning, the (3) definition and communication of a meaningful shared vision, and (4) the ability of teams to learn. We recommend ignoring—at least during the first few years of practice—the ‘archetypes’ notion presented in the book. It was well meant as a learning aid but has been observed to distract and intimidate people from learning and applying basic system dynamics modeling. The ‘archetypes’ are not part of original system dynamics.    
+
+
+
 * [_The Fifth Discipline Fieldbook_](http://www.amazon.com/Fifth-Discipline-Fieldbook-Strategies-Organization-ebook/dp/B00JTCJEO8/ref=sr_1_1?ie=UTF8&qid=1413601809&sr=8-1&keywords=The+Fifth+Discipline+Fieldbook) is an in-depth resource, written from the viewpoint of many practitioners and consultants.    
+
+
+
 * The organizational-learning writings from Argyris, Putnam, McLain, and Schön. Important concepts include _double-loop learning_ and _high-advocacy/high-inquiry dialogue_. Classic works include [_Action Science_](https://actiondesign.com/resources/readings/action-science) and [_Organizational Learning_](http://www.amazon.com/Organizational-Learning-Addison-Wesley-Organization-Development/dp/0201001748/ref=sr_1_11?ie=UTF8&qid=1413601940&sr=8-11&keywords=organizational+learning).    
+
+
+
 * The publications and resources available through the [_Society for Organizational Learning_](https://www.solonline.org/).
+
+
 
 ---
 
