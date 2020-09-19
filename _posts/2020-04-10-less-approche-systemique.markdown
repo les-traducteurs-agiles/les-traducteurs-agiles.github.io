@@ -47,7 +47,7 @@ Le MIT a également attiré d'autres chercheurs intéressés par la dynamique sy
 
 Consistent with _Weinberg-Brook’s Law_, Forrester’s research showed that decision makers who were given dynamic models of a business system and asked to improve their output performance, _usually made them run worse_ [[SKRRS94]](http://www.amazon.com/The-Fifth-Discipline-Fieldbook-Organization/dp/0385472560/ref=sr_1_fkmr0_3?ie=UTF8&qid=1413528034&sr=8-3-fkmr0&keywords=The+Fifth+Discipline+%EF%BF%BCFieldbook). The observation was that most people have weak judgement on how to fundamentally improve systems, usually applying incorrect “common sense” and quick-fix ‘solutions’ that do not create long-lasting systemic improvement.
 
-En corrélation avec la loi de _Weinberg-Brook_, Jay Wright Forrester a montré que les décideurs à qui il avait été donné des modèles dynamiques de systèmes opérationnels et à qui il avait été demandé d'améliorer la performance opérationnelle, _n'avaient fait  généralement qu'empirer les choses_ [[SKRRS94]](https://www.amazon.fr/guide-lorganisation-apprenante-d%C3%A9velopper-lintelligence/dp/2212568711/). Il en est ressorti que la plupart des personnes évaluaient mal la manière dont il faut améliorer les systèmes, et appliquaient généralement leur « bon sens », en mettant en place des solutions de fortune qui n'apportent aucune amélioration systémique à long terme.
+En corrélation avec la loi de _Weinberg-Brook_, Jay Wright Forrester a montré que les décideurs à qui il avait été donné des modèles dynamiques de systèmes opérationnels et à qui il avait été demandé d'améliorer la performance opérationnelle, _n'avaient fait  généralement qu'empirer les choses_ [[SKRRS94]](https://www.amazon.fr/guide-lorganisation-apprenante-d%C3%A9velopper-lintelligence/dp/2212568711/). Il en est ressorti que la plupart des personnes évaluaient mal la manière dont il faut améliorer les systèmes, et appliquaient généralement leur « bon sens », en mettant en place des solutions de contournement qui n'apportent aucune amélioration systémique à long terme.
 
 Why is the behavior of a large development group (a system) not understood or guided skillfully? The answer lies, in part, in the behavior of stochastic systems with queues and variability, as explored in the [Queueing Theory](https://less.works/less/principles/queueing_theory.html) LeSS principle. And the same answer lies in _control theory_: Most systems of interest—such as a product development group—have complex positive and negative feedback loops and nonlinear behavior. The behavior of these systems defies our gut instinct. And then there is the minor issue of _people_.
 
@@ -71,7 +71,7 @@ En résumé, les raisons expliquants l'incompétence à maîtriser ou à guider 
 
 * not knowing if or why quick-fix or local-department decisions degraded overall delivery performance.  
 
-* l'incapacité à savoir si ou pourquoi une solution de fortune ou une décision locale dégrade la performance globale opérationnelle.
+* l'incapacité à savoir si ou pourquoi une solution de contournement ou une décision locale dégrade la performance globale opérationnelle.
 
 In short, not being systems thinkers.<sup>[2](https://less.works/less/principles/systems-thinking.html#footnote-2)</sup>
 
@@ -322,7 +322,7 @@ Enlever le système de récompense est une solution à la cause racine de ce dys
 
 **Quick-fix reactions**—One difficult and slow solution toward the goal of higher velocity is to hire great developers, to increase coaching and education of existing staff, and to remove terrible workers. The alternative is called a _quick fix_ , a reaction that is hoped to achieve the goal quickly and with less effort. Sometimes a quick fix works well both in the short and long term, really strengthening the system. Sometimes not…hence, “faster is slower.” For example, people may _believe_ that increasing the number of developers increases the feature velocity. And they may thereby hope that hiring more developers will most quickly and easily solve the velocity problem. ‘QF’ indicates the quick fix:
 
-**Solutions de fortune** - Une solution payante à long terme et pas évidente à mettre en place pour atteindre une vélocité plus grande est de recruter de bons développeurs, de faire davantage d'accompagnements et de formations, et de se séparer des moins bons éléments. L'alternative est ce que l'on appelle une _solution de fortune_, c'est ce que l'on met en place dans l'espoir d'atteindre l'objectif en moins de temps et moins d'effort. Parfois, une solution de fortune se révèle payante aussi bien dans le court que dans le long terme, renforçant par la-même le système. D'autres fois non … d'où « aller plus vite c'est aller plus lentement ». Par exemple, les gens peuvent _croire_ qu'augmenter le nombre de développeurs permet d'augmenter la vélocité des features. Et ils peuvent par conséquent espérer qu'en recrutant davantage de développeurs cela permettra de résoudre plus vite et plus facilement le problème de vélocité. ‘SF’ indique une solution de fortune.
+**Solutions de contournement** - Une solution payante à long terme et pas évidente à mettre en place pour atteindre une vélocité plus grande est de recruter de bons développeurs, de faire davantage d'accompagnements et de formations, et de se séparer des moins bons éléments. L'alternative est ce que l'on appelle une _solution de contournement_, c'est ce que l'on met en place dans l'espoir d'atteindre l'objectif en moins de temps et moins d'effort. Parfois, une solution de contournement se révèle payante aussi bien dans le court que dans le long terme, renforçant par la-même le système. D'autres fois non … d'où « aller plus vite c'est aller plus lentement ». Par exemple, les gens peuvent _croire_ qu'augmenter le nombre de développeurs permet d'augmenter la vélocité des features. Et ils peuvent par conséquent espérer qu'en recrutant davantage de développeurs cela permettra de résoudre plus vite et plus facilement le problème de vélocité. ‘SF’ indique une solution de contournement.
 
 ![systems thinking-12.png](https://less.works/img/systems-thinking/xsystems,P20thinking-12.png.pagespeed.ic.x8IJWKprUx.webp)
 
@@ -330,11 +330,11 @@ Enlever le système de récompense est une solution à la cause racine de ce dys
 
 **Interaction effects**—There is the constraint of cash supply on hiring. One hard and slow solution is to get more cash. A quicker fix is to hire _much_ cheaper developers. In this case, the level of cash supply now has an _interaction effect_ with other causal links. Low cash tends to strengthen the hire rate of much cheaper developers when there is pressure to increase hire rates.
 
-**Effets d'interaction** - Il y a la contrainte budgétaire pour pouvoir embaucher. Une solution de longue haleine et assez difficile est d'obtenir davantage de budget. Une solution de fortune est de recruter un _grand_ nombre de développeurs bon marché. Dans ce cas, le niveau du budget a un _effet d'interaction_ avec les autres boucles causales. Un budget peu élevé aura tendance à renforcer le taux de développeurs bon marché lorsque la pression pour recruter augmentera.
+**Effets d'interaction** - Il y a la contrainte budgétaire pour pouvoir embaucher. Une solution de longue haleine et assez difficile est d'obtenir davantage de budget. Une solution de contournement est de recruter un _grand_ nombre de développeurs bon marché. Dans ce cas, le niveau du budget a un _effet d'interaction_ avec les autres boucles causales. Un budget peu élevé aura tendance à renforcer le taux de développeurs bon marché lorsque la pression pour recruter augmentera.
 
 One could simply draw an (opposite) causal link directly from _cash supply_ to _hire rate of very cheap developers_ , but that merely says that less cash leads to more hiring of extremely cheap developers. That is not quite what we want to say; rather, we want to show the interaction effect—that effect A influences _effect_ B. This is done by showing a causal link entering another causal link. For example, from _cash supply_ to the quick-fix line going into _hire rate of very cheap developers_ :
 
-On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée budgétaire_ à _taux de recrutement de développeurs bon marché_, mais cela veut simplement dire qu'avoir un budget moindre a pour conséquence de recruter davantage de développeurs bon marché. Mais ce n'est pas tout à fait ce que nous voulons dire ; ce que voulons montrer en fait, c'est l'effet d'interaction - c'est-à-dire qu'un effet A influence un _effet_ B. Cela se fait en montrant un lien de causalité heurtant un autre lien de causalité. Par exemple, en traçant une ligne de _rentrée budgétaire_ vers la ligne représentant la solution de fortune qui va vers _taux de recrutement de développeurs bon marché_.
+On pourrait dessiner simplement un lien de causalité (opposé) de _rentrée budgétaire_ à _taux de recrutement de développeurs bon marché_, mais cela veut simplement dire qu'avoir un budget moindre a pour conséquence de recruter davantage de développeurs bon marché. Mais ce n'est pas tout à fait ce que nous voulons dire ; ce que voulons montrer en fait, c'est l'effet d'interaction - c'est-à-dire qu'un effet A influence un _effet_ B. Cela se fait en montrant un lien de causalité heurtant un autre lien de causalité. Par exemple, en traçant une ligne de _rentrée budgétaire_ vers la ligne représentant la solution de contournement qui va vers _taux de recrutement de développeurs bon marché_.
 
 ![systems thinking-13.png](https://less.works/img/systems-thinking/xsystems,P20thinking-13.png.pagespeed.ic.LvAE8ewRFJ.webp)
 
@@ -362,7 +362,7 @@ Mais l'impact de ces effets ne sont pas visibles immédiatement. Par exemple, ce
 
 To show these _delayed effects_ in the model, use a double-line through the effect line:
 
-Pour montrer ces _effets tardifs_ dans le modèle faites une double-ligne en travers de la ligne d'effet.
+Pour montrer ces _effets à retardement_ dans le modèle faites une double-ligne en travers de la ligne d'effet.
 
 ![systems thinking-15.png](https://less.works/img/systems-thinking/xsystems,P20thinking-15.png.pagespeed.ic.0fwliLJm6G.webp)
 
@@ -442,7 +442,7 @@ Les éléments de réponse sont dessinés sur le tableau blanc. En voici un exem
 
 With the vocabulary of quick fixes, delays, positive feedback loops, and mental models, it is fascinating to see that there can be a short-term apparent improvement in a variable as the result of a quick fix, but a _delayed degradation_ of the very same variable—the “faster is slower” dynamic. This is a recurrent dynamic in the workplace and a cause of weakness. So it is worth another illustration.
 
-Dorénavant, avec le vocabulaire des solutions de fortune, des boucles de feedback positives et des modèles mentaux, il est fascinant de voir qu'il peut y avoir un semblant d'amélioration à court terme sur une variable donnée, mais entraîne en même temps une _dégradation tardive_ de cette même variable - d'où la dynamique « Aller plus vite c'est aller plus lentement ». Il s'agit d'une dynamique récurrente en milieu professionnel et d'un défaut de vulnérabilité. Cet exemple mérite bien sa propre illustration
+Dorénavant, avec le vocabulaire des solutions de contournement, des boucles de feedback positives et des modèles mentaux, il est fascinant de voir qu'il peut y avoir un semblant d'amélioration à court terme sur une variable donnée, mais entraîne en même temps une _dégradation tardive_ de cette même variable - d'où la dynamique « Aller plus vite c'est aller plus lentement ». Il s'agit d'une dynamique récurrente en milieu professionnel et d'un défaut de vulnérabilité. Cet exemple mérite bien sa propre illustration
 
 _The story of Microsoft Word and the_ **_secret developer toolbox_** : A classic example of the short-term ‘improving’ but long-term degrading dynamic is the story of the first release of Microsoft Word for Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). It was released _years_ later than desired. Why? _Because managers tried to follow the original schedule and pushed developers to meet it_ .
 
@@ -450,31 +450,31 @@ _Histoire de Microsoft Word et de_ **_la boîte à outils secrète du développe
 
 The story illustrates why _wishful thinking_ is identified as one of the wastes in lean thinking. In this case the wishful thinking of insisting on (apparently) following a schedule, which implies the misconception or wishful thinking that development estimates are not estimates but are commitments—a common myth that propels degradation of a system.
 
-Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - NiMe) est bien identifiée comme une source de gâchis dans l'approche lean. Dans le cas présent la pensée miraculeuse consiste à insister (du moins apparemment) à suivre le planning, ce qui implique une idée fausse ou une approche miraculeuse que les estimations ne sont pas de simples estimations mais des promesses - un mythe classique qui pousse à la dégration d'un système.
+Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - NiMe) est bien identifiée comme une source de gâchis dans l'approche lean. Dans le cas présent la pensée miraculeuse consiste à insister (du moins apparemment) à suivre le planning, ce qui implique une idée fausse ou une approche miraculeuse que les estimations ne sont pas de simples estimations mais des promesses - un mythe classique qui pousse à la dégradation d'un système.
 
 [The next model](https://less.works/less/principles/systems-thinking.html#figure-1) illustrates a _summary_ of the dynamics of what happened when the managers pushed people to evidently keep to the original schedule, and why this quick-fix reaction to slow progress appeared to make things faster in the short term but actually even _slower_ in the long term. See the dynamic of schedule pressure and the secret toolbox. intentionally omits some deeper dynamics that are expanded and shown in See deeper dynamics of schedule pressure and the secret toolbox..
 
-
+[Le modèle suivant](https://less.works/less/principles/systems-thinking.html#figure-1) illustre un _résumé_ des dynamiques à l'œuvre lorsque des managers poussent leurs équipes à respecter à tout prix les plannings prévisionnels, et pourquoi cette solution de contournement qui freine pourtant l'avancement des travaux semblent les faire aller plus vite à court terme mais en réalité _plus lentement_ à long terme. Par rapport à ce qui est décrit dans la dynamique de la pression du planning et la boîte à outils secrète, certaines dynamiques ont été omises intentionnellement sur ce schéma et sont visibles sur le schéma dynamiques avancées de la pression sur le planning et de la boîte à outils secrète.  
 
 <figure>![systems thinking-18.png](https://less.works/img/systems-thinking/xsystems,P20thinking-18.png.pagespeed.ic.A7OSuu755I.webp)
 
-
+<figure>![systems thinking-18.png](https://less.works/img/systems-thinking/xsystems,P20thinking-18.png.pagespeed.ic.A7OSuu755I.webp)
 
 <figcaption>The dynamic of schedule pressure and the secret toolbox.</figcaption></figure>
 
-
+<figcaption>Dynamique de la pression sur le planning et de la boîte à outils secrète.</figcaption></figure>
 
 As a quick fix, the Microsoft managers exhorted, bribed (with potential rewards), and threatened the Word developers to keep to the original schedule. Consequently, the developers predictably pulled out their **secret developer toolbox** —the many practices related to hacking out dirty code (no tests, no reviews, ignore known defects, copy-paste programming, poor design, …) to apparently deliver a feature faster. You see, developers also have _quick-fix_ reactions for their problems.
 
-
+En solution de contournement, les managers de Microsoft ont exhorté, ont corrompu (à l'aide de primes potentielles), et ont menacé les développeurs de Word pour leur faire respecter le planning prévisionnel. En conséquence, les développeurs ont, de manière tout à fait prévisible, sortis leur **boîte à outils secrète de développeurs** - autrement dit tout un arsenal de pratiques pour pisser du code pourri (aucuns tests, aucunes revues, ignorance des anomalies connues, développement par copier-coller, mauvaise conception, …) pour développer visiblement plus vite. Vous voyez bie, les développeurs ont aussi des réactions de solution de contournement pour régler leurs problèmes.
 
 The tactics seemed to have worked like magic. As the managers pressured the developers, ‘features’ were delivered quicker as people used the secret toolbox, which reinforced the belief that pressuring developers helps. But this apparent acceleration actually had a delayed effect to make things slower, which is explored next. Since management did not quickly see the delayed effect of the secret toolbox, and because they believed managers should not be frequently looking in detail at the source code or themselves be master programmers, they did not learn from this dynamic.
 
-
+Vu de l'extérieur, ces tactiques ont fonctionné à merveille. Au fur et à mesure que les managers mettaient la pression sur les développeurs, les ‘features’ étaient développées de plus en plus vite grâce à l'utilisation de la boîte à outils secrète, ce qui a renforcé la croyance en quoi mettre la pression sur les développeurs était quelque chose d'utile; Mais cette apparente accélération a eu en fait un effet à retardement qui a rendu les choses plus lentes (c'est ce que nous allons voir par la suite). Étant donné que le management n'a pas été assez rapide à voir l'effet à retardement de la boîte à outils, et parce que les managers pensent qu'ils n'ont pas besoin d'aller regarder fréquemment en détails le code source ou qu'ils n'ont pas besoin d'être eux-mêmes des développeurs très expérimentés, ils n'ont rien appris de cette dynamique.
 
 A closer exploration of the system dynamics shows why things went slower in the long term and why the first Word for Windows release was years later than desired, illustrated in this model…
 
-
+Le schéma ci-dessous illustre l'examen approfondie des dynamiques du système montrant pourquoi les choses sont allées plus lentement à long terme et pourquoi le tout premier Word pour Windows a été livré des années en retard par rapport à la date souhaitée …
 
 <figure>![systems thinking-19.png](https://less.works/img/systems-thinking/xsystems,P20thinking-19.png.pagespeed.ic.D24dvGHzfu.webp)
 
@@ -482,23 +482,24 @@ A closer exploration of the system dynamics shows why things went slower in the 
 
 <figcaption>Some deeper dynamics of schedule pressure and the secret toolbox.</figcaption></figure>
 
+<figcaption>Dynamiques avancées de la pression sur le planning et de la boîte à outils secrètes.</figcaption></figure>
 
 
 Naturally, lots of dirty code eventually slowed things down. More subtly, developers would _ignore_ the bug list of ever-increasing open defects to—instead—generate new features. This led to a long delay between the creation of a defect and its correction. It turns out that this significantly increases variability and time to fix a defect because of the compounding negative effect of a long-lived bug (for example, due to workarounds and coupling) and because developers have long forgotten the detailed context of code related to the defect and therefore need to slowly rediscover that context—with more and more dirty confusing code surrounding them.
 
-
+Naturellement, avoir une grande quantité de code de mauvaise qualité ralentie les choses. De manière beaucoup plus subtile, les développeurs ont _ignoré_ la liste croissante d'anomalies pour privilégier la production de nouvelles features. Cela a eu pour conséquence d'avoir un délai important entre la déclaration d'une anomalie et sa correction. Il s'avère que cela a fait augmenter de manière significative la variabilité et le temps nécessaire pour corriger une anomalie en raison des effets cumulatifs négatifs liée à la nature même d'une vieille anomalie (par exemple avec la mise en place des solutions de contournement et des couplages existants entre les fonctionnalités), de l'oubli du contexte détaillé par les développeurs en relation avec l'anomalie, ces derniers mettant par conséquent plus de temps à le redécouvrir, de l'accumulation continue de code de mauvaise qualité dans le même temps.
 
 The astute reader may also notice the several positive feedback loops that reinforce the degradation cycle; this is one reason the product was years later than intended.
 
-
+Le lecteur avisé remarquera également plusieurs boucles causales positives renforçant le cycle de dégradation ; il s'agit de l'une des raisons expliquant le retard pris sur plusieurs années pour livrer le produit.
 
 Solution? The lean thinking _Stop and Fix_ and _Go See_ principles. _First_ , rather than trying to go faster when there are problems, manager-teachers encourage people to go _slower_ and help them learn to see system dynamics and root causes, and to fix these—to improve the _system_ of development. By going slower, Toyota—the masters of lean thinking—has become one of the fastest companies around. _Second_ , for managers to _go see at the real place of work_ to learn what is going on. The “real place” in software development is the code, which suggests that first-level managers are master programmers who are frequently evaluating the code.
 
-
+Une solution ? L'approche lean avec les principes _Arrêter et corriger_ et _Aller voir_. _Premièrement_, plutôt que d'essayer d'aller plus vite lorsqu'il y a des problèmes, des managers-formateurs encouragent les gens à aller plus _lentement_ et à les inciter à apprendre les dynamiques systémiques, les causes racines et à les corriger pour améliorer le _système_ du développement. En allant plus lentement, Toyota - les maîtres de l'approche lean - est devenue l'une des entreprises les rapides du monde. _Deuxièmement, les managers doivent _aller voir ce qui se passe sur le vrai lieu de travail_ pour apprendre ce qu'il se passe. Le « vrai lieu » dans le développement logiciel c'est le code, ce qui implique que les managers de proximité sont des développeurs expérimentés qui évalueront le code fréquemment.
 
 Microsoft people did not reflect on the situation until after release. When they did finally hold a retrospective, it led to a _zero-defects_ policy, meaning that the first priority was to fix known bugs in the code under development—to drive down to zero the open-defects list before writing more new-feature code.
 
-
+Les personnes de chez Microsoft n'ont pas réfléchi sur la situation que bien après la livraison. Lorsqu'ils ont fini par faire une rétrospective, cela a amené à une politique du _zéro défaut_, cela signifie que la première priorité était de corriger les anomalies connues dans le code en cours de développement afin d'aller vers du zéro anomalie ouverte dans la liste des anomalies avant d'écrire du code pour une nouvelle feature.
 
 ## Seeing (and Hearing) Local Optimization
 
