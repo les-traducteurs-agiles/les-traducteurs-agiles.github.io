@@ -552,11 +552,11 @@ Dans LeSS, le Product Owner est responsable pour choisir ces objectifs à haute 
 
 ## Conclusion
 
-
+## Conclusion
 
 In addition to becoming a systems thinker yourself, encourage others to learn more about this topic. We suggest you to try getting together at a whiteboard with colleagues to sketch a causal loop diagram, so that _being_ systems thinkers and _doing_ systems thinking are connected at the workplace.
 
-
+En plus de devenir un amateur/pratiquant de l'approche systémique vous-même, encouragez donc les autres à en apprendre plus sur ce sujet. Nous vous suggérons d'essayer de rassembler quelques-uns de vos collègues autour d'un tableau blanc et d'y dessiner des diagrammes de boucles causales, afin que les architectes des systèmes et les pratiquants de l'approche systémique soient réunis en un seul endroit.
 
 <figure>![group%20cld%20modeling.jpg](https://less.works/img/systems-thinking/xgroup,P20cld,P20modeling.jpg.pagespeed.ic.lirKMzwWbD.webp)
 
@@ -564,13 +564,15 @@ In addition to becoming a systems thinker yourself, encourage others to learn mo
 
 <figcaption>Doing system thinking. Sketching a causal loop diagram together—modeling to have a conversation.</figcaption></figure>
 
-
+<figcaption>Séance d'approche systémique. Réalisation d'un diagramme de boucle cause à plusieurs mains dans l'objectif d'avoir une conversation.</figcaption></figure>
 
 ## Recommended Readings
 
+## Lectures recommandées
+
 * W. Edwards Deming’s [_Out of the Crisis_](http://www.amazon.com/Out-Crisis-W-Edwards-Deming-ebook/dp/B00653KTES/ref=sr_1_1?ie=UTF8&qid=1413601625&sr=8-1&keywords=out+of+the+crisis) is a master work by arguably the most well-known systems thinker and quality expert. It opens with the modest goal, “The aim of this book is transformation of the style of American management… It requires a whole new structure, from foundation upward.” Deming also advocates the _System of Profound Knowledge_ in which managers (1) appreciate there is a _system_ , (2) understand common-cause and special-cause variation (queueing theory is related to variation), (3) understand limitations of knowledge and reasoning mistakes, and (4) know credible psychology and social research results so that behavior- or motivation-related policies are _not_ based on “common sense.” The core of the book centers around his famous _14 Points for Management_ , including (for example), “_Eliminate management by objective. Eliminate management by numbers, numerical goals. Substitute leadership_ .”   
 
-
+* [Hors de la Crise](https://www.amazon.fr/Hors-crise-W-Edwards-Deming/dp/2717843930/) de W. Edwards Deming est un ouvrage de référence par sans conteste le plus connu des penseurs systémiques et des experts sur la qualité. Il commence par un objectif modeste : « l'objectif de ce livre est la transformation du style du management américain … ce qui exige une toute nouvelle structure, des fondations jusqu'au toit. ». Deming prône un _Système de connaissances approfondies_ dans lequel les managers (1) reconnaissent qu'il y a un _système_, (2) sont en mesure de comprendre les facteurs généralement répandues et les facteurs spéciaux de variations au sein du système (la théorie des files d'attente est lié à ce phénomène de variation), (3) sont en mesure de comprendre que les connaissances sont limitées et qu'il y a des erreurs de raisonnements, et (4) que la psychologie et les recherches en sciences sociales jouent des rôles crédibles afin que les règles régissants les comportements ou en lien avec la motivation des individus ne soient pas basés sur le « bon sens ». Le cœur de l'ouvrage tourne autour des célèbres _14 points pour le management_, y compris par exemple « _Éliminer le management par les objectifs. Éliminer le management par les nombres, par les objectifs par les nombres. Y substituer le leadership_»   
 
 * Jay Forrester’s [_Industrial Dynamics_](http://www.amazon.com/Industrial-Dynamics-Jay-Wright-Forrester/dp/1614275335/ref=sr_1_1?ie=UTF8&qid=1413601681&sr=8-1&keywords=industrial+dynamics) is the classic text on system dynamics—well written and insightful. Although written in the early 1960s, it is as relevant today as when published. It goes beyond cause-effect modeling to also model the flow and inventories of information, money, and material in systems. The book includes formal mathematical modeling but this is not obligatory to appreciate system dynamics.
 
