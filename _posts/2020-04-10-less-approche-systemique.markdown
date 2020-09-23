@@ -43,7 +43,7 @@ En 1958 la _Harvard Business Review_ a publié un article de Jay Forrestor, prof
 
 MIT also attracted other system-dynamics-oriented researchers such as Peter Senge.<sup>[1](https://less.works/less/principles/systems-thinking.html#footnote-1)</sup>
 
-Le MIT a également attiré d'autres chercheurs intéressés par la dynamique systémique tel que Peter Senge<sup>[1](https://less.works/less/principles/systems-thinking.html#footnote-1)</sup>
+Le MIT a également attiré d'autres chercheurs intéressés par la dynamique systémique tel que Peter Senge[^1].
 
 Consistent with _Weinberg-Brook’s Law_, Forrester’s research showed that decision makers who were given dynamic models of a business system and asked to improve their output performance, _usually made them run worse_ [[SKRRS94]](http://www.amazon.com/The-Fifth-Discipline-Fieldbook-Organization/dp/0385472560/ref=sr_1_fkmr0_3?ie=UTF8&qid=1413528034&sr=8-3-fkmr0&keywords=The+Fifth+Discipline+%EF%BF%BCFieldbook). The observation was that most people have weak judgement on how to fundamentally improve systems, usually applying incorrect “common sense” and quick-fix ‘solutions’ that do not create long-lasting systemic improvement.
 
@@ -75,7 +75,7 @@ En résumé, les raisons expliquants l'incompétence à maîtriser ou à guider 
 
 In short, not being systems thinkers.<sup>[2](https://less.works/less/principles/systems-thinking.html#footnote-2)</sup>
 
-En bref, ne pas être des théoriciens/penseurs/pratiquants systémiques.<sup>[2](https://less.works/less/principles/systems-thinking.html#footnote-2)</sup>
+En bref, ne pas être des théoriciens/penseurs/pratiquants systémiques[^2].
 
 These reasons are consequential at the intersection of management and large-scale adoption of lean and agile principles. The leadership team is part of the system being perturbed; if they do not apply systems thinking, they could _really_ perturb it—and not in a good way!
 
@@ -378,7 +378,7 @@ Par conséquent, personne n'apprend de ses erreurs ni ne les corrige - que ce so
 
 **Positive feedback loops**—Negative or positive feedback loops<sup>[5](https://less.works/less/principles/systems-thinking.html#footnote-5)</sup> and delays are where things start to get more subtle in a system—and in understanding a system. For example, how does one become a better programmer? In part, by mentoring from great programmers and seeing lots of examples of great code. But an office with a lot of low-skill developers does not generate a lot of great code examples, nor does it attract or retain the small pool of great programmers who could act as mentors. They would rather work somewhere else.
 
-**Boucles de feedback positives** - Les boucles de feedback négatives ou positives <sup>[5](https://less.works/less/principles/systems-thinking.html#footnote-5)</sup> et les retards sont le point de départ pour une approche plus subtile d'un système - et pour sa compréhension. Par exemple, de quelle manière une personne peut-elle devenir un meilleure développeur ? En partie, en bénéficiant du mentorat de très bons développeurs et en jetant un œil sur du très bon code. Mais il est impossible de trouver du bon code dans un endroit remplit de développeurs peu qualifiés, il est impossible également d'y attirer ou de retenir le petit groupe de développeurs très qualifiés qui pourraient prendre le rôle de mentors. ils préfèrent largement aller travailler ailleurs.
+**Boucles de feedback positives** - Les boucles de feedback négatives ou positives [^5] et les retards sont le point de départ pour une approche plus subtile d'un système - et pour sa compréhension. Par exemple, de quelle manière une personne peut-elle devenir un meilleure développeur ? En partie, en bénéficiant du mentorat de très bons développeurs et en jetant un œil sur du très bon code. Mais il est impossible de trouver du bon code dans un endroit remplit de développeurs peu qualifiés, il est impossible également d'y attirer ou de retenir le petit groupe de développeurs très qualifiés qui pourraient prendre le rôle de mentors. ils préfèrent largement aller travailler ailleurs.
 
 Now the development group starts to enter a self-reinforcing downward spiral—a set of _positive feedback loops_ . Fortunately, the downward trend is constrained by the supply of cash.
 
@@ -592,11 +592,11 @@ En plus de devenir un amateur/pratiquant de l'approche systémique vous-même, e
 
 * The organizational-learning writings from Argyris, Putnam, McLain, and Schön. Important concepts include _double-loop learning_ and _high-advocacy/high-inquiry dialogue_. Classic works include [_Action Science_](https://actiondesign.com/resources/readings/action-science) and [_Organizational Learning_](http://www.amazon.com/Organizational-Learning-Addison-Wesley-Organization-Development/dp/0201001748/ref=sr_1_11?ie=UTF8&qid=1413601940&sr=8-11&keywords=organizational+learning).    
 
-
+* Les écrits d'Argyris, Outnam, McLain et Schön sur les apprentissages organisationnels comme [_Action Science_](https://actiondesign.com/resources/readings/action-science) et [_Organizational Learning_](http://www.amazon.com/Organizational-Learning-Addison-Wesley-Organization-Development/dp/0201001748/ref=sr_1_11?ie=UTF8&qid=1413601940&sr=8-11&keywords=organizational+learning) abordent des concepts importants tels que le _double-boucle apprenante_ et le _dialogue grand-plaidoyer/grand-réquisitoire_.  
 
 * The publications and resources available through the [_Society for Organizational Learning_](https://www.solonline.org/).
 
-
+* Les publications et les ressources de la _Society for Organizational Learning_](https://www.solonline.org/).
 
 ---
 
@@ -608,6 +608,11 @@ En plus de devenir un amateur/pratiquant de l'approche systémique vous-même, e
 4. ‘Basic’ does not mean trivial or easy to solve. For example, ‘motivation’ and ‘quality’ are basic but not easy issues.  
 5. _Feedback loops_ is occasionally used in this book in the colloquial sense of feedback, rather than this system dynamics sense.
 
+[^1] _La cinquième discipline_ écrit par Senge sur l'approche systèmique et les organisations apprenantes a été nommé « l'un des livres les plus novateurs sur le management de ces 75 dernières années » par la _Harvard Business Review._ See** [Senge94].
+[^2]: Une autre raison : Croire que plus de contrôle est possible qu'il ne l'est actuellement. La science de la complexité montre qu'il existe des limites en terme de prédiction et de contrôle des systèmes sociaux semi-chaotiques [Stacey07]. C'est une énorme boîte de Pandore qui restera enfermée dans ce livre.
+[^3]: Macro économie, psychologie, sociologie et biologie sont des exemples d'exceptions parmi d'autres
+[^4]: ‘Basique’ ne signifie pas trivial ou facile à résoudre. Par exemple, les problèmatiques de ‘motivation’ et de ‘qualité’ sont des problématiques basiques mais elles ne sont pas faciles à résoudre.
+[^5]: _Les boucles de feedback_ sont parfois utilisées dans ce livre dans le sens littéral du terme, plutôt dans le sens de l'approche systémique
 
 ---
 Auteur : [Prénom_Nom](url_bio)  nbsp
