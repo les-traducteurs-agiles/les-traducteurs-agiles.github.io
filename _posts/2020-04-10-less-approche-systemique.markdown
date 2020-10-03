@@ -446,15 +446,15 @@ Dorénavant, avec le vocabulaire des solutions de contournement, des boucles de 
 
 _The story of Microsoft Word and the_ **_secret developer toolbox_** : A classic example of the short-term ‘improving’ but long-term degrading dynamic is the story of the first release of Microsoft Word for Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). It was released _years_ later than desired. Why? _Because managers tried to follow the original schedule and pushed developers to meet it_ .
 
-_Histoire de Microsoft Word et de_ **_la boîte à outils secrète du développeur_** : Un exemple typique d'une ‘amélioration’ à court terme mais d'une dynamique de dégradation (entropique - NiMe) à long terme est le récit de la première livraison de Microsoft Word sur Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). Le logiciel a été livré des _années_ en retard par rapport à la date prévue. Pourquoi ? _Parce que les managers ont essayé à tout prix de suivre le planning de départ et ont fait pression sur les développeurs pour le respecter_.  
+_Histoire de Microsoft Word et de_ **_la boîte à outils secrète du développeur_** : Un exemple typique d'une ‘amélioration’ à court terme mais d'une dynamique de dégradation (entropique - NiMe) à long terme est le récit de la première livraison de Microsoft Word sur Windows [[Spolsky04]](http://www.amazon.com/Joel-Software-Occasionally-Developers-Designers/dp/1590593898/ref=sr_1_1?ie=UTF8&qid=1413597951&sr=8-1&keywords=Joel+on+Software). Le logiciel a été livré des _années_ en retard par rapport à la date prévue. Pourquoi ? _Parce que les managers ont essayé à tout prix de suivre le calendrier de départ et ont fait pression sur les développeurs pour le respecter_.  
 
 The story illustrates why _wishful thinking_ is identified as one of the wastes in lean thinking. In this case the wishful thinking of insisting on (apparently) following a schedule, which implies the misconception or wishful thinking that development estimates are not estimates but are commitments—a common myth that propels degradation of a system.
 
-Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - NiMe) est bien identifiée comme une source de gâchis dans l'approche lean. Dans le cas présent la pensée miraculeuse consiste à insister (du moins apparemment) à suivre le planning, ce qui implique une idée fausse ou une approche miraculeuse que les estimations ne sont pas de simples estimations mais des promesses - un mythe classique qui pousse à la dégradation d'un système.
+Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - NiMe) est bien identifiée comme une source de gâchis dans l'approche lean. Dans le cas présent la pensée miraculeuse consiste à insister (du moins apparemment) à suivre le calendrier, ce qui implique une idée fausse ou une approche miraculeuse que les estimations ne sont pas de simples estimations mais des promesses - un mythe classique qui pousse à la dégradation d'un système.
 
 [The next model](https://less.works/less/principles/systems-thinking.html#figure-1) illustrates a _summary_ of the dynamics of what happened when the managers pushed people to evidently keep to the original schedule, and why this quick-fix reaction to slow progress appeared to make things faster in the short term but actually even _slower_ in the long term. See the dynamic of schedule pressure and the secret toolbox. intentionally omits some deeper dynamics that are expanded and shown in See deeper dynamics of schedule pressure and the secret toolbox..
 
-[Le modèle suivant](https://less.works/less/principles/systems-thinking.html#figure-1) illustre un _résumé_ des dynamiques à l'œuvre lorsque des managers poussent leurs équipes à respecter à tout prix les plannings prévisionnels, et pourquoi cette solution de contournement qui freine pourtant l'avancement des travaux semblent les faire aller plus vite à court terme mais en réalité _plus lentement_ à long terme. Par rapport à ce qui est décrit dans la dynamique de la pression du planning et la boîte à outils secrète, certaines dynamiques ont été omises intentionnellement sur ce schéma et sont visibles sur le schéma dynamiques avancées de la pression sur le planning et de la boîte à outils secrète.  
+[Le modèle suivant](https://less.works/less/principles/systems-thinking.html#figure-1) illustre un _résumé_ des dynamiques à l'œuvre lorsque des managers poussent leurs équipes à respecter à tout prix les calendriers prévisionnels, et pourquoi cette solution de contournement qui freine pourtant l'avancement des travaux semblent les faire aller plus vite à court terme mais en réalité _plus lentement_ à long terme. Par rapport à ce qui est décrit dans la dynamique de la pression du calendrier et la boîte à outils secrète, certaines dynamiques ont été omises intentionnellement sur ce schéma et sont visibles sur le schéma dynamiques avancées de la pression sur le calendrier et de la boîte à outils secrète.  
 
 <figure>![systems thinking-18.png](https://less.works/img/systems-thinking/xsystems,P20thinking-18.png.pagespeed.ic.A7OSuu755I.webp)
 
@@ -462,11 +462,11 @@ Cette histoire illustre pourquoi _l'approche miraculeuse_ (la méthode Coué - N
 
 <figcaption>The dynamic of schedule pressure and the secret toolbox.</figcaption></figure>
 
-<figcaption>Dynamique de la pression sur le planning et de la boîte à outils secrète.</figcaption></figure>
+<figcaption>Dynamique de la pression sur le calendrier et de la boîte à outils secrète.</figcaption></figure>
 
 As a quick fix, the Microsoft managers exhorted, bribed (with potential rewards), and threatened the Word developers to keep to the original schedule. Consequently, the developers predictably pulled out their **secret developer toolbox** —the many practices related to hacking out dirty code (no tests, no reviews, ignore known defects, copy-paste programming, poor design, …) to apparently deliver a feature faster. You see, developers also have _quick-fix_ reactions for their problems.
 
-En solution de contournement, les managers de Microsoft ont exhorté, ont corrompu (à l'aide de primes potentielles), et ont menacé les développeurs de Word pour leur faire respecter le planning prévisionnel. En conséquence, les développeurs ont, de manière tout à fait prévisible, sortis leur **boîte à outils secrète de développeurs** - autrement dit tout un arsenal de pratiques pour pisser du code pourri (aucuns tests, aucunes revues, ignorance des anomalies connues, développement par copier-coller, mauvaise conception, …) pour développer visiblement plus vite. Vous voyez bie, les développeurs ont aussi des réactions de solution de contournement pour régler leurs problèmes.
+En solution de contournement, les managers de Microsoft ont exhorté, ont corrompu (à l'aide de primes potentielles), et ont menacé les développeurs de Word pour leur faire respecter le calendrier prévisionnel. En conséquence, les développeurs ont, de manière tout à fait prévisible, sortis leur **boîte à outils secrète de développeurs** - autrement dit tout un arsenal de pratiques pour pisser du code pourri (aucuns tests, aucunes revues, ignorance des anomalies connues, développement par copier-coller, mauvaise conception, …) pour développer visiblement plus vite. Vous voyez bie, les développeurs ont aussi des réactions de solution de contournement pour régler leurs problèmes.
 
 The tactics seemed to have worked like magic. As the managers pressured the developers, ‘features’ were delivered quicker as people used the secret toolbox, which reinforced the belief that pressuring developers helps. But this apparent acceleration actually had a delayed effect to make things slower, which is explored next. Since management did not quickly see the delayed effect of the secret toolbox, and because they believed managers should not be frequently looking in detail at the source code or themselves be master programmers, they did not learn from this dynamic.
 
@@ -482,7 +482,7 @@ Le schéma ci-dessous illustre l'examen approfondie des dynamiques du système m
 
 <figcaption>Some deeper dynamics of schedule pressure and the secret toolbox.</figcaption></figure>
 
-<figcaption>Dynamiques avancées de la pression sur le planning et de la boîte à outils secrètes.</figcaption></figure>
+<figcaption>Dynamiques avancées de la pression sur le calendrier et de la boîte à outils secrètes.</figcaption></figure>
 
 
 Naturally, lots of dirty code eventually slowed things down. More subtly, developers would _ignore_ the bug list of ever-increasing open defects to—instead—generate new features. This led to a long delay between the creation of a defect and its correction. It turns out that this significantly increases variability and time to fix a defect because of the compounding negative effect of a long-lived bug (for example, due to workarounds and coupling) and because developers have long forgotten the detailed context of code related to the defect and therefore need to slowly rediscover that context—with more and more dirty confusing code surrounding them.
@@ -615,13 +615,12 @@ En plus de devenir un amateur/pratiquant de l'approche systémique vous-même, e
 [^5]: _Les boucles de feedback_ sont parfois utilisées dans ce livre dans le sens littéral du terme, plutôt dans le sens de l'approche systémique
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Auteur : The LeSS Company B.V.  
+Source : [Systems Thinking](https://less.works/less/principles/systems-thinking.html)  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 03/10/2020  
 
 ---
 
