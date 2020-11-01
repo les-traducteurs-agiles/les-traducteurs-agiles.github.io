@@ -21,7 +21,7 @@ _Scrum se situe à l'endroit idéal entre les principes abstraits et les pratiqu
 
 Aussi, pour garantir que [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html), nous aurons besoin de trouver le même type d'équilibre, nous serons alors capable de dire que :
 
-_Pour les groupes de grande taille, LeSS se situe à l'endroit idéalentre des éléments concrets et définis et un contrôle de processus empirique._
+_Pour les groupes de grande taille, LeSS se situe à l'endroit idéal entre des éléments concrets et définis et un contrôle de processus empirique._
 
 Ce qui nous a conduit à prendre certaines décisions :
 
