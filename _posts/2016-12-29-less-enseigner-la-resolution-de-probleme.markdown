@@ -22,7 +22,7 @@ L'une des plus faciles techniques de résolution de problème a été inventée 
 
 ## Approche systémique
 
-Des outils d'approche systémique, comme les [diagrammes de causes-effet (en)](http://less.works/less/principles/systems_thinking.html) peuvent avoir énormément de valeur pour explorer les causes et les raisons pour lesquelles les choses sont comme elles sont. De tels outils ne peuvent être utilisés isolé derrière un ordinateur mais en groupe devant un tableau blanc où les personnes explorent ensemble les problèmes et les causes.Lorsque vous créez des diagrammes causes-effet, portez spécifiquement votre attention au temps, car les retards causent souvent des comportements surprenants ou de mauvaises conclusions.
+Des outils d'approche systémique, comme les [diagrammes de causes-effet (en)](http://less.works/less/principles/systems_thinking.html) peuvent avoir énormément de valeur pour explorer les causes et les raisons pour lesquelles les choses sont comme elles sont. De tels outils ne peuvent être utilisés isolé derrière un ordinateur mais en groupe devant un tableau blanc où les personnes explorent ensemble les problèmes et les causes. Lorsque vous créez des diagrammes causes-effet, portez spécifiquement votre attention au temps, car les retards causent souvent des comportements surprenants ou de mauvaises conclusions.
 
 ## Le mode de pensée A3
 
@@ -30,7 +30,7 @@ Des outils d'approche systémique, comme les [diagrammes de causes-effet (en)](h
 
 ## Pour aller plus loin
 
-Il existe un nombre incalculable de techniques de résolution de problème. En tant que managers, vous devrez aider chaque personne à réfléchir de façon systématique et les aider à résoudre leurs problèmes. Evitez de résoudre les problèmes pour les autres.
+Il existe un nombre incalculable de techniques de résolution de problème. En tant que managers, vous devrez aider chaque personne à réfléchir de façon systématique et les aider à résoudre leurs problèmes. Évitez de résoudre les problèmes pour les autres.
 
 
 ---
