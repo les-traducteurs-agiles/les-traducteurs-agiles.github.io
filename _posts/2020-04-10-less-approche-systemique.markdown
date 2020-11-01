@@ -8,322 +8,167 @@ tags:
 - tag2
 ---
 
-# Systems Thinking
-
 # Approche systémique
 
 I took a speed reading course and read “War and Peace” in twenty minutes. It involves Russia.
 —Woody Allen
 
-J'ai pris un cours de lecture rapide puis j'ai lu « Guerre et Paix » en vingt minutes. Cela parle de la Russie.
+> J'ai pris un cours de lecture rapide puis j'ai lu « Guerre et Paix » en vingt minutes. Cela parle de la Russie. —Woody Allen
 
-“No matter what we do, the number of defects in our backlog remains about the same,” a manager told us; this for a 15 MSLOC C and C++ product with several hundred developers where we were working. What’s going on? Systems thinking may help. In small groups the forces at play are more quickly seen and informally understood, but in large product development—or any large system—it’s tough. Gerry Weinberg highlights two decisive factors in this situation:
+« Quoi que nous fassions, le nombre d'anomalie dans notre _backlog_ reste identique. » nous a dit un jour un manager en évoquant un produit de près de 15 millions de lignes de code écrites en C et C++ et sur lequel plusieurs centaines de développeurs étaient en train de travailler. Que pouvait-il bien se passer ? L'approche systémique peut s'avérer utile dans ce cas comme dans d'autres. En petits groupes, les forces en présence peuvent rapidement être identifiées et comprises de manière informelle, mais dans le cadre du développement d'un gros produit ou de n'importe quel gros système, c'est difficile. Gerry Weinberg met en avant deux facteurs décisifs dans ce genre de situation :
 
-« Quoi que nous fassions, le nombre d'anomalie dans notre _backlog_ reste identique. » nous a dit un jour un manager en évoquant un produit de près de 15 millions de lignes de code sur lequel plusieurs centaines de développeurs étaient en train de travailler. Que pouvait-il bien se passer ? L'approche systémique peut s'avérer utile dans ce cas comme dans d'autres. En petits groupes, les forces en présence peuvent rapidement être identifiées et comprises de manière informelle, mais dans le cadre du développement d'un gros produit ou de n'importe quel gros système, c'est difficile. Gerry Weinberg met en avant deux facteurs décisifs dans ce genre de situation :
-
-> **Weinberg-Brooks’ Law**: More software projects have gone awry from management’s taking action based on **_incorrect system models_** than for all other causes combined.
->
-> **Causation Fallacy**: Every effect has a cause… and we can tell which is which. [[Weinberg92]](http://www.amazon.com/Quality-Software-Management-Systems-Thinking/dp/0932633226/ref=sr_1_1?ie=UTF8&qid=1413527418&sr=8-1&keywords=Quality+Software+Management%3A+Systems+Thinking)
-
-> **Loi de Weinberg-Brooks** : De plus en plus de projets informatiques sont partis de travers après que le management ait pris des décisions basées sur des **modèles systémiques incorrects** plus que pour toutes autres causes combinées.
+> **Loi de Weinberg-Brooks** : De plus en plus de projets informatiques sont partis de travers après que le management ait pris des décisions basées sur des **modèles systémiques incorrects** plus que pour toutes autres combinaisons de causes.
 >
 > **Erreur de causalité** : Chaque effet a une cause … et nous pouvons dire desquelles il s'agit. [[Weinberg92]](http://www.amazon.fr/Quality-Software-Management-Systems-Thinking/dp/0932633226/ref=sr_1_1?ie=UTF8&qid=1413527418&sr=8-1&keywords=Quality+Software+Management%3A+Systems+Thinking)
 
-These reflect the impact of our **mental models** on the system, a subject that will be revisited later in this section.
+Ces deux facteurs reflètent bien l'impact de nos **modèles mentaux** sur le système, un sujet que nous reverrons plus tard dans cette partie.
 
-Ces deux facteurs reflètent bien l'impact de nos **modèles mentaux** sur le système, un sujet que nous reverrons plus tard dans cette section.
+Les problèmes résultant de nos modèles mentaux et de nos postulats sont un point à traiter. Un autre point est l'adoption à grande échelle de Scrum, de l'approche lean et des principes agiles en dehors du domaine du développement. Ce point est aussi présent dans la gestion de produit, les budgets, les tests, la commercialisation, la gouvernance et la politique RH. En conséquence, dans les adoptions agiles à grande échelle, il est utile de se réunir avec des collègues et de _réfléchir en profondeur_ sur les modèles mentaux, les relations causales, les boucles de feedback et les mécanismes (ou les illusions) de contrôles dans un gros système qui va être sérieusement _pertubé_. L'approche systémique est l'un de ces outils de réflexion.
 
-Problems stemming from mental models and assumptions are one issue. Another is that large-scale adoption of Scrum, lean thinking, and agile principles is not isolated to the development group. It bumps into product management, budgeting, beta-testing, launch, and governance and HR policies. Accordingly, in large-scale agile adoption it is useful to be able to get together with colleagues and _effectively reason_ about the mental models, causal relations, feedback loops, and control mechanisms (or illusions of control) in a big system that is about to be seriously _perturbed._ Systems thinking is one of those reasoning tools.
-
-Les problèmes résultant de nos modèles mentaux et de nos postulats sont un point à traiter. Un autre point est l'adoption à grande échelle de Scrum, de l'approche lean et des principes agiles en dehors du domaine du développement. Ce point est aussi présent dans la gestion de produit, les budgets, les tests, la commercialisation, la gouvernance et la politique RH. En conséquence, dans les adoptions agiles à grande échelle, il est utile de se réunir avec des collègues et de _réfléchir en profondeur_ sur les modèles mentaux, les relations causales, les boucles de _feedback_ et les mécanismes de contrôles (ou les illusions de contrôle) dans un gros système qui va être sérieusement _pertubé_. L'approche systémique est l'un de ces outils de réflexion.
-
-In 1958, the _Harvard Business Review_ published [“Industrial Dynamics: A Major Breakthrough for Decision Makers,”](https://kupdf.com/download/industrial-dynamics-a-major-breakthrough-for-decision-makers_5902479bdc0d603940959ed5_pdf) a landmark paper by Jay Forrester, MIT Sloan School professor. This paper spurred the movement of systems thinking in business education, and the MIT Sloan School of Management became known for educating people in **system dynamics**. System dynamics is sometimes treated as a synonym for **systems thinking** , though the latter is a more general term.
-
-En 1958 la _Harvard Business Review_ a publié un article de Jay Forrestor, professeur au MIT Sloan School, qui a fait date [“Industrial Dynamics: A Major Breakthrough for Decision Makers,”](https://kupdf.com/download/industrial-dynamics-a-major-breakthrough-for-decision-makers_5902479bdc0d603940959ed5_pdf). Cet article a lancé le mouvement de l'approche systémique dans le domaine des formations en gestion d'entreprise et la MIT Sloan School of Management devint célèbre pour ses formations en **dynamique des systèmes**. Le terme de dynamique des systèmes est parfois utilisé comme synonyme d'**approche systémique**, même si ce dernier est un terme beaucoup plus général.
-
-MIT also attracted other system-dynamics-oriented researchers such as Peter Senge.<sup>[1](https://less.works/less/principles/systems-thinking.html#footnote-1)</sup>
+En 1958 la _Harvard Business Review_ a publié un article de Jay Forrestor, professeur au MIT Sloan School, qui a fait date [“Industrial Dynamics: A Major Breakthrough for Decision Makers,”](https://kupdf.com/download/industrial-dynamics-a-major-breakthrough-for-decision-makers_5902479bdc0d603940959ed5_pdf). Cet article a lancé le mouvement de l'approche systémique dans le domaine des formations en gestion d'entreprise et la MIT Sloan School of Management devint célèbre pour ses formations en **dynamique des systèmes**. Le terme de dynamique des systèmes est parfois utilisé comme synonyme de l'**approche systémique**, même si ce dernier est un terme beaucoup plus général.
 
 Le MIT a également attiré d'autres chercheurs intéressés par la dynamique systémique tel que Peter Senge[^1].
 
-Consistent with _Weinberg-Brook’s Law_, Forrester’s research showed that decision makers who were given dynamic models of a business system and asked to improve their output performance, _usually made them run worse_ [[SKRRS94]](http://www.amazon.com/The-Fifth-Discipline-Fieldbook-Organization/dp/0385472560/ref=sr_1_fkmr0_3?ie=UTF8&qid=1413528034&sr=8-3-fkmr0&keywords=The+Fifth+Discipline+%EF%BF%BCFieldbook). The observation was that most people have weak judgement on how to fundamentally improve systems, usually applying incorrect “common sense” and quick-fix ‘solutions’ that do not create long-lasting systemic improvement.
-
 En corrélation avec la loi de _Weinberg-Brook_, Jay Wright Forrester a montré que les décideurs à qui il avait été donné des modèles dynamiques de systèmes opérationnels et à qui il avait été demandé d'améliorer la performance opérationnelle, _n'avaient fait généralement qu'empirer les choses_ [[SKRRS94]](https://www.amazon.fr/guide-lorganisation-apprenante-d%C3%A9velopper-lintelligence/dp/2212568711/). Il en est ressorti d'ailleurs que la plupart des personnes évaluaient mal la manière dont il faut améliorer les systèmes, et appliquaient généralement leur « bon sens », en mettant en place des solutions de contournement qui n'apportent aucune amélioration systémique à long terme.
 
-Why is the behavior of a large development group (a system) not understood or guided skillfully? The answer lies, in part, in the behavior of stochastic systems with queues and variability, as explored in the [Queueing Theory](https://less.works/less/principles/queueing_theory.html) LeSS principle. And the same answer lies in _control theory_: Most systems of interest—such as a product development group—have complex positive and negative feedback loops and nonlinear behavior. The behavior of these systems defies our gut instinct. And then there is the minor issue of _people_.
-
-Pourquoi le comportement d'un groupe de développement de grande taille (autrement dit un système) n'est-il pas compris ou guidé de manière compétente ? La réponse réside, en partie, dans le comportement des systèmes stochastiques avec les files et les variabilités comme nous avons pu l'évoquer avec le principe LeSS de la [théorie des files d'attentes](http://www.les-traducteurs-agiles.org/2017/01/29/less-theorie-des-files-d-attente.html). Et c'est la même réponse qui est au cœur de la _théorie du contrôle_ : la plupart des systèmes d'intérêt - tel qu'un groupe de développement de produit - ont des boucles de _feedback_ positives et négatives ainsi qu'un comportement non linéaire. Le comportement de ces systèmes défient nos instincts. Et puis il y a la problématique mineure des _gens_.
-
-In summary, reasons for not being skillful in fathoming or guiding a big system include (but are not limited to):
+Pourquoi le comportement d'un groupe de développement de grande taille (autrement dit un système) n'est-il pas compris ou guidé de manière compétente ? La réponse réside, en partie, dans le comportement des systèmes stochastiques avec les files et les variabilités comme nous avons pu l'évoquer avec le principe LeSS de la [théorie des files d'attentes](http://www.les-traducteurs-agiles.org/2017/01/29/less-theorie-des-files-d-attente.html). Et c'est la même réponse qui est au cœur de la _théorie du contrôle_ : la plupart des systèmes d'intérêt - tel qu'un groupe de développement de produit - ont des boucles de feedback positives et négatives ainsi qu'un comportement non linéaire. Le comportement de ces systèmes défient nos intuitions les plus profondes. Et puis il y a la question secondaire des _gens_.
 
 En résumé, les raisons expliquants l'incompétence à maîtriser ou à guider un gros systèmes sont (liste non exhaustive) :
 
-* lack of knowledge about the system dynamics, feedback loops, nonlinear systems behavior, and unintended consequences in workplace systems
+* le manque de connaissance des dynamiques des systèmes, des boucles de feedback, du comportement non linéaire des systèmes, et des conséquences inattendues dans les systèmes sur le lieu de travail.
 
-* un manque de connaissance des dynamiques des systèmes, des boucles de _feedback_, du comportement non linéaire des systèmes, et des conséquences inattendues dans les systèmes sur le lieu de travail.
+* la mauvaise compréhension des causes racines des problèmes (et de comment les trouver)
 
-* not understanding root causes of problems (and how to find)
-
-* une incompréhension des causes racines des problèmes (et de comment les trouver)
-
-    * _causes,_ not cause; in systems thinking one sees that there are multiple, indirect, and dynamic causes to problems
-
-    * _les causes_, non la cause ; en approche systémique, nous savons que les causes des problèmes sont multiples, indirectes et dynamiques
-
-* not knowing if or why quick-fix or local-department decisions degraded overall delivery performance.
+    * _les causes_, pas _la cause_ ; en approche systémique, nous savons que les causes des problèmes sont multiples, indirectes et dynamiques
 
 * l'incapacité à savoir si ou pourquoi une solution de contournement ou une décision locale dégrade la performance globale opérationnelle.
 
-In short, not being systems thinkers.<sup>[2](https://less.works/less/principles/systems-thinking.html#footnote-2)</sup>
+En bref, nous n'utilisons pas l'approche systémique[^2].
 
-En bref, ne pas utiliser l'approche systémique[^2].
+Ces raisons sont la conséquence de l'intersection du management et de l'adoption à grande échelle des principes lean et agile. L'équipe de direction fait partie du système qui est perturbé ; si elle n'applique pas l'approche systémique, elle pourrait _vraiment_ le perturber - et pas de la bonne manière !
 
-These reasons are consequential at the intersection of management and large-scale adoption of lean and agile principles. The leadership team is part of the system being perturbed; if they do not apply systems thinking, they could _really_ perturb it—and not in a good way!
+Les points-clés à retenir de l'approche systémique peuvent être résumé dans les [11 ’lois’](https://en.wikipedia.org/wiki/The_Fifth_Discipline#The_11_Laws_of_the_Fifth_Discipline) décrites dans la [Cinquième discipline](https://www.amazon.fr/cinqui%C3%A8me-discipline-organisations-apprenantes-dexemplaires-ebook/dp/B017WSYAHG)
 
-Ces raisons sont la conséquence de l'intersection du management et de l'adoption des principes lean et agile. L'équipe de direction fait partie du système qui est pertubé ; si elle n'applique pas l'approche systémique, elle pourrait _vraiment_ le perturber - et pas de la bonne façon.
-
-As a summary of systems thinking insight, we like the [11 ‘laws’](https://en.wikipedia.org/wiki/The_Fifth_Discipline#The_11_Laws_of_the_Fifth_Discipline) described in [The Fifth Discipline](http://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization-ebook/dp/B000SEIFKK/ref=sr_1_1?ie=UTF8&qid=1413531002&sr=8-1&keywords=the+fifth+discipline):
-
-Les points-clés à retenir de l'approche systémique peuvent être résumé dans les [11 lois](https://en.wikipedia.org/wiki/The_Fifth_Discipline#The_11_Laws_of_the_Fifth_Discipline) décrites dans la [Cinquième discipline](https://www.amazon.fr/cinqui%C3%A8me-discipline-organisations-apprenantes-dexemplaires-ebook/dp/B017WSYAHG)
-
-* Today’s problems come from yesterday’s ‘solutions.’
-* The harder you push, the harder the system pushes back.
-* Behavior will grow worse before it grows better.
-* The easy way out usually leads back in.
-* The cure can be worse than the disease.
-* Faster is slower.
-* Cause and effect are not closely related in time and space.
-* Small changes can produce big results…but the areas of highest leverage are often the least obvious.
-* You can have your cake and eat it too—but not all at once.
-* Dividing an elephant in half does not produce two small elephants.
-* There is no blame.
-
-* Les problèmes d'aujourd'hui viennent des solutions d'hier
+* Les problèmes d'aujourd'hui viennent des ’solutions’ d'hier
 * Plus vous poussez, plus le système pousse en retour
-* Le comportement empirera d'abord avant de s'améliorer
+* Le comportement va d'abord empirer avant de s'améliorer
 * La manière la plus facile de s'en sortir conduit souvent à faire quelques pas en arrière
 * Le médicament peut être pire que la maladie
-* Plus vite c'est plus lentement
+* Aller plus vite c'est aller plus lentement
 * Les causes et les effets ne sont pas étroitement liés dans l'espace et le temps
 * De petits changements peuvent produire de gros résultats … mais les zones où l'effet de levier est le plus important sont souvent les moins évidentes
-* Vous pouvez avoir votre gâteau et le manger aussi - mais pas en une seule bouchée
+* Vous pouvez avoir votre gâteau et le manger aussi … mais pas en une seule bouchée
 * Couper un éléphant en deux ne produit pas deux petits éléphants
 * Il n'y a aucun reproche à faire
 
-Toyota’s internal motto is [“Good **thinking**, good products.”](http://www.toyota-global.com/company/toyota_traditions/quality/may_jun_2005.html) Systems thinking is a set of _thinking_ tools to help…
+La devise de Toyota en interne est [« Bien **réfléchir** permet d'avoir de bons produits »](http://www.toyota-global.com/company/toyota_traditions/quality/may_jun_2005.html). L'approche systémique est un ensemble d'outils de réflexion pour aider à :
 
-La devise de Toyota en interne est [« Une bonne **réflexion**, de bons produits »](http://www.toyota-global.com/company/toyota_traditions/quality/may_jun_2005.html). L'approche systémique est un jeu d'outils de réflexion pour aider …
+* **à voir les dynamiques des systèmes** : une organisation de développement est un système de personnes et de règles avec de subtiles boucles de feedback et des conséquences inattendues
 
-* **see system dynamics**—a development organization is a system of people and policies with subtle feedback loops and unintended consequences
+    * nous pouvons apprendre à voir et ainsi à améliorer le système avec des **diagrammes de boucles causales** réalisés lors d'un atelier
 
-* **à voir les dynamiques des systèmes** - une organisation de développement est un système de personnes et de règles avec de subtiles boucles de _feedback_ et des conséquences inattendues
+* **percevoir les modèles mentaux** - parmi les raisons derrière des décisions sous-optimales se trouvent des hypothèses erronées et des raisonnements incorrects
 
-    * we can learn to see and thus improve the system with **causal loop diagrams** created in a workshop
-
-    * nous pouvons apprendre à voir et ainsi à améliorer le système avec des **diagrammes de boucles causales** faits lors d'un atelier
-
-* **see mental models**—one reason behind suboptimal decisions is mistaken assumptions and faulty reasoning
-
-* **à percevoir les modèles mentaux** - parmi les raisons derrière des décisions sous-optimales se trouvent des hypothèses erronées et des raisonnements incorrects
-
-    * causal loop diagramming and Five Whys expose these
-
-    * les diagrammes de boucles causales et les cinq pourquoi permettent de révéler tout ça
+    * les diagrammes de boucles causales et les cinq pourquoi permettent de révéler cela
 
 * **see local optimization**—another source of suboptimal decisions is **local optimization** , making the ‘best’ decision from the viewpoint of a person or department, rather than **global optimization** for the lean systems-level goal of _deliver value fast with high quality and high morale_ .
 
-* **à voir les optimisations locales** - une autre source de décisions sous-optimales est **l'optimisation locale**, autrement dit prendre la « meilleure » décision du point de vue d'une personne ou d'un département, au détriment d'une **optimisation globale** qui est l'objectif au niveau système _lean_ que de pouvoir _livrer la plus grande valeur possible de très grande qualité avec un moral d'acier_
+* **voir les optimisations locales** - une autre source de décisions sous-optimales est **l'optimisation locale**, autrement dit prendre la « meilleure » décision du point de vue d'une personne ou d'un département, au détriment d'une **optimisation globale** qui est l'objectif au niveau système _lean_ et qui consiste à pouvoir _livrer la plus grande valeur possible de très grande qualité avec un moral d'acier._
 
-This introduction is organized around the following areas in systems thinking: Learning to see (1) _system dynamics_ , (2) _mental models_ , (3) _root causes_ , and (4) _local optimization_ .
-
-Cette introduction à l'approche systémique est présenté autour des domaines suivants : Apprendre à voir (1) _les dynamiques des systèmes_, (2) _les modèles mentaux_, (3) _les causes racines_, et (4) _l'optimisation locale_.
-
-## Seeing System Dynamics: Introduction
+Cette présentation de l'approche systémique est faite autour des domaines suivants : Apprendre à voir (1) _les dynamiques des systèmes_, (2) _les modèles mentaux_, (3) _les causes racines_, et (4) _l'optimisation locale_.
 
 ## Voir les dynamiques des systèmes : Introduction
 
-### Static versus Dynamic Complexity
-
 ### Complexité statique versus complexité dynamique
-
-Many of us, especially in engineering and finance, are educated to master **complexity of static details**—learning to analyze and manage information (requirements, financial analysis, …), decompose complex structures into simpler ones, and so forth. That is, complexity of a static, information, or structural nature.
 
 La plupart d'entre nous, notamment les ingénieurs et les financiers, ont été formés pour maîtriser la **complexité de détails statiques** - en apprenant à analyser et à gérer l'information (exigences, analyses financières, …), à décomposer des structures complexes en structures simples, et ainsi de suite. C'est-à-dire, la complexité d'une information qui est par nature structurellement statique.
 
-Why do big software systems tend to degrade, with more and more time spent on defects? What might happen if the USA invades Iraq? Seeing the dynamics behind these questions involves analysis of the **complexity of dynamics** .
-
 Pourquoi les gros systèmes informatiques ont-ils tendance à se dégrader malgré de plus en plus de temps passé sur les anomalies ? Qu'est-ce qui pourrait bien se passer si les États-Unis d'Amérique envahissait l'Irak ? Voir les dynamiques derrière ces questions implique d'analyser la **complexité des dynamiques** en jeu.
 
-In contrast to static-details education, many of us receive no _formal_ education in analyzing _dynamics_ complexity<sup>[3](https://less.works/less/principles/systems-thinking.html#footnote-3)</sup>, especially workplace dynamics. Perhaps there is a belief it is sufficient to rely on common sense in the workplace. Forrester demonstrated that “common sense” is just not so in complex systems, and showed it is possible to formally educate people to become better system dynamics thinkers in the workplace using _dynamic system models_ visualized in _flow diagrams_ [[Forrester61]](http://www.amazon.com/Industrial-Dynamics-Jay-Wright-Forrester/dp/1614275335/ref=sr_1_1?ie=UTF8&qid=1413582840&sr=8-1&keywords=Industrial+Dynamics).
+Au contraire d'une formation sur les détails statiques que la plupart d'entre nous avons suivie, peu d'entre nous ont reçu de formation sur l'étude des systèmes dynamiques et complexes[^3] et notamment dans le milieu professionnel. Peut-être parce que nous avons la croyance qu'il est suffisant de s'appuyer sur le bon sens en milieu professionnel. Jay Wright Forrester a démontré que le « bon sens » n'est pas suffisant dans des systèmes complexes et qu'il est possible de former des personnes pour leur permettre de mieux appréhender les **modèles de dynamiques des systèmes** en milieu professionnel en utilisant notamment des _diagrammes de flux_ [[Forrester61]](http://www.amazon.fr/Industrial-Dynamics-Jay-Wright-Forrester/dp/1614275335/ref=sr_1_1?ie=UTF8&qid=1413582840&sr=8-1&keywords=Industrial+Dynamics).
 
-En contraste avec une formation sur les détails statiques que la plupart d'entre nous avons suivie, peu d'entre nous ont reçu de formation sur l'étude des systèmes dynamiques et complexes[^3] et notamment en milieu professionnel. Peut-être parce que nous avons la croyance qu'il est suffisant de s'appuyer sur le bon sens en milieu professionnel. Jay Wright Forrester a démontré que le « bon sens » n'est pas suffisant dans des systèmes complexes et qu'il est possible de former des personnes pour leur permettre de mieux appréhender les dynamiques des systèmes en milieu professionnel en utilisant notamment des _diagrammes de flux_ [[Forrester61]](http://www.amazon.fr/Industrial-Dynamics-Jay-Wright-Forrester/dp/1614275335/ref=sr_1_1?ie=UTF8&qid=1413582840&sr=8-1&keywords=Industrial+Dynamics).
-
-Flow diagrams encompass material, financial, and information flows, stocks (variables with a quantity, such as cash or number of defects), the impact of decisions and policies, and cause-effect relations. A popular simplification is the **causal loop diagram** that focuses on cause-effect relationships and feedback loops in a system [[Sterman00]](http://www.amazon.com/Business-Dynamics-Systems-Thinking-Modeling/dp/0071179895). There are a variety of similar notations; they all show stocks (variables), causal links, and delay. In [[Weinberg92]](http://www.amazon.com/Quality-Software-Management-Systems-Thinking/dp/0932633226/ref=sr_1_1?ie=UTF8&qid=1413527418&sr=8-1&keywords=Quality+Software+Management%3A+Systems+Thinking) this is called the _diagram of effect_ .
-
-Les diagrammes de flux peuvent s'appliquer aussi bien aux flux matériels, financiers, d'informations, de stocks (n'importe quel type de stock quantitatif comme de l'argent ou des anomalies), aux conséquences des décisions et des politiques et des relations de causes à effet. Lorsque nous pensons aux diagrammes de flux, nous pensons souvent au seul diagramme de boucle causale dédié aux relations de cause à effets et aux boucles de rétroaction dans un système [[Sterman00]](http://www.amazon.fr/Business-Dynamics-Systems-Thinking-Modeling/dp/0071179895). Il existe une grande variété d'autres diagrammes qui peuvent faire figurer les stocks (quels qu'ils soient), les liens de causalités, et les retards. Dans son ouvrage,  [[Weinberg92]](http://www.amazon.fr/Quality-Software-Management-Systems-Thinking/dp/0932633226/ref=sr_1_1?ie=UTF8&qid=1413527418&sr=8-1&keywords=Quality+Software+Management%3A+Systems+Thinking) Gerald Weinberg appelle cela un _diagramme d'effet_.
-
-### The First Law of Diagramming: Model to Have a Conversation
+Les diagrammes de flux peuvent s'appliquer aussi bien aux flux matériels, financiers, d'informations, de stocks (n'importe quel type de stock quantitatif comme de l'argent ou des anomalies), aux conséquences des décisions et des politiques et des relations de causes à effet. Lorsque nous pensons aux diagrammes de flux, nous pensons souvent au seul _diagramme de boucle causale_ dédié aux relations de cause à effets et aux boucles de rétroaction dans un système [[Sterman00]](http://www.amazon.fr/Business-Dynamics-Systems-Thinking-Modeling/dp/0071179895). Il existe une grande variété d'autres diagrammes qui peuvent faire figurer les stocks (quels qu'ils soient), les liens de causalités, et les retards. Dans son ouvrage,  [[Weinberg92]](http://www.amazon.fr/Quality-Software-Management-Systems-Thinking/dp/0932633226/ref=sr_1_1?ie=UTF8&qid=1413527418&sr=8-1&keywords=Quality+Software+Management%3A+Systems+Thinking) Gerald Weinberg appelle cela un _diagramme d'effet_.
 
 ### La première loi de la réalisation d'un diagramme : nous modélisons pour avoir une conversation
 
-A tool to learn to see system dynamics is a causal loop diagram, ideally sketched on a whiteboard in a LeSS Overall Retrospective with colleagues. Before going further, here is the _First Law of Diagramming_
-
 Un outil très utile pour apprendre les dynamiques des systèmes est le diagramme de boucles causales - nous vous recommandons de l'utiliser sur un tableau blanc notamment lors des Rétrospectives Globales LeSS. Mais avant d'aller plus loin, voici la _première loi de réalisation d'un diagramme_.
-
-> **The primary value in diagrams is in the discussion while diagramming—we model to have a conversation.**
 
 > **La première valeur d'un diagramme c'est la discussion qui se déroule lors de la réalisation du diagramme - nous modélisons pour avoir une conversation.**
 
-When a group gets together to sketch a causal loop diagram on a whiteboard (See it is the the acts of discussing and thinking that are most important when diagramming, Valtech India.), the primary value is the conversation and shared understanding they arrive at while creating the model. Its visualization as an easy-to-see diagram _is_ important to make concrete and unambiguous (on the whiteboard) the ideas—the mental models people have—because words alone can be fuzzy and misunderstood. But still, the diagram is secondary to what people take away: learning and a revised understanding through a discussion.
+Lorsqu'un groupe se rassemble pour dessiner un diagramme de boucles causales sur un tableau blanc (« C'est l'acte de discuter et de réfléchir qui est le plus important lorsque nous dessinons », Valtech India.), la première valeur d'un diagramme c'est la conversation et la compréhension commune à laquelle les personnes arrivent lors de la création du modèle. Ce qu'il en résulte, à savoir un diagramme facile à comprendre est important pour rendre les idées et les modèles mentaux concrets et non ambigües (sur le tableau blanc) parce que les mots seuls peuvent être imprécis et mal compris. Toutefois, le diagramme est secondaire par rapport à ce avec quoi les gens repartent : ils ont appris quelque chose et ont revu leur compréhension du monde à travers une discussion.
 
-Lorsqu'un groupe se rassemble pour dessiner un diagramme de boucles causales sur un tableau blanc (« C'est l'acte de discuter et de réfléchir qui est le plus important lorsque nous dessinons », Valtech India.), la première valeur d'un diagramme c'est la conversation et la compréhension commune à laquelle les personnes arrivent lors de la création du modèle. Ce qu'il en résulte à savoir un diagramme facile à comprendre est important pour rendre les idées et les modèles mentaux concrets et non ambigües (sur le tableau blanc) parce que les mots seuls peuvent être imprécis et mal compris. Toutefois, le diagramme est secondaire par rapport avec ce que les gens repartent : ils ont appris quelque chose et ont revu leur compréhension du monde à travers une discussion.
+![xgroup-cld-modeling.jpg]({{ site.url }}assets/less/xgroup-cld-modeling.jpg)
 
-<figure>![group%20cld%20modeling.jpg](https://less.works/img/systems-thinking/xgroup,P20cld,P20modeling.jpg.pagespeed.ic.lirKMzwWbD.webp)
+_Un atelier d'approche systémique : réalisation d'un diagramme de boucles causales à plusieurs - modéliser pour avoir une conversation._
 
-![group%20cld%20modeling.jpg](https://less.works/img/systems-thinking/xgroup,P20cld,P20modeling.jpg.pagespeed.ic.lirKMzwWbD.webp)
-
-<figcaption>Doing system thinking. Sketching a causal loop diagram together—modeling to have a conversation.</figcaption></figure>
-
-Un atelier d'approche systémique : réalisation d'un diagramme de boucles causales à plusieurs - modéliser pour avoir une conversation.
-
-_Concrete modeling tip_ : We start by writing on sticky notes to define _variables_ . A note might read “feature velocity” or “# defects.” We place these on a whiteboard. Then we sketch causal link lines between the sticky notes. There will be (or should be) lots of rewriting, erasing, and redrawing during the modeling session. The most meaningful outcome is _understanding_ ; in addition, some participants will want to take a digital photo of the whiteboard sketch.
-
-_Trucs et astuces de pro pour modéliser_ : Nous commençons par écrire sur des petits papiers repositionnables les noms des _variables_, par exemple « vélocité des _features_ » ou « nombre d'anomalies ». Nous les plaçons ensuite sur le tableau blanc. Puis nous dessinons les liens de causalités entre les papiers . Il y aura (ou il devrait y avoir) beaucoup de réécriture, d'effaçage, de redessin lors de la session de modélisation. Le résultat le plus important d'une telle session est la _compréhension_ - il se peut qu'à l'issue de cet atelier, certains participants voudront prendre une photo du dessin du tableau blanc.
-
-## Seeing System Dynamics: Causal Loop Diagrams
+_Trucs et astuces de pro pour modéliser_ : nous commençons par écrire sur des post-its les noms des _variables_, par exemple « vélocité des _features_ » ou « nombre d'anomalies ». Nous les plaçons ensuite sur le tableau blanc. Puis nous dessinons les liens de causalités entre les post-its. Il y aura (ou il devrait y avoir) beaucoup de réécriture, d'effaçage, de redessin lors de la session de modélisation. Le résultat le plus important d'une telle session est la _compréhension_ - il se peut qu'à l'issue de cet atelier, certains participants voudront prendre une photo du dessin du tableau blanc.
 
 ## Voir les dynamiques des systèmes : les diagrammes de boucles causales
 
-Causal loop diagrams are used regularly in introductions to LeSS, to help see the dynamics of what is going on in large-scale development. It is useful to understand them for that reason alone. And more useful to you, we recommend you do these together with colleagues at a whiteboard. Model to have a conversation. When? Probably during a LeSS Overall Retrospective.
-
-Les diagrammes de boucles causales sont souvent utilisés en introduction à LeSS pour aider à voir les dynamiques de ce qu'il se passe dans du développement à grande échelle. Il est donc utile de comprendre ce type de diagrammes pour cette seule et unique raison. Et cela s'avèrera encore plus utile pour vous, si vous le faites avec vos collègues devant un tableau blanc. Vous modélisez pour avoir une conversation. Quand ? Plus probablement lors d'une rétrospective globale LeSS.
-
-The practical aspect of this tip is more important than may first be appreciated. It is vague and low-impact to suggest “be a systems thinker.” But if you and four colleagues get into the habit of standing together at a large whiteboard, sketching causal loop diagrams together, then there is a concrete and potentially high-impact practice that connects “_be_ a systems thinker” with “_do_ systems thinking.”
+Les diagrammes de boucles causales sont souvent utilisés en introduction à LeSS pour aider à voir les dynamiques de ce qu'il se passe lors du développement à grande échelle. Il est donc utile de comprendre ce type de diagrammes pour cette seule et unique raison. Et cela s'avèrera encore plus utile pour vous, si vous le faites avec vos collègues devant un tableau blanc. Vous modélisez pour avoir une conversation. Quand ? Plus probablement lors d'une rétrospective globale LeSS.
 
 L'aspect pratique de cet exercice est bien plus important que ce qu'il peut paraître au premier abord. Notre conseil d'« être un pratiquant systémique » peut vous sembler vague et sans grand impact. Mais si vous et quatre de vos collègues prenez l'habitude de vous réunir devant un grand tableau blanc, en dessinant des diagrammes de boucles causales ensemble, alors vous arriverez à faire la connexion entre « _être_ un pratiquant systémique » avec « _faire_ de l'approche systémique ».
 
-The following examples seem sterile when presented in a book. But imagine you were at a whiteboard with other people and the diagrams were being sketched during a lively conversation. That’s the way we suggest ‘doing’ systems thinking.
-
-Les exemples suivants peuvent paraître stériles car présentés dans un livre. Mais imaginez-vous à côté d'un tableau blanc avec d'autres personnes dessinant ensemble des diagrammes au cours d'une conversation animée. C'est de cette manière-là que nous suggérons de ‘ faire ’ de l'approche systémique.
-
-###### Notation and Examples
+Les exemples suivants peuvent paraître aseptisés car présentés dans un livre. Mais imaginez-vous à côté d'un tableau blanc avec d'autres personnes dessinant ensemble des diagrammes au cours d'une conversation animée. C'est de cette manière-là que nous suggérons de ’faire’ de l'approche systémique.
 
 ###### Notation et exemples
 
-Causal loop diagrams contain many elements; the following common useful subset is explored through a scenario.
-
 Les diagrammes de boucles causales contiennent beaucoup d'éléments ; les éléments suivants sont les plus communément utilisés et sont vus en détail tout au long du scénario qui va suivre
-
-* variables
-* causal links
-* opposite effects
-* constraints
-* goals
-* reactions; quick-fix reactions
-* interaction effects
-* extreme effects
-* delays
-* positive feedback loops
 
 * variables
 * liens de causalité
 * effets opposés
 * contraintes
 * objectifs
-* réactions ; réactions solutions de contournement
+* réactions ; solutions de contournement
 * effets d'interaction
 * effets extrêmes
 * retards
-* boucles de _feedback_ positives
-
-_The following simplified scenario is for a particular organization. It is not a generalization._
+* boucles de feedback positives
 
 _Le scénario qui suit est un scénario simplifié pour une organisation spécifique. Il ne s'agit pas d'une généralisation._
 
-**Variables**—Causal loop diagrams include _variables_ (or stocks) such as the _velocity (rate of delivery) of software features_ and _number of defects_ . Variables have a measurable quantity.
-
-**Les variables** - Les diagrammes de boucles causales comportent des _variables_ (ou des stocks) telle que la _vélocité (taux de livraison) des features_ et le _nombre d'anomalies_. Les variables ont une quantité mesurable.
-
-![systems thinking-4.png](https://less.works/img/systems-thinking/xsystems,P20thinking-4.png.pagespeed.ic.WpO9GKmuZP.webp)
+**Les variables** - Les diagrammes de boucles causales comportent des _variables_ (ou des stocks) telle que la _vélocité (taux de livraison) des features logicielles_ et le _nombre d'anomalies_. Les variables ont une quantité mesurable.
 
 ![systems thinking-4.png]({{ site.url }}assets/less/xsystems-thinking-4-fr.png)
 
-**Causal links**—An element can have an effect on another, such as if feature velocity increases, then the number of defects increase; that is, more new code, more defects.
-
 **Les liens de causalité** - Un élément peut avoir un effet sur un autre, comme par exemple si la vélocité des _features_ augmente alors le nombre d'anomalies augmente ; autrement dit, plus de code, plus d'anomalies.
 
-![systems thinking-5.png](https://less.works/img/systems-thinking/xsystems,P20thinking-5.png.pagespeed.ic.oPRro2SqND.webp)
+![systems thinking-5.png]({{ site.url }}assets/less/xsystems-thinking-5-fr.png)
 
-![systems thinking-5.png]({{ site.url }}assets/less/xsystems-thinking-4-fr.png)
-
-Now it is time to bump into _Weinberg-Brook’s Law_ and the _Causation Fallacy_ . It is easy to sketch a diagram; it is something else to model with insight. For example, consider the relationship between the _number of developers_ and _feature velocity._
-
-Il est temps désormais de se jeter à corps perdu dans la _loi de Weinberg-Brooks_ et dans la _causalité fallacieuse_. C'est facile de dessiner un diagramme, ça l'est moins que de modéliser en faisant preuve de clairvoyance comme par exemple, la relation entre le _nombre de développeurs_ et la _vélocité des features_.
-
-The nature of any cause-effect relationship is actually not obvious, though it is common for people to jump to conclusions such as more developers means better velocity. Adding people late in development may _reduce_ velocity (a sub-element of “Brooks’ Law” [Brooks95]). Or, _more_ bad programmers could really slow you down. An argument can be made that _removing_ terrible developers can _improve_ velocity.
+Il est temps désormais de se jeter à corps perdu dans la _loi de Weinberg-Brooks_ et dans la _causalité fallacieuse_. Il est facile de dessiner un diagramme, ça l'est moins de modéliser en faisant preuve de clairvoyance comme par exemple, la relation entre le _nombre de développeurs_ et la _vélocité des features_.
 
 Toute relation de cause à effets est par nature obscure, même si les gens ont l'habitude de sauter sur la première conclusion venue comme par exemple plus de développeurs égale plus de vélocité. Ajouter des personnes tard au cours du développement peut _réduire_ la vélocité (il s'agit d'une composante de la « loi de Brooks » [Brooks95]). Ou, _davantage_ de mauvais développeurs pourrait vraiment vous ralentir. Il pourrait être objecté qu'_enlever_ des développeurs exécrables peut permettre _d'améliorer_ la vélocité.
 
-![systems thinking-6.png](https://less.works/img/systems-thinking/xsystems,P20thinking-6.png.pagespeed.ic.6XIYl7Vm3_.webp)
-
 ![systems thinking-6.png]({{ site.url }}assets/less/xsystems-thinking-6-fr.png)
 
-**Opposite effects**—A causal link effect may be the same or opposite direction; if A goes up then B goes up, or vice versa. Opposite effect is shown with an ‘O’ on the line. Suppose defects going up puts a drag on the system, lowering the velocity of new features because people spend more time fixing or working around bugs.
-
-**Effets opposés** - L'effet d'un lien de causalité peut aller dans la même direction ou dans la direction opposée. Si A monte alors B monte ou vice versa. L'effet opposé se souligne à l'aide d'un '0' sur la ligne. Supposons que les anomalies ralentissent grandement le système, réduisant la vélocité des nouvelles _features_ parce que les gens passent plus de temps à corriger ou à trouver des solutions de contournement aux anomalies.
-
-![systems thinking-7.png](https://less.works/img/systems-thinking/xsystems,P20thinking-7.png.pagespeed.ic.DPGMJyX2Qf.webp)
+**Effets opposés** - L'effet d'un lien de causalité peut aller dans la même direction ou dans la direction opposée. Si A augmente alors B augmente ou vice versa. L'effet opposé se souligne à l'aide d'un 'O' sur la ligne. Supposons que les anomalies ralentissent grandement le système, réduisant la vélocité des nouvelles _features_ parce que les gens passent davantage de temps à corriger ou à trouver des solutions de contournement aux anomalies.
 
 ![systems thinking-7.png]({{ site.url }}assets/less/xsystems-thinking-7-fr.png)
 
-**Constraints**—Unless you can find people to work for free, there is a constraint on the number of developers, based upon cash supply.
-
 **Contraintes** - À moins que vous ne trouviez des personnes prêtent à travailler gratuitement, il y a une contrainte sur le nombre de développeurs basé sur le budget disponible.
 
-Constraints are _not_ causal links. As cash supply goes up, it is not the case that the number of developers goes up.
-
-Les contraintes ne sont _pas_ des liens de causalité. Lorsque la montant du budget disponible augmente, ce n'est pas le cas du nombre de développeurs/
-
-![systems thinking-8.png](https://less.works/img/systems-thinking/xsystems,P20thinking-8.png.pagespeed.ic.gbgAIK-IsZ.webp)
+Les contraintes ne sont _pas_ des liens de causalité. Lorsque la montant du budget disponible augmente, ce n'est pas le cas du nombre de développeurs.
 
 ![systems thinking-8.png]({{ site.url }}assets/less/xsystems-thinking-8-fr.png)
 
-**Goals and Reactions**–People, departments, and systems have goals, such as _higher feature velocity_ . Goals often generate pressure for people to react (or act), with the intent of achieving the goal. But since there is _Causation Fallacy_ and _Weinberg-Brooks’ Law_ to contend with, people should be cautious about assuming what actions will help. Now a goal and pressure for reaction is shown:
-
 **Buts et réactions** - Les personnes, les départements et les systèmes ont des buts, comme par exemple avoir une _vélocité des features plus élevée_. Les buts occasionnent souvent de la pression pour que les gens réagissent (ou agissent) dans l'intention de leur faire atteindre ce but. Mais étant donné qu'il y a la _causalité fallacieuse_ et la _loi de Weinberg-Brooks_ à laquelle il faut faire face, les gens devraient être prudents quant aux actions pertinentes à entreprendre. Voici un exemple de diagramme modélisant cela :
-
-![systems thinking-9.png](https://less.works/img/systems-thinking/xsystems,P20thinking-9.png.pagespeed.ic.yVcHbh4_-i.webp)
 
 ![systems thinking-9.png]({{ site.url }}assets/less/xsystems-thinking-9-fr.png)
 
-Not only does a goal with a _reward_ create pressure to act, but also it creates pressure to _appear_ to be acting and achieving, due to the **measurement dysfunction** generated by rewards. And the measurement dysfunction can be proportional to the perceived value of the reward because people are being motivated to get a reward, not to improve the system [[Austin96]](http://www.amazon.com/Measuring-Managing-Performance-Organizations-Dorset-ebook/dp/B00DY3KQX6/ref=sr_1_1?ie=UTF8&qid=1413596674&sr=8-1&keywords=measuring+and+managing+performance+in+organizations). Notice how rewards can actually degrade system performance. Visually, the system dynamics may be…
-
 Non seulement un but à atteindre avec une _récompense_ au bout engendre une pression à agir, mais cela créé aussi une pression à _faire semblant_ d'agir et à atteindre le but — les récompenses provoquent un **dysfonctionnement des indicateurs**. Le dysfonctionnement des indicateurs peut être proportionnel à la valeur perçue de la récompense parce que les personnes sont motivées pour avoir la récompense, non pour améliorer le système [[Austin96]](http://www.amazon.fr/Measuring-Managing-Performance-Organizations-Dorset-ebook/dp/B00DY3KQX6/ref=sr_1_1?ie=UTF8&qid=1413596674&sr=8-1&keywords=measuring+and+managing+performance+in+organizations). Remarquez bien comment et de quelle manière les récompenses peuvent dégrader la performance du système. De manière visuelle, les dynamiques d'un tel système pourrait être …
-
-![systems thinking-10.png](https://less.works/img/systems-thinking/xsystems,P20thinking-10.png.pagespeed.ic.39CLFp-g_9.webp)
 
 ![systems thinking-10.png]({{ site.url }}assets/less/xsystems-thinking-10-fr.png)
 
-It is quite interesting that all these dynamics have been added by introduction of reward, and yet there is no necessary connection between the top part of this model and the bottom.
-
-Il est assez intéressant de voir que toutes ces dynamiques ont été ajouté par l'introduction d'une récompense et qu'il n'y pas de connexion entre le haut et le bas de cette modélisation.
-
-There is no guarantee that feature velocity has improved—or even been worked on.
+Il est assez intéressant de voir que toutes ces dynamiques ont été ajoutées par l'introduction d'une récompense et qu'il n'y pas de connexion entre le haut et le bas de cette modélisation.
 
 Il n'y a aucune garantie que la vélocité des features s'améliore ou même que l'on y travaille.
 
-Removing the reward system is a root-cause solution to the dysfunction. Another (lesser) surface countermeasure is the lean-thinking _Go See_ (go see physically at the place of real work) principle and management behavior:
-
 Enlever le système de récompense est une solution à la cause racine de ce dysfonctionnement. Une autre contremesure de surface est le principe et le comportement managériale _Aller voir_ (aller voir physiquement sur le lieu où le travail s'effectue) de l'approche lean.
-
-![systems thinking-11.png](https://less.works/img/systems-thinking/xsystems,P20thinking-11.png.pagespeed.ic.NU8SjnJkUY.webp)
 
 ![systems thinking-11.png]({{ site.url }}assets/less/xsystems-thinking-11-fr.png)
 
-**Quick-fix reactions**—One difficult and slow solution toward the goal of higher velocity is to hire great developers, to increase coaching and education of existing staff, and to remove terrible workers. The alternative is called a _quick fix_ , a reaction that is hoped to achieve the goal quickly and with less effort. Sometimes a quick fix works well both in the short and long term, really strengthening the system. Sometimes not…hence, “faster is slower.” For example, people may _believe_ that increasing the number of developers increases the feature velocity. And they may thereby hope that hiring more developers will most quickly and easily solve the velocity problem. ‘QF’ indicates the quick fix:
-
-**Solutions de contournement** - Une solution payante à long terme pour atteindre une vélocité plus grande, qui n'est pas sans difficulté, consiste à : recruter de développeurs très qualifiés, faire davantage d'accompagnements et de formations, et à se séparer des moins bons éléments. L'alternative est ce que l'on appelle une _solution de contournement_, c'est ce que l'on met en place dans l'espoir d'atteindre l'objectif en moins de temps et avec moins d'effort. Parfois, une solution de contournement se révèle payante aussi bien dans le court terme que dans le long terme, renforçant par la-même le système. D'autres fois cela ne fonctionne pas … d'où l'expression « aller plus vite c'est aller plus lentement ». Par exemple, les gens peuvent _croire_ qu'augmenter le nombre de développeurs permet d'augmenter la vélocité des features. Et ils peuvent par conséquent être amenés à espérer qu'en recrutant davantage de développeurs cela permettra de résoudre plus vite et plus facilement le problème de vélocité. La mention ‘SC’ sur le diagramme ci-dessous indique une solution de contournement.
-
-![systems thinking-12.png](https://less.works/img/systems-thinking/xsystems,P20thinking-12.png.pagespeed.ic.x8IJWKprUx.webp)
+**Solutions de contournement** - Une solution payante à long terme pour atteindre une vélocité plus grande, mais qui n'est pas sans difficulté, consiste à : recruter des développeurs très qualifiés, faire davantage d'accompagnements et de formations, et à se séparer des moins bons éléments. L'alternative est ce que l'on appelle une _solution de contournement_, c'est ce que l'on met en place dans l'espoir d'atteindre l'objectif en moins de temps et avec moins d'effort. Parfois, une solution de contournement se révèle payante aussi bien dans le court terme que dans le long terme, renforçant par la-même le système. D'autres fois cela ne fonctionne pas … d'où l'expression « aller plus vite c'est aller plus lentement ». Par exemple, les gens peuvent _croire_ qu'augmenter le nombre de développeurs permet d'augmenter la vélocité des features. Et ils peuvent par conséquent être amenés à espérer qu'en recrutant davantage de développeurs cela permettra de résoudre plus vite et plus facilement le problème de vélocité. La mention ‘SC’ sur le diagramme ci-dessous indique une solution de contournement.
 
 ![systems thinking-12.png]({{ site.url }}assets/less/xsystems-thinking-12-fr.png)
 
