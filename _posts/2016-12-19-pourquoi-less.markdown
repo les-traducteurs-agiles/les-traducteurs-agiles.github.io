@@ -21,14 +21,14 @@ _Scrum se situe à l'endroit idéal entre les principes abstraits et les pratiqu
 
 Aussi, pour garantir que [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html), nous aurons besoin de trouver le même type d'équilibre, nous serons alors capable de dire que :
 
-_Pour les groupes de grande taille, LeSS se situe à l'endroit idéalentre des éléments concrets et définis et un contrôle de processus empirique._
+_Pour les groupes de grande taille, LeSS se situe à l'endroit idéal entre des éléments concrets et définis et un contrôle de processus empirique._
 
 Ce qui nous a conduit à prendre certaines décisions :
 
 * **LeSS doit rester simple.**
     Lorsqu'on met à l'échelle, on a tendance à ajouter des rôles, des artefacts, des processus, etc. Ceci doit être évité afin qu'un processus puisse émerger de manière empirique au sein du groupe produit. La plupart des frameworks de mise à l'échelle tombe dans le piège de fournir un processus prédéfini. Avec LeSS, nous souhaitons éviter ce piège.
 * **LeSS c'est Scrum mis à l'échelle.**
-    Au lieu de considérer Scrum comme un élément de base pour un framework à l'échelle, nous devons regarder chaque élément de Scrum et nous demander "A quoi sert-il ?" puis "Si nous avons plus d'une équipe, comment pouvons-nous atteindre le même objectif sur une échelle plus grande ?".
+    Au lieu de considérer Scrum comme un élément de base pour un framework à l'échelle, nous devons regarder chaque élément de Scrum et nous demander "À quoi sert-il ?" puis "Si nous avons plus d'une équipe, comment pouvons-nous atteindre le même objectif sur une échelle plus grande ?".
 * **Mettre à l'échelle plutôt que décliner à petite échelle.**
     Un concept habituel dans le développement de processus est de définir un framework global et universel, puis de le décliner à petite échelle en fonction du contexte. Cela ne fonctionne pas bien parce que les gens supposent que tout est nécessaire dans leur contexte spécifique. Cette hypothèse mène souvent à la création de processus surdimensionnés. LeSS doit être minimaliste. Nous sommes conscients que la mise à l'échelle demandera "davantage" de choses mais au lieu de "polluer" LeSS avec des éléments optionnels, nous avons identifié un framework différent, [LeSS Huge (fr)](http://www.les-traducteurs-agiles.org/2016/12/26/less-portail-less-huge.html).
 
@@ -62,7 +62,7 @@ Nous avons alors réalisé que notre premier travail sur la mise à l'échelle n
 
 ## LeSS en tant que framework
 
-LeSS est bien plus qu'un ensemble de principes et d'expériences. Il fournit aussi un framework avec des règles. Les [Règles LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-les-regles-less.html) définissent ce qu'est (et n'est pas) LeSS et fournissent un framework concret pour mettre en oeuvre LeSS. Au sein du framework LeSS, les groupes produit peuvent mener des expériences et découvrir ce qui fonctionne le mieux pour eux à un certain moment.
+LeSS est bien plus qu'un ensemble de principes et d'expériences. Il fournit aussi un framework avec des règles. Les [Règles LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/less-les-regles-less.html) définissent ce qu'est (et n'est pas) LeSS et fournissent un framework concret pour mettre en œuvre LeSS. Au sein du framework LeSS, les groupes produit peuvent mener des expériences et découvrir ce qui fonctionne le mieux pour eux à un certain moment.
 
 Ceci est à la base du troisième livre sur LeSS, simplement nommé [Large-Scale Scrum](https://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710). Dans ce livre, LeSS est défini avec :
 
