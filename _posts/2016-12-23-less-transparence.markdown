@@ -19,10 +19,10 @@ C'est la bonne nouvelle. La mauvaise nouvelle c'est que la réalité n'est pas t
 
 Et c'est une des raisons pour laquelle une unique équipe Scrum ou un Scrum mis à l'échelle sont transformés en quelque chose qui ressemble au statu quo, si bien que les faiblesses existantes restent cachées ou contournées. Ou alors Scrum ou LeSS sont tournées en ridicule ou rejetés pour être remplacés par quelque chose qui est sans danger pour le statu quo.
 
-Ken Schwaber, le co-créateur de Scrum, a autrefois résumé les "quatre obstacles à l'adoption de Scrum", qui font aussi référence aux implications politiques de cette transparence douloureuse lorsque Scrum ou LeSS sont présentés à une organisation. Ces "quatre obstacles" sont :
+Ken Schwaber, le cocréateur de Scrum, a autrefois résumé les "quatre obstacles à l'adoption de Scrum", qui font aussi référence aux implications politiques de cette transparence douloureuse lorsque Scrum ou LeSS sont présentés à une organisation. Ces "quatre obstacles" sont :
 
 * la tyrannie du cycle en V
-* l'illusion du contrôle-commmande
+* l'illusion du contrôle-commande
 * la croyance en la magie et
 * l'ère de tout rendre opaque.
 
