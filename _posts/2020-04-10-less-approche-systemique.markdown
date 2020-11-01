@@ -1,11 +1,12 @@
 ---
 layout: post
 title:  "Less - Approche systémique"
-date:   2020-04-10 14:46
-published: false
+date:   2020-11-01 00:00
+published: true
 tags:
-- tag1
-- tag2
+- less
+- à grande échelle
+- approche systémique
 ---
 
 # Approche systémique
@@ -322,7 +323,7 @@ Source : [Systems Thinking](https://less.works/less/principles/systems-thinking.
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 27/10/2020
+Date de traduction : 01/11/2020
 Relecteurs : Christophe Gesché, Fabrice Aimetti
 
 ---
