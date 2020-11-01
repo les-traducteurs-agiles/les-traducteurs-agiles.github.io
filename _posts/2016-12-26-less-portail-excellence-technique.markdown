@@ -17,7 +17,7 @@ tags:
 * [Livraison Continue](http://less.works/less/technical-excellence/continuous-integration.html)
 * [Tests d'Acceptation (fr)](http://www.les-traducteurs-agiles.org/2019/01/09/less-tests-d-acceptation.html)
 * [Architecture & Conception](http://less.works/less/technical-excellence/architecture-design.html)
-* [Ecrire du Code Propre](http://less.works/less/technical-excellence/clean-code.html)
+* [Écrire du Code Propre](http://less.works/less/technical-excellence/clean-code.html)
 * [Tests unitaires](http://less.works/less/technical-excellence/unit-testing.html)
 * [Développement piloté par les tests (fr)](http://www.les-traducteurs-agiles.org/2020/03/08/less-developpement-pilote-par-les-tests.html)
 * [Réflexions à propos des tests](http://less.works/less/technical-excellence/thinking-about-testing.html)
