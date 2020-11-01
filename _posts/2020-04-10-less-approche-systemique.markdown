@@ -204,7 +204,7 @@ Malheureusement de plus en plus des très bons développeurs, ceux en capacité 
 
 _Astuce_ : Vous pouvez trouver des boucles de feedback positives en cherchant des cycles ayant un _nombre pair_ de relations. Vous en trouverez plusieurs exemples ci-dessus.
 
-##### Conclusion
+#### Conclusion
 
 Le scénario donné à titre d'exemple est uniquement cela - un exemple. Une diagramme de boucle causale permet de visualiser la richesse de la dynamique dans le système dans un milieu professionnel. La meilleure manière de modéliser un tel système est de le faire en groupe face à un tableau blanc.
 
