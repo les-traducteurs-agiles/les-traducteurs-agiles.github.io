@@ -11,9 +11,6 @@ tags:
 
 # Approche systémique
 
-I took a speed reading course and read “War and Peace” in twenty minutes. It involves Russia.
-—Woody Allen
-
 > J'ai pris un cours de lecture rapide puis j'ai lu « Guerre et Paix » en vingt minutes. Cela parle de la Russie. —Woody Allen
 
 « Quoi que nous fassions, le nombre d'anomalie dans notre _backlog_ reste identique. » nous a dit un jour un manager en évoquant un produit de près de 15 millions de lignes de code écrites en C et C++ et sur lequel plusieurs centaines de développeurs étaient en train de travailler. Que pouvait-il bien se passer ? L'approche systémique peut s'avérer utile dans ce cas comme dans d'autres. En petits groupes, les forces en présence peuvent rapidement être identifiées et comprises de manière informelle, mais dans le cadre du développement d'un gros produit ou de n'importe quel gros système, c'est difficile. Gerry Weinberg met en avant deux facteurs décisifs dans ce genre de situation :
@@ -112,7 +109,7 @@ L'aspect pratique de cet exercice est bien plus important que ce qu'il peut para
 
 Les exemples suivants peuvent paraître aseptisés car présentés dans un livre. Mais imaginez-vous à côté d'un tableau blanc avec d'autres personnes dessinant ensemble des diagrammes au cours d'une conversation animée. C'est de cette manière-là que nous suggérons de ’faire’ de l'approche systémique.
 
-###### Notation et exemples
+### Notation et exemples
 
 Les diagrammes de boucles causales contiennent beaucoup d'éléments ; les éléments suivants sont les plus communément utilisés et sont vus en détail tout au long du scénario qui va suivre
 
@@ -185,7 +182,7 @@ Pour montrer un _effet extrême_ sur un modèle, faites un trait épais comme vo
 
 ![systems thinking-14.png]({{ site.url }}assets/less/xsystems-thinking-14-fr.png)
 
-**Retards** Un problème courant au niveau du recrutement dans un projet de développement logiciel concerne _l'erreur au niveau de la variance d'un développeur moyen_ ; autrement dit la croyance fausse que la variance d'un développeur à un autre (en terme de productivité, de qualité de code, etc.) est relativement faible. Toutefois, les études de la variance au sujet des développeurs montrent un rapport de 1 à 4 entre le 1er quartile et le dernier [[Prechelt00]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.4788). C'est plutôt quelque chose de significatif. De même des études - en long et en large - du modèle COCOMO  montrent que la capacité du développement personnel est le facteur de loin le plus important quant à la productivité [[Boehm00]](http://www.amazon.com/Software-Cost-Estimation-Cocomo-II/dp/0130266922/ref=sr_1_1?ie=UTF8&qid=1413597244&sr=8-1&keywords=Software+Cost+Estimation+with+Cocomo+II). Et, en moyenne, il s'avère que les développeurs peu qualifiés font du code de mauvaise qualité (mauvaise conception) et de plus d'anomalies, ceci rajoute un autre frein au système.
+**Retards** - Un problème courant au niveau du recrutement dans un projet de développement logiciel concerne _l'erreur au niveau de la variance d'un développeur moyen_ ; autrement dit la croyance fausse que la variance d'un développeur à un autre (en terme de productivité, de qualité de code, etc.) est relativement faible. Toutefois, les études de la variance au sujet des développeurs montrent un rapport de 1 à 4 entre le 1er quartile et le dernier [[Prechelt00]](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.43.4788). C'est plutôt quelque chose de significatif. De même des études - en long et en large - du modèle COCOMO  montrent que la capacité du développement personnel est le facteur de loin le plus important quant à la productivité [[Boehm00]](http://www.amazon.com/Software-Cost-Estimation-Cocomo-II/dp/0130266922/ref=sr_1_1?ie=UTF8&qid=1413597244&sr=8-1&keywords=Software+Cost+Estimation+with+Cocomo+II). Et, en moyenne, il s'avère que les développeurs peu qualifiés font du code de mauvaise qualité (mauvaise conception) et de plus d'anomalies, ceci rajoute un autre frein au système.
 
 Mais l'impact de ces effets ne sont pas visibles immédiatement. Par exemple, cela peut prendre un certain temps après un recrutement massif de développeurs peu qualifiés avant que les impacts négatifs ne se fassent sentir au niveau de la qualité du code ou de la conception. De manière similaire, la _baisse_ moyenne de la vélocité des features (en raison de l'impact important de la variance des développeurs évoqué plus haut) ne se verra pas immédiatement.
 
@@ -269,7 +266,7 @@ Par exemple, les départements juridiques et sécurité mettent en place des pol
 
 Ce qui suit est extrait d'un vrai mail de la _POLICE DE LA LOGISTIQUE_ dans une organisation qui a banni le management visuel sur les murs. Pouvez-vous identifier les optimisations locales et les modèles mentaux qui sont derrière tout ça ?
 
-> _Les [bureaux à cloisons](https://fr.wikipedia.org/wiki/Bureau_%C3%A0_cloisons) peuvent être personnalisés. Mais tout ce qui visible au-dessus de la cloison ou qui perturbe l'harmonie de l'environnement de bureau est interdit.
+> Les [bureaux à cloisons](https://fr.wikipedia.org/wiki/Bureau_%C3%A0_cloisons) peuvent être personnalisés. Mais tout ce qui visible au-dessus de la cloison ou qui perturbe l'harmonie de l'environnement de bureau est interdit.
 
 Nous constatons aussi des optimisations locales dans les groupes centralisés dont le rôle est de choisir les logiciels pour les autres personnes de l'entreprise. La croyance la plus répandue relative à cette démarche est qu'il s'agit de ce qu'il y a de mieux pour réduire les coûts d'achats (curieusement ces mêmes groupes recommandent rarement les logiciels open source gratuits) ou ce qu'il y a de mieux pour accomplir une tâche compliquée ou ce qu'il y a de mieux pour l'accomplissement du travail d'un seul type de travailleur (même si _tout le monde_ est censé devoir utiliser l'outil), plutôt que de maximiser l'objectif de l'entreprise qui est d'avoir un système de flux de production de la valeur plus rapide pour les clients.
 
@@ -279,7 +276,7 @@ D'autres optimisations locales sont dues, quant à elles, à l'ignorance des nou
 
 Dans l'approche lean et dans les méthodes agiles, l'accent est mis sur les objectifs du système dans sa globalité : livrer de la valeur de grande qualité au plus vite tout en gardant le moral des équipes au plus haut - autrement dit une **optimisation globale**. Essayer de reconsidérer vos décisions à la lumière de cet objectif. Pour développer une culture de « l'optimisation du tout », remettez donc en cause toutes les décisions et les règles avec la question suivante :
 
-> ** Est-ce que cette décision ou cette règle se focalise sur le fait de livrer de la valeur au client externe au plus vite, ou se focalise-t-elle sur les intérêts d'un département, d'une personne, d'une pratique/règle interne, ou d'un cas rarissime ?**
+> **Est-ce que cette décision ou cette règle se focalise sur le fait de livrer de la valeur au client externe au plus vite, ou se focalise-t-elle sur les intérêts d'un département, d'une personne, d'une pratique/règle interne, ou d'un cas rarissime ?**
 
 Dans LeSS, le Product Owner est responsable pour choisir ces objectifs à haute valeur qui **pourrait mener à un produit potentiellement livrable (à la fin du Sprint) maximisant les impacts souhaités et réjouissant le client tout en maintenant un rythme soutenable et une haute qualité d'ingénierie**. Cet objectif explicite est destiné à orienter le système vers son optimisation globale plutôt que vers une optimisation qui ne serait que locale.
 
@@ -299,9 +296,9 @@ _Séance d'approche systémique. Réalisation d'un diagramme de boucle cause à 
 
 * Les ouvrages [_Quality Software Management: Systems Thinking_](https://www.amazon.fr/Quality-Software-Management-Systems-Thinking/dp/0932633226/) et [_An Introduction to General Systems Thinking_](https://www.amazon.fr/Introduction-General-Systems-Thinking-Weinberg/dp/0932633498/) de Gerald Weinberg sont intéressants. Il sont écrits du point de vue d'un consultant expérimenté en développement de systèmes.
 
-[_La cinquième discipline_](https://www.amazon.fr/cinqui%C3%A8me-discipline-Levier-organisations-apprenantes/dp/2212559372/) est un autre classique du genre qui prône que l'encadrement d'une entreprise devrait appliquer l'approche systémique (autrement dit la _cinquième_ discipline) ainsi que d'autres disciplines-clés toutes aussi importantes en vue d'obtenir une entreprise durable. Ces autres disciplines que les dirigeants devraient appliquer sont (1) une discipline personnelle, (2) une réflexion sur leurs propres croyances et raisonnements erronés, (3) la définition et la communication d'une vision partagée ayant du sens, et (4) la capacité des équipes à apprendre. Nous vous recommandons d'ignorer - du moins dans un premier temps pendant vos premières années de pratiques - le concept d'archétypes présenté dans le livre. Ce concept avait pour but d'être une aide à l'apprentissage de la cinquième discipline mais nous avons observé qu'il était soit une source de distraction soit qu'il intimidait les lecteurs quant à leur apprentissage et à l'application de la modélisation des dynamiques des systèmes. Les ‘archétypes’ ne font pas partie à l'origine des dynamiques des systèmes.
+* [_La cinquième discipline_](https://www.amazon.fr/cinqui%C3%A8me-discipline-Levier-organisations-apprenantes/dp/2212559372/) est un autre classique du genre qui prône que l'encadrement d'une entreprise devrait appliquer l'approche systémique (autrement dit la _cinquième_ discipline) ainsi que d'autres disciplines-clés toutes aussi importantes en vue d'obtenir une entreprise durable. Ces autres disciplines que les dirigeants devraient appliquer sont (1) une discipline personnelle, (2) une réflexion sur leurs propres croyances et raisonnements erronés, (3) la définition et la communication d'une vision partagée ayant du sens, et (4) la capacité des équipes à apprendre. Nous vous recommandons d'ignorer - du moins dans un premier temps pendant vos premières années de pratiques - le concept d'archétypes présenté dans le livre. Ce concept avait pour but d'être une aide à l'apprentissage de la cinquième discipline mais nous avons observé qu'il était soit une source de distraction soit qu'il intimidait les lecteurs quant à leur apprentissage et à l'application de la modélisation des dynamiques des systèmes. Les ‘archétypes’ ne font pas partie à l'origine des dynamiques des systèmes.
 
-*[_La 5ème discipline - le guide de l'organisation apprenante_](https://www.amazon.fr/guide-lorganisation-apprenante-d%C3%A9velopper-lintelligence/dp/2212568711/) est une source extrêmement riche sur l'approche systèmique écrite du point de vue des pratiquants de cette approche et de consultants.
+* [_La 5ème discipline - le guide de l'organisation apprenante_](https://www.amazon.fr/guide-lorganisation-apprenante-d%C3%A9velopper-lintelligence/dp/2212568711/) est une source extrêmement riche sur l'approche systèmique écrite du point de vue des pratiquants de cette approche et de consultants.
 
 * Les écrits d'Argyris, Outnam, McLain et Schön sur les apprentissages organisationnels comme [_Action Science_](https://actiondesign.com/resources/readings/action-science) et [_Organizational Learning_](http://www.amazon.com/Organizational-Learning-Addison-Wesley-Organization-Development/dp/0201001748/ref=sr_1_11?ie=UTF8&qid=1413601940&sr=8-11&keywords=organizational+learning) abordent des concepts importants tels que la _double-boucle apprenante_ et le _dialogue grand-plaidoyer/grand-réquisitoire_.
 
@@ -311,7 +308,7 @@ _Séance d'approche systémique. Réalisation d'un diagramme de boucle cause à 
 
 ##### Notes:
 
-[^1] _La cinquième discipline_ écrit par Senge sur l'approche systèmique et les organisations apprenantes a été nommé « l'un des livres les plus novateurs sur le management de ces 75 dernières années » par la _Harvard Business Review._ See** [Senge94].
+[^1]: _La cinquième discipline_ écrit par Senge sur l'approche systèmique et les organisations apprenantes a été nommé « l'un des livres les plus novateurs sur le management de ces 75 dernières années » par la _Harvard Business Review._ See** [Senge94].
 [^2]: Une autre raison : Croire que plus de contrôle est possible qu'il ne l'est actuellement. La science de la complexité montre qu'il existe des limites en terme de prédiction et de contrôle des systèmes sociaux semi-chaotiques [Stacey07]. C'est une énorme boîte de Pandore qui restera enfermée dans ce livre.
 [^3]: Macro économie, psychologie, sociologie et biologie sont des exemples d'exceptions parmi d'autres
 [^4]: ‘Basique’ ne signifie pas trivial ou facile à résoudre. Par exemple, les problématiques de ‘motivation’ et de ‘qualité’ sont des problématiques basiques mais elles ne sont pas faciles à résoudre.
