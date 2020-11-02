@@ -34,7 +34,7 @@ La quantité d'énergie de semaine en semaine et de jour en jour est généralem
 
 Toutefois, remarquer la ligne que j'ai surlignée en gras dans le dialogue. Les personnes dans cette conversation hypothétique font abstraction de cette ligne et n'y font plus référence par la suite, mais tout est là, dans cette ligne.
 
-Voici quelque chose que S. R. Covey a dit à propos de rendre les choses plus facile pour permettre d'accomplir le boulot :
+Voici quelque chose que S. R. Covey a dit à propos de rendre les choses plus faciles pour permettre d'accomplir le boulot :
 
 ![Citation Stephen R. Covey]({{ site.url }}assets/tim_ottinger/S.R._Covey_2016-05-15_17.01.16.png)
 
@@ -50,7 +50,7 @@ L'autre alternative est de réduire la quantité d'effort exigée par le travail
 
 Faire plus d'effort à grande échelle ne fonctionne pas, et n'est pas soutenable. Par contre, c'est une super manière de perdre des gens.
 
-Diminuer la difficulté du boulot fonctione très facilement à grande échelle, et est soutenable sans aucun effort particulier.
+Diminuer la difficulté du boulot fonctionne très facilement à grande échelle, et est soutenable sans aucun effort particulier.
 
 Donc si nous voulons faire plus de boulot nous devons arrêter de nous prendre la tête avec les indicateurs et de demander plus d'efforts de la part de nos employés dur-à-la-tâche et, à la place, travailler à réduire la difficulté de faire le boulot.
 
