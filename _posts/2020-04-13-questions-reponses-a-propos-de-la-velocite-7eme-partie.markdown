@@ -14,7 +14,7 @@ Reprenons la discussion à partir là :
 > A : Je veux une vélocité de 30. Arrêtez de m'embrouiller et dites-moi comment y arriver.  
 > B : Vous savez qu'un sprint de 19 points signifie qu'un point représente 1/19ème d'un sprint ?  
 > A : Oui, je m'en rappelle très bien.  
-> B : Si vous voulez des fonctionnalités qui représentent 1/30 d'un sprint, faitesen sorte qu'elles représentent 1/30ème de sprint au niveau de leur taille et de leur périmètre.
+> B : Si vous voulez des fonctionnalités qui représentent 1/30 d'un sprint, faites en sorte qu'elles représentent 1/30ème de sprint au niveau de leur taille et de leur périmètre.
 
 La personne A devient de plus en plus impatiente. Même si la question posée semble être très simple (comment augmenter la vélocité), le personne B semble esquiver en discutant des dynamiques humaines et systémiques, des méthodes d'estimation, et de la futilité d'améliorer la vitesse en changeant les unités d'estimation.  
 
@@ -37,7 +37,7 @@ _cliquez directement sur l'image pour lancer la vidéo sous-titrée en français
 
 Voici la façon de faire agile de travailler, de petits morceaux bouts livrables individuellement (si cela est souhaité) et qui, tous ensemble, seront utiles à la fin aux utilisateurs finaux.
 
-Chaque fonctionnalité pourrait atteindre ainsi le point d'équilibre des 20% de la loi de Pareto -- c'est-à-dire les 20% offrant 80% de la valeur de la fonctionnalité - à partir duquel il n'est plus tout aussi important d'en continuer le développement. Peut être qu'il y a une autre fonctionnalité qui est devenue plus importante sur laquelle il faut travailler et qui par conséquent rend caduque les 80% restant.
+Chaque fonctionnalité pourrait atteindre ainsi le point d'équilibre des 20% de la loi de Pareto -- c'est-à-dire les 20% offrant 80% de la valeur de la fonctionnalité - à partir duquel il n'est plus tout aussi important d'en continuer le développement. Peut-être qu'il y a une autre fonctionnalité qui est devenue plus importante sur laquelle il faut travailler et qui par conséquent rend caduque les 80% restant.
 
 C'est bien ce que veut dire ce [principe du manifeste agile](https://agilemanifesto.org/iso/fr/principles.html) « La simplicité – c’est-à-dire l’art de minimiser la quantité de travail inutile – est essentielle. ». En faisant moins pour chaque fonctionnalité, nous obtenons plus de fonctionnalités « terminées ». En faisant moins, nous accomplissons davantage. En prenant en charge de plus petites unités de travail, nous terminons plus d'unités de travail.
 
