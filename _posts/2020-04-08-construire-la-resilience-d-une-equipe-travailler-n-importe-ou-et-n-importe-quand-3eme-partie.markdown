@@ -11,7 +11,7 @@ tags:
 <div align="left" style="float:left; padding-right:30px" >
   <a href="{{ site.url }}assets/johanna/InterplayAdaptabilityResilience-fr.png"><img title="Interaction adaptabilité résilience" src="{{ site.url }}assets/johanna/InterplayAdaptabilityResilience-fr.png" width="231px" height="150px"/></a></div>
 
-Lorsque j'ai commencé cette série d'articles à propos de la fragilité et de la résilience des équipes, je me suis dit que je me devais de parler des conditions hivernales que l'on peut rencontrer dans la région de Boston. Chaque année, nous savons que nous allons devoir subir plusieurs tempêtes de neiges de taille importante. Et lorsqu'il neige beaucoup et pendant longtemps, nous savons que nous ne devons pas prendre la route pour que les chasses-neiges puissent dégager la neige.
+Lorsque j'ai commencé cette série d'articles à propos de la fragilité et de la résilience des équipes, je me suis dit que je me devais de parler des conditions hivernales que l'on peut rencontrer dans la région de Boston. Chaque année, nous savons que nous allons devoir subir plusieurs tempêtes de neiges de taille importante. Et lorsqu'il neige beaucoup et pendant longtemps, nous savons que nous ne devons pas prendre la route pour que les chasse-neiges puissent dégager la neige.
 
 L'entreprise et l'équipe dont j'ai parlé dans la [1ère partie](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html) et dans la [2ème partie](http://www.les-traducteurs-agiles.org/2020/03/31/construire-la-resilience-d-une-equipe-raccourcir-les-boucles-de-feedbacks-2eme-partie.html) n'avaient pas la possibilité de travailler à domicile lors des tempêtes de neige.
 
@@ -21,11 +21,11 @@ Ce sont des choses qui arrivent.
 
 Aujourd'hui, alors que j'écris cette série d'articles, le coronavirus se répand sur l'ensemble du globe. Des entreprises réfléchissent désormais sur ce qu'il faut faire pour travailler à partir de chez soi.
 
-C'est l'une des raisons pour lesquelles Mark et moi avons écris le livre [From Chaos to Successful Distributed Agile Teams (vo)](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/). Votre équipe n'a peut être pas besoin d'une approche agile. Néanmoins, toutes les équipes ou presque ont besoin d'un espace de travail qui puisse leur permettre de travailler à distance.
+C'est l'une des raisons pour lesquelles Mark et moi avons écrit le livre [From Chaos to Successful Distributed Agile Teams (vo)](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/). Votre équipe n'a peut-être pas besoin d'une approche agile. Néanmoins, toutes les équipes ou presque ont besoin d'un espace de travail qui puisse leur permettre de travailler à distance.
 
-Lorsque votre équipe peut collaborer de « n'importe où », l'équipe construit sa résilience. Même s'il s'agit simplement pour des raisons de conditions météorologiques, les membres l'équipe ne peuvent pas toujours être présents au sein de l'équipe co-localisée.
+Lorsque votre équipe peut collaborer de « n'importe où », l'équipe construit sa résilience. Même s'il s'agit simplement pour des raisons de conditions météorologiques, les membres l'équipe ne peuvent pas toujours être présents au sein de l'équipe colocalisée.
 
-Dans la [1ère partie](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html) de cette série d'articles, j'ai écris au sujet de travailler ensemble en tant qu'équipe et dans la [2ème partie](http://www.les-traducteurs-agiles.org/2020/03/31/construire-la-resilience-d-une-equipe-raccourcir-les-boucles-de-feedbacks-2eme-partie.html) de la nécessité de raccourcir les boucles de _feedback_ . Au jour d'aujourd'hui, comment votre équipe peut-elle travailler ensemble de « n'importe où » ?
+Dans la [1ère partie](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html) de cette série d'articles, j'ai écrit au sujet de travailler ensemble en tant qu'équipe et dans la [2ème partie](http://www.les-traducteurs-agiles.org/2020/03/31/construire-la-resilience-d-une-equipe-raccourcir-les-boucles-de-feedbacks-2eme-partie.html) de la nécessité de raccourcir les boucles de _feedback_ . Aujourd'hui, comment votre équipe peut-elle travailler ensemble de « n'importe où » ?
 
 Les équipes qui ont un espace d'équipe virtuel peuvent travailler de « n'importe où ». Elles sont résilientes peu importe la localisation de ses membres.
 
@@ -52,13 +52,13 @@ Si vous commencez avec ces outils, vous pourrez voir par la suite les outils don
 
 Lorsque Mark et moi parlons de tableaux, la plupart du temps nous proposons qu'une équipe démarre avec un tableau vierge afin qu'elle puisse apprendre quel est son flux de travail. Il est inutile d'utiliser un tableau (et un flux - NdT) « standard » si votre équipe ne suit pas ce flux.
 
-Si votre équipe est novice en travail à distance, vous pouvez envisager partir d'un nouveau tableau dans lequel vous pouvez créer des colonnes sans avoir à coller à un tableau ou à un outil particulier. Votre flux virtuel peut s'avérer être différent de votre flux co-localisé.
+Si votre équipe est novice en travail à distance, vous pouvez envisager partir d'un nouveau tableau dans lequel vous pouvez créer des colonnes sans avoir à coller à un tableau ou à un outil particulier. Votre flux virtuel peut s'avérer être différent de votre flux colocalisé.
 
 ## Qui a les licences ?
 
 Au début des années 2000 et dans les années 2010, j'ai fait un certain nombre d'ateliers pour des équipes distribuées. Dans chaque cas (oui, dans chacun de ces plus de 20 ateliers), les personnes présentes dans mes ateliers ont indiqué que tout le monde n'avait pas de licences pour tous les outils nécessaires.
 
-En 2013, j'ai écris avec Shane Hastie un article intitulé [Leçons apprises des ateliers menés au sujet des équipes distribuées   (vo)](https://www.jrothman.com/articles/2013/03/lessons-learned-from-leading-workshops-about-geographically-distributed-agile-teams/). Déjà à cette époque, nous avions observé que des responsables essayaient d'économiser de l'argent sur les licences. Et encore aujourd'hui, j'entends ce genre d'horreur.
+En 2013, j'ai écrit avec Shane Hastie un article intitulé [Leçons apprises des ateliers menés au sujet des équipes distribuées   (vo)](https://www.jrothman.com/articles/2013/03/lessons-learned-from-leading-workshops-about-geographically-distributed-agile-teams/). Déjà à cette époque, nous avions observé que des responsables essayaient d'économiser de l'argent sur les licences. Et encore aujourd'hui, j'entends ce genre d'horreur.
 
 Je comprends que le souhait des responsables de gérer les dépenses. Je gère d'ailleurs les dépenses de ma propre entreprise, aussi.
 
@@ -72,7 +72,7 @@ Et, lorsque les développeurs et les testeurs ont tous été d'accord pour se r�
 
 Les responsables avaient pensé que la ville de New York avait toute l'infrastructure nécessaire. Cela s'est avéré inexacte ce jour-là. Et les responsables avaient pensé aussi que l'équipe pourrait partager ses licences. Raisonnement malavisé, court-termiste.
 
-Et pire enocre, ils pensaient que les personnes pourraient travailler « n'importe quand ».
+Et pire encore, ils pensaient que les personnes pourraient travailler « n'importe quand ».
 
 ## Est-ce que les personnes devraient travailler « n'importe quand » ?
 
