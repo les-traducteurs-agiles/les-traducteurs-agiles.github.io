@@ -5,7 +5,7 @@ date:   2020-04-23 00:00
 published: true
 tags:
 - agile
-- éqiupe
+- équipe
 ---
 
 Si votre équipe est comme certaines de celles que j'ai pu rencontrer, vous avez en quelque sorte, la main sur un certain nombre de choses. Vous êtes en capacité de livrer et votre produit est opérationnel la plupart du temps.
@@ -18,7 +18,7 @@ C'est cela, la fragilité dans le système. Vous pouvez construire la résilienc
 
 Si votre équipe travaille [dans l'efficience du flux (vo)](https://www.jrothman.com/mpd/agile/2015/09/resource-efficiency-vs-flow-efficiency-part-5-how-flow-changes-everything/) comme évoqué dans la [1ère partie](http://www.les-traducteurs-agiles.org/2020/03/18/construire-la-resilience-d-une-equipe-travailler-ensemble-1ere-partie.html), c'est que les membres de votre équipe collaborent et apprennent les uns des autres. Et lorsque votre équipe est efficiente au niveau du flux, elle en obtient les bénéfices suivants :
 
-* Une personne ne se comporte pas d'elle-même comme un goulot d'étranglement de part sa fonction ou son expertise. Si vous n'avez qu'un testeur, l'équipe collabore pour pouvoir tester quand ce testeur est occupé. Ou si l'équipe a besoin d'un expert en base de données et que cette personne n'est pas disponible, l'équipe apprend ensemble. Les premiers temps, l'équipe pourrait avoir tendance à vouloir attendre l'expert, mais les membres de l'équipe apprendront au fur et à mesure à intégrer eux-même l'expertise pour le futur.
+* Une personne ne se comporte pas d'elle-même comme un goulot d'étranglement de par sa fonction ou son expertise. Si vous n'avez qu'un testeur, l'équipe collabore pour pouvoir tester quand ce testeur est occupé. Ou si l'équipe a besoin d'un expert en base de données et que cette personne n'est pas disponible, l'équipe apprend ensemble. Les premiers temps, l'équipe pourrait avoir tendance à vouloir attendre l'expert, mais les membres de l'équipe apprendront au fur et à mesure à intégrer eux-mêmes l'expertise pour le futur.
 * L'équipe peut voir où est-ce qu'elle en est. Elle n'a plus besoin de standups ou de réunion de synchronisation.
 * Le [temps de cycle (vo)](https://www.jrothman.com/mpd/project-management/2019/09/measure-cycle-time-not-velocity/) de l'équipe s'améliore. Elle livre de plus en plus vite.
 
@@ -30,7 +30,7 @@ Ensuite, je suggère que l'équipe trouve des moyens pour [raccourcir ses boucle
 
 Je suggère tout d'abord que vous visualisiez vos boucles de feedback. (Je fais ici référence à l'image de l'article [Capitaliser sur le logiciel lors d'une transformation agile (vo)](https://www.jrothman.com/mpd/management/2020/02/capitalizing-software-during-an-agile-transformation/) comme d'un exemple pour penser à ce que peut donner en réalité les boucles de feedback dans une approche en série).
 
-Je recommande différentes choses lié au « test » (TDD, BDD, ATDD). Ce qui est important dans la partie liée au test c'est d'utiliser des exemples et de faire de touts petits test pour guider la conception. Je présente dans cette partie comment j'utilise des exemples/tests lorsque j'écris.
+Je recommande différentes choses liées au « test » (TDD, BDD, ATDD). Ce qui est important dans la partie liée au test c'est d'utiliser des exemples et de faire de touts petits test pour guider la conception. Je présente dans cette partie comment j'utilise des exemples/tests lorsque j'écris.
 
 ## Apprenez à travailler de différents endroits
 
@@ -47,17 +47,17 @@ Laissez-moi vous expliquer en quoi la résilience est si nécessaire que ça.
 
 Lorsqu'un problème nous arrive, nous devons trouver des options pour le résoudre. Si nous travaillons toujours de la même manière dont nous avons toujours travaillé, nous n'avons pas d'options.
 
-Je préfère utiliser la [règle des trois (vo)](https://www.jrothman.com/pragmaticmanager/2011/06/solving-problems-with-the-rule-of-three/) pour trouver et tester mes options. (Avoir une seule option c'est un piège. Avoir deux options, c'est un dilemne. Avoir au moins trois options, ça commence à offrir de vraies alternatives et cela m'aide pour envisager d'autres options supplémentaires.)
+Je préfère utiliser la [règle des trois (vo)](https://www.jrothman.com/pragmaticmanager/2011/06/solving-problems-with-the-rule-of-three/) pour trouver et tester mes options. (Avoir une seule option c'est un piège. Avoir deux options, c'est un dilemme. Avoir au moins trois options, ça commence à offrir de vraies alternatives et cela m'aide pour envisager d'autres options supplémentaires.)
 
 Nous devons croire suffisamment en nous pour être prêt à faire un tout petit pas et expérimenter.
 
 Si nous n'avons pas le soutien de notre équipe, nous pourrions bien rester bloqué. Nous sommes dans l'impossibilité de continuer parce que nous sommes jugés par nos contributions individuels. Réfléchissez donc à ça pendant une seconde : est-ce quelqu'un peut travailler sans avoir un « client » ou un « fournisseur » ? (Non. Tout le monde a au moins l'un des deux. Sinon, nous faisons du boulot dont personne ne veut).
 
-Plus nous pratiquons le fait de faire ces petits pas et que nous expérimentons, plus ce que nous créons fait preuve de  résilience (et d'adaptabilité).
+Plus nous pratiquons le fait de faire ces petits pas et que nous expérimentons, plus ce que nous créons fait preuve de résilience (et d'adaptabilité).
 
 Lorsque nous raccourcissons les boucles de _feedback_, nous pouvons dire si nous sommes en train de travailler sur la bonne chose. Ou, si nous travaillons bien. Nous apprenons au fur et à mesure que nous avançons.
 
-Et dans ces condtions sanitaires incertaines, je recommande que chaque équipe apprenne à travailler de manière distribuée. (Si vous souhaitez plus d'informations sur ce sujet, veuillez vous reporter à mon livre [From Chaos to Successful Distributed Agile Teams](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/).)
+Et dans ces conditions sanitaires incertaines, je recommande que chaque équipe apprenne à travailler de manière distribuée. (Si vous souhaitez plus d'informations sur ce sujet, veuillez-vous reporter à mon livre [From Chaos to Successful Distributed Agile Teams](https://www.jrothman.com/books/from-chaos-to-successful-distributed-agile-teams-collaborate-to-deliver/).)
 
 ## Construire la résilience
 
