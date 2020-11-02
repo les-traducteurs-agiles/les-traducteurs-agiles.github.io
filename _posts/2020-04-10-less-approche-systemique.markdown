@@ -304,9 +304,6 @@ _Séance d'approche systémique. Réalisation d'un diagramme de boucle cause à 
 
 * Les publications et les ressources de la _Society for Organizational Learning_](https://www.solonline.org/).
 
----
-
-##### Notes:
 
 [^1]: _La cinquième discipline_ écrit par Senge sur l'approche systèmique et les organisations apprenantes a été nommé « l'un des livres les plus novateurs sur le management de ces 75 dernières années » par la _Harvard Business Review._ See** [Senge94].
 [^2]: Une autre raison : Croire que plus de contrôle est possible qu'il ne l'est actuellement. La science de la complexité montre qu'il existe des limites en terme de prédiction et de contrôle des systèmes sociaux semi-chaotiques [Stacey07]. C'est une énorme boîte de Pandore qui restera enfermée dans ce livre.
@@ -316,13 +313,13 @@ _Séance d'approche systémique. Réalisation d'un diagramme de boucle cause à 
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Systems Thinking](https://less.works/less/principles/systems-thinking.html)
+Auteur : The LeSS Company B.V.  
+Source : [Systems Thinking](https://less.works/less/principles/systems-thinking.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 01/11/2020
-Relecteurs : Christophe Gesché, Fabrice Aimetti
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 01/11/2020  
+Relecteurs : Christophe Gesché, Fabrice Aimetti  
 
 ---
 
