@@ -10,7 +10,7 @@ tags:
 
 Dans un monde idéal agile, l'équipe devrait travailler directement avec le client. Lorsque vous avez un produit de taille réduite, utilisé par peut-être trois types de client (débutant, expert, admin par exemple), et que ce client est au bout du couloir, vous n'aurez sans doute pas besoin de personnes dédiées au produit. Vous pouvez mettre en place des boucles de retours d'informations courtes avec votre client. (Voir la [partie 1](http://www.les-traducteurs-agiles.org/2019/04/17/les-roles-et-le-produit.html) pour plus d'informations))
 
-Plus votre produit est important en terme de taille, plus vos clients sont diversifiés, plus il est probable qu'une seule personne ne pourra pas embrasser les différents rôles stratégiques et tactiques et être le seul et unique _product owner_ ou _product manager_.
+Plus votre produit est important en termes de taille, plus vos clients sont diversifiés, plus il est probable qu'une seule personne ne pourra pas embrasser les différents rôles stratégiques et tactiques et être le seul et unique _product owner_ ou _product manager_.
 
 ## Raccourcir les boucles de retours d'informations client
 
