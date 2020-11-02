@@ -17,7 +17,7 @@ Voici une brève description d'un problème évoqué récemment par un client : 
 
 Les managers ne comprenaient pas. Ni l'équipe. Toutefois, ils avaient maintenant un problème de production à corriger.
 
-Un seul retour d'informations était à leur disposition : le code inséré avait cassé une autre code « sans rapport » avec celui-ci. Il était temps de jeter un coup d'œil à leur boucle de feedback.
+Un seul retour d'informations était à leur disposition : le code inséré avait cassé un autre code « sans rapport » avec celui-ci. Il était temps de jeter un coup d'œil à leur boucle de feedback.
 
 ## Visualisez vos boucles de feedback
 
@@ -36,7 +36,7 @@ Dans ce cas précis, l'équipe projet n'avait pas de tests automatisés. L'équi
 
 Les personnes du métier ne savaient pas comment tester les cas non nominaux susceptibles de donner des erreurs. Ils ne connaissaient pas assez les entrailles du produit pour chercher les interactions indésirables.
 
-Et c'était pareil pour les développeurs. Les développeurs n'avaient pas de mécanismes de feebacks inclus dans leur code.
+Et c'était pareil pour les développeurs. Les développeurs n'avaient pas de mécanismes de feedbacks inclus dans leur code.
 
 ## Les tests automatisés, c'est du feedback
 
@@ -102,7 +102,7 @@ Comment cette équipe s'en est-elle sortie ?
 
 1. Tout d'abord, elle a utilisé des _user stories_ pour définir son travail
 2. Elle a défini des critères d'acceptation pour faire de l'ATDD
-3. Elle a utilisé (avec quelques réticences) une combinaison de TDD et de BDD. Tous les membres de l'équipe n'étaient pas d'accord sur ce qu'il fallait faire. Toutefois, ils ont commencé à écrire des tests en premier. Cela les a aidé avec la conception, pas avec le code.
+3. Elle a utilisé (avec quelques réticences) une combinaison de TDD et de BDD. Tous les membres de l'équipe n'étaient pas d'accord sur ce qu'il fallait faire. Toutefois, ils ont commencé à écrire des tests en premier. Cela les a aidés avec la conception, pas avec le code.
 4. Elle a mesuré son temps de cycle. Après un peu pratique, elle a géré son temps de cycle pour le faire passer en-dessous d'une journée.
 
 Plus vous en faites en sorte de réduire vos boucles de feedback, plus vous renforcer la résilience de votre équipe.
