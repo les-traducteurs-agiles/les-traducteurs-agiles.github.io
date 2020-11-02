@@ -44,7 +44,7 @@ Les équipes sauront quoi faire si quelqu'un leur défini le problème à résou
 
 Les _product owners_ embrassent la vision à long terme et la vision à court terme. Ils travaillent avec l'équipe pour créer la vision du projet. La vision représente l'objectif et les critères de livraison pour celle-ci.
 
-Cela signifie que la vision à court terme comporte des expériences, des produits viables à minima [^3], des fonctionnalités commercialisables à minima[^4], tous les livrables intermédiaires. Les livrables intermédiaires intermédiaires créent les points de décisions pour le projet/programme :
+Cela signifie que la vision à court terme comporte des expériences, des produits viables à minima [^3], des fonctionnalités commercialisables à minima[^4], tous les livrables intermédiaires. Les livrables intermédiaires créent les points de décisions pour le projet/programme :
 
 * En tant qu'organisation, en avons-nous fait suffisamment pour ce produit pour l'instant ? Est-il de temps de passer cette équipe sur un autre produit ?
 * Concernant le produit, quelles décisions devons-nous prendre par la suite ? Quel est le plus petit pas possible que nous pouvons faire pour arriver au prochain moment décisif ?
@@ -79,7 +79,7 @@ Cette personne se sent souvent tirée dans plusieurs directions pour faire son b
 * Traduire la stratégie en un ensemble de fonctionnalités
 * Travailler avec le client pour définir les problèmes
 * Travailler avec les équipes pour expliquer les problèmes, créer les ensembles de fonctionnalités, et les _stories_
-* Travailler avec l'équipe pour vérifier qu'une _story_ donnée résoud un problème spécifique tel qu'il a pu être retranscrit par cette personne à partir des dires du client
+* Travailler avec l'équipe pour vérifier qu'une _story_ donnée résout un problème spécifique tel qu'il a pu être retranscrit par cette personne à partir des dires du client
 * Consulter le client afin de faire en sorte que la solution règle bien le(s) problème(s) du client.
 
 Si vous avez une petite organisation mono-produit avec une ou deux équipes, cela peut marcher; C'est beaucoup de travail pour le PO, mais c'est faisable.
