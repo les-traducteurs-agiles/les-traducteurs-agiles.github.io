@@ -27,9 +27,9 @@ L'interprétation faite par certaines personnes qu'il s'agit d'une certaine form
 
 « Marquer des points » et « avoir des hauts scores » illustrent de manière très classique la [loi de Goodhart](https://fr.wikipedia.org/wiki/Loi_de_Goodhart). Un indicateur (d'un taux de réalisation) qui s'avère un indicateur raisonnable, une fois choisit comme objectif, cesse d'être un indicateur valide.
 
-Vous entendrez certaines équipes de développement engagées dans des processus _à là_ scrum paler de travail "qui explose". C'est-à-dire « comme un ballon » et non « comme de la dynamite ». Comme par exemple pour une _story_ à qui l'on donne un petit 2, mais qui s'avère prendre la quasi totalité du sprint parce qu'elle comporte tout un tas de risques et d'incertitudes que personne n'a vu.
+Vous entendrez certaines équipes de développement engagées dans des processus _à là_ scrum parler de travail "qui explose". C'est-à-dire « comme un ballon » et non « comme de la dynamite ». Comme par exemple pour une _story_ à qui l'on donne un petit 2, mais qui s'avère prendre la quasi-totalité du sprint parce qu'elle comporte tout un tas de risques et d'incertitudes que personne n'a vu.
 
-Une _story_ peut avoir semblé simple : « ajouter un champ pour un code de réduction». Le _product owner/manager_ ou le patron a peut être dit : « cela ne devrait être qu'une _story_ a deux points ».
+Une _story_ peut avoir semblé simple : « ajouter un champ pour un code de réduction ». Le _product owner/manager_ ou le patron a peut-être dit : « cela ne devrait être qu'une _story_ a deux points ».
 
 Cela semble facile. Cela devrait être facile à faire. Qu'est-ce qui pourrait être plus simple que ça ? Il s'agit d'un champ dans un formulaire et vous soustrayez une valeur d'un total.
 
@@ -37,7 +37,7 @@ Mais ce genre de choses sont rarement aussi simple. Le marketing et la comptabil
 
 Il peut y avoir des tableaux de bord dédiés aux remises pour mesurer le succès des promotions. Il peut y avoir aussi des ramifications anti-fraudes.
 
-Puis tout d'un coup quelqu'un décide qu'il devrait y avoir plusieurs codes de réductions et qu'ils devraient se combiner d'une certaine façon et pas d'une autre. Désormais l'expérience utilisateur doit redessiner le nouveau formulaire, et il y a des règles compliquées. Peut être a t'on besoin d'un nouveau microservice ?
+Puis tout d'un coup quelqu'un décide qu'il devrait y avoir plusieurs codes de réductions et qu'ils devraient se combiner d'une certaine façon et pas d'une autre. Désormais l'expérience utilisateur doit redessiner le nouveau formulaire, et il y a des règles compliquées. Peut-être a t-on besoin d'un nouveau microservice ?
 
 Mais c'était bien une _story_ a 3 points, n'est-ce pas ? Cela amène donc les questions suivantes :
 
