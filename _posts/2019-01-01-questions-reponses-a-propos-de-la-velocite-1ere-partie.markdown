@@ -26,7 +26,7 @@ Voici dont la 1ère partie annotée
 > A : 23  
 > B : Alors pour vous, cela correspond à 1/23ème de sprint  
 > A : Mais la fois d'avant cela avait été 19  
-> B : À ce moment là cela correspondait à 1/19ème de sprint.  
+> B : À ce moment-là cela correspondait à 1/19ème de sprint.  
 > A : Mais à combien de temps cela correspond-il ?  
 > B : C'est ce que nous venons juste de déterminer.  
 
@@ -40,7 +40,7 @@ Parfois une _story_ chiffrée à 8 ou à 13 peut s'avérer plus facile ou moins 
 
 Cela ne signifie pas que l'équipe a fait un mauvais boulot, en réalité _cela reflète davantage la variabilité des items à faire que du manque de cohérence de l'équipe_.
 
-Lorsque l'équipe n'est pas familière avec le code source du projet, il est plutôt habituel de voir des chiffrages élevées et que des _stories_ explosent ou voient apparaître des anomalies. C'est ce qu'il se passe quand vous n'êtes familier avec les lieux.
+Lorsque l'équipe n'est pas familière avec le code source du projet, il est plutôt habituel de voir des chiffrages élevés et que des _stories_ explosent ou voient apparaître des anomalies. C'est ce qu'il se passe quand vous n'êtes familier avec les lieux.
 
 Mais quoi qu'il en soit, la taille d'un point de _story_ n'est pas vraiment significatif — c'est une supposition, quelque chose par laquelle commencer, et sa "vraie taille" ne sera vraiment connue que lorsqu'elle sera terminée, mais elle est aussi variable. C'est une unité de mesure sans unité, une espèce de non-sens que les gens trouvent parfois utile pour planifier la capacité à faire.
 
