@@ -22,7 +22,7 @@ Plus votre produit est important en termes de taille, plus vos clients sont dive
 
 Toutes ces raisons exigent des boucles de retour d'informations plus courtes si nous voulons bénéficier d'une approche agile.
 
-La stratégie aide l'organisation à affiner quel produit résout quel problème pour qui. La réflexion stratégique aide les organisations à avoir des produits séparés pour ne pas finir avec un produit gloubiboulga - un produit qui ne résout plus le problème pour l'utilisateur d'origine. (Et parfois, cela quel que soit l'utilisateur !).
+La stratégie aide l'organisation à affiner quel produit résout quel problème pour qui. La réflexion stratégique aide les organisations à avoir des produits séparés pour ne pas finir avec un produit gloubi-boulga - un produit qui ne résout plus le problème pour l'utilisateur d'origine. (Et parfois, cela quel que soit l'utilisateur !).
 
 Lorsque nous vérifions que nous comprenons bien le problème ou que le produit résout bien le problème pour un client spécifique, nous avons besoin de boucles de retours d'informations qui soient courtes. Nous avons besoins de boucles de retours d'informations stratégiques et de boucles de retours d'informations tactiques. Ces boucles de retours d'informations ont souvent des cadences différentes et ont des besoins différents en matière d'information.
 
