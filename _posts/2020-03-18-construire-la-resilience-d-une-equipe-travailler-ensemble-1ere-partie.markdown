@@ -15,7 +15,7 @@ Il m'est arrivé de travailler avec des clients ayant une certaine fragilité. C
 
 Mais que se passe t'il lorsqu'une personne insère du code qui casse quelque chose « quelque part ». Ou lorsque quelqu'un est amené à travailler sur les problèmes de production et qu'il n'est plus disponible pour l'équipe pendant plusieurs semaines. Ou s'il y a une catastrophe naturelle et que les personnes se trouvent dans l'incapacité de se rendre au travail.
 
-Les managers pensaient auparavant qu'il était possible de se remettre de ces différents évènements . Les équipes _peuvent_ s'en remettre. Toutefois, elles ne peuvent pas s'en remettre rapidement.
+Les managers pensaient auparavant qu'il était possible de se remettre de ces différents évènements. Les équipes _peuvent_ s'en remettre. Toutefois, elles ne peuvent pas s'en remettre rapidement.
 
 Les équipes ont peu de résilience.
 
@@ -29,7 +29,7 @@ Lorsque je parle de résilience, je parle de la capacité à expérimenter une a
 
 Les équipes peuvent construire la résilience de plusieurs manières. Dans cette série d'articles, je vais uniquement aborder les trois problèmes suivants sur la résilience d'équipe :
 
-* L'équipe ne travaille pas en tant qu'équipe - elle travaille de manière individuel
+* L'équipe ne travaille pas en tant qu'équipe - elle travaille de manière individuelle
 * L'équipe a de longues boucles de _feedback_
 * L'équipe n'a pas la capacité de travailler « n'importe où » et certainement pas « n'importe quand »
 
@@ -41,7 +41,7 @@ L'Entreprise A travaille sur son énième « transformation agile ». J'ai mis c
 
 L'un des plus gros problèmes c'est que les managers pensent que les approches agiles leur permettront de livrer plus vite. Oui, et, cette livraison découle de cycles de feedback rapides, autrement dit d'apprentissages rapides.
 
-[Le dévelopement de produit logiciel c'est de l'apprentissage (vo)](https://www.jrothman.com/mpd/project-management/2013/10/why-do-we-estimate-anyway/) avant tout. Le plus rapidement nous apprenons, le plus vite nous pouvons livrer quelque chose d'utile.
+[Le développement de produit logiciel c'est de l'apprentissage (vo)](https://www.jrothman.com/mpd/project-management/2013/10/why-do-we-estimate-anyway/) avant tout. Le plus rapidement nous apprenons, le plus vite nous pouvons livrer quelque chose d'utile.
 
 Quand nous n'apprenons pas ensemble, nous livrons de la merde. Ou bien alors, nous ne pouvons pas livrer et c'est la merde. Je ne sais pas ce qui est le pire - le fait de livrer de la merde ou de ne pas livrer et c'est la merde.
 
