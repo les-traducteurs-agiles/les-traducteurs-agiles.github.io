@@ -10,7 +10,7 @@ tags:
 
 Dans un monde idéal agile, l'équipe devrait travailler directement avec le client. Lorsque vous avez un produit de taille réduite, utilisé par peut-être trois types de client (débutant, expert, admin par exemple), et que ce client est au bout du couloir, vous n'aurez sans doute pas besoin de personnes dédiées au produit. Vous pouvez mettre en place des boucles de retours d'informations courtes avec votre client. (Voir la [partie 1](http://www.les-traducteurs-agiles.org/2019/04/17/les-roles-et-le-produit.html) pour plus d'informations))
 
-Plus votre produit est important en terme de taille, plus vos clients sont diversifiés, plus il est probable qu'une seule personne ne pourra pas embrasser les différents rôles stratégiques et tactiques et être le seul et unique _product owner_ ou _product manager_.
+Plus votre produit est important en termes de taille, plus vos clients sont diversifiés, plus il est probable qu'une seule personne ne pourra pas embrasser les différents rôles stratégiques et tactiques et être le seul et unique _product owner_ ou _product manager_.
 
 ## Raccourcir les boucles de retours d'informations client
 
@@ -22,7 +22,7 @@ Plus votre produit est important en terme de taille, plus vos clients sont diver
 
 Toutes ces raisons exigent des boucles de retour d'informations plus courtes si nous voulons bénéficier d'une approche agile.
 
-La stratégie aide l'organisation à affiner quel produit résout quel problème pour qui. La réflexion stratégique aide les organisations à avoir des produits séparés pour ne pas finir avec un produit gloubiboulga - un produit qui ne résout plus le problème pour l'utilisateur d'origine. (Et parfois, cela quel que soit l'utilisateur !).
+La stratégie aide l'organisation à affiner quel produit résout quel problème pour qui. La réflexion stratégique aide les organisations à avoir des produits séparés pour ne pas finir avec un produit gloubi-boulga - un produit qui ne résout plus le problème pour l'utilisateur d'origine. (Et parfois, cela quel que soit l'utilisateur !).
 
 Lorsque nous vérifions que nous comprenons bien le problème ou que le produit résout bien le problème pour un client spécifique, nous avons besoin de boucles de retours d'informations qui soient courtes. Nous avons besoins de boucles de retours d'informations stratégiques et de boucles de retours d'informations tactiques. Ces boucles de retours d'informations ont souvent des cadences différentes et ont des besoins différents en matière d'information.
 
