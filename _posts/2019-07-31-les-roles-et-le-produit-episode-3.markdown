@@ -9,9 +9,9 @@ tags:
 
 Une approche agile nécessite d'avoir une équipe pluridisciplinaire. Cela veut dire aussi que toutes les personnes de l'équipe doivent être concentrées sur le même but. Il peut s'agir d'un produit dans sa globalité, d'un ensemble de fonctionnalités qui font partie d'un programme plus grand. Mais l'équipe doit se concentrer en équipe.
 
-L'équipe pluridisciplinaire est une équipe produit dénommée aussi équipe _feature_.  J'ai tendance à les appeler des équipes _feature_ parce qu'elle vont d'un ensemble de fonctionnalité à un autre lorsque lorsqu'elles travaillent dans le cadre d'un programme ou dans la durée au fur et à mesure que le produit évolue.
+L'équipe pluridisciplinaire est une équipe produit dénommée aussi équipe _feature_.  J'ai tendance à les appeler des équipes _feature_ parce qu'elles vont d'un ensemble de fonctionnalités à un autre lorsque lorsqu'elles travaillent dans le cadre d'un programme ou dans la durée au fur et à mesure que le produit évolue.
 
-Je ne me préoccuppe pas vraiment de comment vous pouvez appeler ces équipes, aussi longtemps que vous avez le même but : à savoir que l'équipe travaille de concert pour finir le travail à faire sur un produit ou sur un ensemble de fonctionnalités.
+Je ne me préoccupe pas vraiment de comment vous pouvez appeler ces équipes, aussi longtemps que vous avez le même but : à savoir que l'équipe travaille de concert pour finir le travail à faire sur un produit ou sur un ensemble de fonctionnalités.
 
 ## Les équipes _feature_ n'ont pas à gérer de dépendances entre équipes
 
