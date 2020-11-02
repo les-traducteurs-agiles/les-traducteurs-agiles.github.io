@@ -27,7 +27,7 @@ La plupart des développeurs passent en partie le reste de leurs temps, environ 
 
 Par rapport au temps qu'il reste, le travail en silos, les mécanismes d'approbation dans le processus de travail et autres interruptions obligent les développeurs à passer une partie de leurs temps à attendre d'autres personnes. Le travail fait la queue dans une file d'attente.
 
-Et bien sur, lorsque le travail d'un développeur attend dans une file d'attente, le programmeur consciencieux reste occupé en prenant du boulot supplémentaire supplémentaire dans sa propre liste de choses à faire, sa propre file d'attente.
+Et bien sûr, lorsque le travail d'un développeur attend dans une file d'attente, le programmeur consciencieux reste occupé en prenant du boulot supplémentaire dans sa propre liste de choses à faire, sa propre file d'attente.
 
 Toutefois lorsque les travaux reviennent des tests, ou de la validation, ou d'une autre forme de revue, ces travaux doivent rejoindre une file d'attente attendre que le développeur soit à nouveau disponible pour les prendre en charge. Le développeur moyen type en entreprise que nous avons pu interroger a environ 5 tâches concurrentes (ou branches) ouvertes. Cela peut monter jusqu'à 15.
 
@@ -37,8 +37,7 @@ Les développeurs disent "Je ne suis pas bloqué, j'ai plein d'autres choses sur
 
 C'est un système bordélique, rendu encore plus bordélique par des processus incluant de nombreux silos, d'efforts individuels, du travail bâclé, cycles d'approbations, de branches et je ne sais quoi encore.
 
-**La plupart de nos systèmes semblent faire plus de la prévention   
-logicielle plus que du développement logiciel**
+**La plupart de nos systèmes semblent faire plus de la prévention logicielle plus que du développement logiciel**
 {: style="text-align: center;"}
 
 Mais toutefois, la qualité du code est le grand déterminant. Si le code est bien organisé, et qu'un bon outillage est utilisé, et que le développeur est familier avec le système, et que le changement n'introduit pas de réarrangements architecturaux majeurs; … eh bien, quelle vitesse surprenante pourrions-nous atteindre ?
@@ -69,11 +68,11 @@ Si nous insistons à mettre plus d'effort dans le travail, nous finissons par ob
 > A: Nous voulons juste que le boulot soit fait.  
 >
 > B: Bien sûr, et eux aussi..  
-Voici ce petit quelque chose de magique et d'intéressant. Si nous voulons que les gens puissent en faire plus, nous aurons probablement plus de chances de réussir en enlevant tout le superflu, l'incertitude, et le risque du processus, plutôt que d'y mettre de plus grand efforts et d'y mettre plus de pression.  
+Voici ce petit quelque chose de magique et d'intéressant. Si nous voulons que les gens puissent en faire plus, nous aurons probablement plus de chances de réussir en enlevant tout le superflu, l'incertitude, et le risque du processus, plutôt que d'y mettre de plus grands efforts et d'y mettre plus de pression.  
 
-De nouveau, dans la [3ème partie](http://www.les-traducteurs-agiles.org/2019/04/08/questions-reponses-a-propos-de-la-velocite-3eme-partie.html), nous avons évoqué la formule de l'effort fourni pour faire une tâche par rapport à l'effort demandé. Allez jetez un coup d' œil juqu'au diagramme illustrant ce point et au texte associé puis revenez ici.
+De nouveau, dans la [3ème partie](http://www.les-traducteurs-agiles.org/2019/04/08/questions-reponses-a-propos-de-la-velocite-3eme-partie.html), nous avons évoqué la formule de l'effort fourni pour faire une tâche par rapport à l'effort demandé. Allez jeter un coup d'œil jusqu'au diagramme illustrant ce point et au texte associé puis revenez ici.
 
-Cet extrait de la discussion a pour de but de simplement redire les points que vous avez déjà vu précédemment. Mais il y a une certaine probabilité que vous n'êtes pas un lecteur de longue date de ce modeste blog, perdu dans un coin sombres des vastes terres des bloggueurs, donc cela vous aidera peut être d'avoir davantage de choses à lire sur ce sujet.  
+Cet extrait de la discussion a pour de but de simplement redire les points que vous avez déjà vu précédemment. Mais il y a une certaine probabilité que vous n'êtes pas un lecteur de longue date de ce modeste blog, perdu dans un coin sombre des vastes terres des blogueurs, donc cela vous aidera peut-être d'avoir davantage de choses à lire sur ce sujet.  
 À savoir :
 
 * La [3ème partie](http://www.les-traducteurs-agiles.org/2019/04/08/questions-reponses-a-propos-de-la-velocite-3eme-partie.html) aborde les sujets de l'incertitude, du risque et de l'effort. Cela peut s'avérer utile.
@@ -86,7 +85,7 @@ Cet extrait de la discussion a pour de but de simplement redire les points que v
 
 * En tant que tel, nous ne savons pas si le boulot qu'on nous donne [est même possible](https://agileotter.blogspot.com/2014/10/preplanning-poker-is-this-story-even.html)[^1] certaines fois.
 
-Peut être bien que la programmation n'est pas si lente que ça, si l'on considère l'état de la base du code et la présence du risque et de l'incertitude dans les exigences, la difficulté de prévoir l'effort intellectuel, etc.
+Peut-être bien que la programmation n'est pas si lente que ça, si l'on considère l'état de la base du code et la présence du risque et de l'incertitude dans les exigences, la difficulté de prévoir l'effort intellectuel, etc.
 
 **Peut-être que les estimations sont basses au lieu de dire que le travail est lent**
 
