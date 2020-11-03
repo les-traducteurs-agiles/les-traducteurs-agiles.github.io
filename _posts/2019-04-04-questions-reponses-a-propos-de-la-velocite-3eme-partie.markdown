@@ -12,7 +12,7 @@ Dans la [2ème article](http://www.les-traducteurs-agiles.org/2019/01/29/questio
 Nous reprenons à partir de ce moment-là cette semaine avec ce petit extrait d'une discussion qui abordent quelques idées importantes :
 
 > A : Alors comment est-ce que je peux faire pour obtenir mes 30 points de vélocité ?  
-> B : Et s'il n'y avait aucune manière d'y arriver ? Peut être devriez-vous être moins exigeant ?  
+> B : Et s'il n'y avait aucune manière d'y arriver ? Peut-être devriez-vous être moins exigeant ?  
 > A : Mais et le planning … !  
 > B : Le planning c'est quelque chose d'abstrait, de construit de toute pièces. La durée que cela prend de faire les choses c'est ça la réalité.
 
@@ -27,17 +27,17 @@ Par conséquence, chaque estimation comporte non seulement l'effort à fournir m
 ![diagramme]({{ site.url }}assets/tim_ottinger/incertitude-risque-effort.png)
 
 * Comment de bien cela va vous prendre pour apprendre comment faire quelque chose que vous n'avez jamais fait ?
-* Quelles sont les chances pour qu'en ajoutant cette nouvelle fonctionnalité que cela impactera négativement la performance de l'application, siphonera la mémoire ou compliquera le déploiement ?
+* Quelles sont les chances pour qu'en ajoutant cette nouvelle fonctionnalité que cela impactera négativement la performance de l'application, siphonnera la mémoire ou compliquera le déploiement ?
 * Quelle est la probabilité de voir arriver d'autres conséquences inattendues ou accidentelles, qui seront dues, peut-être, à des options différentes de configuration.
 * Pouvons-nous facilement comprendre le code que nous allons devoir modifier, ou est-ce que va nous demander des efforts considérables pour déchiffrer l'intention originelle et appréhender tous les effets de bord.
 
-Le facteur **risque** grimpe de plus en plus au fur et à mesure que le système grandit. Toutes les fonctionnalités supplémentaires et notamment les fonctionnalités 'implémentées au chausse-pieds' (avec des bidouillages vite faits mal faits "pour que ce soit fait rapidement") vont augmenter les chances pour que quelque chose se passe mal quelque part dans un coin obscur du code. Bon nombres de projets dérapent à cause de cela.
+Le facteur **risque** grimpe de plus en plus au fur et à mesure que le système grandit. Toutes les fonctionnalités supplémentaires et notamment les fonctionnalités 'implémentées au chausse-pieds' (avec des bidouillages vite faits mal faits "pour que ce soit fait rapidement") vont augmenter les chances pour que quelque chose se passe mal quelque part dans un coin obscur du code. Bon nombre de projets dérapent à cause de cela.
 
 Lorsque les systèmes grandissent et que le nombre de tests automatisés est insuffisant, alors la capacité d'un développeur de pouvoir appréhender qu'un changement récent ait provoqué tel ou tel problème s'avère limitée.
 
 Un certain nombre de boîtes informatiques font mal leur boulot en ce qui concerne la prévention des risques techniques, et prennent souvent comme prétexte « de ne pas avoir d'assez bons développeurs » lorsque les problèmes finissent par arriver inévitablement.
 
-Il arrive parfois qu'il y aient davantage de _stories_ faites que prévues car les risques ne se sont pas matérialisés ou que l'apprentissage a été plus facile que prévu.
+Il arrive parfois qu'il y ait davantage de _stories_ faites que prévues car les risques ne se sont pas matérialisés ou que l'apprentissage a été plus facile que prévu.
 
 À d'autres moments, des risques inattendus se produisent et la durée de réalisation des _stories_ explose par rapport à leurs estimations d'origine. Mais la quantité de travail produite chaque semaine demeure inchangée.
 
