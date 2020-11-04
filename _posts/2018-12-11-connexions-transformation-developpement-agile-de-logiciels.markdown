@@ -18,7 +18,7 @@ L'article [Connexions - de l'insuffisance du leadership](http://www.les-traducte
 
 Ce qui est encore pire c'est le fait que quasiment aucune des personnes qui font de la formation ou du coaching en “Leadership agile” n'ont pas une compréhension réelle de ce qu'est le développement logiciel, et encore moins des pratiques relativement récentes à appliquer pour une Vraie Agilité™. Comme ces personnes ne les connaissent pas, elles ne peuvent pas infuser cette information au niveau des dirigeants de l'organisation, donc ces derniers n'essayent même pas de les diffuser.
 
-Certaines soit disante approches de “transformation” font la moue sur ce sujet. Par exemple, [SAFe](https://ronjeffries.com/categories/safe/) requiert l'utilisation de “Scrum plus XP” au niveau opérationnel, et indique sur un certain nombre de diapositives de leurs présentations la mention “Former tous le monde”. Ce n'est pas de leur faute si tous le monde n'est pas formé.
+Certaines soi-disant approches de “transformation” font la moue sur ce sujet. Par exemple, [SAFe](https://ronjeffries.com/categories/safe/) requiert l'utilisation de “Scrum plus XP” au niveau opérationnel, et indique sur un certain nombre de diapositives de leurs présentations la mention “Former tout le monde”. Ce n'est pas leur faute si tout le monde n'est pas formé.
 
 Il y aussi en jeu le fait qu'il n'y a pas beaucoup de gens qui soient capables de montrer à des développeurs comment faire ce qui est nécessaire pour bien faire sous le parapluie “Agile”. Il y a des personnes compétentes ici et là, et du bon contenu sur le web mais c'est déjà un peu trop tard pour la plupart des développeurs.
 
@@ -42,13 +42,13 @@ Toutefois, je ne suis pas sûr que cela soit de l'ironie ou de la tragédie. Je 
 
 <div align="right" style="float:right; margin:10px; padding-bottom:5px; font-style: italic; width:40%; text-align:left; border-style:outset" >Qu'est-ce que nous pouvons faire à ce sujet, Ron ?</div>
 
-Un jour, un idiot a dit “Donnez-moi des solutions, pas des problèmes”. Il n'a plus jamais entendu parler des problèmes après coup, et j'espère qu'il est tombé par inadvertence dans des oubliettes. Plus probablement, il a dû se sauver à temps et commettre d'encore plus grosses bêtises par la suite.
+Un jour, un idiot a dit “Donnez-moi des solutions, pas des problèmes”. Il n'a plus jamais entendu parler des problèmes après coup, et j'espère qu'il est tombé par inadvertance dans des oubliettes. Plus probablement, il a dû se sauver à temps et commettre d'encore plus grosses bêtises par la suite.
 
 Quoi qu'il en soit, je ne connais aucunes bonnes solutions. Mon article [Abandon Agile](https://ronjeffries.com/articles/018-01ff/abandon-1/)[^3] est une vraie tentative pour répondre à la question. Les développeurs ont besoin de reconnaître cette chose appelée “Agile” qu'ils rencontrent, et qui très probablement ne les aidera pas, mais qu'ils peuvent néanmoins faire grandir de l'intérieur s'ils apprennent ne serait-ce qu'un chouia à propos de comment produire un Incrément, et sur les sujets connexes.
 
 Il y a sûrement besoin de plus, de beaucoup plus. Je ne sais pas de quoi il s'agit, ou comment le faire. Le maximum que je puisse faire aujourd'hui est de crier un avertissement.
 
-La quasi totalité de ce site est dédié à ce sujet. Voici quelques liens sur quelques petites choses auxquelles vous voudriez jeter un coup d'œil.
+La quasi-totalité de ce site est dédié à ce sujet. Voici quelques liens sur quelques petites choses auxquelles vous voudriez jeter un coup d'œil.
 
 ---
 ## Articles en relation
