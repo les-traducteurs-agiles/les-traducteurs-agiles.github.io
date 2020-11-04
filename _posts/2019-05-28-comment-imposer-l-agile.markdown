@@ -10,7 +10,7 @@ tags:
 
 > Il y a beaucoup de jérémiades actuellement autour du sujet d'imposer les pratiques et les méthodes 'Agile'. Ces geignards ne savent tout simplement pas comment l'imposer correctement. Moi non plus, mais voici ce que j'essaierais de faire.
 
-Si, pour mes péchés, j'étais condamné à être « en charge » d'une organisation de développement logiciels, et d'une manière ou d'une autre tenu pour responsable de son succès ou de son échec, je voudrais à coup sûr que cette organisation mette en pratique « le développement agile de logiciels », quoi que cela puisse être. J'aurais le pressentiment que ce serait là ma seule chance.
+Si, pour mes péchés, j'étais condamné à être « en charge » d'une organisation de développement logiciels, et d'une manière ou d'une autre, tenu pour responsable de son succès ou de son échec, je voudrais à coup sûr que cette organisation mette en pratique « le développement agile de logiciels », quoi que cela puisse être. J'aurais le pressentiment que ce serait là ma seule chance.
 
 Étant donné que ma survie serait en jeu, devenir « Agile » deviendrait une nécessité. Bien sûr, j'irais suggérer ça à tout le monde, je ferais former tout le monde, j'essaierais de mener tout le monde sur cette voie. Toutefois, ma survie étant en jeu, s'ils ne voulaient pas aller vers l'Agile, eh bien, je n'aurais pas le choix, je devrais faire le nécessaire pour les _faire_ aller vers l'Agile.
 
@@ -18,7 +18,7 @@ Bien sûr, ce serait mal. Je n'aime pas suivre les ordres, par conséquent ma r�
 
 Comment puis-je imposer l'Agile et apaiser ma conscience, admettons-le, quelque peu mollassonne en même temps ? Et quelle est la meilleure méthode Agile à imposer ? Est-ce qu'il serait mieux d'en imposer une vraiment simple, comme Scrum, ou d'y aller à fond et d'imposant quelque chose de vraiment exhaustif comme SAFe ? Il s'agit là de questions importantes.
 
-Ma réponse est « non ». Voici ce que je ferais. J'ai écris ce texte comme si j'étais en train de faire une présentation, avec des questions venant du public. Si vous avez des commentaires ou des questions, j'adorerais que vous me les envoyiez par mél, ou sur le Slack [Agile Mentoring](https://agilementoring.com/), ou même sur Twitter. Sur Twitter, cela risque d'être un peu confus. Il est plus probable que la discussion sera plus aisée sur Agile Mentoring. Toutefois, c'est vous qui voyez.
+Ma réponse est « non ». Voici ce que je ferais. J'ai écrit ce texte comme si j'étais en train de faire une présentation, avec des questions venant du public. Si vous avez des commentaires ou des questions, j'adorerais que vous me les envoyiez par mél, ou sur le Slack [Agile Mentoring](https://agilementoring.com/), ou même sur Twitter. Sur Twitter, cela risque d'être un peu confus. Il est plus probable que la discussion sera plus aisée sur Agile Mentoring. Toutefois, c'est vous qui voyez.
 
 ## Comment allons-nous construire du logiciel ici à XYZ
 
@@ -40,7 +40,7 @@ Quelques fois, nous pourrions partitionner le produit. Nous pourrions scinder le
 
 ### Et si … nous avons vraiment besoin d'une seule grosse équipe ?
 
-Mon opinion est que les équipes perdent de l'efficacité au fur et à mesure qu'elles grossissent. Donc nous travaillerons dans l'objectif de rester petit et de scinder dès que cela commencera à être trop gros. Nous serons guidé par l'expérience et la situation, et regarderons ce qui est le mieux pour les gens, le produit et l'organisation, à peu près dans cet ordre-là. Peut être qu'il y a quelque chose qui nécessite une grosse équipe, mais franchement je pense que ce n'est pas le cas , et nous y travaillerons pour l'éviter.
+Mon opinion est que les équipes perdent de l'efficacité au fur et à mesure qu'elles grossissent. Donc nous travaillerons dans l'objectif de rester petit et de scinder dès que cela commencera à être trop gros. Nous serons guidés par l'expérience et la situation, et regarderons ce qui est le mieux pour les gens, le produit et l'organisation, à peu près dans cet ordre-là. Peut être qu'il y a quelque chose qui nécessite une grosse équipe, mais franchement je pense que ce n'est pas le cas , et nous y travaillerons pour l'éviter.
 
 ## Qu'est-ce que ces équipes feront ?
 
@@ -50,7 +50,7 @@ Comme la plus grande majorité des entreprises du secteur, nous aurons général
 
 En simplifiant au maximum, nous avons deux axes principaux auxquels s'intéresser, la réussite du produit à satisfaire nos utilisateurs, et la pléthore de détails techniques pour la conception et la réalisation des solutions qui vont satisfaire les besoins des utilisateurs. Il y a ici une division assez claire, du moins dans mon esprit, entre les activités en relation avec le client et ce que j'appellerai les activités techniques. Pour l'instant, cela reflète nos organisations Produit et Marketing d'un côté et de l'autre notre organisation Développement.
 
-Toutefois, ce qui est demandé et comment le faire sont entremêlés, et franchement, j'aimerais voir ces séparations supprimés où que ce soit. Prenons par exemple un produit avec une seule équipe pour faire simple. J'aimerais créer une nouvelle équipe, avec des personnes du Produit et du Développement, dédiées à ce produit. Leurs missions conjuguées est de créer un retour viable pour ce produit.
+Toutefois, ce qui est demandé et comment le faire sont entremêlés, et franchement, j'aimerais voir ces séparations supprimées où que ce soit. Prenons par exemple un produit avec une seule équipe pour faire simple. J'aimerais créer une nouvelle équipe, avec des personnes du Produit et du Développement, dédiées à ce produit. Leurs missions conjuguées sont de créer un retour viable pour ce produit.
 
 ### Oui, mais comment décident-ils quoi faire ?
 
@@ -60,7 +60,7 @@ J'y arrivais. S'il est question de donner une décision difficile sur cette chos
 
 Oui, ça l'est probablement. Et c'est ce que nous allons apprendre à faire, parce que nous sommes tous ensemble plus intelligents et plus forts qu'isolément. Mais il y a encore bien plus. Parlons du cycle de développement.
 
-Nous sommes dans le business de satisfaire les besoins utilisateurs grâce à des logiciels. C'est le boulot de l'informatique, bien sûr, que de servir les désidératas et les besoins de nos clients. Puisque c'est le logiciel qui nous intéresse, c'est là dessus que nous mettrons l'accent de notre management et la focalisation de nos efforts. Nous nous focaliserons sur le produit : sur ce qu'il est, comment il évolue, comment il est accepté. La manière dont nous faisons cela sera différente de la manière dont certains d'entre vous sont habitués à le  faire. Certains autres dans l'organisation reconnaîtront ces idées, parce qu'ils les pratiquent déjà ou sont sur la bonne route.
+Nous sommes dans le business de satisfaire les besoins utilisateurs grâce à des logiciels. C'est le boulot de l'informatique, bien sûr, que de servir les désidératas et les besoins de nos clients. Puisque c'est le logiciel qui nous intéresse, c'est là dessus que nous mettrons l'accent de notre management et la focalisation de nos efforts. Nous nous focaliserons sur le produit : sur ce qu'il est, comment il évolue, comment il est accepté. La manière dont nous faisons cela sera différente de la manière dont certains d'entre vous sont habitués à le faire. Certains autres dans l'organisation reconnaîtront ces idées, parce qu'ils les pratiquent déjà ou sont sur la bonne route.
 
 La règle est la suivante : _Chaque équipe produit sera responsable par avoir un produit prêt-à-être-livré, opérationnel, testé à tout moment, et contenant toutes les solutions que l'équipe aura choisie pour être incorporées dans le produit._
 
@@ -68,7 +68,7 @@ Toutes les deux semaines, votre équipe et les parties prenantes, y compris moi,
 
 ### Attendez un peu ! Nous sommes supposés mettre une nouvelle version à disposition dans tout juste deux semaines ?
 
-Oui. Il s'agit peut être de la partie la plus difficile quant à la manière dont nous allons faire les choses. Certains de nos produits actuels tiennent à peine sur leurs pieds. Certains, et tout spécialement avec certains de nos produits les plus anciens, tout semble durer une éternité et nous pouvons à peine livrer une version tous les six mois et encore. Donc cela veut dire que nos réunions toutes les deux semaines vont plutôt être ennuyeuses. Je vais demander à voir le produit, l'équipe Monolithe  va me montrer la même vieille version , je vais demander ce qu'il y a de nouveau, ils diront qu'il n'y a rien de nouveau. Je vais avoir l'air triste.  Ils essaieront de me dire ce « ouais … mais » il y a aura vraiment des choses sympas dans la Prochaine Version. Je vais demander si cela est opérationnel, si c'est intégré, si c'est testé, si cela fonctionne, prêt à être livré dans la version en face de moi. Ils diront non, et je dirai alors ne m'en parlez pas, je suis uniquement intéressé par ce qui peut être mis dans les mains du client dès maintenant.
+Oui. Il s'agit peut-être de la partie la plus difficile quant à la manière dont nous allons faire les choses. Certains de nos produits actuels tiennent à peine sur leurs pieds. Certains, et tout spécialement avec certains de nos produits les plus anciens, tout semble durer une éternité et nous pouvons à peine livrer une version tous les six mois et encore. Donc cela veut dire que nos réunions toutes les deux semaines vont plutôt être ennuyeuses. Je vais demander à voir le produit, l'équipe Monolithe va me montrer la même vieille version , je vais demander ce qu'il y a de nouveau, ils diront qu'il n'y a rien de nouveau. Je vais avoir l'air triste.  Ils essaieront de me dire ce « ouais … mais » il y a aura vraiment des choses sympas dans la Prochaine Version. Je vais demander si cela est opérationnel, si c'est intégré, si c'est testé, si cela fonctionne, prêt à être livré dans la version en face de moi. Ils diront non, et je dirai alors ne m'en parlez pas, je suis uniquement intéressé par ce qui peut être mis dans les mains du client dès maintenant.
 
 Je pourrais même être un vrai enfoiré là-dessus et réaliser un tableau de bord ou quelques graphiques, qui montre d'autres produits ayant, eux, ajouté des fonctionnalités toutes les deux semaines, et montrer le gros monolithe qui ne grossit pas pendant des mois, l'équipe Monolithe à coup sûr va être embarrassé.
 
