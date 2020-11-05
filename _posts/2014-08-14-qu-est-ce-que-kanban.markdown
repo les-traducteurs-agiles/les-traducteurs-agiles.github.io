@@ -29,7 +29,6 @@ La raison en est que les petits changements sont moins menaçants, moins disrupt
 ## Quelle la méthode de changement ?
 
 Tirés des [principes de la méthode Kanban](http://agilemanagement.net/index.php/Blog/the_principles_of_the_kanban_method/),
-
 il existe cinq propriétés essentielles :
 
 1. Visualiser le flux de travail
