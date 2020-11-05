@@ -3,7 +3,7 @@ layout: post
 title:  "Exemple Impact Mapping"
 date:   2014-11-18 00:01
 published: true
-tags: 
+tags:
 - impact mapping
 ---
 
@@ -17,7 +17,7 @@ Une carte d'impact est une visualisation du périmètre et des hypothèses sous-
 * **Quoi ?** Une fois que nous avons répondu à ces trois questions, nous pouvons parler du périmètre. Le troisième niveau d'une carte d'impact répond à la question suivante : Que pouvons-nous faire, en tant qu'entreprise ou équipe de livraison, pour encourager ses impacts ? Ce sont les **livrables**, les caractéristiques du logiciel ou les activités de l'entreprise.
 
 
-© Gojko Adzic 2012. (traduit en français par Sébastien Sacard sur [Impact Mapping](http://fr.impactmapping.org/drawing.php)) Réalisé avec Bootstrap. Icônes de Glyphicons Free, sous licence CC BY 3.0, et Picol, sous licence CC BY-SA.
+© Gojko Adzic 2012. (Traduit en français par Sébastien Sacard sur [Impact Mapping](http://fr.impactmapping.org/drawing.php)) Réalisé avec Bootstrap. Icônes de Glyphicons Free, sous licence CC BY 3.0, et Picol, sous licence CC BY-SA.
 
 ---
 Auteur : [Gojko Adzic](https://twitter.com/gojkoadzic)  
@@ -32,5 +32,3 @@ Date de traduction : 18/11/2014
 
 
 {% include share_buttons.html %}
-
-
