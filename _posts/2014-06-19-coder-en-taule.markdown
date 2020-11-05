@@ -9,7 +9,7 @@ tags:
 ---
 Mon fils, Micah (`@slagyr`), et moi, avions prévu de voler samedi matin à bord de son _Archer_ ; mais la météo nous a répondu "Non.". Donc, nous avons dû nous rabattre sur la routine, trop bien connue, du départ la veille au soir, des aéroports, des vol commerciaux, des voitures de locations, des chambres d'hôtels. Sigh.
 
-Dans la matinée, nous sommes en route vers la maison correction de Marion ; un prison de moyenne sécurité dirigée par l'état de l'Ohio. Nous pénétrons dans le parc de stationnement réservé aux visiteurs et nous appelons l'organisateur, Dan Wiebe (`@dnwiebe`). Il nous répond qu'il est déjà à l'intérieur avec plusieurs autres personnes. Je lui demande si je devrais laisser mon téléphone portable dans la voiture. Il répond de _tout_ laisser dans la voiture à l'exception de nos permis de conduire et de nos clés de voitures. Ce que nous faisons.
+Dans la matinée, nous sommes en route vers la maison correction de Marion ; une prison de moyenne sécurité dirigée par l'état de l'Ohio. Nous pénétrons dans le parc de stationnement réservé aux visiteurs et nous appelons l'organisateur, Dan Wiebe (`@dnwiebe`). Il nous répond qu'il est déjà à l'intérieur avec plusieurs autres personnes. Je lui demande si je devrais laisser mon téléphone portable dans la voiture. Il répond de _tout_ laisser dans la voiture à l'exception de nos permis de conduire et de nos clés de voitures. Ce que nous faisons.
 
 Nous entrons à l'intérieur du bâtiment "A". Là, se trouve un bureau occupé par deux officiers. Ils sont polis mais très direct. Nous nous présentons, et puis, attendons dans une petite salle. Nous avons 20 minutes d'avance.
 
@@ -19,7 +19,7 @@ Et puis c'est l'heure. Nous signons un registre. Il y a un détecteur de métal.
 
 Puis retentit alors un signal sonore, et une solide porte à barreaux s'ouvre. Nous passons dans une cage à ciel ouvert avec une autre porte fermée en face de nous. Cette porte ne s'ouvrira pas, tant que celle derrière nous ne se fermera pas. Ce qui se produit quelques instants plus tard.
 
-Nous traversons la cour vers une autre porte blindée dont le signal sonore retentit alors que nous nous approchons. Nous entrons et nous nous rassemblons devant un point de contrôle, où un officier derrière une vitre regarde avec attention tous nos badges. L'officier n'a pas l'air content. Il n'attendait pas une douzaine et demi de personnes. Il décroche son téléphone, visiblement ennuyé.
+Nous traversons la cour vers une autre porte blindée dont le signal sonore retentit alors que nous nous approchons. Nous entrons et nous nous rassemblons devant un point de contrôle, où un officier derrière une vitre regarde avec attention tous nos badges. L'officier n'a pas l'air content. Il n'attendait pas une douzaine et demie de personnes. Il décroche son téléphone, visiblement ennuyé.
 
 Pendant que nous attendons dans le couloir, je vois une porte fermée avec une grande vitre. Il y a plusieurs grandes vitres de chaque côté de la porte. Toutes ces vitres montrent chaque côté de la pièce à l'intérieure. C'est la pièce visiteur. Elle est large, avec tables, chaises et distributeurs automatiques. Elle ressemble à une salle à manger de lycée. Je vois une des jeunes mères, et la vieille femme, attendant là, seules. Un homme et une femme assis à une table, se caressent la main, se sourient et se regardent l'un l'autre, se racontant des petits mots doux. Il porte le bleu de la prison.
 
@@ -27,17 +27,17 @@ L'officier nous fait signe et nous entrons dans la prison. C'est austère, comme
 
 Nous tournons à gauche et descendons sur quelques mètres un couloir pour arriver à un autre point de contrôle. Nous signons un nouveau registre. Plus loin dans le couloir, il y a une série de vitres à droite de chaque côté d'une porte vitrée. Tout ce qui se passe à l'intérieur de la pièce peut être vu de l'extérieur. Des vitres sans teints.
 
-Nous entrons. En face de nous, il y a une douzaine et demi d'hommes habillés en bleu. Ils sourient, certains avec les plus grands sourires que j'ai pu voir. Immédiatement, il est clair, qu'ils sont contents que nous soyons là. De mon point de vue, ils sont jeunes. La vingtaine. La trentaine. Peut-être un ou deux ont dépassé les 40. La moitié d'entre eux sont caucasiens. Les autres sont hispaniques. Deux sont noirs. La plupart sont tatoués.
+Nous entrons. En face de nous, il y a une douzaine et demie d'hommes habillés en bleu. Ils sourient, certains avec les plus grands sourires que j'ai pu voir. Immédiatement, il est clair, qu'ils sont contents que nous soyons là. De mon point de vue, ils sont jeunes. La vingtaine. La trentaine. Peut-être un ou deux ont dépassé les 40. La moitié d'entre eux sont caucasiens. Les autres sont hispaniques. Deux sont noirs. La plupart sont tatoués.
 
 Nous nous asseyons en cercle. Le cercle n'est pas très bien équilibré. Nous, les visiteurs, sommes pour la plupart répartis d'un côté, et les détenus de l'autre.
 
 L'âge des visiteurs se répartit d'une vingtaine d'années au début de la soixantaine environ. Avec une distribution légèrement accentuée vers la tranche d'âge la plus jeune. Trois jeunes femmes sont présentes dans notre groupe. L'un d'entre nous est noir. Les autres, à mes yeux, sont caucasiens ; enfin pour deux d'entre nous, l'anglais est la seconde langue. Nous sommes tous des geeks. Nous sommes ici pour écrire du code.
 
-Dan suggère que nous nous présentions. Ezra, un détenu noir d'une trentaine d'années, avec un regard engageant, et un grand sourire quelque peu déprécié par une dent manquante, l'interrompt et nous propose un jeu-de-nom auxquels ils jouent dans certains des autres programmes internes. Le jeu prend 30 minutes à jouer, mais c'est un franc succès. A sa fin, les trente-sept participants connaissent les prénoms des autres.
+Dan suggère que nous nous présentions. Ezra, un détenu noir d'une trentaine d'années, avec un regard engageant, et un grand sourire quelque peu déprécié par une dent manquante, l'interrompt et nous propose un jeu-de-nom auxquels ils jouent dans certains des autres programmes internes. Le jeu prend 30 minutes à jouer, mais c'est un franc succès. À sa fin, les trente-sept participants connaissent les prénoms des autres.
 
 Dan explique que certains des détenus codent déjà depuis quelques temps ; d'autres seulement depuis quelques semaines. Les détenus sont autorisés à 6 heures par semaine d'ordinateur. Pas d'internet. Pas de google. Pas de téléchargements de logiciels libres. Pas de StackOverflow.
 
-Il y a des ordinateurs. Offerts. Avec quelques années de vol, mais opérationnels. Double écrans ! Eclipse. Nous coderons en Java.
+Il y a des ordinateurs. Offerts. Avec quelques années de vol, mais opérationnels. Doubles écrans ! Eclipse. Nous coderons en Java.
 
 Nous nous mettons par deux avec eux pour des sessions de 40 minutes, sur un simple kata ( https://github.com/PuttingTheDnDInTDD/EverCraft-Kata - NdT) qui facilite une partie de Donjons et Dragons.
 
@@ -45,9 +45,9 @@ Mon premier partenaire, Nick, est un jeune hispanique d'une vingtaine d'années.
 
 Nous nous arrêtons pour la rétrospective, et reformons le cercle. Tout le monde est de bonne humeur. Nous parlons d'options d'architecture. Les détenus écoutent avec attention, mais font aussi part de leurs opinions. Nous sommes impatients d'entamer la session d'après.
 
-Mon partenaire suivant est Dean. C'est un homme énergique d'une trentaine d'années. Il code depuis déjà quelques temps. Il est comme un compagnon-programmeur , impatient d'essayer la dernière nouveauté. Il est à fond sur les services. Il veut ré-organiser le code autour des services qui manipulent des données immuables. C'est évident qu'il a lu des choses sur la programmation fonctionnelle.
+Mon partenaire suivant est Dean. C'est un homme énergique d'une trentaine d'années. Il code depuis déjà quelques temps. Il est comme un compagnon-programmeur, impatient d'essayer la dernière nouveauté. Il est à fond sur les services. Il veut réorganiser le code autour des services qui manipulent des données immuables. C'est évident qu'il a lu des choses sur la programmation fonctionnelle.
 
-Comme je le ferais pour n'importe quel compagnon enthousiaste, avec précaution, j'essaye  de rediriger son enthousiasme vers le problème en cours. Je lui explique que ré-organiser un système existant autour de nouvelles idées doit être fait graduellement et prudemment, et seulement après que chacun ait atteint une grande familiarité avec ce système. Il accepte  mon conseil avec reconnaissance ; même si je peux sentir le mors tirer sur les rênes. C'est un jeune homme au top de ses capacités. Il veut faire les choses bien, et il veut les faire tout de suite.
+Comme je le ferais pour n'importe quel compagnon enthousiaste, avec précaution, j'essaye de rediriger son enthousiasme vers le problème en cours. Je lui explique que réorganiser un système existant autour de nouvelles idées doit être fait graduellement et prudemment, et seulement après que chacun ait atteint une grande familiarité avec ce système. Il accepte mon conseil avec reconnaissance ; même si je peux sentir le mors tirer sur les rênes. C'est un jeune homme au top de ses capacités. Il veut faire les choses bien, et il veut les faire tout de suite.
 
 A la pause suivante le cercle a changé. Les détenus et les visiteurs sont répartis au hasard sur l'ensemble de sa périphérie. Une joyeuse conversation s'engage sur la technique. Nous codons depuis deux heures et nous sommes remplis de l'énergie que cela procure.
 
@@ -55,7 +55,7 @@ Un officier interrompt nos joyeux débats. C'est l'appel. Nous, visiteurs, deven
 
 Une nouvelle session de codage. Son nom est Will. Intelligent. Un bosseur. Les tests passent. Le code est refactoré. Le temps file.
 
-J'ai besoin d'aller aux toilettes. Impossible d'y aller seul. D'autres veulent y aller aussi. Nous nous faisons escorter le long du couloir. A ma droite, il y a les toilettes des prisonniers. Des vitres sans teints ! Dix mètres plus loin, nous arrivons à un panneau avec de grosses lettres rouges. STOP. VOUS ALLEZ ÊTRE ENREGISTRÉS. Ce n'est pas de bonne augure, mais notre escorte nous fait passer. Puis, sur la droite, une porte, sans fenêtre. TOILETTES HOMMES - RESERVÉ AU PERSONNEL. Il s'agit d'une porte tout à fait ordinaire de toilettes pour hommes, comme vous pourriez en trouver d'autre dans n'importe quelle environnement industriel.
+J'ai besoin d'aller aux toilettes. Impossible d'y aller seul. D'autres veulent y aller aussi. Nous nous faisons escorter le long du couloir. À ma droite, il y a les toilettes des prisonniers. Des vitres sans teints ! Dix mètres plus loin, nous arrivons à un panneau avec de grosses lettres rouges. STOP. VOUS ALLEZ ÊTRE ENREGISTRÉS. Ce n'est pas de bon augure, mais notre escorte nous fait passer. Puis, sur la droite, une porte, sans fenêtre. TOILETTES HOMMES - RESERVÉ AU PERSONNEL. Il s'agit d'une porte tout à fait ordinaire de toilettes pour hommes, comme vous pourriez en trouver d'autre dans n'importe quel environnement industriel.
 
 Déjeuner. Pizza. Plein, plein de pizzas et de boissons gazeuses. Certains des gars de PNN (The Prison News Network - NdT : la chaîne d'informations de la prison, la CNN de la taule) veulent faire une interview avec nous. Ils nous font traverser le couloir vers leur studio. Micah et moi, nous nous asseyons devant un fond vert. On nous met un micro. Un cameraman et un présentateur nous posent des questions à propos du mouvement agile et de l'artisanat logiciel (Software Craftsmanship, http://manifesto.softwarecraftsmanship.org/#/fr-fr - NdT).
 
@@ -63,7 +63,7 @@ C'est l'heure pour notre prochaine session de codage. Mon partenaire est Mark. M
 
 Une autre session. Un autre partenaire. Gareth. Nous discutons, et nous codons. Nous écrivons les tests, et nous les faisons passer. Il connaît les règles. Il a envie d'apprendre. Alors qu'il prend la main, je regarde ses mains sur le clavier. P A I N (Douleur - NdT) est tatoué en travers des articulations d'une main.
 
-Il est temps pour Micach et moi de partir. Nous avons un vol commercial à attraper, et une longue route vers l'aéroport. Ils nous font de chaleureux aux-revoirs. Ils nous offrent des cadeaux : un T-shirt et un calendrier pour commémorer l'évènement. Nous sommes escortés pour sortir de la pièce, traverser le couloir, passer les points de contrôles, traverser les portes. Des portes. Des portes qui s'ouvrent facilement -- pour Micah et moi.
+Il est temps pour Micach et moi de partir. Nous avons un vol commercial à attraper, et une longue route vers l'aéroport. Ils nous font de chaleureux aurevoirs. Ils nous offrent des cadeaux : un T-shirt et un calendrier pour commémorer l'évènement. Nous sommes escortés pour sortir de la pièce, traverser le couloir, passer les points de contrôles, traverser les portes. Des portes. Des portes qui s'ouvrent facilement -- pour Micah et moi.
 
 ---
 
