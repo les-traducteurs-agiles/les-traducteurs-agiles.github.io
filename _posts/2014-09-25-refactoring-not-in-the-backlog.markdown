@@ -30,7 +30,7 @@ Néanmoins, nous laissons ça et là quelques mauvaises herbes pousser sur notre
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref04.jpg" />
 </div>
 
-Au fur et à mesure que nous construisons, nous devons contourner des broussailles, ou  nous frayer un chemin à travers. Généralement, nous faisons un détour.
+Au fur et à mesure que nous construisons, nous devons contourner des broussailles, ou nous frayer un chemin à travers. Généralement, nous faisons un détour.
 
 <div align="center">
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref05.jpg" />
@@ -60,7 +60,7 @@ Chaque voyage à travers cette jungle impénétrable de code devient un long pé
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref09.jpg" />
 </div>
 
-Nous voyons maintenant très nettement l'importance des problèmes, et nous voyons que nous pouvons pas faire une simple tonte sur notre terrain et que de toute façon cela ne sera d'aucune utilité. Nous avons beaucoup de refactoring à faire pour avoir de nouveau un terrain propre. Nous sommes tentés de demander du temps au product owner pour refactorer. Bien souvent, ce temps ne sera pas accordé : nous demandons du temps pour corriger ce que nous avons bousillé dans le passé. Et c'est certain, que personne ne nous laissera du temps pour nous en occuper.
+Nous voyons maintenant très nettement l'importance des problèmes, et nous voyons que nous ne pouvons pas faire une simple tonte sur notre terrain et que de toute façon cela ne sera d'aucune utilité. Nous avons beaucoup de refactoring à faire pour avoir de nouveau un terrain propre. Nous sommes tentés de demander du temps au product owner pour refactorer. Bien souvent, ce temps ne sera pas accordé : nous demandons du temps pour corriger ce que nous avons bousillé dans le passé. Et c'est certain, que personne ne nous laissera du temps pour nous en occuper.
 
 <div align="center">
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/Ref10.jpg" />
@@ -74,7 +74,7 @@ Ce n'est pas la voie à suivre. Une grosse session de refactoring est difficile 
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/RefA1.jpg" />
 </div>
 
-C'est simple ! Nous prenons la fonctionnalité suivante qu'il nous est demandé d'implémenter, et à la place de contourner toutes les broussailles et les sous-bois, nous prenons le temps de débroussailler un chemin à travers certains. Peut-être ferons-nous un détour pour d'autres. Nous améliorons le code sur lequel nous travaillons, et ignorons le code sur lequel nous n'avons pas à travailler. Nous aurons un magnifique chemin dégagé pour une partie de notre travail. Il y a de fortes chances que nous passerons de nouveau par là : c'est ainsi que de le développement logiciel fonctionne.
+C'est simple ! Nous prenons la fonctionnalité suivante qu'il nous est demandé d'implémenter, et à la place de contourner toutes les broussailles et les sous-bois, nous prenons le temps de débroussailler un chemin à travers certains. Peut-être ferons-nous un détour pour d'autres. Nous améliorons le code sur lequel nous travaillons, et ignorons le code sur lequel nous n'avons pas à travailler. Nous aurons un magnifique chemin dégagé pour une partie de notre travail. Il y a de fortes chances que nous passerons de nouveau par-là : c'est ainsi que le développement logiciel fonctionne.
 
 Peut-être que cette fonctionnalité prendra un peu plus de temps à implémenter. Mais souvent, ce ne sera pas le cas, parce que ce nettoyage nous aidera ensuite avec la première fonctionnalité qui suivra ce chemin. Et bien sûr, cela aidera toutes les autres qui suivront par là aussi.
 
@@ -88,7 +88,7 @@ Nettoyer, répéter. Avec chaque nouvelle fonctionnalité, nous nettoyons le cod
   <img src="{{ site.url }}assets/refactoring_pas_dans_le_backlog/RefA3.jpg" />
 </div>
 
-Bientôt, souvent pendant le même sprint sur lequel nous avons commencé à nettoyer, nous trouvons qu'une fonctionnalité subséquente utilise une zone que nous venons juste de nettoyer. Tout de suite, nous commençons à tirer les bénéfices du refactoring incrementale. Si nous avions attendu de le faire dans un lot dédié, cela nous aurait demandé plus d'efforts, cela aurait retardé les bénéfices à encore plus tard, et certainement nous aurions gaspillé nos efforts à des endroits qui ne nous auraient rien rapporté.
+Bientôt, souvent pendant le même sprint sur lequel nous avons commencé à nettoyer, nous trouvons qu'une fonctionnalité subséquente utilise une zone que nous venons juste de nettoyer. Tout de suite, nous commençons à tirer les bénéfices du refactoring incremental. Si nous avions attendu de le faire dans un lot dédié, cela nous aurait demandé plus d'efforts, cela aurait retardé les bénéfices à encore plus tard, et certainement nous aurions gaspillé nos efforts à des endroits qui ne nous auraient rien rapporté.
 
 Le travail se passe mieux, le code devient plus propre, et nous livrons plus de fonctionnalités que nous ne le pouvions le faire avant. Tout le monde y gagne.
 
