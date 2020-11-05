@@ -6,9 +6,9 @@ tags: test
 ---
 Des complaintes de ce genre, comme par exemple [celle-ci vue sur le yahoogroup Scrumdevelopment](http://groups.yahoo.com/group/scrumdevelopment/message/45191), sont entendues très couramment.
 
-> Généralement dans les différentes phases (d'un projet - NdT), la charge de travail est différente pour un développeur et un testeur . Par exemple, lorsqu'un projet arrive près de la fin, la plupart des tâches restantes seront du test.  
+> Généralement dans les différentes phases (d'un projet - NdT), la charge de travail est différente pour un développeur et un testeur. Par exemple, lorsqu'un projet arrive près de la fin, la plupart des tâches restantes seront du test.  
 
-Plusieurs signaux d'alarmes se déclenchent en moi à la lecture de ces deux phrases. Le premier signal d'alarme retentit sur  "_différentes phases_". Pourquoi un projet de développement logiciel, et plus spécialement un ayant une durée de quelques semaines ou de quelques mois, a-t-il des phases ? L'autre signal d'alarme retentit sur "_à la fin, la plupart des tâches seront du test._" Décaler le test à la phase finale n'a jamais très bien fonctionné. Cela a _toujours_ résulté en fin de compte pour les testeurs en bout de chaîne d'être à la traîne.  
+Plusieurs signaux d'alarmes se déclenchent en moi à la lecture de ces deux phrases. Le premier signal d'alarme retentit sur "_différentes phases_". Pourquoi un projet de développement logiciel, et plus spécialement un ayant une durée de quelques semaines ou de quelques mois, a-t-il des phases ? L'autre signal d'alarme retentit sur "_à la fin, la plupart des tâches seront du test._" Décaler le test à la phase finale n'a jamais très bien fonctionné. Cela a _toujours_ résulté en fin de compte pour les testeurs en bout de chaîne d'être à la traîne.  
 
 Est-ce que cette situation ne vous paraît-elle pas familière ? Si oui, que pouvons-nous y faire ?
 
