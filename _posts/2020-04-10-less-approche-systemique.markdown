@@ -69,8 +69,6 @@ La devise de Toyota en interne est [« Bien **réfléchir** permet d'avoir de bo
 
     * les diagrammes de boucles causales et les cinq pourquoi permettent de révéler cela
 
-* **see local optimization**—another source of suboptimal decisions is **local optimization** , making the ‘best’ decision from the viewpoint of a person or department, rather than **global optimization** for the lean systems-level goal of _deliver value fast with high quality and high morale_ .
-
 * **voir les optimisations locales** - une autre source de décisions sous-optimales est **l'optimisation locale**, autrement dit prendre la « meilleure » décision du point de vue d'une personne ou d'un département, au détriment d'une **optimisation globale** qui est l'objectif au niveau système _lean_ et qui consiste à pouvoir _livrer la plus grande valeur possible de très grande qualité avec un moral d'acier._
 
 Cette présentation de l'approche systémique est faite autour des domaines suivants : Apprendre à voir (1) _les dynamiques des systèmes_, (2) _les modèles mentaux_, (3) _les causes racines_, et (4) _l'optimisation locale_.
