@@ -31,7 +31,7 @@ Lors de la [Planification du Sprint](http://www.les-traducteurs-agiles.org/2017/
 
 ## Utiliser le développement piloté par les tests d'acceptation
 
-[Le développment piloté par les tests d'acceptation (A-TDD) ou Spécifications par l'exemple](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html) est une approche collaborative de découverte des exigences dans laquelle des exemples et des tests automatisés sont utilisés pour spécifier les exigences, créant ainsi des spécifications exécutables. Elles sont créées conjointement par l'équipe, le Product Owner, et les autres parties prenantes lors d'ateliers d'exigences.
+[Le développement piloté par les tests d'acceptation (A-TDD) ou Spécifications par l'exemple](http://www.les-traducteurs-agiles.org/2018/02/10/less-specifications-par-l-exemple.html) est une approche collaborative de découverte des exigences dans laquelle des exemples et des tests automatisés sont utilisés pour spécifier les exigences, créant ainsi des spécifications exécutables. Elles sont créées conjointement par l'équipe, le Product Owner, et les autres parties prenantes lors d'ateliers d'exigences.
 
 ---
 Auteur : The LeSS Company B.V.  
