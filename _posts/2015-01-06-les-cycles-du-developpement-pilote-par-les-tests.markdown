@@ -45,7 +45,7 @@ Une autre manière de considérer cette idée, c'est :
 
 [Deux choses](http://seasidetesting.com/2013/03/12/testing-and-the-two-values-of-software/) sont importantes aux yeux des clients à propos d'un logiciel. La manière dont il fait se comporter une machine ; et la facilité avec laquelle il peut être modifié. Un compromis sur l'une ou l'autre de ces deux valeurs et le logiciel aura moins de valeur pour les clients.  
 
-Exécuter le cycle rouge/vert/refactorer prend environ une minute. C'est la granularité du refactoring. Le refactoring  n'est pas quelque chose que vous faites à la fin du projet : c'est quelque chose que vous faites _minute par minute_. Il n'existe aucune tâche sur le plan projet qui indique : refactoring. Il n'y a pas de temps réservé à la fin du projet, ou de l'itération, ou de la journée pour le refactoring. Le refactoring est un activité continue , pas quelque chose qui est effectuée tardivement (et donc optionnellement).  
+Exécuter le cycle rouge/vert/refactorer prend environ une minute. C'est la granularité du refactoring. Le refactoring n'est pas quelque chose que vous faites à la fin du projet : c'est quelque chose que vous faites _minute par minute_. Il n'existe aucune tâche sur le plan projet qui indique : refactoring. Il n'y a pas de temps réservé à la fin du projet, ou de l'itération, ou de la journée pour le refactoring. Le refactoring est un activité continue, pas quelque chose qui est effectuée tardivement (et donc optionnellement).  
 
 ## **Déca-minute par déca-minute :** _le milli cycle_ : spécifique/générique
 
@@ -53,9 +53,9 @@ En remontant au niveau des 10 minutes, nous voyons le milli cycle en action. [Le
 
 > Au fur et à mesure que les tests deviennent plus spécifiques, le code devient plus générique.  
 
-Au fur et à mesure qu'une suite de tests grossie, elle devient plus spécifique, c'est à dire qu'elle devient une _spécification_ du comportement encore plus détaillée. Les bons développeurs d'applications font face à cet accroissement de spécifications par un accroissement de la _généricité_ de leur code. Pour le dire autrement : _les développeurs font fonctionner des cas spécifiques en écrivant du code qui fait fonctionner le cas général_.  
+Au fur et à mesure qu'une suite de tests grossie, elle devient plus spécifique, c'est à dire qu'elle devient une _spécification_ du comportement encore plus détaillé. Les bons développeurs d'applications font face à cet accroissement de spécifications par un accroissement de la _généricité_ de leur code. Pour le dire autrement : _les développeurs font fonctionner des cas spécifiques en écrivant du code qui fait fonctionner le cas général_.  
 
-En règle générale, le code de production devient de plus en plus générique si vous pouvez penser aux tests que vous n'avez pas écrit ; mais que le code de production pourra faire passer tout de même. Si le changement que vous faites dans le code suite à un test, fais passer ce test, mais qu'il ne pourrait pas faire passer d'autres tests non écrits, alors vous êtes sûrement en train de faire un code de production trop spécifique.  
+En règle générale, le code de production devient de plus en plus générique si vous pouvez penser aux tests que vous n'avez pas écrit ; mais que le code de production pourra faire passer tout de même. Si le changement que vous faites dans le code pour faire suite à un test, fais passer ce test, mais qu'il ne pourrait pas faire passer d'autres tests non écrits, alors vous êtes sûrement en train de faire un code de production trop spécifique.  
 
 Il est souvent dit que la structure fine des trois lois et du cycle rouge/vert/refactorer conduisent à des  [optimisations locales](http://c2.com/cgi/wiki?RefactoringEqualsReparametrization). Sans un " schéma général ", le développeur ne peut donner au logiciel une structure correcte pour répondre au problème global, et peut conduire à la place à la mise en place d'une structure correcte pour le cas spécifique, mais incorrecte pour le cas général.  
 
