@@ -12,7 +12,7 @@ tags:
 </div>
 LEÇONS DE COACHING AGILE
 
-Le langage est important, particulièrement lorsque chacun est impliqué par des changements pilotés par l'autorité.Les "transformations" Agile ne font pas exception.
+Le langage est important, particulièrement lorsque chacun est impliqué par des changements pilotés par l'autorité. Les "transformations" Agile ne font pas exception.
 
 Les niveaux d'accords sont également très importants. Sans accords, rien de bon ne peut arriver. Donc, démarrez votre coaching en testant la volonté de(s) équipe(s) et de l'organisation élargie pour conclure certains accords. Les accords sont des engagements.
 
@@ -28,7 +28,7 @@ En tant que Coach, vous apprendrez rapidement que :
 
 * il y a énormément de confusion dans l'organisation sur ces termes fondamentaux ;
 * il y a peu ou un certain nombre de personnes dans l'organisation qui soient réellement disposées à réellement accepter ces termes ;
-* il y a peu de volonté de réellement mettre correctement en oeuvre l'Agile ou Scrum ;
+* il y a peu de volonté de réellement mettre correctement en œuvre l'Agile ou Scrum ;
 * il y a des personnes "pour" et d'autres "contre", qui soutiennent, qui résistent ; c'est très simple.
 
 
@@ -41,13 +41,13 @@ Maintenant que tout le monde est impliqué, que tout le monde est d'accord sur c
 * il existe un accord partagé, et tout le monde est co-responsable de cet accord ;
 * vous parlez maintenant avec beaucoup plus de clarté lorsque vous prononcez les mots "Agile" et "Scrum" ;
 * vous avez mis l'entière organisation dans des conditions qui lui permettent d'être beaucoup plus claire sur ce qu'on dit d'elle ;
-* vous les avez aidé à trouver un accord SUR CE QUI EST VRAIMENT TRÈS IMPORTANT pour réussir avec l'Agile ;
+* vous les avez aidés à trouver un accord SUR CE QUI EST VRAIMENT TRÈS IMPORTANT pour réussir avec l'Agile ;
 * vous avez agrandi "l'espace des possibles" pour la transformation de cette organisation.
 
 
 Ensuite vous pouvez passer à l'étape suivante en ajoutant un grain de folie, en les invitant à jouer à un jeu.
 
-Un jeu vraiment sérieux. un jeu auquel tout le monde peut gagner ensemble. Un jeu de coopération.
+Un jeu vraiment sérieux. Un jeu auquel tout le monde peut gagner ensemble. Un jeu de coopération.
 
 [(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/06/16/pousser-l-agile-provoque-des-transe-formations-lecon-17.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2017/07/20/agile-est-un-jeu-mettez-vous-d-accord-sur-les-regles-lecon-19.html)  
 
