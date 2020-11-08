@@ -19,7 +19,6 @@ Pour que cela fonctionne, deux choses doivent se passer :
 * Les personnes officiellement habilitées à exercer cette autorité dans l'organisation doivent être prêtes à accorder le pouvoir aux équipes de prendre des décisions au sein de lignes directrices clairement définies. Ces personnes doivent en permanence le souligner. Et le vouloir.
 * Vous devez vous-même être capable de résister à toute tentative de l'équipe de vous ériger dans le rôle d'une personne ayant autorité. Sinon, vous n'avez "aucune chance" de les encourager à s'auto-organiser, ce qui est l'essence même de l'autogestion.
 
-
 Donc :
 
 * Les managers officiellement habilités doivent préciser que les équipes sont libres de prendre des décisions réelles au sein de lignes directrices bien définies.
