@@ -18,7 +18,7 @@ Vous devez constamment inviter les personnes de l'organisation à apprendre l'ar
 
 Les personnes qui acceptent réellement votre invitation à participer à l'apprentissage de la facilitation sont les personnes qui aideront à façonner la nouvelle histoire de l'organisation. Ce sont ces mêmes personnes qui aideront à faire de la transformation organisationnelle une réalité durable et continue.
 
-Une de vos activités essentielles en tant que coach Agile est d'enseigner et encourager une _culture de la facilitation_. La facilitation permet à l'organisation d'apprendre _plus facilement_. Si cette culture de le facilitation survit à votre mission, elle témoigne de votre efficacité en tant que coach.
+Une de vos activités essentielles en tant que coach Agile est d'enseigner et encourager une _culture de la facilitation_. La facilitation permet à l'organisation d'apprendre _plus facilement_. Si cette culture de la facilitation survit à votre mission, elle témoigne de votre efficacité en tant que coach.
 
 La facilitation est un art ; ce n'est pas une science. Vous devez pratiquer cet art, et enseigner cet art au sein des organisations que vous servez.
 
