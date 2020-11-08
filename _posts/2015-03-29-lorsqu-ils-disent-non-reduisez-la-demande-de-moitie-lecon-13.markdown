@@ -20,7 +20,7 @@ La plupart des bonnes formations ont un tas d'apprentissages basés sur l'expér
 
 _Donc : Pourquoi ne pas aller jusqu'au bout, et simplement arrêter de former ?_ Pourquoi ne pas simplement les impliquer dans une expérience ? C'est une manière extrêmement rapide pour vous de générer des résultats rapides. Mais attendez : d'abord, ils doivent être volontaires.
 
-Une fois qu'ils le sont, ils essaient tout ce que vous suggérez, sautez les 20 premières étapes ... et passez directement à l'apprentissage ... et à la mise en oeuvre. Voilà.
+Une fois qu'ils le sont, ils essaient tout ce que vous suggérez, sautez les 20 premières étapes ... et passez directement à l'apprentissage ... et à la mise en œuvre. Voilà.
 
 Cette technique fonctionne avec n'importe quel public de coaching agile : équipes, managers, parties prenantes.
 
@@ -38,7 +38,7 @@ Ce processus en lui-même est un premier pas vers un apprentissage de groupe dan
 
 Même s'ils disent "non", ils le disent ensemble. C'est un progrès.
 
-Et vous allez les observer prendre cette décision. _Cette information sur la façon dont le groupe prend actuellement des décisions est très utile pour vous en tant que que coach qui les aide_.
+Et vous allez les observer prendre cette décision. _Cette information sur la façon dont le groupe prend actuellement des décisions est très utile pour vous en tant que coach qui les aide_.
 
 Voici les étapes :
 
