@@ -37,20 +37,20 @@ Alors voici ce que vous allez faire :
 * Vous allez inviter toutes les personnes, absolument toutes, impactées par Scrum, À LIRE le Guide Scrum.
 * S'ils ne le veulent pas lire le Guide Scrum, vous allez traiter cela comme un obstacle à Scrum, et vous essayerez quelque chose, n'importe quoi, pour résoudre ce problème.
 * Vous allez inviter toutes ces personnes à s'accorder pour faire de ce guide la DÉFINITION de Scrum. Cela veut dire que quand quelqu'un parle de "Scrum" il fait référence à ce qui est décrit dans ce guide.
-* S'ils ne veulent pas s'accorder sur le fait que le Guide Scrum est la DÉFINITION de Scrum, vous traiterez cela comme un obstacle à Scrum, et vous essayerez quelque chose, n'importe quoi, pour résoudre ce problème. Demandez leur ce qu'il faudrait pour que cela soit possible. Écoutez attentivement. Faites tout ce qu'il est possible de faire pour les réintégrer, sauf s'il s'agit de négocier ne serait-ce qu'une partie du Guide Scrum.
+* S'ils ne veulent pas s'accorder sur le fait que le Guide Scrum est la DÉFINITION de Scrum, vous traiterez cela comme un obstacle à Scrum, et vous essayerez quelque chose, n'importe quoi, pour résoudre ce problème. Demandez-leur ce qu'il faudrait pour que cela soit possible. Écoutez attentivement. Faites tout ce qu'il est possible de faire pour les réintégrer, sauf s'il s'agit de négocier ne serait-ce qu'une partie du Guide Scrum.
 * Après qu'ils aient accepté que le Guide Scrum soit la définition de Scrum (ce qui est une belle réussite par ailleurs), vous allez ALORS les inviter à s'engager à le respecter. Pour les managers : ils vont respecter les décisions du Product Owner. Pour les Product Owner : ils vont accepter d'être responsable pour tout ce qui concerne le Backlog Produit. Pour l'Équipe : ils vont s'accorder à mener la Mêlée Quotidienne tous les jours. Etc. Etc. Etc.
 
 C'est seulement après que ces accords soient en place que le Scrum Master sera capable de rappeler aux gens de suivre les règles de Scrum, et de les tenir responsables de cela.
 
 Et cela sera bien.
 
-Si vous participez à la mise en oeuvre de Scrum, et que vous n'avez pas fait les trois choses évoquées ci-dessous, vous ne pourrez vous en prendre qu'à VOUS-MÊME pour la folie qui s'ensuivra.
+Si vous participez à la mise en œuvre de Scrum, et que vous n'avez pas fait les trois choses évoquées ci-dessous, vous ne pourrez-vous en prendre qu'à VOUS-MÊME pour la folie qui s'ensuivra.
 
 Donc : assurez-vous d'obtenir ces trois résultats. De les avoir validés...
 
 [1] Toute personne impactée par Scrum a lu et examiné le Guide Scrum.
 
-[2] Toute personne impactées par Scrum est d'accord pour dire que lorsque l'on parle de "Scrum", on évoque ce qui est décrit dans le Guide Scrum.
+[2] Toute personne impactée par Scrum est d'accord pour dire que lorsque l'on parle de "Scrum", on évoque ce qui est décrit dans le Guide Scrum.
 
 [3] Toute personne impactée par Scrum (Managers, Sponsors/Parties prenantes, Product Owners, Équipes, Scrum Masters) est d'accord pour jouer selon les RÈGLES de Scrum décrites dans le Guide Scrum.
 
