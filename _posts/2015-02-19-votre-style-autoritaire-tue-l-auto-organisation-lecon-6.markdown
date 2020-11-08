@@ -22,7 +22,7 @@ Il est important de demander à une équipe son consentement avant de faciliter 
 
 Toute tentative de coaching sans le consentement de l'équipe va vous mener droit à des dysfonctionnements que vous aurez participés à créer. L'organisation va ainsi passer d'un type de dysfonctionnement à un autre. Et vous êtes un acteur de ce drame. Vous êtes le déclencheur.
 
-**Note** : dans les leçons précédentes, le lien entre les équipes auto-organisées et une véritable distribution de l'autorité entre et par les membres de l'équipe est expliqué. Si cela n'est pas clair pour vous, [reportez vous d'abord aux leçons précédentes](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) avant de revenir ici.
+**Note** : dans les leçons précédentes, le lien entre les équipes auto-organisées et une véritable distribution de l'autorité entre et par les membres de l'équipe est expliqué. Si cela n'est pas clair pour vous, [reportez-vous d'abord aux leçons précédentes](http://www.les-traducteurs-agiles.org/2015/02/19/lecons-de-coaching.html) avant de revenir ici.
 
 Oui, nous connaissons tous le "Shu-Ha-Ri" popularisé par Alistair Cockburn. L'étape "Shu", celle du débutant, est une excuse classique pour infliger son aide aux équipes. L'idée c'est que "ces équipes sont à l'étape Shu. Elles ne savent rien, elles doivent être guidées. Nous devons leur prescrire leur comportement".
 
@@ -30,9 +30,9 @@ Vraiment ? Et ça marche sur le long terme ?
 
 Les équipes sont dans l'étape "Shu" durant un laps de temps assez court. Qu'est ce qui se passe après cela ?
 
-Imaginez : Les conditions d'un Agile idéal sont présentes...ces équipes veulent essayer Agile, et décident d'être coaché, accompagné. Jusque là tout va bien.
+Imaginez : Les conditions d'un Agile idéal sont présentes...ces équipes veulent essayer Agile, et décident d'être coaché, accompagné. Jusque-là tout va bien.
 
-Question : Combien de temps allez vous jouer le chef dans leurs processus ? Est-ce utile de tenir ce rôle au delà de deux ou trois semaines ?
+Question : Combien de temps allez-vous jouer le chef dans leurs processus ? Est-ce utile de tenir ce rôle au-delà de deux ou trois semaines ?
 
 Réponse : "Pas vraiment".
 
@@ -42,11 +42,11 @@ Voilà pourquoi :
 * **Vous interdisez au sein l'organisation l'émergence d'une autonomie**, d'une indépendance autour de l'Agilité. Au lieu de cela, vous dominez le vécu de l'équipe au sujet de l'Agile.
 
 
-Revenons maintenant en arrière, et imaginons que les conditions typiques soient présentes, c'est à dire que les équipes ne consentent jamais à mettre en oeuvre ces pratiques agiles. De la même façon, elles ne consentiront jamais vraiment à accepter votre "aide".
+Revenons maintenant en arrière, et imaginons que les conditions typiques soient présentes, c'est à dire que les équipes ne consentent jamais à mettre en œuvre ces pratiques agiles. De la même façon, elles ne consentiront jamais vraiment à accepter votre "aide".
 
 Ces observations deviennent aussi vraies :
 
-* **Vous êtes un symbole du management**. Vous représentez le management. Vous faites partie de la "solution" créée par le management, que les autres éléments de la solution (les développeurs) sont forcés d'accepter. Ils n'ont aucune option, si ce n'est de démissionner. Cela créé quasiment automatiquement un dés-engagement. La raison est simple : votre présence les rend obsolètes. Vous arrivez avec votre mandat et vos pratiques spécifiques.
+* **Vous êtes un symbole du management**. Vous représentez le management. Vous faites partie de la "solution" créée par le management, que les autres éléments de la solution (les développeurs) sont forcés d'accepter. Ils n'ont aucune option, si ce n'est de démissionner. Cela créé quasiment automatiquement un désengagement. La raison est simple : votre présence les rend obsolètes. Vous arrivez avec votre mandat et vos pratiques spécifiques.
 * **Vous "infligez" votre aide à des personnes qui ne l'ont jamais demandé**. En effet vous essayez de les "réparer". Cela ne marche pas. Cela provoque du ressentiment.
 * **Vous êtes porté par le management, et ainsi vous devenez une figure d'autorité**. L'équipe, ainsi désengagée, avec du ressentiment à votre encontre, va désormais simplement attendre de la personne officiellement en charge, de tout expliquer. Ils vont attendre que vous preniez des décisions qui habituellement leurs reviennent. Impossible pour eux désormais de s'auto-organiser, les conditions pour cela ne sont plus remplies, ils n'ont plus assez d'autorité.
 
