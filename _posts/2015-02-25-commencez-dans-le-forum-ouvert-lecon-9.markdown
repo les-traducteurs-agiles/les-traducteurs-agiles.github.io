@@ -18,7 +18,7 @@ Vous êtes peut-être déjà familier des événements Forum Ouvert qui font par
 
 Dans les conférences publiques telles que des conférences Agile, le lien ou la cohésion au système social est généralement très faible. Par contre, les organisations démontrent beaucoup plus de cohésion et fonctionnent et se comportent plus comme une famille ou un clan. Ces gens sont des collègues. Après tout, ils travaillent avec et pour eux 5 jours par semaine. Et ils gagnent leur vie grâce à ça. Les enjeux sont élevés.
 
-En commençant l'adoption Agile dans le Forum Ouvert, tout le monde aura l'occasion de dire ce qu'il veut, pense et ressent à ce sujet. Les personnes identifient des solutions et des problèmes. Il y a des rires et à certains moments il y a manifestement des conflits tendus. Passion et responsabilité sont à l'oeuvre. Les meneurs (informels) qui ne sont pas si évidents à détecter, et qui peuvent porter l'adoption Agile, s'identifieront d'eux-mêmes clairement dans le Forum Ouvert.
+En commençant l'adoption Agile dans le Forum Ouvert, tout le monde aura l'occasion de dire ce qu'il veut, pense et ressent à ce sujet. Les personnes identifient des solutions et des problèmes. Il y a des rires et à certains moments il y a manifestement des conflits tendus. Passion et responsabilité sont à l'œuvre. Les meneurs (informels) qui ne sont pas si évidents à détecter, et qui peuvent porter l'adoption Agile, s'identifieront d'eux-mêmes clairement dans le Forum Ouvert.
 
 Commencez l'adoption Agile dans le Forum Ouvert est une utilisation du temps extrêmement efficace, si ce que vous cherchez est une adoption Agile rapide et durable.
 Vous y trouverez certains avantages :
