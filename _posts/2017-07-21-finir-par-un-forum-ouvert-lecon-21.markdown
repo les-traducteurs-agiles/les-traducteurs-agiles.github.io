@@ -12,7 +12,7 @@ tags:
 </div>
 LEÇONS DE COACHING AGILE
 
-NOTE: Cette leçon suppose que vous connaissiez et compreniez [le format du forum ouvert](http://openspaceagility.com/what-is-ost/))
+NOTE : Cette leçon suppose que vous connaissiez et compreniez [le format du forum ouvert](http://openspaceagility.com/what-is-ost/))
 
 À la conférence AGILE ISRAEL 2016, j'ai eu l'honneur d'être invité à faire la session plénière d'ouverture. 600 personnes dans la salle. Ça fout les jetons...
 
@@ -35,7 +35,7 @@ Observons les points fondamentaux d'une approche agile :
 * Auto-organisation
 
 
-Cela m'amène à cette question : _comment pouvons nous réussir à implémenter Agile dans les entreprises, sans appliquer les idées même de l'Agile **à la transformation de l'entreprise** ?_
+Cela m'amène à cette question : _comment pouvons-nous réussir à implémenter Agile dans les entreprises, sans appliquer les idées même de l'Agile **à la transformation de l'entreprise** ?_
 
 La réponse est que nous ne pouvons pas réussir sans avoir une approche elle-même agile.
 
@@ -47,7 +47,7 @@ Dans une précédente leçon je vous disais de **démarrer par un forum ouvert**
 
 Si vous prenez l'habitude de "finir par un forum ouvert", de bonnes choses vont se produire :
 
-Si toute l'organisation sait qu'un forum ouvert va clôturer la période dans quelques mois, et que toute l'activité Agile sera examinée à cette occasion, par _tout le monde_, chacun va "mettre de côté ses croyances", et "agir comme si", et "prétendre" que l'expérimentation agile peut effectivement fonctionner. (Si vous êtes depuis quelques années dans votre "transformation", alors l'inspection concerne votre état actuel et les expérimentations en cours. Vous expérimentez, n'est ce pas ?).
+Si toute l'organisation sait qu'un forum ouvert va clôturer la période dans quelques mois, et que toute l'activité Agile sera examinée à cette occasion, par _tout le monde_, chacun va "mettre de côté ses croyances", et "agir comme si", et "prétendre" que l'expérimentation agile peut effectivement fonctionner. (Si vous êtes depuis quelques années dans votre "transformation", alors l'inspection concerne votre état actuel et les expérimentations en cours. Vous expérimentez, n'est-ce pas ?).
 
 Parce que le forum ouvert se base sur l'invitation (_opt in_), vous verrez qui participe, qui vient, qui est absent. C'est une information avec beaucoup de valeur.
 
