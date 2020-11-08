@@ -20,7 +20,7 @@ Cela signifie que le point d'attention central des dirigeants (et des coachs qu'
 
 La première façon d'obtenir plus d'engagement est de permettre aux employés et aux équipes de prendre plus de décisions les concernant directement. Il en ressort que _**prendre des décisions** est très engageant_.
 
-L'organisme de sondage Gallup propose une étude chaque année qui indique que seulement 20 à 25% des employés se sentent engagés. C'est équivalent à dire que 75% des salaires sont du gaspillage. De l'argent jeté par les fenêtres. Poof. Évaporé. Augmenter le niveau d'engagement dans votre organisation pourrait valoir des dizaines de millions de dollars en productivité par année. **L'engagement et la productivité sont corrélés**.
+L'organisme de sondage Gallup propose une étude chaque année qui indique que seulement 20 à 25% des employés se sentent engagés. C'est équivalent à dire que 75% des salaires sont du gaspillage. De l'argent jeté par les fenêtres. Pouf. Évaporé. Augmenter le niveau d'engagement dans votre organisation pourrait valoir des dizaines de millions de dollars en productivité par année. **L'engagement et la productivité sont corrélés**.
 
 La première façon d'augmenter cet engagement est de faire ces trois choses bien spécifiques :
 
