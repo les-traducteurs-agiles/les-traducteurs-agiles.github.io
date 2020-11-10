@@ -38,7 +38,7 @@ Depuis mes expériences tumultueuses avec l'estimation et mes recherches subséq
 
 Nous pouvons alors prendre une liste de demandes de fonctionnalités, en faire quelques estimations à grosses mailles en taille de t-shirt et être capable de donner facilement une plage de dates dans laquelle l'équipe est capable d'atteindre des jalons spécifiques (la plage représente l'incertitude - basse, moyenne, et haute basée sur la moyenne +/- l'écart-type, malin hein ?).
 
-Correcte?
+Correcte ?
 
 Non.
 
@@ -68,13 +68,14 @@ Il y a toujours une énorme pression pour savoir quand les choses seront faites 
 Certains d'entre nous connaissent la fortune de respirer l'air raréfié des organisations éclairées où la nature imprévisible du développement logiciel est généralement accepté, mais soyons réaliste, la plupart ne le sont pas.
 
 ### Recadrer la définition du succès (ou _souligner l'échec de l'estimation_)
-L'impact le plus significatif de donner des estimations est dès qu'elle sont dans le domaine public, elles ont tendance à modifier le centre de gravité / la perception du projet, spécialement quand les dates commencent à glisser. Invariablement, un projet de n'importe quelle durée raisonnable, qui aura débuté avec l'objectif honorable de résoudre un problème métier, changera rapidement de focale dès que l'estimation sera achevée.
-En fait, il y a déjà ici en réalité un problème bien plus important. Pour la plupart des organisations, la définition du succès demeure "dans les délais et le budget", ce n'est pas les rentrées financières générées par le projet ou l'amélioration de la productivité, ou de l'apport de nouveaux clients. Il est souvent dit que la vaste majorité des projets informatiques sont considérés comme des échecs et le [Standish Chaos Report](http://www1.standishgroup.com/newsroom/chaos_2009.php) est généralement cité ici. Le problème est qu'_ils_ définissent le succès comme le respect du coût et du délai. La totalité du rapport souligne l'[échec](http://martinfowler.com/bliki/WhatIsFailure.html) [continu](http://theagileexecutive.com/2010/01/11/standish-group-chaos-reports-revisited/) de l'estimation.
+
+L'impact le plus significatif de donner des estimations est dès qu'elles sont dans le domaine public, elles ont tendance à modifier le centre de gravité / la perception du projet, spécialement quand les dates commencent à glisser. Invariablement, un projet de n'importe quelle durée raisonnable, qui aura débuté avec l'objectif honorable de résoudre un problème métier, changera rapidement de focale dès que l'estimation sera achevée.
+En fait, il y a déjà ici en réalité un problème bien plus important. Pour la plupart des organisations, la définition du succès demeure "dans les délais et le budget", ce ne sont pas les rentrées financières générées par le projet ou l'amélioration de la productivité, ou de l'apport de nouveaux clients. Il est souvent dit que la vaste majorité des projets informatiques sont considérés comme des échecs et le [Standish Chaos Report](http://www1.standishgroup.com/newsroom/chaos_2009.php) est généralement cité ici. Le problème est qu'_ils_ définissent le succès comme le respect du coût et du délai. La totalité du rapport souligne l'[échec](http://martinfowler.com/bliki/WhatIsFailure.html) [continu](http://theagileexecutive.com/2010/01/11/standish-group-chaos-reports-revisited/) de l'estimation.
 Au mieux, donner des estimations à long terme respecte juste la mentalité "dans les délais, dans le budget". Au pire, cela fait démarrer les projets avec de meilleures intentions, puis les entraîne au fond de ce gouffre de l'échec quasi-inévitable et vous - en tant qu'apporteur des estimations - avec.
 
 ### Les conséquences...
 
-Toutes les erreurs typiques suivent de près le développement logiciel, et montrent le bout de leurs nez quand l'estimation nous laisse tomber. C'est la première cause des [marches forcées](http://en.wikipedia.org/wiki/Death_march_%28project_management%29). Le périmètre est restreint, la qualité est compromise (au bénéfice supposé du délai), les personnes commencent à se focaliser plus sur comment l'équipe travaille, la pression pour "travailler plus vite" monte, le moral baisse et ainsi de suite - tout cela au final au détriment de l'objectif principal (à moins que cela soit fait bien sûr pour être dans les délais et le budget, mais comme nous le savons même cela ...).
+Toutes les erreurs typiques suivent de près le développement logiciel, et montrent le bout de leurs nez quand l'estimation nous laisse tomber. C'est la première cause des [marches forcées](http://en.wikipedia.org/wiki/Death_march_%28project_management%29). Le périmètre est restreint, la qualité est compromise (au bénéfice supposé du délai), les personnes commencent à se focaliser plus sur comment l'équipe travaille, la pression pour "travailler plus vite" monte, le moral baisse et ainsi de suite - tout cela finalement au détriment de l'objectif principal (à moins que cela soit fait bien sûr pour être dans les délais et le budget, mais comme nous le savons même cela ...).
 C'est un cercle vicieux répété dans les organisations dans le monde entier, encore et encore. Je crois fermement que la raison principale de sa répétition est parce que nous ne pouvons échapper à notre obsession avec l'estimation.
 
 ## "Mais nous sommes simplement _incapables_ de donner des estimations"

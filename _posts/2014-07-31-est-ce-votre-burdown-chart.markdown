@@ -1,23 +1,23 @@
 ---
 layout: post
-title:  "Est-ce votre burdown chart ?"
+title:  "Est-ce votre burndown chart ?"
 date:   2014-07-31 20:43:55
 tags:
 - équipe
 - artefact
 ---
-ScrumDesk [analyse les pratiques agiles](http://www.scrumdesk.com/screenshots/analytics/) utilisées par les équipes et aide les scrum masters à en identifier rapidement les lacunes. Nous basons nos conseils et observations, à propos des burn down charts, sur nos sept années de coaching. Scrumdesk permet de suivre aussi ces [autres métriques](http://www.scrumdesk.com/screenshots/reports/) que vous pouvez consulter.
+ScrumDesk [analyse les pratiques agiles](http://www.scrumdesk.com/screenshots/analytics/) utilisées par les équipes et aide les scrum masters à en identifier rapidement les lacunes. Nous basons nos conseils et observations, à propos des burndown charts, sur nos sept années de coaching. Scrumdesk permet de suivre aussi ces [autres métriques](http://www.scrumdesk.com/screenshots/reports/) que vous pouvez consulter.
 
-Le burn down chart est une métrique fondamentale de scrum utilisée pour suivre l'avancement de l'implémentation d'un projet agile.
+Le burndown chart est une métrique fondamentale de scrum utilisée pour suivre l'avancement de l'implémentation d'un projet agile.
 
-Le burn down chart est simple à expliquer :
+Le burndown chart est simple à expliquer :
 
 * L'axe des X représente les **jours** du sprint
 * L'axe des Y représente **l'effort** (en story points ou en heures ou en jours selon ce que vous  préférez)
 * La courbe idéale pour **visualiser la progression attendue**
 * La courbe réelle pour **visualiser la progression actuelle**
 
-Facile à expliquer, facile à mettre à jour quotidiennement, facile à analyser. Mais est-ce que les membres de votre équipe le comprenne t'il ? Sont-ils capables de le lire ?
+Facile à expliquer, facile à mettre à jour quotidiennement, facile à analyser. Mais est-ce que les membres de votre équipe le comprennent t-ils ? Sont-ils capables de le lire ?
 
 
 &nbsp;  
@@ -26,7 +26,7 @@ Facile à expliquer, facile à mettre à jour quotidiennement, facile à analyse
 ## L'équipe idéale
   ![BD5](http://www.scrumdesk.com/wp-content/uploads/BD5.png)
 
-Dès que vous voyez un tel burn down chart, félicitez l'équipe
+Dès que vous voyez un tel burndown chart, félicitez l'équipe
 
 * Elle fait un super boulot
 * Pas de sur-engagement
@@ -46,7 +46,7 @@ Poursuivez dans la même voie !
 ## La super équipe
   ![BD7](http://www.scrumdesk.com/wp-content/uploads/BD7.png)
 
-Voici un burn down chart typique visible chez une équipe expérimentée
+Voici un burndown chart typique visible chez une équipe expérimentée
 
 * Une équipe engagée sur un objectif
 * Un périmètre adapté en cas de besoin
@@ -64,7 +64,7 @@ Sélectionnez quelques stories supplémentaires prévues pour le prochain sprint
 ## L'équipe sympa
   ![BD2](http://www.scrumdesk.com/wp-content/uploads/BD2.png)
 
-Voici un burn down chart typique visible dans une équipe déjà expérimentée.
+Voici un burndown chart typique visible dans une équipe déjà expérimentée.
 
 * Une équipe engagée sur un objectif
 * Un périmètre adapté en cas de besoin
@@ -84,10 +84,10 @@ Des éléments de faible priorité devraient être enlevés de votre backlog de 
 ## Jetons un coup d'oeil à une équipe au repos
   ![BD3](http://www.scrumdesk.com/wp-content/uploads/BD3.png)
 
-Ce burn down chart indique que votre équipe excelle au temps libre.
+Ce burndown chart indique que votre équipe excelle au temps libre.
 
 * L'équipe a fini son travail plus tôt que prévu, mais elle pourrait en faire plus.
-* Peut-être n'y a t'il pas assez d'éléments dans le backlog de sprint
+* Peut-être n'y a t-il pas assez d'éléments dans le backlog de sprint
 * Peut-être que l'effectif de l'équipe est-il plus important que prévu au commencement du projet
 * Les stories pourraient avoir été surestimées
 
@@ -158,7 +158,7 @@ C'est le premier sprint de votre vie ? Il semblerait bien que oui. Dans ce cas, 
 
 * Des stories/tâches sont ajoutées constamment dans le backlog
 * Il y a plus de travail ajouté que réalisé
-* Les tâches sont ré-estimées constamment
+* Les tâches sont réestimées constamment
 * Vous ne serez jamais capable de finir un sprint si vous ne corriger pas tout cela
 
 **Quoi améliorer ?**
@@ -173,7 +173,7 @@ C'est le premier sprint de votre vie ? Il semblerait bien que oui. Dans ce cas, 
 ## Boum. Trop tard.
   ![BD12](http://www.scrumdesk.com/wp-content/uploads/BD12.png)
 
-Ce burn down signifie : "Vous n'avez pas tenu votre engagement". Et vous étiez tout le temps en retard.
+Ce burndown signifie : "Vous n'avez pas tenu votre engagement". Et vous étiez tout le temps en retard.
 
 * Les tâches n'ont pas été réalisées
 * Aucune adaptation n'a été faite pendant le sprint
@@ -189,7 +189,7 @@ Vérifiez si la taille du backlog de sprint n'est pas en train d'augmenter. Arr�
 ## Boum. Trop tôt
   ![BD11](http://www.scrumdesk.com/wp-content/uploads/BD11.png)
 
-Ce burn down chart signifie : "Vous avez tenu votre engagement plus tôt que prévu". Que faites-vous maintenant ?
+Ce burndown chart signifie : "Vous avez tenu votre engagement plus tôt que prévu". Que faites-vous maintenant ?
 
 * Les stories sont sous-estimées
 * L'engagement de l'équipe est faible
@@ -199,7 +199,7 @@ Ce burn down chart signifie : "Vous avez tenu votre engagement plus tôt que pr�
 
 **Quoi améliorer ?**
 
-Après deux ou trois jours comme cela, le scrum master devrait demander si l'équipe peut faire quoi que ce soit de prévu pour le prochain sprint. Si oui alors donnez leur des stories à traiter.
+Après deux ou trois jours comme cela, le scrum master devrait demander si l'équipe peut faire quoi que ce soit de prévu pour le prochain sprint. Si oui alors donnez-leur des stories à traiter.
 
 
 &nbsp;  

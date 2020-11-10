@@ -19,7 +19,7 @@ Vous pourriez apprendre que pour vous, un yard (tel que défini par le bras du r
 
 Pour les points des histoires utilisateurs c’est la même chose. Comme les yards anglais, ils permettent aux membres de l'équipe, avec différents niveaux de compétence, à communiquer et s'accordent sur une estimation. Par exemple, imaginons que vous et moi décidions d'aller courir. J'aime courir, mais je suis très lent. Vous, en revanche, êtes un coureur très rapide. Vous vous pointez devant un parcours et dites : “ Prenons ce parcours. Il faudra 30 minutes.”
 
-J’ai l’habitude de prendre ce parcours mais, étant un coureur beaucoup plus lent que vous, je sais que cela me prend 60 minutes à chaque fois que je le prend. Et je vous dis que je vais prendre cette route avec vous, mais que cela prendra 60 minutes.
+J’ai l’habitude de prendre ce parcours mais, étant un coureur beaucoup plus lent que vous, je sais que cela me prend 60 minutes à chaque fois que je le prends. Et je vous dis que je vais prendre cette route avec vous, mais que cela prendra 60 minutes.
 
 Et là, nous débattons : "30" "60" "30" "60"
 
@@ -45,7 +45,7 @@ Ainsi, comme la distance entre le nez du roi Henri au bout de ses doigts, les po
 
 ---
 
-[Mike Cohn](http://www.mountaingoatsoftware.com/company/about-mike-cohn) a travaillé avec les plus grosses companies (Fortune 500), de petites startups et tout ce qu’il peut y avoir entre. Avec plus de 15 ans d’expérience de Scrum et d’agile, Mike a l’expertise nécessaire et des connaissances profondes pour aider votre organisation a créer des équipes performantes.
+[Mike Cohn](http://www.mountaingoatsoftware.com/company/about-mike-cohn) a travaillé avec les plus grosses compagnies (Fortune 500), de petites startups et tout ce qu’il peut y avoir entre. Avec plus de 15 ans d’expérience de Scrum et d’agile, Mike a l’expertise nécessaire et des connaissances profondes pour aider votre organisation à créer des équipes performantes.
 
 ---
 Auteur : [Mike Cohn](http://www.mountaingoatsoftware.com/company/about-mike-cohn)  

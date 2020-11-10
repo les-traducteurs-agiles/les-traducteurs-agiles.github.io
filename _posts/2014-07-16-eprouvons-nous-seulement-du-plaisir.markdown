@@ -12,7 +12,7 @@ tags: équipe
 
 
 
-Comme la plupart d'entre vous, j'ai eu ma (ou mon in)juste part de réunions. Quelques unes étaient géniales et beaucoup d'entre elles étaient juste correctes. Mais il y a quelques semaines, lors d'une évaluation [ROTI](http://www.agile-ux.com/2009/01/09/return-on-time-invested-a-roti-for-your-meetings/), un de mes collègues a dit quelque chose qui m'a forcé à reconsidérer ces réunions "géniales" passées et à ré-évaluer leur VRAI valeur.
+Comme la plupart d'entre vous, j'ai eu ma (ou mon in)juste part de réunions. Quelques-unes étaient géniales et beaucoup d'entre elles étaient juste correctes. Mais il y a quelques semaines, lors d'une évaluation [ROTI](http://www.agile-ux.com/2009/01/09/return-on-time-invested-a-roti-for-your-meetings/), un de mes collègues a dit quelque chose qui m'a forcé à reconsidérer ces réunions "géniales" passées et à ré-évaluer leur VRAI valeur.
 
 Ce qu'il dit fût : "Est-ce que j'obtiens réellement de la valeur de cette activité ou est-ce que je passe seulement un bon moment ?"
 
@@ -20,7 +20,7 @@ Ma mâchoire s'affaissa !
 
 Comment une simple affirmation pouvait-elle susciter autant de questions dans mon esprit ? Non seulement cela me forçait à ré-évaluer l'activité spécifique à laquelle il faisait référence, mais également tout ce que j'avais pu faire et tout ce que j'allais faire prochainement !
 
-Laissant de côté le fait que le plaisir a de la valeur en lui-même, pourquoi ne pas vérifier l'affirmation initiale en comparant plaisir et valeur ? Une réunion pourrait avoir été plaisante, mais avions-nous atteint nos objectifs ? En tant que coach agile (ou scrum master), si je suspecte une mauvaise interprétation de la vrai valeur d'une réunion ou d'une activité, je pourrais essayer de la vérifier par un _diagramme plaisir/valeur_ :
+Laissant de côté le fait que le plaisir a de la valeur en lui-même, pourquoi ne pas vérifier l'affirmation initiale en comparant plaisir et valeur ? Une réunion pourrait avoir été plaisante, mais avions-nous atteint nos objectifs ? En tant que coach agile (ou scrum master), si je suspecte une mauvaise interprétation de la vraie valeur d'une réunion ou d'une activité, je pourrais essayer de la vérifier par un _diagramme plaisir/valeur_ :
 
 <div align="center">
   ![DPV]({{ site.url }}assets/avoir_plaisir/FVG2_fr.png)
@@ -42,9 +42,9 @@ _Beaucoup de plaisir et une forte valeur_
 C'est la situation idéale ! Certains disent, tant que ça ne casse pas, ne réparez pas. Je suis plutôt du genre "[le bien est l'ennemi du mieux](http://www.amazon.ca/gp/product/0066620996?ie=UTF8&tag=vistadevel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0066620996)". Mais essayer de rendre les choses mieux encore peut être difficile. Si de tels essais sont tentés, assurez-vous de l'adhésion de l'équipe ou mieux encore, demandez à l'équipe de venir avec des idées neuves et innovantes pour atteindre leurs objectifs plus efficacement.
 
 _Beaucoup de plaisir mais aucune valeur_
-Voici maintenant la situation qui m'a motivé à écrire cet article. Est-il possible d'être aveuglé par le plaisir ? Bien entendu ! Une réunion pourrait avoir été faite pour éclairer un problème, mais elle n'a été  au final qu'une partie de franche rigolade. Nous sortons de réunion le sourire aux lèvres mais le problème n'a pas du tout été réglé.
+Voici maintenant la situation qui m'a motivé à écrire cet article. Est-il possible d'être aveuglé par le plaisir ? Bien entendu ! Une réunion pourrait avoir été faite pour éclairer un problème, mais elle n'a été au final qu'une partie de franche rigolade. Nous sortons de réunion le sourire aux lèvres mais le problème n'a pas du tout été réglé.
 
-[Sur mon lieu de travail](http://www.pyxis-tech.com/en/), nous avons des réunions bi-mensuelles pour analyser les différentes situations qui arrivent pendant que nous coachons des personnes. Nous faisons ceci à travers un jeu de rôles ; une personne joue le coach et l'autre le coaché. Comme vous pouvez l'imaginer certains scénarios sont assez hilarants. Amusements et rires garantis ! C'était si amusant que j'ai eu le sentiment (trompeur) que nous faisions réellement quelque chose ... je veux dire, jusqu'à ce mon collègue réfléchisse et déclare, "Est-ce que j'obtiens réellement de la valeur de cette activité ou est-ce que je passe uniquement un bon moment ?"
+[Sur mon lieu de travail](http://www.pyxis-tech.com/en/), nous avons des réunions bimensuelles pour analyser les différentes situations qui arrivent pendant que nous coachons des personnes. Nous faisons ceci à travers un jeu de rôles ; une personne joue le coach et l'autre le coaché. Comme vous pouvez l'imaginer certains scénarios sont assez hilarants. Amusements et rires garantis ! C'était si amusant que j'ai eu le sentiment (trompeur) que nous faisions réellement quelque chose ... je veux dire, jusqu'à ce mon collègue réfléchisse et déclare, "Est-ce que j'obtiens réellement de la valeur de cette activité ou est-ce que je passe uniquement un bon moment ?"
 
 Une fois retiré le rire et le sentiment de bien-être associé avec le fait d'être présent avec mes collègues, il ne restait plus grand-chose. Il y avait bien quelque valeur mais pas autant que je le pensais initialement. Cela ressemblait alors à quelque chose à peu près comme cela :
 

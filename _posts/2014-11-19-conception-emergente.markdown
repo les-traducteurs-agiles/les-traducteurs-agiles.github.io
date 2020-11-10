@@ -14,13 +14,13 @@ Dans un message reçu récemment, Martin Alaimo me demande :
 
 > Dans la communauté agile d'Amérique latine se déroule en ce moment une discussion très intéressante. Il s'agit de la signification de ce principe du manifeste agile : "Les meilleurs architectures, exigences, et conceptions émergent d'équipes auto-organisées".  
 
-> Le sujet de la discussion est la signification d' "émerger", et au fond, quelle est la signification de "l'architecture émerge".
+> Le sujet de la discussion est la signification d'"émerger", et au fond, quelle est la signification de "l'architecture émerge".
 
 > Je voudrais donc vous en faire part pour avoir vos impressions en tant que signataire du manifeste agile.
 
-> 1. À l'époque en  2001, au moment de la signature du manifeste, quel était le sens dans lequel le mot "émergent" était utilisé en ce qui concerne les architectures ?
+> 1. À l'époque en 2001, au moment de la signature du manifeste, quel était le sens dans lequel le mot "émergent" était utilisé en ce qui concerne les architectures ?
 
-> 2. 13 ans après, est-ce qu'il y aurait quoi que ce soit que vous changeriez/adapteriez/ajouteriez en ce qui concerne l'architecture dans la monde agile ?
+> 2. 13 ans après, est-ce qu'il y aurait quoi que ce soit que vous changeriez/adapteriez/ajouteriez en ce qui concerne l'architecture dans le monde agile ?
 
 Je ne peux me prononcer sur ce que chacun pouvait penser à ce moment là. Je ne suis même pas certain de ce que je pensais. Voici ce que j'ai, et nous avons, pu avoir à l'esprit. Ou plutôt ce que j'ai à l'esprit maintenant.
 

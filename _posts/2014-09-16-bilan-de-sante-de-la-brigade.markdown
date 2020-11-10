@@ -101,7 +101,7 @@ Le paquet de cartes contient environ 10 cartes, voici un exemple de paquet compl
 | Qualité technique (code source en bonne santé) | Nous sommes fiers de la qualité de notre code ! Il est propre, lisible et a une bonne couverture de tests. | Notre code est un tas de m...rde, et la dette technique a pris le pouvoir. |
 | Valeur | Nous livrons des trucs supers ! Nous en sommes fiers et nos parties prenantes sont très contentes. | Nous livrons de la m...rde. Nous sommes honteux de livrer cela. Nos parties prenantes nous haïssent. |
 | Vitesse | Nous terminons rapidement les choses. Pas d'attente, pas de retard. | Il semble que nous ne terminions jamais quelque chose. Nous sommes toujours coincés ou interrompus. Les stories sont toujours bloquées par des dépendances. |
-| Mission | Nous savons exactement pourquoi nous sommes ici, et nous sommes vraiment enthousiasmés par ce sujet. | Nous n'avons pas la moindre idée de pourquoi nous sommes là, il n'y a pas de vision d'ensemble ou de mise au point. Notre soi-disante mission n'est absolument pas claire et ne nous inspire pas. |
+| Mission | Nous savons exactement pourquoi nous sommes ici, et nous sommes vraiment enthousiasmés par ce sujet. | Nous n'avons pas la moindre idée de pourquoi nous sommes là, il n'y a pas de vision d'ensemble ou de mise au point. Notre prétendue mission n'est absolument pas claire et ne nous inspire pas. |
 | Motivation | Nous adorons aller au travail, et nous prenons notre pied lorsque nous travaillons ensemble. | Ennnnnuuuuyeuuux. |
 | Apprentissage | Nous apprenons un tas de choses intéressantes tout le temps. | Nous n'avons jamais le temps d'apprendre quelque chose. |
 | Soutien | Nous sommes constamment soutenus et avons de l'aide lorsque nous la demandons ! | Nous sommes constamment bloqués parce que nous n'avons pas de support et d'aide lorsque nous la demandons. |
@@ -150,7 +150,7 @@ Voici quelques lignes directrices pour améliorer vos chances de succès :
 * **Soyez clair sur votre intention** pour introduire le modèle. Cela devrait concerner l'amélioration, pas le jugement.
 * Recueillez des données principalement par la communication en **face-à-face**, et non via des enquêtes en ligne. Le processus de collecte de données doit être **intéressant et amusant**.
 * **Impliquez les équipes** sur la façon d'appliquer le modèle, et laissez-les le modifier comme bon leur semble.
-* **L'accord de l'équipe est plus important que la cohérence des données.** Si l'équipe A choisit un ensemble de questions légèrement différent de l'équipe B, c'est très bien (même si la synthèse sera moins simple à faire).
+* **L'accord de l'équipe est plus important que la cohérence des données.** Si l'équipe A choisi un ensemble de questions légèrement différent de l'équipe B, c'est très bien (même si la synthèse sera moins simple à faire).
 * Assurez-vous qu'il n'y a **pas d'incitation à déjouer le modèle**. Il ne devrait y avoir aucune raison pour qu'une équipe souhaite "faire illusion".
 * Trouver un **moyen simple pour visualiser les données**. Plus le visuel est évident et intuitif, plus il a de chance d'être utilisé.
 * **Méfiez-vous de comparer les équipes**. Si l'équipe A est majoritairement dans le vert et que l'équipe B est surtout dans le rouge, cela ne signifie pas que l'équipe A est "meilleure". Cela pourrait tout aussi bien signifier que l'équipe A a un contexte plus simple ou une prévision plus optimiste, ou que l'équipe B est plus honnête vis-à-vis de ses problèmes. Quoi qu'il en soit, il est probable que l'équipe B ait besoin de soutien. L'attitude du manager devrait être "comment puis-je vous aider ?" et non "les gars, pourquoi êtes-vous pire que les autres ?".
@@ -159,7 +159,7 @@ Voici quelques lignes directrices pour améliorer vos chances de succès :
 
 Voir aussi le très perspicace [article de Martin Fowler sur les modèles de maturité](http://ayeba.wikispaces.com/Mod%C3%A8le%20de%20Maturit%C3%A9).
 
-Voilà, c'est tout. Espérons que cet article ait été utile ! Avez-vous aussi expérimenter ce genre de choses ? S'il vous plaît, partagez vos expériences (positives ou négatives) en commentaire de ce blog !
+Voilà, c'est tout. Espérons que cet article ait été utile ! Avez-vous aussi expérimenté ce genre de choses ? S'il vous plaît, partagez vos expériences (positives ou négatives) en commentaire de ce blog !
 
 _Henrik Kniberg et Kristian Lindwall, septembre 2014._
 
