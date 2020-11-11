@@ -38,7 +38,7 @@ C'est souvent une très bonne idée (sans blague) de LEUR FAIRE ECRIRE LEUR ENGA
 
 Maintenant vous êtes en mesure de réussir. Voilà pourquoi :
 
-1. Il y a désormais un sentiment d'appartenance à une communauté - tout le monde partage l'accord. L'accord décrit les RÈGLES DU JEU. Que tous s's’apprêtent à jouer.
+1. Il y a désormais un sentiment d'appartenance à une communauté - tout le monde partage l'accord. L'accord décrit les RÈGLES DU JEU. Que tous s’apprêtent à jouer.
 2. Il y a de la clarté. Tout le monde connait les rôles et les règles. Ou pense les connaître, pour l'instant (!!)
 3. Vous et les ScrumMasters qui enseignez, vous pouvez rappeler, fortement si besoin, aux managers, aux chefs, aux directeurs, aux sponsors, aux Product Owners, aux ScrumMasters, aux Équipes et à toutes les personnes impliquées... leur engagement à suivre ces règles. Leur engagement à respecter cet ACCORD avec vous et tous les autres.
 4. Quand une équipe démarre Scrum, vous pouvez lui rappeler qu'elle a été d'ACCORD pour faire une mêlée quotidienne.
