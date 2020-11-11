@@ -26,7 +26,7 @@ Donc : si vous les coachez, c'est votre boulot. Les leaders, en particulier les 
 
 C'est **l'étape numéro un**.
 
-Si vous, le soi-disant "coach Agile", ne pouvez aider les leaders officiels à aller dans cette direction, l'adoption de l'Agilité et de la prétendue 'transformation" est probablement paralysée.
+Si vous, le soi-disant "coach Agile", ne pouvez aider les leaders officiels à aller dans cette direction, l'adoption de l'Agilité et de la soi-disant 'transformation" est probablement paralysée.
 
 Cela ne va pas se produire. Savez-vous pourquoi ?
 
