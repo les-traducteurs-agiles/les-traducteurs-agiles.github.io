@@ -16,7 +16,7 @@ Demandez à 20 personnes ce qu'est l'Agile, vous obtiendrez 21 réponses.
 
 Ce n'est pas donc pas un bon point de départ.
 
-Vous devez démarrer avec le Manifeste Agile si vous voulez avoir une chance de mener à bien votre accompagnement de "transfoœuvrermation Agile".
+Vous devez démarrer avec le Manifeste Agile si vous voulez avoir une chance de mener à bien votre accompagnement de "transformation Agile".
 
 Démarrons par le début.
 
