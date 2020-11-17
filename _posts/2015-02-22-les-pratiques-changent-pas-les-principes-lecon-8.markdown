@@ -22,7 +22,7 @@ Démarrons par le début.
 
 Prenez par exemple le principe du Manifeste qui dit "Accueillons avec bienveillance les changements de besoin, même tard dans le développement". Ce _principe_ conduit à des pratiques spécifiques, et des ensembles de _pratiques spécifiques_, comme Scrum. Est-ce que Scrum est la seule façon d'aboutir à "Accueillons avec bienveillance les changements de besoin, même tard dans le développement" ? _La réponse est bien évidemment non_. Enseignez cela.
 
-Le Manifeste Agile n'est pas parfait. Il est, en tous cas, assez bon comme point de départ. Mais avant toute chose : laissez votre ego au vestiaire. Arrêtez d'utiliser votre propre définition de Agile, même si elle est bonne. Enseignez le Manifeste à la place.
+Le Manifeste Agile n'est pas parfait. Il est, en tous cas, assez bon comme point de départ. Mais avant toute chose : laissez votre ego au vestiaire. Arrêtez d'utiliser votre propre définition de l'Agile, même si elle est bonne. Enseignez le Manifeste à la place.
 En vous focalisant sur le Manifeste vous obtiendrez :
 
 * Un alignement durable et extensible sur ce qu'est Agile.
@@ -41,11 +41,11 @@ Cet enseignement est très libérateur pour les équipes. Et vous voulez que les
 
 L'autre bénéfice de tout cela est que vous enseignez aussi quelque chose aux dirigeants. Vous obtenez avec eux un accord sur cette capacité d'expérimentation et sur son cadre (le Manifeste Agile).
 
-Ces lignes directrices (du Manifeste Agile) fonctionnent. Elles pointent l'organisation dans la bonne direction. Ces lignes directrices sont durables. Et accessibles. Elles encouragent les équipes à se focaliser, presque immédiatement, sur les décisions importantes et leurs mises en oeuvre. Et vous souhaitez bien évidemment qu'elles prennent des décisions.
+Ces lignes directrices (du Manifeste Agile) fonctionnent. Elles pointent l'organisation dans la bonne direction. Ces lignes directrices sont durables. Et accessibles. Elles encouragent les équipes à se focaliser, presque immédiatement, sur les décisions importantes et leurs mises en œuvre. Et vous souhaitez bien évidemment qu'elles prennent des décisions.
 
-Parce que prendre des décisions, _et les **mettre en oeuvre** elles mêmes_ est ce qui mystérieusement mènera à l'émergence d'une adoption Agile.
+Parce que prendre des décisions, _et les **mettre en œuvre** elles-mêmes_ est ce qui mystérieusement mènera à l'émergence d'une adoption Agile.
 
-Quelques uns d'entre eux vont vite comprendre, et vont rapidement écrire ces histoires, ce récit. Histoires qui vous survivront et seront le fil directeur de cette transformation...longtemps après votre départ.
+Quelques-uns d'entre eux vont vite comprendre, et vont rapidement écrire ces histoires, ce récit. Histoires qui vous survivront et seront le fil directeur de cette transformation...longtemps après votre départ.
 
 [(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/20/invitez-a-la-facilitation-lecon-7.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/25/commencez-dans-le-forum-ouvert-lecon-9.html)  
 

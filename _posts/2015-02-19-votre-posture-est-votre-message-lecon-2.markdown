@@ -12,14 +12,14 @@ tags:
 </div>
 LEÇONS DE COACHING AGILE
 
-Si vous pensez que les gens ne font pas attention à la façon dont vous bougez, où vous vous placez, vous asseyez, où vous regardez, comment vous vous tenez, etc... vous négligez une information qui peut vous aider à être bien plus performant. Le choix de vos postures, de vos habits, vos mouvements, vos positions, où vous vous asseyez durant les réunions, tout cela est lié à votre message... notamment en terme d'autorité, de pouvoir.
+Si vous pensez que les gens ne font pas attention à la façon dont vous bougez, où vous vous placez, vous asseyez, où vous regardez, comment vous vous tenez, etc... vous négligez une information qui peut vous aider à être bien plus performant. Le choix de vos postures, de vos habits, vos mouvements, vos positions, où vous vous asseyez durant les réunions, tout cela est lié à votre message... notamment en termes d'autorité, de pouvoir.
 
 On a découvert que les gens lisaient ces signaux tout le long de la journée sans même y faire attention. Notamment les signaux d'autorité.
 
 En coaching agile, les dynamiques d'autorisations sont la clef du jeu.
 Vous comprenez bien cela. La question est donc : comment signaler que nous ne sommes pas une figure de pouvoir ?
 
-Voici une façon très claire de signaler que vous n'avez aucun pouvoir : asseyez vous aussi près de la porte que possible, avec celle-ci dans votre dos. Dans tous les cas, évitez la tête de table(1), évitez les chaises au fond de la salle face à la porte. Pourquoi ne pas s'asseoir à ces endroits ?
+Voici une façon très claire de signaler que vous n'avez aucun pouvoir : asseyez-vous aussi près de la porte que possible, avec celle-ci dans votre dos. Dans tous les cas, évitez la tête de table(1), évitez les chaises au fond de la salle face à la porte. Pourquoi ne pas s'asseoir à ces endroits ?
 
 D'abord, car ces sièges sont des signes de pouvoir. Et vous n'êtes pas l'autorité dans l'organisation. Si vous jouez le rôle d'une personne de pouvoir, vous tuez, je répète vous TUEZ les chances de l'équipe de s'auto-organiser (c'est expliqué dans la prochaine leçon).
 

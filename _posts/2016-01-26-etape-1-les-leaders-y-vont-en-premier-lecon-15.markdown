@@ -26,9 +26,9 @@ Donc : si vous les coachez, c'est votre boulot. Les leaders, en particulier les 
 
 C'est **l'étape numéro un**.
 
-Si vous, le soi-disant "coach Agile", ne pouvez aider les leaders officiels à aller dans cette direction, l'adoption de l'Agilité et de la soi-disante 'transformation" est probablement paralysée.
+Si vous, le soi-disant "coach Agile", ne pouvez aider les leaders officiels à aller dans cette direction, l'adoption de l'Agilité et de la soi-disant 'transformation" est probablement paralysée.
 
-Cela ne vas pas se produire. Savez-vous pourquoi ?
+Cela ne va pas se produire. Savez-vous pourquoi ?
 
 [(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2017/05/03/l-engagement-est-tout-lecon-14.html) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2016/12/28/alignez-les-equipes-sur-leurs-valeurs-fondamentales-des-que-possible-lecon-16)  
 

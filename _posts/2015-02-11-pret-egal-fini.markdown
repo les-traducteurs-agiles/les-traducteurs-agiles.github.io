@@ -30,7 +30,7 @@ La cellule elle-même excelle en **A**utonomie, **M**aîtrise, et **D**étermina
 
 Étant donné que chaque cellule est autonome et qu'elle a sa propre capacité de production, il y a de fortes chances qu'elle puisse absorber plus de travail que la cellule précédente peut en produire, siphonnant ainsi le backlog. Elle peut aussi produire plus que la capacité d'absorption de la cellule suivante sur la ligne (de production - NdT), créant un réservoir, potentiellement gigantesque, qui peut bloquer tout le système.  
 
-Aussi, un soin particulier doit être pris pour concevoir et régler ces éléments afin que leurs impédances soient rapprochés. Des circuits de retours d'informations, courts et longs, une capacité variable de la zone tampon, permettent de garder les backlogs sous contrôle. Un conception minutieuse, un réglage ici et là, permettent d'éviter que le système devienne instable, créant une machine lean de production de valeur, verte, et tournant sans à-coups.  
+Aussi, un soin particulier doit être pris pour concevoir et régler ces éléments afin que leurs impédances soient rapprochées. Des circuits de retours d'informations, courts et longs, une capacité variable de la zone tampon, permettent de garder les backlogs sous contrôle. Une conception minutieuse, un réglage ici et là, permettent d'éviter que le système devienne instable, créant une machine lean de production de valeur, verte, et tournant sans à-coups.  
 
 <div align="center">
   <img src="{{ site.url }}assets/pret_egal_fini/cellule-deds-qeqs.png" />
@@ -40,7 +40,7 @@ Aussi, un soin particulier doit être pris pour concevoir et régler ces éléme
 
 **QEQS** - Heureusement pour vous, l'inverse existe également. La qualité nourrie la qualité, créant une spirale vertueuse de création continue de qualité. Qualité à l'entrée, qualité à la sortie. Aussi, vous devriez vérifier que les membranes soient elles-mêmes de qualité supérieure.  
 
-À la base, il est important que vous _ayez_ une membrane qualité, et non qu'elle soit (là simplement - NdT). Au fur et à mesure que la chaîne de l'évolution devient mature, **s'améliorant de plus en plus**, tous les filtres de membranes qualité se resserent, améliorant d'autant plus la qualité.  Et c'est bien cela dont il s'agit, les membranes qualité évoluent elles-mêmes aussi.  
+À la base, il est important que vous _ayez_ une membrane qualité, et non qu'elle soit (là simplement - NdT). Au fur et à mesure que la chaîne de l'évolution devient mature, **s'améliorant de plus en plus**, tous les filtres de membranes qualité se resserrent, améliorant d'autant plus la qualité.  Et c'est bien cela dont il s'agit, les membranes qualité évoluent elles-mêmes aussi.  
 
 Toutefois, parler des membranes peut éluder le redoutable transfert. Alors, comment éliminer ces membranes complètement ? Connectons simplement n'importe quel duo d'AMD avec un flux et mettons un panneau à côté du flux indiquant sa qualité.
 

@@ -24,7 +24,7 @@ Le management est une fonction, et non pas un rôle. Je répète : le management
 
 Le management est une fonction, et une fonction essentielle. ELLE NE DISPARAÎTRA PAS. Le management n'a jamais été plus vivant. La différence, pour les équipes agiles, c'est que le management est une fonction essentielle, et non pas un rôle essentiel.
 
-Ainsi, quand vous entendez "auto-organisation", remplacez le par "autogestion".
+Ainsi, quand vous entendez "auto-organisation", remplacez-le par "autogestion".
 
 ---
 Note du Traducteur :

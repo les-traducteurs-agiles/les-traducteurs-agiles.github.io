@@ -40,7 +40,7 @@ Voici quelques pistes de réflexion...
 * S'asseoir ou se tenir debout au fond de la salle, face à la porte
 * Être habillé légèrement mieux que le code d'habillement à l'oeuvre dans la salle.
 
-... Soyez donc très prudent sur la façon dont vous utilisez ce non-verbal. Faites attention au fait que cela peut exprimer une autorité naturelle. Evitez-le si vous souhaitez "en arrière plan" Utilisez-le si vous souhaitez "être au premier plan". Pendant toute la durée d'une réunion type, vous oscillez généralement entre ces deux postures extrêmes.
+... Soyez donc très prudent sur la façon dont vous utilisez ce non-verbal. Faites attention au fait que cela peut exprimer une autorité naturelle. Évitez-le si vous souhaitez "en arrière-plan" Utilisez-le si vous souhaitez "être au premier plan". Pendant toute la durée d'une réunion type, vous oscillez généralement entre ces deux postures extrêmes.
 
 Lorsque vous utilisez ces postures, vous projetez une autorité. Lorsque vous vous abstenez d'utiliser ces formes non-verbales, vous vous abstenez de projeter cette autorité. Essayez de vous libérer des deux.
 
@@ -52,13 +52,13 @@ Vous voulez être en mesure de vous déplacer naturellement pour pouvoir utilise
 
 Voici quelques exemples.
 
-Disons que le groupe a commencé à discuter de quelque chose. Et qu'une personne commence à dire quelque chose de précis, que vous reconnaissez rapidement comme étant réellement une clé pour aider le groupe. En vous positionnant simplement derrière eux (idéalement un peu à droite), vous envoyez un signal non verbal de soutien pour (et par delà, vous autorisez) cette conversation. Ici, la théorie est que les gens utilisent des signaux et des signes pour donner du sens aux choses. Pour fabriquer du sens.
+Disons que le groupe a commencé à discuter de quelque chose. Et qu'une personne commence à dire quelque chose de précis, que vous reconnaissez rapidement comme étant réellement une clé pour aider le groupe. En vous positionnant simplement derrière eux (idéalement un peu à droite), vous envoyez un signal non verbal de soutien pour (et par-delà, vous autorisez) cette conversation. Ici, la théorie est que les gens utilisent des signaux et des signes pour donner du sens aux choses. Pour fabriquer du sens.
 
 Voici un autre exemple. Si un membre du groupe est en plein milieu d'un "monologue sans fin" pendant que les autres roulent des yeux, utilisez votre corps pour déplacer la discussion d'une manière subtile. Il suffit de vous déplacer dans l'espace autour de l'orateur et s'il ne ralentit pas, progressez finalement dans son espace personnel par petits pas jusqu'à ce qu'il le fasse.
 
 Une fois que vous devenez conscient que les personnes attribuent un sens à votre non-verbal, et que vous pouvez utiliser votre corps comme un outil de facilitation, vous pouvez expérimenter l'utilisation de votre corps pour devenir un facilitateur d'une efficacité redoutable.
 
-Le facilitateur est un serviteur, quelqu'un qui sert toujours la personnes ou le groupe qui l'y a autorisé.
+Le facilitateur est un serviteur, quelqu'un qui sert toujours la personne ou le groupe qui l'y a autorisé.
 
 
 [(<-- Leçon précédente)](http://www.les-traducteurs-agiles.org/2015/02/19/votre-posture-est-votre-message-lecon-2) [(Table des matières)](http://www.les-traducteurs-agiles.org/2015/02/15/lecons-de-coaching.html) [(Leçon suivante -->)](http://www.les-traducteurs-agiles.org/2015/02/19/l-auto-organisation-est-de-l-auto-gestion-lecon-4.html)  

@@ -26,7 +26,7 @@ _L'autorité_ est le "droit de faire le travail". Dans ce contexte, le terme "tr
 
 Vous voulez peut-être encore relire le paragraphe précédent... lentement.
 
-Laissons cela de coté pour l'instant, et ajoutons cette définition qui lui est liée :
+Laissons cela de côté pour l'instant, et ajoutons cette définition qui lui est liée :
 
 Le _pouvoir_ est l'exercice de l'autorité. Note : cette série d'essais sur le coaching Agile se réfère fréquemment à ce type de définitions très courtes.
 

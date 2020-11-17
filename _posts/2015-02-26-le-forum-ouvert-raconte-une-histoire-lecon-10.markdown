@@ -28,7 +28,7 @@ L'espace est complètement silencieux.
 
 Qu'est ce qui va se passer ?
 
-Ce qui va se passer c'est que le Facilitateur va hériter de _**presque toute** l'autorité fournie par le Sponsor, et va délibérément la proposer à tous les participants_. Le Facilitateur va s'arranger pour que cet état de fait perdure durant toute la rencontre. La Facilitateur va aussi "maintenir l'espace", grand ouvert, pour que les participants fassent leur oeuvre. Qu'ils s'autogèrent. Qu'ils "s'auto-organisent".
+Ce qui va se passer c'est que le Facilitateur va hériter de _**presque toute** l'autorité fournie par le Sponsor, et va délibérément la proposer à tous les participants_. Le Facilitateur va s'arranger pour que cet état de fait perdure durant toute la rencontre. Le Facilitateur va aussi "maintenir l'espace", grand ouvert, pour que les participants fassent leur œuvre. Qu'ils s'autogèrent. Qu'ils "s'auto-organisent".
 
 Des participants peuvent inviter le Facilitateur à "gérer", à "réparer" des choses durant la rencontre. Ces invitations peuvent être déclinées. Au lieu de cela, le Facilitateur encouragera ces participants à se "gérer" eux-mêmes en suivant pour cela leur passion et leur responsabilité.
 
@@ -40,13 +40,13 @@ Les managers présents le découvrent aussi, ils sont aussi acteurs de l'évène
 
 Les gens qui commencent à mesurer que leur "façon d'être, leur savoir être", compte pour beaucoup dans ce grand espace ouvert, alors que leurs titres officiels pèsent beaucoup moins lourd dans ce cadre.
 
-Et ces gens habituellement si calme, si réservé, assez curieusement semble s'ouvrir dans ce grand espace ouvert. Un leadership calme peut et pourra émerger dans ce cadre. "_Préparez vous à être surpris_".
+Et ces gens habituellement si calmes, si réservés, assez curieusement semblent s'ouvrir dans ce grand espace ouvert. Un leadership calme peut et pourra émerger dans ce cadre. "_Préparez-vous à être surpris_".
 
 Alors que l'évènement se déroule, les gens qui ont pu avoir des désaccords vont pouvoir trouver des terrains d'entente puisqu'ils peuvent s'exprimer librement dans cet espace. "_**Répondre au changement plutôt que de suivre un plan**_". Si quelqu'un essaye d'endiguer ce flux, le Facilitateur réapparaitra mystérieusement. Surprenant d'ailleurs pour quelqu'un qui l'instant d'avant ramassait les tasses de cafés et les assiettes tombées au sol pour les mettre à la poubelle.
 
 Tout le monde découvre que les grandes conversations mènent aux grandes solutions. "_**Collaboration plutôt que négociation**_". Tout le monde aura noté qui était présent toute la journée, mais aussi : qui ne l'était pas.
 
-Le forum ouvert raconte l'histoire d'une véritable auto-organisation. A grande échelle. "_**En le faisant et en aidant les autres à le faire**_". L'idée clef est que "_les meilleures architectures, spécifications et conceptions, émergent d'équipes auto-organisées_", et très souvent lors de forum ouvert.
+Le forum ouvert raconte l'histoire d'une véritable auto-organisation. À grande échelle. "_**En le faisant et en aidant les autres à le faire**_". L'idée clef est que "_les meilleures architectures, spécifications et conceptions, émergent d'équipes auto-organisées_", et très souvent lors de forum ouvert.
 
 Le forum ouvert raconte l'entière histoire.
 

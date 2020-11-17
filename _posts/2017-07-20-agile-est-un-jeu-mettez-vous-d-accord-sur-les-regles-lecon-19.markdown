@@ -16,7 +16,7 @@ Dans la [précédente leçon](http://www.les-traducteurs-agiles.org/2017/06/17/l
 
 Ainsi vous avez obtenu l'accord de tous que le Manifeste est la définition de Agile (2 pages) et que le guide Scrum (moins de 20 pages) est la définition de Scrum. C'est l'étape 1.
 
-L'étape 2 c'est d'aller demander (DEMANDER) à tous les gens impliqués de jouer selon les règles de Scrum (qui est un JEU au passage) durant 6 ou 7 itérations. S'ils ne le veulent pas, demandez leur (DEMANDEZ) de jouer selon les règles de Scrum durant 3 ou 4 itérations. Ou 2. Ou UNE. Demandez (DEMANDEZ) leur accord.
+L'étape 2 c'est d'aller demander (DEMANDER) à tous les gens impliqués de jouer selon les règles de Scrum (qui est un JEU au passage) durant 6 ou 7 itérations. S'ils ne le veulent pas, demandez-leur (DEMANDEZ) de jouer selon les règles de Scrum durant 3 ou 4 itérations. Ou 2. Ou UNE. Demandez (DEMANDEZ) leur accord.
 
 Voici les rôles avec lesquels vous devez particulièrement avoir des conversations :
 
@@ -38,9 +38,9 @@ C'est souvent une très bonne idée (sans blague) de LEUR FAIRE ECRIRE LEUR ENGA
 
 Maintenant vous êtes en mesure de réussir. Voilà pourquoi :
 
-1. Il y a désormais un sentiment d'appartenance à une communauté - tout le monde partage l'accord. L'accord décrit les RÈGLES DU JEU. Que tous s'apprête à jouer.
+1. Il y a désormais un sentiment d'appartenance à une communauté - tout le monde partage l'accord. L'accord décrit les RÈGLES DU JEU. Que tous s’apprêtent à jouer.
 2. Il y a de la clarté. Tout le monde connait les rôles et les règles. Ou pense les connaître, pour l'instant (!!)
-3. Vous et les ScrumMasters qui enseignez vous pouvez rappeler, fortement si besoin, aux managers, aux chefs, aux directeurs, aux sponsors, aux Product Owners, aux ScrumMasters, aux Équipes et à toutes les personnes impliquées... leur engagement à suivre ces règles. Leur engagement à respecter cet ACCORD avec vous et tous les autres.
+3. Vous et les ScrumMasters qui enseignez, vous pouvez rappeler, fortement si besoin, aux managers, aux chefs, aux directeurs, aux sponsors, aux Product Owners, aux ScrumMasters, aux Équipes et à toutes les personnes impliquées... leur engagement à suivre ces règles. Leur engagement à respecter cet ACCORD avec vous et tous les autres.
 4. Quand une équipe démarre Scrum, vous pouvez lui rappeler qu'elle a été d'ACCORD pour faire une mêlée quotidienne.
 5. Quand une équipe démarre Scrum, vous pouvez rappeler aux gens que, selon le guide Scrum, ils doivent appuyer et exécuter avec beaucoup de respect les décisions du Product Owner.
 6. Quand une équipe démarre Scrum, vous pouvez rappeler aux sponsors que le contenu d'une itération ne peut pas être changé comme bon leur semble. Jamais.
@@ -58,8 +58,8 @@ En résumé :
 * Étape 2 : Avoir un accord sur le fait de jouer selon les règles de Scrum (pour les équipes qui font du Scrum)
 * Étape 3 : Écrire noir sur blanc l'accord.
 * Étape 4 : Rappeler aux gens leur engagement à respecter cet accord quand les ennuis commencent.
-* Étape 5 : Les accompagner dans la démarche. Vous avez la permission désormais. FAITES LE.
-* Etape 6 : Leur apprendre à inspecter et à s'adapter.
+* Étape 5 : Les accompagner dans la démarche. Vous avez la permission désormais. FAITES-LE.
+* Étape 6 : Leur apprendre à inspecter et à s'adapter.
 
 
 L'autre option - démarrer d'une autre manière - est quasiment vouée à ÉCHOUER.

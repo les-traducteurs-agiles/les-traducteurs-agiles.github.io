@@ -30,7 +30,7 @@ Le plus gros frein à l'auto-organisation dans les équipes est _l'absence d'imp
 
 Alors comment impliquer ces équipes potentiellement non impliquées ? Si ces équipes ne prennent pas de décisions, ou si la plupart des décisions les concernant sont prises par d'autres, vous allez vivre des moments difficiles à essayer d'obtenir de l'auto-organisation.
 
-Les équipes ont besoin de prendre leur propres décisions pour rester impliquées, et une équipe auto-organisée sans être impliquée cela n'existe pas. En d'autres termes, "prise de décision par l'équipe" et "auto-organisation de l'équipe" sont intimement liés.
+Les équipes ont besoin de prendre leurs propres décisions pour rester impliquées, et une équipe auto-organisée sans être impliquée cela n'existe pas. En d'autres termes, "prise de décision par l'équipe" et "auto-organisation de l'équipe" sont intimement liés.
 
 C'est pratiquement la même chose. L'une découle de l'autre.
 

@@ -12,16 +12,17 @@ tags:
 </div>
 LEÇONS DE COACHING AGILE
 
-Si vous imposez une façon de faire (NdT : un _framework_) - N'IMPORTE QUELLE façon de faire - vous devez vous attendre à de mauvais résultats et du désengagement. Personne ne veut jouer à un un jeu auquel il est FORCÉ de participer. Un jeu dont le début, le milieu et la fin de l'histoire est écrite par... _quelqu'un d'autre_.
+Si vous imposez une façon de faire (NdT : un _framework_) - N'IMPORTE QUELLE façon de faire - vous devez vous attendre à de mauvais résultats et du désengagement. Personne ne veut jouer à un jeu auquel il est FORCÉ de participer. Un jeu dont le début, le milieu et la fin de l'histoire est écrite par... _quelqu'un d'autre_.
 
 Si, d'un autre côté, vous expliquez que l'histoire doit être écrite, et que vous invitez tout le monde à participer à son écriture... vous obtenez une convergence d'esprit (NdT : _mindshare_). Qui vous procure de l'_engagement_.
 
-Vous expliquez que l'histoire d'une adoption Agile a besoin d'être écrite... que beaucoup de chapitres sont à écrire.. et que le début, le milieu comme la fin sont en fait "en cours d'écriture"... que rien n'indique comment cela finira, ni quand... cela génère une intrigante invitation à _venir et jouer_.
+Vous expliquez que l'histoire d'une adoption Agile a besoin d'être écrite... que beaucoup de chapitres sont à écrire... et que le début, le milieu comme la fin sont en fait "en cours d'écriture"... que rien n'indique comment cela finira, ni quand... cela génère une intrigante invitation à _venir et jouer_.
 
 **Le Forum Ouvert _c'est exactement cela_.** Au début, _il n'y a pas d'histoire_. Juste un mur blanc. Et le facilitateur explique le jeu... 1 loi, 5 principes, une paire de rôles rigolos, 1 slogan, et c'est tout. Tout le monde comprend que le début, le milieu ou la fin de l'histoire ne sont pas écrits. _D'aucune façon prédéterminés_.
 
 Et ainsi les participants du Forum Ouvert sont invités à écrite cette histoire émergente, la seule qui puisse arriver ici...et maintenant.
-A ce moment précis. Avec ces personnes.
+
+À ce moment précis. Avec ces personnes.
 
 "Ceux qui viennent sont les bonnes personnes."
 
