@@ -54,7 +54,7 @@ Enfin, la chose à comprendre à propos des équipes utilisant des temps imparti
 
 Réfléchissez donc à la loi de Goodhart, à l'espace de curiosité, aux _stories_ qui explosent et à l'inflation.
 
-Puis revenez vous joindre à nous pour la [9ème partie (vo)](http://agileotter.blogspot.com/2019/08/q-and-on-velocity-part-ix.html).
+Puis revenez vous joindre à nous pour la [9ème partie](http://www.les-traducteurs-agiles.org/2020/11/21/questions-reponses-a-propos-de-la-velocite-9eme-partie.html).
 
 [^1]: ou les timeboxes si vous préférez le terme anglo-saxon - NdT
 
