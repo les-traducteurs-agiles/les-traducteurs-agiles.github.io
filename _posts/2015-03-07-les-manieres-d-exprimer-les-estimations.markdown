@@ -9,7 +9,7 @@ La manière dont nous exprimons nos estimations influe à la fois sur la manièr
 
 ## Une seule valeur
 
-Assez souvent, lorsqu'une évaluation est demandée, les gens donneront une seule valeur. "Combien de temps cela prendra t'il ?" "Trois semaines". Si le niveau de confiance est suffisant, et les points de référence suffisamment alignés, alors une seule valeur peut être suffisante. Exprimer une estimation sous la forme d'une seule valeur peut laisser en suspens beaucoup de non-dit. Quelle confiance avons-nous dans cette valeur ? Si nous avons tort, quelle pourrait être la valeur réelle ?  
+Assez souvent, lorsqu'une évaluation est demandée, les gens donneront une seule valeur. "Combien de temps cela prendra t-il ?" "Trois semaines". Si le niveau de confiance est suffisant, et les points de référence suffisamment alignés, alors une seule valeur peut être suffisante. Exprimer une estimation sous la forme d'une seule valeur peut laisser en suspens beaucoup de non-dit. Quelle confiance avons-nous dans cette valeur ? Si nous avons tort, quelle pourrait être la valeur réelle ?  
 
 Nous nous retrouvons souvent dans la panade lorsqu'une personne donne une estimation avec un ensemble de suppositions, et qu'une autre personne l'entend avec un autre ensemble de suppositions. Je pourrai souligner que mon estimation de 2 jours pour une tâche est une estimation optimiste, en supposant qu'aucun problème caché ne surgisse. Vous pourriez l'entendre comme l'expression de la valeur la plus plausible possible avec la marge d'erreur la plus réduite. Lorsque les communications vont au-delà d'une personne à une autre, la probabilité d'incompréhension du contexte sur lequel se base ces suppositions augmente. Maintenant, si vous communiquez mes estimations à votre patron, il peut l'interpréter comme un engagement sur cette durée. Les mises en garde et les alertes tendent à s'effacer alors que la valeur est retenue.  
 
@@ -17,7 +17,7 @@ Nous nous retrouvons souvent dans la panade lorsqu'une personne donne une estima
 
 Lorsque j'ai appris l'orientation chez les scouts, une des leçons était, lorsque vous cherchez votre chemin dans les bois avec une boussole, d'être sûr que vous allez bien d'un côté. De cette manière, lorsque vous trouverez la route, vous saurez dans quel sens aller. Si vous essayez d'aller directement vers la destination souhaitée, vous pourriez arriver n'importe où sur la route.
 
-Vous pouvez utilisez la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
+Vous pouvez utiliser la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
 
 ## Une seule valeur avec des barres d'erreurs
 
