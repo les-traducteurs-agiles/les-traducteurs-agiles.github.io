@@ -25,7 +25,7 @@ Dans certaines situations, donner une estimation minimale ou maximale peut ne pa
 
 ## Intervalle
 
-Si vous allez estimer les valeurs minimales et maximales possibles, vous pourriez arriver à la conclusion que l'intervalle estimé est suffisant et que vous n'avez pas besoin de la valeur la plus plausible. Faites attention comment vous communiquez un intervalle d'estimation. Il est trop fréquent que le destinataire entende juste la borne qu'il préfère. J'ai vu des responsables se plaindre qu'une tâche estimée entre 2 et 4 semaines prenne 3 semaines, "mais vous aviez dit qu'elle pourrait être faite en 2 semaines.".
+Si vous allez estimer les valeurs minimales et maximales possibles, vous pourriez arriver à la conclusion que l'intervalle estimé est suffisant et que vous n'avez pas besoin de la valeur la plus plausible. Faites attention comment vous communiquez un intervalle d'estimation. Il est trop fréquent que le destinataire entende juste la borne qu'il préfère. J'ai vu des responsables se plaindre qu'une tâche estimée entre 2 et 4 semaines prenne 3 semaines, "mais vous aviez dit qu'elle pourrait être faite en 2 semaines".
 
 ## Avec un niveau de confiance
 
