@@ -19,9 +19,9 @@ Lorsque j'ai appris l'orientation chez les scouts, une des leçons était, lorsq
 
 Vous pouvez utiliser la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
 
-## Une seule valeur avec des barres d'erreurs
+## Une seule valeur avec des marges d'erreurs
 
-Dans certaines situations, donner une estimation minimale ou maximale peut ne pas être aussi pertinente qu'une valeur "la plus plausible". Nous pouvons indiquer la confiance que nous avons dans cette valeur avec des marges d'erreur. Ces marges d'erreurs pourraient être exprimées sous la forme de valeurs minimale et maximale spécifique, même si cela signifie que nous aurons 3 valeurs séparées à estimer. Je suis plus enclin à utiliser les pourcentages. J'ai souvent estimé le temps requis pour décrire vaguement les tâches avec des barres d'erreur de -50% et +100%. Cela semble déséquilibré à certaines personnes, mais cela semble plus raisonnable sur une échelle logarithmique. Cela correspond bien à l'épidémie d'estimations sur-optimistes (existante - NdT) dans le développement logiciel.  
+Dans certaines situations, donner une estimation minimale ou maximale peut ne pas être aussi pertinente qu'une valeur "la plus plausible". Nous pouvons indiquer la confiance que nous avons dans cette valeur avec des marges d'erreur. Ces marges d'erreurs pourraient être exprimées sous la forme de valeurs minimale et maximale spécifique, même si cela signifie que nous aurons 3 valeurs séparées à estimer. Je suis plus enclin à utiliser les pourcentages. J'ai souvent estimé le temps requis pour décrire vaguement les tâches avec des marges d'erreur de -50% et +100%. Cela semble déséquilibré à certaines personnes, mais cela semble plus raisonnable sur une échelle logarithmique. Cela correspond bien à l'épidémie d'estimations sur-optimistes (existante - NdT) dans le développement logiciel.
 
 ## Intervalle
 
