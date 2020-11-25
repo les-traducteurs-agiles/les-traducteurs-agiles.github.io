@@ -3,11 +3,11 @@ layout: post
 title:  "Devriez-vous utiliser les estimations à zéro point dans votre product backlog ?"
 date:   2015-12-07 21:00:55
 published: true
-tags: 
+tags:
 - estimation
 ---
 
-De temps en temps, on me pose la question sur les mérites (et d'ailleurs s'il y en a) de mettre une estimation de zéro point sur des _user stories_. Vous avez peut être remarqué que nos jeux de cartes de _planning poker_ ont une carte zéro.
+De temps en temps, on me pose la question sur les mérites (et d'ailleurs s'il y en a) de mettre une estimation de zéro point sur des _user stories_. Vous avez peut-être remarqué que nos jeux de cartes de _planning poker_ ont une carte zéro.
 
 Alors quelle est la logique derrière une carte à zéro point ?
 
