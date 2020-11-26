@@ -3,7 +3,7 @@ layout: post
 title:  "Les story points considérés comme dangereux - ou pourquoi le futur de l'estimation se situe vraiment dans notre passé ..."
 date:   2015-09-13 21:00:55
 published: true
-tags: 
+tags:
 - estimation
 ---
 
@@ -14,27 +14,27 @@ Cet article est le pendant de la [conférence](http://www.sigs-datacom.de/oop201
 </div>
 
 Nous avons beaucoup à apprendre de nos ancêtres. Celui dont je veux parler plus particulièrement dans cet article est [Galilée](https://fr.wikipedia.org/wiki/Galil%C3%A9e_%28savant%29).
-Galilée a été ce que nous appellerions aujourd'hui un technophile[^1]. Il aimait tout ce qui était techno et un jour, il lui fut présenté une technologie intéressante qu'il ne pouvait pas ignorer. Grâce à elle, il développa la technologie optique pour construire d'abord le téléscope et plus tard le microscope. Grâce à l'utilisation du télescope et d'autres approches, il en arriva à la découverte et à la défense d'une conception [héliocentrique](https://fr.wikipedia.org/wiki/H%C3%A9liocentrisme) de l'univers : la Terre n'était pas le centre de l'univers, mais tournait autour du Soleil.
-Cette découverte ne provoqua pas de controverse jusqu'à ce que Galilée l'écrivit, discréditant de manière manifeste, la conception défendue par l'Église à cette époque. L'Église croyait et défendait la conception que l'univers était tout entier organisé autour de la Terre et que toute chose tournait autour de notre planète.
+Galilée a été ce que nous appellerions aujourd'hui un technophile[^1]. Il aimait tout ce qui était techno et un jour, il lui fut présenté une technologie intéressante qu'il ne pouvait pas ignorer. Grâce à elle, il développa la technologie optique pour construire d'abord le télescope et plus tard le microscope. Grâce à l'utilisation du télescope et d'autres approches, il en arriva à la découverte et à la défense d'une conception [héliocentrique](https://fr.wikipedia.org/wiki/H%C3%A9liocentrisme) de l'univers : la Terre n'était pas le centre de l'univers, mais tournait autour du Soleil.
+Cette découverte ne provoqua pas de controverse jusqu'à ce que Galilée l'écrive, discréditant de manière manifeste, la conception défendue par l'Église à cette époque. L'Église croyait et défendait la conception que l'univers était tout entier organisé autour de la Terre et que toute chose tournait autour de notre planète.
 Nous savons maintenant que Galilée avait raison et que l'Église avait - comme souvent cela à tendance à être le cas avec les croyances - tort. De nos jours, nous disons de manière évidente que la Terre est ronde et tourne autour du Soleil. Ou est-ce que nous ...
 
 [^1]: certains diraient geek - NdT
 
 ## La Flat Earth Society
 
-En fait, il y a encore des gens autour (bizarre comme mot, hein ?) du globe qui ne croient même pas que la terre soit ronde !  Vous ne me croyez pas ? Alors regardez par vous même la [Flat Earth Society](https://fr.wikipedia.org/wiki/Flat_Earth_Society).
+En fait, il y a encore des gens autour (bizarre comme mot, hein ?) du globe qui ne croient même pas que la terre soit ronde !  Vous ne me croyez pas ? Alors regardez par vous-même la [Flat Earth Society](https://fr.wikipedia.org/wiki/Flat_Earth_Society).
 
 Le fait est que même aujourd'hui, il y a beaucoup de gens qui ont des croyances sur la manière dont réellement notre monde tourne. Ou nos projets dans le cas de cet article ...
 
 ## La soupe de l'estimation
 
-Nous avons tous été confrontés à différentes techniques d'estimation que ce soit dans un projet agile ou traditionnel. En voici quelques unes qui me viennent tout de suite à l'esprit : estimation par un expert, estimation par consensus, analyse par point de fonction, etc ... Puis nous avons les techniques d'estimation du coût (par opposition à celui portant uniquement sur le temps ou la durée) : COCOMO, SDM, etc ... Et bien sûr, **le sujet de cet article : l'estimation en story points. Qu'ont en commun toutes ces techniques ? Elles regardent toutes vers le futur !**  
+Nous avons tous été confrontés à différentes techniques d'estimation que ce soit dans un projet agile ou traditionnel. En voici quelques-unes qui me viennent tout de suite à l'esprit : estimation par un expert, estimation par consensus, analyse par point de fonction, etc. Puis nous avons les techniques d'estimation du coût (par opposition à celui portant uniquement sur le temps ou la durée) : COCOMO, SDM, etc. Et bien sûr, **le sujet de cet article : l'estimation en story points. Qu'ont en commun toutes ces techniques ? Elles regardent toutes vers le futur !**  
 Pourquoi cette caractéristique est-elle importante ?
 
 ## La condition humaine
 
 Ce n'est pas parce que prédire l'avenir est toujours difficile ! Nous, humains excellons à anticiper les évènements immédiats dans le monde physique, mais dans le monde du logiciel, ce que nous estimons, n'est ni immédiat, ni ne suit aucune des lois physiques que nous comprenons intuitivement !
-Prenez l'exemple du gardien de but dans un match de football. Il peut facilement prédire comment une simple frappe propulsera le ballon vers les buts, et il pourra faire cela avec une assez bonne précision (comme le prouve les scores généralement bas des matchs de football aujourd'hui). Mais même au football, lorsque vous êtes face à un joueur comme [Maradona](http://fr.wikipedia.org/wiki/Diego_Maradona), ou [Beckham](http://fr.wikipedia.org/wiki/David_Beckham), ou [Cristiano Ronaldo](http://fr.wikipedia.org/wiki/Cristiano_Ronaldo), la trajectoire de la balle devient très difficile à prévoir. Certains physiciens ont passé un temps considérable  à analyser la trajectoire des coups francs de Beckham pour essayer de comprendre comment la balle se déplaçait et pourquoi. De manière évidente, un gardien de but n'a pas les ordinateurs ou le temps d'analyser la trajectoire des coups francs de Beckham, ce qui a permis à Beckham de marquer par conséquent un certain nombre de buts de cette manière. **Même au football, où des lois bien connues de la physique s'appliquent, il y a des fois où cela devient difficile de prédire le futur proche !**
+Prenez l'exemple du gardien de but dans un match de football. Il peut facilement prédire comment une simple frappe propulsera le ballon vers les buts, et il pourra faire cela avec une assez bonne précision (comme le prouve les scores généralement bas des matchs de football aujourd'hui). Mais même au football, lorsque vous êtes face à un joueur comme [Maradona](http://fr.wikipedia.org/wiki/Diego_Maradona), ou [Beckham](http://fr.wikipedia.org/wiki/David_Beckham), ou [Cristiano Ronaldo](http://fr.wikipedia.org/wiki/Cristiano_Ronaldo), la trajectoire de la balle devient très difficile à prévoir. Certains physiciens ont passé un temps considérable à analyser la trajectoire des coups francs de Beckham pour essayer de comprendre comment la balle se déplaçait et pourquoi. De manière évidente, un gardien de but n'a pas les ordinateurs ou le temps d'analyser la trajectoire des coups francs de Beckham, ce qui a permis à Beckham de marquer par conséquent un certain nombre de buts de cette manière. **Même au football, où des lois bien connues de la physique s'appliquent, il y a des fois où cela devient difficile de prédire le futur proche !**
 C'est un fait indiscutable que nous, humains, sommes très mauvais à prédire le futur.
 Mais ce n'est pas tout !
 
@@ -42,7 +42,7 @@ Mais ce n'est pas tout !
 
 Dernièrement, et tout spécialement dans le domaine agile, nous avons trouvé un nouveau champ d'étude : les sciences de la complexité.
 Il s'agit d'un champ d'étude qui essaye d'identifier les règles qui nous permettent de nous déplacer dans un monde où la causalité même (cause et effet) est remise en question.
-Un exemple dont vous avez peut être entendu parler est l'effet papillon : "où un petit changement quelque part dans un système non linéaire peut avoir comme résultat des conséquences importances à un stade ultérieur". Les sciences de la complexité nous permettent d'accroître notre compréhension du développement logiciel sur la base des théories développées ces dernières années.
+Un exemple dont vous avez peut-être entendu parler est l'effet papillon : "où un petit changement quelque part dans un système non linéaire peut avoir comme résultat des conséquences importances à un stade ultérieur". Les sciences de la complexité nous permettent d'accroître notre compréhension du développement logiciel sur la base des théories développées ces dernières années.
 Scrum est le parfait exemple d'une méthode qui a utilisé la complexité pour s'inspirer et justifier son approche sur beaucoup des problèmes auxquels nous sommes habituellement confrontés dans le développement logiciel.
 Scrum a utilisé "l'auto-organisation", et "l'émergence" comme concepts pour expliquer pourquoi l'approche Scrum fonctionne. Et voici le problème : il y a un piège.
 
@@ -76,13 +76,13 @@ Et voici ce que j'ai trouvé :
 * Sur la question 2 : Les données normalisées (normalisées pour la durée d'un sprint ou d'une itération) ont la même valeur d'écart-type (tout aussi constante). Cela m'amène à conclure qu'il n'y a pas de différence significative de constance entre l'une ou l'autre de ces métriques. Même si en valeurs absolues les estimations en story points varient plus entre deux itérations que le nombre de stories terminées/finies.
 * Sur la question 3 : Les deux métriques (les points de stories terminées par rapport au nombre de stories terminées) semblent mesurer la même chose. Donc ...
 
-À partir de là, je me suis intéresser à l'analyse des arguments justifiant l'utilisation des story points, comme les données précédentes ne semblaient pas donner un avantage significatif pour l'utilisation des story points comme métrique. J'ai donc cherché une publication justifiant l'utilisation des story points et j'ai trouvé un ensemble d'arguments dans le livre "User Stories Applied" (page 87, 1ère édition) de Mike Cohn.
+À partir de là, je me suis intéressé à l'analyse des arguments justifiant l'utilisation des story points, comme les données précédentes ne semblaient pas donner un avantage significatif pour l'utilisation des story points comme métrique. J'ai donc cherché une publication justifiant l'utilisation des story points et j'ai trouvé un ensemble d'arguments dans le livre "User Stories Applied" (page 87, 1ère édition) de Mike Cohn.
 
 * Argument 1 :  L'utilisation des story points nous permet de changer d'avis lorsque nous avons une nouvelle information sur une story
 * Argument 2 : L'utilisation des story points fonctionne à la fois pour les _epics_ et les stories plus petites
 * Argument 3 : L'utilisation des story points ne prend pas beaucoup de temps
 * Argument 4 : L'utilisation des story points donne des informations utiles sur notre progression et le travail restant à faire
-* Argument 5 : L'utilisation des story points tolère une certain imprécision dans les estimations
+* Argument 5 : L'utilisation des story points tolère une certaine imprécision dans les estimations
 * Argument 6 : L'utilisation des story points peut être utilisée pour planifier les livraisons
 
 Est-ce que ces arguments tiennent ?
@@ -91,7 +91,7 @@ Est-ce que ces arguments tiennent ?
 
 Même s'il n'y a pas d'explications sur ce que "changer d'avis" veut dire dans le livre, nous pouvons en déduire que l'objectif n'est pas de passer trop de temps à essayer d'être exact. La raison de ceci est, bien sûr, que si la story change de taille légèrement, il n'y a aucun impact sur l'estimation en story points, mais et si la story change radicalement de taille ?
 Eh bien, vous voudriez probablement avoir à ce moment-là une nouvelle session d'estimations, ou vous voudriez scinder cette story en stories plus petites pour avoir une meilleure idée de sa taille et de son impact réel sur le projet.
-D'un autre côté, si nous devions utiliser une simple métrique comme le nombre de stories terminées, nous serions capable d'évaluer immédiatement l'impact de nouveaux éléments dans l'avancée du projet.
+D'un autre côté, si nous devions utiliser une simple métrique comme le nombre de stories terminées, nous serions capables d'évaluer immédiatement l'impact de nouveaux éléments dans l'avancée du projet.
 
 <div align="right" style="float:right; padding-left:30px">
   <img title="Graphique" src="{{ site.url }}assets/points_story_dangereux/graphique_argument_1.png" />
@@ -103,11 +103,11 @@ Cela m'amène à conclure que **sur l'argument 1, les story points n'offrent auc
 
 ## Argument 2 : L'utilisation des story points fonctionne à la fois pour les _epics_ et pour les plus petites stories
 
-Autoriser de grosses estimations pour des items dans le backlog (disons par exemple un _epic_ à 100 PS) aide à prendre en compte d'une certaine manière l'incertitude que de grosses quantités de travail représentent. Toutefois, la même incertitude existerait quelque soit la manière dont nous pourrions mesurer l'avancée. Le fait est que nous ne savons pas vraiment si un _epic_ (disons de 100 PS) est réellement équivalent à une somme équivalente d'un ensemble de user stories (100 stories de 1 PS). **Conclusion : il n'y a aucun ajout d'information significative en classifiant une story dans la catégorie des 100 PS** ce qui veut dire qu'appeler quelque chose un "_epic_" donne à peu près la même information que la classifier comme un _epic_ de 100 story points.
+Autoriser de grosses estimations pour des items dans le backlog (disons par exemple un _epic_ à 100 PS) aide à prendre en compte d'une certaine manière l'incertitude que de grosses quantités de travail représentent. Toutefois, la même incertitude existerait quel que soit la manière dont nous pourrions mesurer l'avancée. Le fait est que nous ne savons pas vraiment si un _epic_ (disons de 100 PS) est réellement équivalent à une somme équivalente d'un ensemble de user stories (100 stories de 1 PS). **Conclusion : il n'y a aucun ajout d'information significative en classifiant une story dans la catégorie des 100 PS** ce qui veut dire qu'appeler quelque chose un "_epic_" donne à peu près la même information que la classifier comme un _epic_ de 100 story points.
 
 ## Argument 3 : l'utilisation des story points ne prend pas beaucoup de temps
 
-Pour avoir travailler avec des story points pendant plusieurs années, cela n'est pas mon expérience. Même si des progrès ont été faits par des personnes comme Ken Power (à Cisco) avec la [technique du regroupement en silence](http://fr.slideshare.net/kenpower/using-silent-grouping-to-size-user-stories-xp2011), le fait même que nous ayons besoin d'une technique de ce genre devrait remettre en cause toute idée qu'estimer en PS "ne prend pas beaucoup de temps". En fait, comme toute personne s'étant frottée à un projet non-trivial, le sait, cela peut prendre des jours de boulot d'estimer le backlog initial d'un projet de taille raisonnable.
+Pour avoir travaillé avec des story points pendant plusieurs années, cela n'est pas mon expérience. Même si des progrès ont été faits par des personnes comme Ken Power (à Cisco) avec la [technique du regroupement en silence](http://fr.slideshare.net/kenpower/using-silent-grouping-to-size-user-stories-xp2011), le fait même que nous ayons besoin d'une technique de ce genre devrait remettre en cause toute idée qu'estimer en PS "ne prend pas beaucoup de temps". En fait, comme toute personne s'étant frottée à un projet non-trivial, le sait, cela peut prendre des jours de boulot d'estimer le backlog initial d'un projet de taille raisonnable.
 
 ## Argument 5 : L'utilisation des story points tolère une certaine imprécision dans les estimations
 
@@ -128,19 +128,19 @@ Dans une entreprise dans laquelle je travaillais, nous avions un produit qui all
 Cela signifie qu'un effort significatif était fait pour arriver à un _product backlog_ cohérent. Le backlog était revu par les personnes des ventes et avant-ventes (technico-commercial). Toutes étaient d'accord, nous devions vraiment livrer environ 140 stories (pas des points, des stories) pour être compétitif. Comme nous n'étions pas les premiers sur le marché nous avions une petite fenêtre de tir. Rater cette fenêtre signifierait invalider le fait-même d'entrer sur le marché.
 Donc, nous avons commencé le projet et lors du premier sprint nous avons réalisé 1 seule story (peut être s'agissait-il d'une grosse story -- la vérité est que je ne me souviens plus). Pire, dans la même période 20 stories supplémentaires furent ajoutées dans le _product backlog_. Comme on pouvait s'y attendre, la direction produit et commerciale a découvert quelques stories de plus qui étaient vraiment "indispensables" et qui ne pouvaient pas être mises de côté.
 
-L'équipe gagnait en rapidité et au seconde sprint elle avait 8 stories de "finies". L'équipe était heureuse. En même temps le responsable produit et commercial donna son accord pour une version réduite du _product backlog_ et enleva environ 20 stories du backlog.
+L'équipe gagnait en rapidité et au second sprint elle avait 8 stories de "finies". L'équipe était heureuse. En même temps le responsable produit et commercial donna son accord pour une version réduite du _product backlog_ et enleva environ 20 stories du backlog.
 Après le troisième sprint l'équipe avait donc atteint les vélocités de 1 (au premier sprint), de 8 (au second) et de 8 (au troisième). Le quatrième sprint allait commencer et la pression était forte sur l'équipe et sur le responsable produit. Pendant la réunion de planification du sprint, l'équipe s'était engagée sur 15 nouvelles stories. C'était un bon chiffre, une vélocité de 15 ferait croire aux parties prenantes que le projet pourrait réellement livrer le produit demandé. L'équipe devrait garder une vélocité de 15 stories par sprint pendant 11 mois. Pourrait-elle y arriver ?
 
 ## L'apogée
 
-Alors que le quatrième sprint démarrait, je fis un pari avec le responsable produit. Je lui ai demandé combien d'items il croyait que l'équipe pourrait réaliser et il dit 15 (exactement le même nombre auquel l'équipe s'était engagée). N'étant pas d'accord, je lui répondit 10. Combien d'items diriez-vous que l'équipe pu réaliser ?
-Je pose cette question à tout le monde à chaque fois que je raconte cette histoire. J'ai eu différente réponses. À chaque fois, un 42 fuse de l'assemblée comme réponse possible (on s'y attend un peu étant donné le public auquel je parle habituellement), mais la plupart répondirent 8, 10, quelques-uns peuvent dire 15 (très peu), d'autres disent 2 (très peu). Le consensus semble tourné autour de 8-10.
+Alors que le quatrième sprint démarrait, je fis un pari avec le responsable produit. Je lui ai demandé combien d'items il croyait que l'équipe pourrait réaliser et il dit 15 (exactement le même nombre auquel l'équipe s'était engagée). N'étant pas d'accord, je lui répondis 10. Combien d'items diriez-vous que l'équipe pu réaliser ?
+Je pose cette question à tout le monde à chaque fois que je raconte cette histoire. J'ai eu différentes réponses. À chaque fois, un 42 fuse de l'assemblée comme réponse possible (on s'y attend un peu étant donné le public auquel je parle habituellement), mais la plupart répondirent 8, 10, quelques-uns peuvent dire 15 (très peu), d'autres disent 2 (très peu). Le consensus semble tourné autour de 8-10.
 Arrivé à ce moment-là, je demande aux personnes du public pourquoi elles diraient 8-10 au lieu de 15 comme le responsable produit de cette équipe lui le disait. À priori, le responsable produit connaissait mieux son équipe et le contexte, non ?
 À la fin du quatrième sprint, l'équipe réalisa 10 items, qui même si c'était 20% de mieux que ce qu'elle avait réalisé les précédents sprints est tout de même très loin de la vélocité dont elle avait besoin pour faire de ce projet un succès. La direction réfléchit à la situation et décida clairement que la meilleure décision pour l'entreprise était d'abandonner le produit.
 
 ## Le mythe des story points : brisé !
 
-Cette entreprise a prit une décision extrêmement difficile basée sur des données, pas sur les spéculations des responsables projets, non basée sur une estimation fallacieuse utilisant une technique quelconque. De vraies données. Elle a regardé les données qui étaient disponibles et a décidé d'abandonner le projet 10 mois avant la livraison planifiée à l'origine. Ce projet avait une équipe d'environ 20 personnes. Abandonné, ce projet a fait économisé à l'entreprise 200 mois-homme d'investissement dans un produit qu'elle n'avait aucun espoir de pouvoir faire sortir à temps !
+Cette entreprise a pris une décision extrêmement difficile basée sur des données, pas sur les spéculations des responsables projets, non basée sur une estimation fallacieuse utilisant une technique quelconque. De vraies données. Elle a regardé les données qui étaient disponibles et a décidé d'abandonner le projet 10 mois avant la livraison planifiée à l'origine. Ce projet avait une équipe d'environ 20 personnes. Abandonné, ce projet a fait économiser à l'entreprise 200 mois-homme d'investissement dans un produit qu'elle n'avait aucun espoir de pouvoir faire sortir à temps !
 Nous avons évité un projet à marche forcée et nous avons été capable de nous concentrer sur d'autres produits plus importants pour l'avenir de l'entreprise. Produits, qui aujourd'hui, rapportent de l'argent de manière significative !  
 
 ## OK, je comprends votre point de vue, mais comment cette technique fonctionne-t-elle ?
