@@ -81,7 +81,7 @@ Désormais, je me déplace avec résolution sur le territoire de Duarte. La rép
 
 À cause de l'intuition dont j'ai parlé plus tôt, j'ai fait le suivi de la vélocité de mon équipe actuelle à la fois sous la forme du comptage de story et de points et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarquer](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne une mesure tout aussi bonne, si ce n'est mieux, de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
 
-Alors que le comptage des story fonctionne bien pour la vélocité, je voudrais tout de même alerter de son utilisation ou de l'utilisation de toute autre mesure de la vélocité comme une manière de prévoir sur quand vous pouvez livrez. Vous devriez savoir quand vous êtes en train de livrer et seulement prévoir ce que vous pouvez livrer à cette date. Ne laissez pas la chance guider votre date de livraison, même si vous utilisez des données plutôt que des approximations pour prédire combien de stories pourront être finies.
+Alors que le comptage des story fonctionne bien pour la vélocité, je voudrais tout de même alerter de son utilisation ou de l'utilisation de toute autre mesure de la vélocité comme une manière de prévoir sur quand vous pouvez livrer. Vous devriez savoir quand vous êtes en train de livrer et seulement prévoir ce que vous pouvez livrer à cette date. Ne laissez pas la chance guider votre date de livraison, même si vous utilisez des données plutôt que des approximations pour prédire combien de stories pourront être finies.
 
 Ce que vous pouvez faire, toutefois, est d'utiliser la vélocité pour aider le PO à comprendre les arbitrages du périmètre dans le backlog (_les données m'indiquent que l'équipe peut livrer 20 stories de plus avant la date de livraison, donc je voudrai être sûr que les 20 plus importantes soient en haut du backlog_).
 
@@ -89,7 +89,7 @@ Ce que vous pouvez faire, toutefois, est d'utiliser la vélocité pour aider le 
 
 Cela m'a pris plusieurs années pour arriver à cette conclusion. Mais, si vous y pensez, les gens s'esclaffent et plaisantent tout le temps à propos des estimations. Tout le monde sait que ce sont des suppositions. Tout le monde sait qu'elles sont fausses. Toutefois nous continuons de les faire. Je crois qu'il est temps pour nous de reconnaître qu'il est plus sensé d'éliminer le risque et le coût de l'estimation complètement et d'utiliser uniquement des données empiriques (telles que Agile et Scrum le promeuvent) pour faire des prévisions.
 
-Dans un monde sans la charge de l'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminée et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions .
+Dans un monde sans la charge de l'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminée et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions.
 
 Pour résumer :
 
