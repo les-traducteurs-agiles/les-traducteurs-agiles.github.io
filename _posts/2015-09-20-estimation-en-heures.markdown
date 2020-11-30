@@ -97,7 +97,7 @@ Mais approfondissons un peu plus sur ce qui peut mal se passer quand vous travai
 
 Quelles sont les chances ? Des chances que nous aurons des ennuis quand nous intégrerons et des chances qu'il y aura du code à la pelle à la dernière minute et qu'il y aura aussi du code qui n'a pas besoin d'être fait du tout.
 
-Du gâchis, voilà ce qu'il se passe. Faire la décomposition des tâches est souvent inefficace et inefficient. Ne soyez pas cette personne. Travaillez à la place avec des stories complètes. (voire plus loin)
+Du gâchis, voilà ce qu'il se passe. Faire la décomposition des tâches est souvent inefficace et inefficient. Ne soyez pas cette personne. Travaillez à la place avec des stories complètes. (voir plus loin)
 
 ### Identifier la décomposition des tâches
 
