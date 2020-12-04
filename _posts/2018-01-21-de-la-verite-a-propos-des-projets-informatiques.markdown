@@ -3,7 +3,7 @@ layout: post
 title:  "Chère cliente, cher client : de la vérité à propos des projets informatiques"
 date:   2018-01-22 00:00:01
 published: true
-tags: 
+tags:
 - agile
 - estimation
 ---
@@ -28,9 +28,9 @@ Pour être tout à fait honnête, il est vrai que nous embellissons quelques foi
 
 Il est vrai également qu’il est légitime vous pensiez à des besoins et à des fonctionnalités que vous voudriez avoir après que nous ayons commencé. Naturellement, vous considérez que cette chose est “dans” le périmètre alors que nous considérons qu’elle est “en dehors”. Et, dans un esprit d’ouverture, pouvez-vous dire honnêtement que vous n’avez jamais essayé de nous faire gober ça ? (Ce n’est pas le moment de parler des bogues maintenant ; ça va seulement compliquer les choses.)
 
-Franchement, étant donné tout ça, il est presque touchant que vous ayez autant foi en la technologie de vous livrer quelque chose. Mais, lorsque l’informatique livre vraiment quelque chose, eh bien mon gars, ça ne livre pas de la gnognote. Regardez donc ce qu’ont pu faire Bill Gates et Larry Page, ou Amazon ou  FedEx. Ne trouvez-vous pas intéressant de voir que lorsque l’industrie informatique développe quelque chose pour elle-même, cela puisse aboutir à des multi-millionaires. Et lorsque nous développons pour d’autres, ils finissent par perdre de l’argent.
+Franchement, étant donné tout ça, il est presque touchant que vous ayez autant foi en la technologie de vous livrer quelque chose. Mais, lorsque l’informatique livre vraiment quelque chose, eh bien mon gars, ça ne livre pas de la gnognote. Regardez donc ce qu’ont pu faire Bill Gates et Larry Page, ou Amazon ou FedEx. Ne trouvez-vous pas intéressant de voir que lorsque l’industrie informatique développe quelque chose pour elle-même, cela puisse aboutir à des multi-millionnaires. Et lorsque nous développons pour d’autres, ils finissent par perdre de l’argent.
 
-Comment cette conversation a t’elle pu nous mener jusque là ? Bref, nous empaquetons tout ce bordel invisible et essayons de vous le vendre. Pour faire ça, nous devons cacher toutes ces choses un peu moches. Nous commençons avec un rituel dénommé estimation - c’est-à-dire combien de temps nous pensons que le travail va prendre. Ces “estimations” sont à peine mieux que des suppositions. Les êtres humains ne savent pas estimer. Nous savons cela depuis la fin des années 70 avec “l’illusion de la planification” décrite par Kahneman et Tversky et qui fut récompensé plus tard par un prix Nobel. À la base, les êtres humains sous-estiment constamment la durée que prendra un travail et sont excessivement confiant dans leurs estimations.
+Comment cette conversation a-t-elle pu nous mener jusque-là ? Bref, nous empaquetons tout ce bordel invisible et essayons de vous le vendre. Pour faire ça, nous devons cacher toutes ces choses un peu moches. Nous commençons avec un rituel dénommé estimation - c’est-à-dire combien de temps nous pensons que le travail va prendre. Ces “estimations” sont à peine mieux que des suppositions. Les êtres humains ne savent pas estimer. Nous savons cela depuis la fin des années 70 avec “l’illusion de la planification” décrite par Kahneman et Tversky et qui fut récompensé plus tard par un prix Nobel. À la base, les êtres humains sous-estiment constamment la durée que prendra un travail et sont excessivement confiant dans leurs estimations.
 
 Histoire d’empirer les choses, nous avons une fâcheuse habitude dont nous devrions vraiment nous débarrasser. Entre le moment où nous estimons le travail à faire et celui où nous le faisons, nous changeons d’équipe. Les estimations sont faites par l’équivalent informatique de Manchester United ou des New York Mets, mais l’équipe qui fait vraiment le boulot se rapproche plus d’un patchwork de quatrième division de développeurs, d’analystes et de responsables qui ne se sont jamais rencontrés auparavant.
 
@@ -40,7 +40,7 @@ Donc, nous faisons cette supposition (pardon, estimation) et la doublons - nous 
 
 Je vous en prie, ne tirez pas, je ne suis que le messager.
 
-Nous ne savons pas quel nombre est le “bon”, mais pour vous le rendre acceptable, nous prétendons qu’il est fiable et nous en prenons le risque. Nous pouvons uniquement faire ça si le nombre est suffisamment élastique (et, même dans ce cas, nous restons dans le faux). Si le risque ne survient pas, alors notre profit sera énorme. S’il se réalise, nous n’aurons aucun profit et nous pourrions même encourir une perte. Si c’est vraiment pas bon, nous n’aurons rien du tout et nous pourrions même finir au tribunal ou être fichu. 
+Nous ne savons pas quel nombre est le “bon”, mais pour vous le rendre acceptable, nous prétendons qu’il est fiable et nous en prenons le risque. Nous pouvons uniquement faire ça si le nombre est suffisamment élastique (et, même dans ce cas, nous restons dans le faux). Si le risque ne survient pas, alors notre profit sera énorme. S’il se réalise, nous n’aurons aucun profit et nous pourrions même encourir une perte. Si ce n’est vraiment pas bon, nous n’aurons rien du tout et nous pourrions même finir au tribunal ou être fichu.
 
 L’alternative est que vous preniez le risque - et le bordel qui va avec - et le fassiez vous-même. Malheureusement, autre mauvaise nouvelle : l’informatique interne s’avère souvent pire que des fournisseurs spécialisés. Pour une entreprise informatique, savoir développer est une compétence essentielle. De telles entreprises vivent ou meurent par leur capacité à livrer des logiciels et si elles le font mal, elles meurent. L’évolution élimine les entreprises peu performantes.
 
@@ -52,13 +52,13 @@ Je sais que cela peut paraître un scénario perdant - perdant. Vous pourriez si
 
 Ah au fait, faites attention aux charlatans vendant des applications sur l’étagère. Une fois que les personnes commencent à parler de “paramétrage” ou de “configuration”, vous mettez le pied sur une pente savonneuse. Configurer une grosse installation SAP n’est pas une question de sélection d’outils, d’options ou de cocher une case. Configurer de larges systèmes est une activité majeure de développement informatique, peu importe ce que l’on ait pu vous dire. Les personnes qui entreprennent la configuration peuvent se faire appeler des “consultants”, mais ce sont en fait des développeurs informatiques spécialisés.
 
-Il n’y a pas véritablement de solution simple et élégante à cela. Nous ne pouvons pas résoudre ce problème pour vous. Nous avons besoin de vous, mais vous devez travailler avec nous. En tant que client, vous devez vous préparer à travailler avec nous, le fournisseur, encore et encore afin de réduire le risque. Gérer les risques en temps et en heure et économiquement implique des décisions et des concessions au niveau métier. Si vous n’êtes pas ici pour aider, nous pouvons soit faire la solution pour vous (en ajoutant le risque que vous niez) soit nous dépenserons votre temps et votre argent pour le régler. 
+Il n’y a pas véritablement de solution simple et élégante à cela. Nous ne pouvons pas résoudre ce problème pour vous. Nous avons besoin de vous, mais vous devez travailler avec nous. En tant que client, vous devez vous préparer à travailler avec nous, le fournisseur, encore et encore afin de réduire le risque. Gérer les risques en temps et en heure et économiquement implique des décisions et des concessions au niveau métier. Si vous n’êtes pas ici pour aider, nous pouvons soit faire la solution pour vous (en ajoutant le risque que vous niez) soit nous dépenserons votre temps et votre argent pour le régler.
 
-Vous devez être préparé à accepter et à partager le risque avec nous. Si vous n’êtes pas préparé à prendre des risques, nous allons vous facturer un maximum pour le risque que nous prenons. 
+Vous devez être préparé à accepter et à partager le risque avec nous. Si vous n’êtes pas préparé à prendre des risques, nous allons vous facturer un maximum pour le risque que nous prenons.
 
-Partager le risque a pour effet de réduire le risque, parce qu’une fois que le risque est partagé, vous, le client, êtes motivé pour réduire le risque. Un des risques majeures dans les projets informatiques est le manque d’implication du client. Vous pouvez aider à cela simplement en restant impliqué.
+Partager le risque a pour effet de réduire le risque, parce qu’une fois que le risque est partagé, vous, le client, êtes motivé pour réduire le risque. Un des risques majeurs dans les projets informatiques est le manque d’implication du client. Vous pouvez aider à cela simplement en restant impliqué.
 
-De manière ultime, tous les risques sont votre risque. Vous êtes le client et vous payez pour ce projet, d’une manière ou d’une autre. S’il échoue à livrer de la valeur, c’est votre activité qui en souffrira. Lorsque vous partagez les risques et êtes impliqués étroitement dans ce processus, les risques peuvent êtré gérés immédiatement plutôt qu’être laissés ouvertement à pourrir et à grandir.
+De manière ultime, tous les risques sont votre risque. Vous êtes le client et vous payez pour ce projet, d’une manière ou d’une autre. S’il échoue à livrer de la valeur, c’est votre activité qui en souffrira. Lorsque vous partagez les risques et êtes impliqués étroitement dans ce processus, les risques peuvent être gérés immédiatement plutôt qu’être laissés ouvertement à pourrir et à grandir.
 
 Au final, vous pouvez avoir de grandes ambitions, mais nous devons travailler petits bouts par petits bouts. Je sais que cela ne semble pas vraiment sexy, mais la création logicielle fonctionne mieux petits bouts par petits bouts. L’économie d’échelle n’existe pas. En fait, nous avons une déséconomie d’échelle, donc nous devons travailler par petits bouts encore, encore et encore. Si vous êtes prêts à accepter ces suggestions, alors appuyons ensemble sur le bouton de remise-à-zéro de notre relation et poursuivons un peu plus notre discussion.
 
@@ -81,5 +81,3 @@ Date de traduction : 22/01/2018
 ---
 
 {% include share_buttons.html %}
-
-

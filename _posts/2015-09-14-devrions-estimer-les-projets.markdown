@@ -3,7 +3,7 @@ layout: post
 title:  "Devrions-nous estimer les projets ... en fait ?"
 date:   2015-09-20 21:00:55
 published: true
-tags: 
+tags:
 - estimation
 ---
 
@@ -29,17 +29,17 @@ En effet, lorsqu'il y a quelques mois, j'ai lu [l'article de Vasco Duarte](http:
 
 ## Pourquoi ne devrions-nous pas estimer ?
 
-J'en suis arrivé depuis à la conclusion que certaines de ces choses n'ont pas besoin d'être faites du tout, et que d'autres peuvent être faites sans avoir besoin de les estimer (approximation) en aucune façon. Je voudrais maintenant faire valoir que, même si vous reconnaissez les limites de l'estimation et que vous utilisez des fourchettes, que vous prenez en compte l'incertitude, etc... , l'acte de l'estimation en lui-même est néfaste pour les raisons suivantes :
+J'en suis arrivé depuis à la conclusion que certaines de ces choses n'ont pas besoin d'être faites du tout, et que d'autres peuvent être faites sans avoir besoin de les estimer (approximation) en aucune façon. Je voudrais maintenant faire valoir que, même si vous reconnaissez les limites de l'estimation et que vous utilisez des fourchettes, que vous prenez en compte l'incertitude, etc, l'acte de l'estimation en lui-même est néfaste pour les raisons suivantes :
 
-* **Les attentes sur la livraison de projets à périmètre "fixe" sont souvent (toujours ?) basées sur une estimation initiale du périmètre (supposé) et la durée que cela prendra pour livrer ce périmètre (une nouvelle supposition), et conduisent à des dysfonctionnements patents comme les marches forcées, une qualité médiocre, etc ...**
+* **Les attentes sur la livraison de projets à périmètre "fixe" sont souvent (toujours ?) basées sur une estimation initiale du périmètre (supposé) et la durée que cela prendra pour livrer ce périmètre (une nouvelle supposition), et conduisent à des dysfonctionnements patents comme les marches forcées, une qualité médiocre, etc. **
 
-Si le budget est fixé, alors il n'y aucune manière de "dépasser le budget" afin de livrer le périmètre fixé. Toutefois "dépasser le budget" est un terme habituellement utilisé lorsque l'on parle de projets ayant échoués. Si votre budget est vraiment une contrainte alors vous livrerez seulement ce qui peut être livré. Les méthodes agiles veillent à que vous livriiez la plus forte valeur au métier.
+Si le budget est fixé, alors il n'y aucune manière de "dépasser le budget" afin de livrer le périmètre fixé. Toutefois "dépasser le budget" est un terme habituellement utilisé lorsque l'on parle de projets ayant échoués. Si votre budget est vraiment une contrainte alors vous livrerez seulement ce qui peut être livré. Les méthodes agiles veillent à que vous livriez la plus forte valeur au métier.
 
 _Quelques temps plus tôt, j'avais discuté avec un membre de l'équipe et il se plaignait de ressentir de la pression pour augmenter la vélocité. Je lui ai demandé d'où cette pression venait et il me répondit qu'elle provenait du fait que le projet puisse échouer si l'équipe n'était pas capable de livrer davantage de stories plus rapidement. En réalité, personne ne demandait spécifiquement à l'équipe de livrer plus, mais il y avait une pression implicite de le faire parce qu'elle savait que le budget s'épuisait. Cette façon de voir les choses provient d'années de projets mal financés, de marches forcées, de focalisation sur la productivité plutôt que sur la qualité et de projets qui ont été étouffés ou ayant échoués._
 
 * **Demander aux équipes d'estimer la durée de leur travail (ou du nombre de points qu'elles livreront en un sprint ou pour une version, ce qui revient au même ...) a des connotations laissant entendre que leur travail est mesuré par une tierce partie (le responsable), créant un environnement de peur et de manipulation de chiffres pour refléter ce qui est désiré plutôt que pour ce qui est prévisible**
 
-Pour accroître la vélocité, l'équipe doit simplement surestimer les stories pour donner l'illusion de livrer plus. Ils ne le font peut être pas consciemment mais cela peut arriver inconsciemment. Le chef de projet leur fait alors une tape dans le dos, mais tout ce qui s'est passé c'est que la même quantité de logiciel fonctionnel "fini" a été livré.
+Pour accroître la vélocité, l'équipe doit simplement surestimer les stories pour donner l'illusion de livrer plus. Ils ne le font peut-être pas consciemment mais cela peut arriver inconsciemment. Le chef de projet leur fait alors une tape dans le dos, mais tout ce qui s'est passé c'est que la même quantité de logiciel fonctionnel "fini" a été livré.
 
 Le moment est venu d'avoir et d'utiliser de vraies données pour donner l'image de la progression réelle, qu'elle soit bonne ou mauvaise.
 
@@ -47,11 +47,11 @@ Le moment est venu d'avoir et d'utiliser de vraies données pour donner l'image 
 
 Nous devrions fixer notre date pour la livraison de la version 1 et avoir l'objectif de réaliser le meilleur produit possible pour cette date (périmètre variable).
 
-Dès que nous introduisons le mot "estimation", l'attitude par défaut est de penser à "combien de temps ce projet prendra ?" (même si cela n'a pas été demandé explicitement). Cela provoque en nous la prise en compte du périmètre et de la durée complète du projet (c'est tout à fait anti-agile et je n'expliquerai pas ici pourquoi il s'agit d'une mauvaise idée car il y a eu suffisamment d'écrits à ce sujet ailleurs)
+Dès que nous introduisons le mot "estimation", l'attitude par défaut est de penser à "combien de temps ce projet prendra ?" (Même si cela n'a pas été demandé explicitement). Cela provoque en nous la prise en compte du périmètre et de la durée complète du projet (c'est tout à fait anti-agile et je n'expliquerai pas ici pourquoi il s'agit d'une mauvaise idée car il y a eu suffisamment d'écrits à ce sujet ailleurs)
 
 ## Comment déterminons-nous la taille d'un projet ?
 
-Réponse courte - vous ne devriez pas. Si vous n'avez pas une date butoir ferme pour votre projet (par exemple le 1er jour du Grand Prix pour une application sur le Grand Prix), vous aurez un budget pour votre projet (fixé par le PMO ou par le client externe) à partir duquel vous pourrez déterminer une date butoir. La chose maline à faire est alors de planifier une version intermédiaire (disons à mi-chemin) où vous pourrez jauger de la façon  dont le projet se déroule sur la base de la mesure d'un logiciel qui fonctionne.
+Réponse courte - vous ne devriez pas. Si vous n'avez pas une date butoir ferme pour votre projet (par exemple le 1er jour du Grand Prix pour une application sur le Grand Prix), vous aurez un budget pour votre projet (fixé par le PMO ou par le client externe) à partir duquel vous pourrez déterminer une date butoir. La chose maline à faire est alors de planifier une version intermédiaire (disons à mi-chemin) où vous pourrez jauger de la façon dont le projet se déroule sur la base de la mesure d'un logiciel qui fonctionne.
 
 Par exemple, si votre budget vous permet d'avoir assez d'argent pour dix sprints de 2 semaines (avec une équipe dédiée à 100 %),  vous devriez supposer, de manière évidente, que votre date de mise en production sera dans un délai de 20 semaines. Mais l'objectif devrait être d'avoir un logiciel opérationnel en environnement de production dans un délai de 2 semaines (après le sprint 1). Vous devriez alors itérer sur le produit, permettre aux exigences (le périmètre) d'émerger et de donner la direction que le produit prendra, et prendre le temps de réexaminer après le sprint 5.
 
@@ -67,7 +67,7 @@ En bref, l'équipe n'a pas besoin d'être dans une réunion d'estimation pour di
 
 Le PO doit probablement connaître le ROI d'une story lorsqu'il la présente à l'équipe pour qu'elle soit livrée. Afin de calculer le ROI, il doit connaître combien elle va coûter pour être livrée (sa durée).
 
-À partir de là, une équipe estimerait l'item en utilisant les story points et ensuite le PO, armé de la vélocité de l'équipe, pourrait estimer le ROI de l'item. Mais sans les _story points_, comment cela peut il être accomplit ?
+À partir de là, une équipe estimerait l'item en utilisant les story points et ensuite le PO, armé de la vélocité de l'équipe, pourrait estimer le ROI de l'item. Mais sans les _story points_, comment cela peut-il être accomplit ?
 
 C'est là où le concept d'"estimation implicite" vient en jeu. Afin de créer la prédictibilité dans le flux de travail, l'équipe décomposera les stories juste-à-temps (lors du _sprint planning_) afin qu'elles soient grosso modo de la même taille. C'est là quelque chose qui arrive naturellement le long de la vie du projet. Avec le temps, la taille des stories se normalise parce que l'équipe veut naturellement des petits morceaux sur lesquels travailler pendant la courte période du sprint. Elle est habituée à livrer un certain nombre de stories, plus ou moins, dans un sprint.
 
@@ -79,9 +79,9 @@ Si l'item ne peut être livré pendant le sprint, le PO peut simplement regarder
 
 Désormais, je me déplace avec résolution sur le territoire de Duarte. La réponse est que nous comptons le nombre de stories plutôt que d'accumuler les _story points_, éliminant ainsi le besoin d'estimer. Comme je l'ai mentionné précédemment, les équipes décomposent les stories en plus petites ayant grosso modo la même taille, donc compter combien de stories sont livrées lors de chaque sprint donne ainsi une mesure de la vélocité satisfaisante. Si l'équipe livre habituellement 5 stories avec zéro défaut et ensuite un sprint avec 6 ou 7 stories ayant zéro défaut, c'est qu'une amélioration a été faite (en écartant la variance, qui existe bien quelque soit l'unité de mesure que vous utilisez pour la vélocité).
 
-À cause de l'intuition dont j'ai parlé plus tôt, j'ai fait le suivi de la vélocité de mon équipe actuelle à la fois sous la forme du comptage de story et de points et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarqué](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne une mesure tout aussi bonne, si ce n'est mieux, de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
+À cause de l'intuition dont j'ai parlé plus tôt, j'ai fait le suivi de la vélocité de mon équipe actuelle à la fois sous la forme du comptage de story et de points et j'ai fait des projections en utilisant les deux méthodes. Comme je l'avais suspecté (et comme [Duarte l'avait fait remarquer](http://www.les-traducteurs-agiles.org/estimation/2015/09/13/les-story-consideres-comme-dangereux.html) en s'appuyant sur tout un tas de données), le comptage de données donne une mesure tout aussi bonne, si ce n'est mieux, de l'avancée et de la prédictibilité que les story points ne l'auraient fait. Par conséquent, pourquoi perdre tout ce temps, cet argent, et ces efforts en sessions d'estimations et de calculs de vélocité ?
 
-Alors que le comptage des story fonctionne bien pour la vélocité, je voudrais tout de même alerter de son utilisation ou de l'utilisation de toute autre mesure de la vélocité comme une manière de prévoir sur quand vous pouvez livrez. Vous devriez savoir quand vous êtes en train de livrer et seulement prévoir ce que vous pouvez livrer à cette date. Ne laissez pas la chance guider votre date de livraison, même si vous utilisez des données plutôt que des approximations pour prédire combien de stories pourront être finies.
+Alors que le comptage des story fonctionne bien pour la vélocité, je voudrais tout de même alerter de son utilisation ou de l'utilisation de toute autre mesure de la vélocité comme une manière de prévoir sur quand vous pouvez livrer. Vous devriez savoir quand vous êtes en train de livrer et seulement prévoir ce que vous pouvez livrer à cette date. Ne laissez pas la chance guider votre date de livraison, même si vous utilisez des données plutôt que des approximations pour prédire combien de stories pourront être finies.
 
 Ce que vous pouvez faire, toutefois, est d'utiliser la vélocité pour aider le PO à comprendre les arbitrages du périmètre dans le backlog (_les données m'indiquent que l'équipe peut livrer 20 stories de plus avant la date de livraison, donc je voudrai être sûr que les 20 plus importantes soient en haut du backlog_).
 
@@ -89,7 +89,7 @@ Ce que vous pouvez faire, toutefois, est d'utiliser la vélocité pour aider le 
 
 Cela m'a pris plusieurs années pour arriver à cette conclusion. Mais, si vous y pensez, les gens s'esclaffent et plaisantent tout le temps à propos des estimations. Tout le monde sait que ce sont des suppositions. Tout le monde sait qu'elles sont fausses. Toutefois nous continuons de les faire. Je crois qu'il est temps pour nous de reconnaître qu'il est plus sensé d'éliminer le risque et le coût de l'estimation complètement et d'utiliser uniquement des données empiriques (telles que Agile et Scrum le promeuvent) pour faire des prévisions.
 
-Dans un monde sans la charge de l'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminée et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions .
+Dans un monde sans la charge de l'estimation, l'équipe sera probablement plus heureuse et plus productive, l'inefficacité du temps passé à estimer plutôt que livrer un logiciel opérationnel sera éliminée et le PO aura des données réelles avec lesquelles prendre des décisions plutôt que faire, sous pression, des suppositions.
 
 Pour résumer :
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Estimer en comparant avec l’expérience passée"
 date:   2016-01-29 21:00:55
 published: true
-tags: 
+tags:
 - estimation
 ---
 
@@ -11,11 +11,11 @@ La méthode la plus simple d’estimation est de comparer le travail à venir av
 
 Bien sûr, nous avons toujours de l’expérience. Nous ne n’avons pas la science infuse du développement de systèmes d’informations. Nous avons essayé et appris des choses, en suivant un chemin depuis l’enfance jusqu’à la situation d’aujourd’hui. Et dans toutes ces choses que nous avons accomplies, il y a bien quelque chose que nous pouvons comparer avec le travail auquel nous faisons face.
 
-Qu’est ce qui est différent entre notre expérience passée et ce travail ? Peut-être avans-nous fait l’année dernière un projet de développement informatique mais celui-ci semble un peu plus compliqué. Ou le précédent utilisait une technologie familière mais celui-ci utilise une nouvelle technologie qu’aucun d’entre nous n’a jamais utilisée. Cela reste tout de même une expérience pertinente. Bien sûr, nous devrons ajuster nos attentes pour prendre en compte les différences.
+Qu’est ce qui est différent entre notre expérience passée et ce travail ? Peut-être avons-nous fait l’année dernière un projet de développement informatique mais celui-ci semble un peu plus compliqué. Ou le précédent utilisait une technologie familière mais celui-ci utilise une nouvelle technologie qu’aucun d’entre nous n’a jamais utilisée. Cela reste tout de même une expérience pertinente. Bien sûr, nous devrons ajuster nos attentes pour prendre en compte les différences.
 
 Et il y a toujours des différences. Même si nous faisions le même projet une deuxième fois, il y aurait un avantage grâce à la connaissance que nous avons acquise lorsque nous l’avons réalisé la première fois. Nous pouvons rarement faire du un-pour-un entre le travail en cours et l’expérience passée.
 
-Si ce projet semble plus compliqué, jusqu’à quel point l’est-il ? Est-il deux fois ou dix fois plus compliqué ? Nous pouvons en donner une approximation  en multipliant par un coefficient multiplicateur grossier nos résultats précédents. Si nous devons apprendre une nouvelle technologie, alors combien de temps cela nous prendra t-il pour retrouver un rythme de croisière ? C’est un élément supplémentaire à ajouter à notre modèle d’estimation. Si le projet de l’année dernière nous a pris 6 mois et qu’il nous faut 2 mois pour apprendre la nouvelle technologie, alors 8 mois pourrait être une estimation raisonnable pour ce travail. Ou, étant donné que nous aurons beaucoup moins d’expérience avec cette nouvelle technologie, peut-être qu’il y a un coefficient multiplicateur aussi à prendre en compte pour le fait de travailler dans un environnement qui ne nous est pas familier.
+Si ce projet semble plus compliqué, jusqu’à quel point l’est-il ? Est-il deux fois ou dix fois plus compliqué ? Nous pouvons en donner une approximation en multipliant par un coefficient multiplicateur grossier nos résultats précédents. Si nous devons apprendre une nouvelle technologie, alors combien de temps cela nous prendra-t-il pour retrouver un rythme de croisière ? C’est un élément supplémentaire à ajouter à notre modèle d’estimation. Si le projet de l’année dernière nous a pris 6 mois et qu’il nous faut 2 mois pour apprendre la nouvelle technologie, alors 8 mois pourrait être une estimation raisonnable pour ce travail. Ou, étant donné que nous aurons beaucoup moins d’expérience avec cette nouvelle technologie, peut-être qu’il y a un coefficient multiplicateur aussi à prendre en compte pour le fait de travailler dans un environnement qui ne nous est pas familier.
 
 Plus notre expérience de référence est éloignée de notre travail à faire, plus nous devrons ajuster ce modèle pour prédire le futur. Et plus nous aurons à ajuster notre modèle, plus il y aura de chances que des erreurs potentielles puissent s’y glisser. Comment savons-nous de combien nous devons ajuster ? Ça aussi, c’est une estimation.
 

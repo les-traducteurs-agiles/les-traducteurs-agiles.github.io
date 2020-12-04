@@ -9,7 +9,7 @@ La manière dont nous exprimons nos estimations influe à la fois sur la manièr
 
 ## Une seule valeur
 
-Assez souvent, lorsqu'une évaluation est demandée, les gens donneront une seule valeur. "Combien de temps cela prendra t'il ?" "Trois semaines". Si le niveau de confiance est suffisant, et les points de référence suffisamment alignés, alors une seule valeur peut être suffisante. Exprimer une estimation sous la forme d'une seule valeur peut laisser en suspens beaucoup de non-dit. Quelle confiance avons-nous dans cette valeur ? Si nous avons tort, quelle pourrait être la valeur réelle ?  
+Assez souvent, lorsqu'une évaluation est demandée, les gens donneront une seule valeur. "Combien de temps cela prendra t-il ?" "Trois semaines". Si le niveau de confiance est suffisant, et les points de référence suffisamment alignés, alors une seule valeur peut être suffisante. Exprimer une estimation sous la forme d'une seule valeur peut laisser en suspens beaucoup de non-dit. Quelle confiance avons-nous dans cette valeur ? Si nous avons tort, quelle pourrait être la valeur réelle ?  
 
 Nous nous retrouvons souvent dans la panade lorsqu'une personne donne une estimation avec un ensemble de suppositions, et qu'une autre personne l'entend avec un autre ensemble de suppositions. Je pourrai souligner que mon estimation de 2 jours pour une tâche est une estimation optimiste, en supposant qu'aucun problème caché ne surgisse. Vous pourriez l'entendre comme l'expression de la valeur la plus plausible possible avec la marge d'erreur la plus réduite. Lorsque les communications vont au-delà d'une personne à une autre, la probabilité d'incompréhension du contexte sur lequel se base ces suppositions augmente. Maintenant, si vous communiquez mes estimations à votre patron, il peut l'interpréter comme un engagement sur cette durée. Les mises en garde et les alertes tendent à s'effacer alors que la valeur est retenue.  
 
@@ -17,15 +17,15 @@ Nous nous retrouvons souvent dans la panade lorsqu'une personne donne une estima
 
 Lorsque j'ai appris l'orientation chez les scouts, une des leçons était, lorsque vous cherchez votre chemin dans les bois avec une boussole, d'être sûr que vous allez bien d'un côté. De cette manière, lorsque vous trouverez la route, vous saurez dans quel sens aller. Si vous essayez d'aller directement vers la destination souhaitée, vous pourriez arriver n'importe où sur la route.
 
-Vous pouvez utilisez la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
+Vous pouvez utiliser la même philosophie lorsque vous faites des estimations. Estimer "pas plus de" ou "pas moins de" peut souvent donner assez d'informations pour savoir dans quel sens aller avec une seule estimation.
 
-## Une seule valeur avec des barres d'erreurs
+## Une seule valeur avec des marges d'erreurs
 
-Dans certaines situations, donner une estimation minimale ou maximale peut ne pas être aussi pertinente qu'une valeur "la plus plausible". Nous pouvons indiquer la confiance que nous avons dans cette valeur avec des marges d'erreur. Ces marges d'erreurs pourraient être exprimées sous la forme de valeurs minimale et maximale spécifique, même si cela signifie que nous aurons 3 valeurs séparées à estimer. Je suis plus enclin à utiliser les pourcentages. J'ai souvent estimé le temps requis pour décrire vaguement les tâches avec des barres d'erreur de -50% et +100%. Cela semble déséquilibré à certaines personnes, mais cela semble plus raisonnable sur une échelle logarithmique. Cela correspond bien à l'épidémie d'estimations sur-optimistes (existante - NdT) dans le développement logiciel.  
+Dans certaines situations, donner une estimation minimale ou maximale peut ne pas être aussi pertinent qu'une valeur "la plus plausible". Nous pouvons indiquer la confiance que nous avons dans cette valeur avec des marges d'erreur. Ces marges d'erreurs pourraient être exprimées sous la forme de valeurs minimale et maximale spécifiques, même si cela signifie que nous aurons 3 valeurs séparées à estimer. Je suis plus enclin à utiliser les pourcentages. J'ai souvent estimé le temps requis pour décrire vaguement les tâches avec des marges d'erreur de -50% et +100%. Cela semble déséquilibré à certaines personnes, mais cela semble plus raisonnable sur une échelle logarithmique. Cela correspond bien à l'épidémie d'estimations sur-optimistes (existante - NdT) dans le développement logiciel.
 
 ## Intervalle
 
-Si vous allez estimer les valeurs minimales et maximales possibles, vous pourriez arriver à la conclusion que l'intervalle estimé est suffisant et que vous n'avez pas besoin de la valeur la plus plausible. Faites attention comment vous communiquez un intervalle d'estimation. Il est trop fréquent que le destinataire entende juste la borne qu'il préfère. J'ai vu des responsables se plaindre qu'une tâche estimée entre 2 et 4 semaines prenne 3 semaines, "mais vous aviez dit qu'elle pourrait être faite en 2 semaines.".
+Si vous allez estimer les valeurs minimales et maximales possibles, vous pourriez arriver à la conclusion que l'intervalle estimé est suffisant et que vous n'avez pas besoin de la valeur la plus plausible. Faites attention comment vous communiquez un intervalle d'estimation. Il est trop fréquent que le destinataire entende juste la borne qu'il préfère. J'ai vu des responsables se plaindre qu'une tâche estimée entre 2 et 4 semaines prenne 3 semaines, "mais vous aviez dit qu'elle pourrait être faite en 2 semaines".
 
 ## Avec un niveau de confiance
 

@@ -3,7 +3,7 @@ layout: post
 title:  "De l'estimation en heures"
 date:   2015-09-28 21:00:55
 published: true
-tags: 
+tags:
 - estimation
 ---
 
@@ -19,7 +19,7 @@ Peut-être voulaient-ils simplement que les personnes sortent de leurs prés car
 
 ## Dis-nous ce que tu en penses, Ron !
 
-(demande toujours quelqu'un.)
+(Demande toujours quelqu'un.)
 
 Limitons notre discussion aux pratiques de la décomposition des items du _sprint backlog_ en tâches, du travail en tâches, de l'estimation de ces tâches en heures, des heures passées, et du suivi du travail planifié par rapport aux heures effectives passées afin de voir comment vous avez travaillé. Nous partirons de cette dernière pratique pour remonter vers la première.
 
@@ -43,7 +43,7 @@ Bien. Donc nous n'essayons pas de faire s'aligner le prévisionnel et le réel, 
 
 Si vous le faites, vous saurez avec certitude si les tâches ont été faites, et si celle-ci ou celle-là se traîne toujours et encore.
 
-Il existe des moyens connus et plus faciles pour le savoir. Le plus connu est le tableau de tâches montrant toutes les tâches réparties par simple statut d'avancement comme par exemple Non démarrée, En cours, et Finies. Si quelque chose indique En cours depuis un certain temps, vous avez un problème. Impossible de s'en rappeler d'un jour à l'autre, diriez-vous ? Mettez une marque rouge sur une carte présente dans la colonne En cours tous les matins. Vous voyez beaucoup de points rouge ? Problème.
+Il existe des moyens connus et plus faciles pour le savoir. Le plus connu est le tableau de tâches montrant toutes les tâches réparties par simple statut d'avancement comme par exemple Non démarrée, En cours, et Finies. Si quelque chose indique En cours depuis un certain temps, vous avez un problème. Impossible de s'en rappeler d'un jour à l'autre, diriez-vous ? Mettez une marque rouge sur une carte présente dans la colonne En cours tous les matins. Vous voyez beaucoup de points rouges ? Problème.
 
 Suivre les heures effectives c'est correct, mais inefficace. Et avoir les heures conduit à les suivre à la fin du sprint, ce qui est loin d'être l'idéal comme nous l'avons vu à la section précédente.
 
@@ -53,9 +53,9 @@ _(Note de l'éditeur (dans le texte original - NdT) : lorsque Ron dit "loin d'ê
 
 `L'estimation des tâches en heures ne paye pas.`[^1]
 
-[^1]: sans doute un clin d'oeil à l'expression - "le crime ne paye pas" - NdT
+[^1]: sans doute un clin d'œil à l'expression - "le crime ne paye pas" - NdT
 
-Selon l'argument précédent, nous n'avons pas besoins de tâches en heures quelque soit l'objectif déclaré : elles ne sont pas bonnes que ce soit pour gérer au jour le jour ou de sprint en sprint. Ont-elles d'autres avantages, de telle sorte que nous devrions les utiliser et peut être ensuite les jeter ?
+Selon l'argument précédent, nous n'avons pas besoins de tâches en heures quel que soit l'objectif déclaré : elles ne sont pas bonnes que ce soit pour gérer au jour le jour ou de sprint en sprint. Ont-elles d'autres avantages, de telle sorte que nous devrions les utiliser et peut être ensuite les jeter ?
 
 Si nous parlons de l'estimation des tâches, il y a quelques arguments en faveur de l'estimation pour des besoins internes : nous avons déjà eu une discussion (de quelque nature que ce soit) sur la conception qui a fait en sorte que nous ayons pris connaissance des tâches (à faire - NdT).
 
@@ -81,7 +81,7 @@ Je suppose qu'il "devrait" être possible d'avoir des discussions de conception 
 
 ### Travailler en tâches
 
-`Travailler en tâches conduit à des problèmes d'intégration et à du gachis`
+`Travailler en tâches conduit à des problèmes d'intégration et à du gâchis`
 
 Jusqu'à présent, nous avons trouvé peu de valeur, voire une valeur négative, à l'estimation des tâches. Et que dire alors de décomposer le travail en tâches et de travailler de cette manière ?
 
@@ -91,7 +91,7 @@ Toutefois, si nous travaillons alors vraiment sur ce plan de tâches, beaucoup d
 
 Nous pourrions faire chaque tâche, les rassembler, et avoir une story qui fonctionne vraiment. Cela peut arriver. Plus souvent qu'alors, nous pensons que les tâches sont faites, et lorsque nous les intégrons, la story ne fonctionne pas. C'est "loin d'être l'idéal" (voir précédemment). Cela conduit à pointer du doigt, à d'autres gestes du doigt, et à se précipiter à la fin du sprint pour trouver ce qui s'est mal passé.
 
-Travailler en tâches provoquent généralement l'arrivée de ce genre de choses :  qui que ce soit travaillant sur chacune de ces tâches n'aura pas de retour d'informations jusqu'à ce que toutes les tâches soient faites, qu'elles fassent la bonne ou la mauvaise chose. Travailler sans retour d'informations conduit à l'erreur.
+Travailler en tâches provoque généralement l'arrivée de ce genre de choses :  qui que ce soit travaillant sur chacune de ces tâches n'aura pas de retour d'informations jusqu'à ce que toutes les tâches soient faites, qu'elles fassent la bonne ou la mauvaise chose. Travailler sans retour d'informations conduit à l'erreur.
 
 Mais approfondissons un peu plus sur ce qui peut mal se passer quand vous travaillez sur la tâche A1 et que je travaille sur la tâche A2, pour donner la story A. Chacun d'entre nous peut faire la chose correctement ou pas. Nous ne le saurons qu'à la fin. Nous pouvons y travailler chacun un peu, en oubliant quelque chose, ou en faire trop, en y ajoutant quelque chose qui n'est même pas demandé. Ou bien simplement nous pouvons le faire correctement.
 
@@ -103,7 +103,7 @@ Du gâchis, voilà ce qu'il se passe. Faire la décomposition des tâches est so
 
 `Dans une étape de conception, la décomposition des tâches peut être utile. Mais tout simplement, ne construisez pas comme ça`
 
-Lorsque nous planifions de construire quelque chose même de légèrement compliqué, cela peut être tout à fait valable de faire une "rapide session de conception", où nous esquissons ce que pensons que nous allons faire. Cela peut se transformer en une décomposition de tâches, et c'est sans doute plutôt bien de faire cela. Il y a beaucoup de valeur de faire cela en petits groupes, ou du moins le binôme qui va travailler sur la story, et c'est souvent utile de faire venir d'autres personnes.
+Lorsque nous planifions de construire quelque chose, même de légèrement compliqué, cela peut être tout à fait valable de faire une "rapide session de conception", où nous esquissons ce que pensons que nous allons faire. Cela peut se transformer en une décomposition de tâches, et c'est sans doute plutôt bien de faire cela. Il y a beaucoup de valeur de faire cela en petits groupes, ou du moins le binôme qui va travailler sur la story, et c'est souvent utile de faire venir d'autres personnes.
 
 J'ai même vu de la valeur dans la présence du _product owner_ à ces sessions, parce qu'assez souvent il entend quelque chose lui signalant que nous n'avons pas compris.
 
@@ -126,19 +126,19 @@ J'avais promis (voir ci-dessus) de parler de travailler avec des stories pleines
 
 Tout d'abord, les stories (ou les items du _product backlog_, si vous préférez) sont ce que le product owner souhaite. Le PO ne veut pas de tâches : il veut juste savoir la manière dont nous pourrions organiser notre travail. Par conséquent, lorsqu'une équipe se concentre sur des stories, elle est plus focalisée sur ce qui est vraiment demandé.
 
-Ensuite, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. L'ensemble de l'équipe est pluri-disciplinaire, mais en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités (à notre domaine - NdT). Ça serait mieux si nous pouvions travailler sur quasiment tout et n'importe quoi, peut être en me laissant les problèmes difficiles concernant les bases de données, à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons plus. C'est mieux d'avoir un éventail relativement large de compétences, sans compter que cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies respectives dans notre domaine de prédilection.
+Ensuite, le besoin ou le souhait de décomposer le travail est souvent guidé par les différentes spécialités dans l'équipe. Je suis un spécialiste des bases de données, vous êtes un spécialiste des IHM, Sam est un testeur, et ainsi de suite. L'ensemble de l'équipe est pluridisciplinaire, mais en tant qu'individus nous sommes spécialisés, nous sommes par conséquent limités (à notre domaine - NdT). Ça serait mieux si nous pouvions travailler sur quasiment tout et n'importe quoi, peut être en me laissant les problèmes difficiles concernant les bases de données, à vous les sujets difficiles sur les IHM, et les tests les plus complexes à Sam. Quand nous travaillons ensemble en binôme, ou dans un groupe, tous ensemble nous en apprenons plus. C'est mieux d'avoir un éventail relativement large de compétences, sans compter que cela ne vient pas piétiner sur les plates-bandes de nos connaissances approfondies respectives dans notre domaine de prédilection.
 
 Travailler en stories rend plus service au _product owner_, et à l'équipe aussi. Ce n'est pas la seule manière de le faire. C'est bien de travailler en tâches. Et c'est probablement mieux en stories.
 
 ### Mais les stories sont trop grosses !
 
-J'ai déjà entendu cela. Si vos stories sont trop grosses, elles étaient déjà trop grosses lorsque vous faisiez des tâches. Soit vous pouviez les faire en un sprint, soit vous ne pouviez pas. Si vous ne pouviez pas, alors vous ne pouviez pas réellement livré un incrément "fini" du produit, ou, comme je le dit depuis des années, un "logiciel testé qui fonctionne".
+J'ai déjà entendu cela. Si vos stories sont trop grosses, elles étaient déjà trop grosses lorsque vous faisiez des tâches. Soit vous pouviez les faire en un sprint, soit vous ne pouviez pas. Si vous ne pouviez pas, alors vous ne pouviez pas réellement livrer un incrément "fini" du produit, ou, comme je le dit depuis des années, un "logiciel testé qui fonctionne".
 
 Si vos stories sont trop grosses, réduisez-les.
 
 ### N'est-ce pas une forme d'estimation ?
 
-Lorsque quelqu'un posa cette question à Kate Oneal lors d'une conversation sur Twitter l'autre jour, elle répondit que si elle était Madame La-définition-au-pied-de-la-lettre elle appellerait cela de l'estimation, mais en fait ce qu'elle pensait des estimations, c'est que c'était de simples nombres qu'"ils" pouvaient utiliser. "Ils" étant, je pense, l'encadrement..
+Lorsque quelqu'un posa cette question à Kate Oneal lors d'une conversation sur Twitter l'autre jour, elle répondit que si elle était Madame La-définition-au-pied-de-la-lettre elle appellerait cela de l'estimation, mais en fait ce qu'elle pensait des estimations, c'est que c'était de simples nombres qu'"ils" pouvaient utiliser. "Ils" étant, je pense, l'encadrement ...
 
 Chet et moi recommandons que les stories ne représentent pas plus d'un jour ou deux d'implémentations. Nous ne sommes pas intéressés par savoir s'il s'agit d'un jour ou deux : nous sommes intéressés par savoir si c'est petit.
 
@@ -148,11 +148,11 @@ Donc non, ce n'est pas vraiment une sorte d'estimation de dire que des stories s
 
 ## Prévoir quand nous aurons fini
 
-Je m'attends à ce que beaucoup d'entre vous soient d'accord désormais, mais certains seront toujours persuadés que les estimations sont en quelque sorte la voie _divine_ de faire les choses, ou du moins celle du directeur général. Eh bien, je suis de tout coeur avec vous, mais cela ne fait pas des estimations la seule ou la meilleure manière de faire. À mon avis, aucune n'est meilleure. Les petites stories sont mieux. Les tests d'acceptances sont mieux.
+Je m'attends à ce que beaucoup d'entre vous soient d'accord désormais, mais certains seront toujours persuadés que les estimations sont en quelque sorte la voie _divine_ de faire les choses, ou du moins celle du directeur général. Eh bien, je suis de tout cœur avec vous, mais cela ne fait pas des estimations la seule ou la meilleure manière de faire. À mon avis, aucune n'est meilleure. Les petites stories sont mieux. Les tests d'acceptances sont mieux.
 
 Voici deux défis :
 
-* Et si les stories étaient approximativement de la même taille ? Alors que pourrions nous faire avec des estimations de stories que nous ne pourrions pas faire avec le comptage des stories ?
+* Et si les stories étaient approximativement de la même taille ? Alors que pourrions-nous faire avec des estimations de stories que nous ne pourrions pas faire avec le comptage des stories ?
 
 * Et si toutes les stories étaient un seul test d'acceptance ?  Que pourrions nous faire avec des estimations des stories que nous ne pourrions pas faire avec le comptage des stories (ou dans ce cas avec le comptage des tests d'acceptance) ?
 
@@ -162,7 +162,7 @@ Il y a beaucoup de bonnes raisons de ne pas faire des estimations de tâches ou 
 
 Vous pouvez presque tout faire avec le comptage des stories ou des tests d'acceptions que vous faites avec les estimations de tâches et de stories. Quand vous pouvez le faire, cela fonctionne mieux de quasiment toutes les manières.
 
-Si vous connaissez une situation où ce raisonnement ne tient pas, dites-le moi, j'aimerai en entendre parler.
+Si vous connaissez une situation où ce raisonnement ne tient pas, dites-le-moi, j'aimerai en entendre parler.
 
 [^2]: trop long ; pas lu - traduction de TL;DR : too long ; didn't read - NdT
 

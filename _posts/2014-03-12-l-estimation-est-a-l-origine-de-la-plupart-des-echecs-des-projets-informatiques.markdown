@@ -24,7 +24,7 @@ J'ai déjà écrit sur [le leurre de l'estimation](http://blog.robbowley.net/200
 
 ## Pourquoi nous nous planterons toujours pour estimer
 
-> “Cela prends toujours plus longtemps que ce que vous vous attendez, même si vous prenez en compte la loi de Hofstadter."Â
+> “Cela prend toujours plus longtemps que ce que vous vous attendez, même si vous prenez en compte la loi de Hofstadter."Â
 - Douglas Hofstadter, Godel, Escher, Bach: An Eternal Golden Braid
 
 Depuis mes expériences tumultueuses avec l'estimation et mes recherches subséquentes dans ce domaine j'ai été très loin pour essayer d'améliorer la manière de faire des estimations. Dans mon organisation actuelle, nous récoltons depuis plus deux ans, des données de toutes nos équipes sur la durée de traitement d'un item (temps de cycle). C'est une véritable montagne de données à partir de laquelle nous sommes capables d'établir la moyenne et l'écart-type des temps de cycle.
@@ -38,7 +38,7 @@ Depuis mes expériences tumultueuses avec l'estimation et mes recherches subséq
 
 Nous pouvons alors prendre une liste de demandes de fonctionnalités, en faire quelques estimations à grosses mailles en taille de t-shirt et être capable de donner facilement une plage de dates dans laquelle l'équipe est capable d'atteindre des jalons spécifiques (la plage représente l'incertitude - basse, moyenne, et haute basée sur la moyenne +/- l'écart-type, malin hein ?).
 
-Correcte ?
+Correct ?
 
 Non.
 
@@ -68,7 +68,6 @@ Il y a toujours une énorme pression pour savoir quand les choses seront faites 
 Certains d'entre nous connaissent la fortune de respirer l'air raréfié des organisations éclairées où la nature imprévisible du développement logiciel est généralement accepté, mais soyons réaliste, la plupart ne le sont pas.
 
 ### Recadrer la définition du succès (ou _souligner l'échec de l'estimation_)
-
 L'impact le plus significatif de donner des estimations est dès qu'elles sont dans le domaine public, elles ont tendance à modifier le centre de gravité / la perception du projet, spécialement quand les dates commencent à glisser. Invariablement, un projet de n'importe quelle durée raisonnable, qui aura débuté avec l'objectif honorable de résoudre un problème métier, changera rapidement de focale dès que l'estimation sera achevée.
 En fait, il y a déjà ici en réalité un problème bien plus important. Pour la plupart des organisations, la définition du succès demeure "dans les délais et le budget", ce ne sont pas les rentrées financières générées par le projet ou l'amélioration de la productivité, ou de l'apport de nouveaux clients. Il est souvent dit que la vaste majorité des projets informatiques sont considérés comme des échecs et le [Standish Chaos Report](http://www1.standishgroup.com/newsroom/chaos_2009.php) est généralement cité ici. Le problème est qu'_ils_ définissent le succès comme le respect du coût et du délai. La totalité du rapport souligne l'[échec](http://martinfowler.com/bliki/WhatIsFailure.html) [continu](http://theagileexecutive.com/2010/01/11/standish-group-chaos-reports-revisited/) de l'estimation.
 Au mieux, donner des estimations à long terme respecte juste la mentalité "dans les délais, dans le budget". Au pire, cela fait démarrer les projets avec de meilleures intentions, puis les entraîne au fond de ce gouffre de l'échec quasi-inévitable et vous - en tant qu'apporteur des estimations - avec.
@@ -85,9 +84,9 @@ Quelle est la moins pire situation ? Avoir une situation inconfortable avec votr
 
 ## Conclusion
 
-Certaines personnes semblent encore vouloir s'attacher à l'idée que l'estimation est une activité valable et plus particulièrement que nous sommes capables de donner des estimations à long terme significatives, mais comme je l'ai expliqué ici, c'est un miroir aux alouettes. Mon conseil à quiconque dans cette situation de donner des estimations à long terme est d'être brave et de simplement que ce n'est pas quelque chose que nous pouvons faire, et de faire de son mieux pour expliquer pourquoi. C'est contre l'esprit du développement agile de logiciels, mais ce n'est même pas le sujet, c'est plutôt que c'est dans l'intérêt de personne - sauf, si vous êtes un prestataire logiciel qui se repose sur des frais sur changements de demandes pour continuer à avoir la bourse plein, mais ceci est une autre histoire.
+Certaines personnes semblent encore vouloir s'attacher à l'idée que l'estimation est une activité valable et plus particulièrement que nous sommes capables de donner des estimations à long terme significatives, mais comme je l'ai expliqué ici, c'est un miroir aux alouettes. Mon conseil à quiconque dans cette situation de donner des estimations à long terme est d'être brave et de simplement que ce n'est pas quelque chose que nous pouvons faire, et de faire de son mieux pour expliquer pourquoi. C'est contre l'esprit du développement agile de logiciels, mais ce n'est même pas le sujet, c'est plutôt que c'est dans l'intérêt de personne - sauf, si vous êtes un prestataire logiciel qui se repose sur des frais sur changements de demandes pour continuer à avoir la bourse pleine, mais ceci est une autre histoire.
 
-## Epilogue - que faisons-nous à la place ?
+## Épilogue - que faisons-nous à la place ?
 
 C'est évident qu'il n'est pas bon de dire simplement "non", et de partir, et je ne suis certainement pas en train de défendre cela, mais c'est aussi un élément de cet article d'essayer et d'expliquer quelles sont les alternatives. Il y a pléthore de possibilités à partir d'ici, notamment dans les ouvrages dédiés à l'agilité et au lean et de partisans célèbres de l'agilité et du lean, mais mince alors, s'il y a une chose sur laquelle chacune de nos communautés passionnées peut se mettre d'accord est que les meilleurs logiciels viennent du développement itératif piloté par les retours , quelque chose qui est complètement à contrario avec la façon dont l'estimation est actuellement utilisée dans la plupart des organisations.
 
