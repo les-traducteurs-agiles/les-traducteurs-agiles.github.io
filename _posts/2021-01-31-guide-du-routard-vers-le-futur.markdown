@@ -9,7 +9,7 @@ tags:
 ---
 
 > À propos de cette traduction : Comment se servir du « Guide du routard vers le futur » comme outil de coaching est composé de 3 éléments :
-> * 1'article expliquant l'utilisation du « Guide du routard vers le futur » proprement directement
+> * l'article expliquant l'utilisation du « Guide du routard vers le futur » proprement directement
 > * les diapositives de la présentation que l'on peut voir dans l'article
 > * la vidéo sous-titrée en français
 
@@ -23,7 +23,7 @@ tags:
 > NdT : Merci à John Brooks ([SFiO](https://www.sfio.org/about/our-board-team/)) sans qui cette traduction n’aurait pu être faite (en ayant obtenu l'autorisation de cette traduction auprès du Dr Mark McKergow et de Peter Röhrig).  
 
 ---
-Auteur : Dr Mark McKergow and Peter Röhrig  
+Auteur : Dr Mark McKergow, Peter Röhrig  
 Source : [How can I use the “Users Guide to the Future” as a Coaching Tool?](https://www.sfio.org/the-journal/interaction-vol-11-no-1-august-2019/page-5/)  
 Date de parution originale : Août 2019  
 
