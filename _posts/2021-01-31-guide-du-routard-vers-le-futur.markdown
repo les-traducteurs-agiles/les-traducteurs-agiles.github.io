@@ -8,17 +8,19 @@ tags:
 - outil
 ---
 
-> À propos de cette traduction : Comment se servir du « Guide du routard vers le futur » comme outil de coaching est composé de 3 éléments :
-> * l'article expliquant l'utilisation du « Guide du routard vers le futur » proprement directement
-> * les diapositives de la présentation que l'on peut voir dans l'article
-> * la vidéo sous-titrée en français
+> Cette traduction se compose de 3 éléments (il vous suffit de cliquer sur l'image de l'élément pour y accéder) :
+
+* l'article (PDF) expliquant l'utilisation du « Guide du routard vers le futur » proprement dite  
 
 [![article]({{ site.url }}assets/grvlf/article.png)]({{ site.url }}assets/grvlf/ArticleSFiO_GRVLF.pdf)
 
+* la présentation (PDF) dont on peut voir les diapositives dans l'article  
+
 [![présentation]({{ site.url }}assets/grvlf/presentation.png)]({{ site.url }}assets/grvlf/5.-Peter-Mark_Slides_Users-Guide-workshop_SOLWorld-2019-fr.pdf)
 
-<iframe width="924" height="520" src="https://www.youtube.com/watch?v=wAaOWOPCB2Y&feature=emb_logo&hl=es&cc_lang_pref=fr?cc_load_policy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* la vidéo sous-titrée en français accessible sur YouTube  
 
+[![vidéo]({{ site.url }}assets/grvlf/video.png)](https://www.youtube.com/watch?v=wAaOWOPCB2Y&feature=emb_logo&hl=es&cc_lang_pref=fr?cc_load_policy)
 
 > NdT : Merci à John Brooks ([SFiO](https://www.sfio.org/about/our-board-team/)) sans qui cette traduction n’aurait pu être faite (en ayant obtenu l'autorisation de cette traduction auprès du Dr Mark McKergow et de Peter Röhrig).  
 
