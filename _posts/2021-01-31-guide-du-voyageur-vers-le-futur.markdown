@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Comment se servir du « Guide du routard vers le futur » comme outil de coaching"
+title:  "Comment se servir du « Guide du voyageur vers le futur » comme outil de coaching"
 date:   2021-01-31 13:23
 published: true
 tags:
@@ -10,9 +10,9 @@ tags:
 
 > Cette traduction se compose de 3 éléments (il vous suffit de cliquer sur l'image de l'élément pour y accéder) :
 
-* l'article (PDF) expliquant l'utilisation du « Guide du routard vers le futur » proprement dite  
+* l'article (PDF) expliquant l'utilisation du « Guide du voyageur vers le futur » proprement dite  
 
-[![article]({{ site.url }}assets/grvlf/article.png)]({{ site.url }}assets/grvlf/ArticleSFiO_GRVLF.pdf)
+[![article]({{ site.url }}assets/grvlf/article.png)]({{ site.url }}assets/grvlf/ArticleSFiO_GVVLF.pdf)
 
 * la présentation (PDF) dont on peut voir les diapositives dans l'article  
 
