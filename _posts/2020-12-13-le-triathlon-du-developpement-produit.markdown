@@ -22,6 +22,8 @@ Le présent article est la republication d'un [précédent article](https://www.
 
 ![Image for post](https://miro.medium.com/max/1440/0*9RQtH0oI3QejpfXn)
 
+![toutou]({{ site.url }}assets/kent_beck/kent-notebook.jpg)
+
 The Moment of Insight
 
 L'épiphanie
