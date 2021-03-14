@@ -2,18 +2,18 @@
 layout: post
 title:  "Un but plus qu'un backlog"
 date:   2021-03-08 20:22
-published: true
+published: false
 tags:
 - backlog
 ---
 
 Backlogs are a good idea. Backlogs ease the transition from the old “requirements up front” world to the new more dynamic agile world. Backlogs provide a compatibility layer for agile teams to interface to more traditional project management and governance. Backlogs even allow you to take a stab at done date!
 
-Les _backlogs_ sont une bonne idée. Les _backlogs_ facilitent la transition entre l'ancien monde des « exigences dès le départ » vers le nouveau monde agile bien plus dynamique. Les _backlogs_ offrent une couche de compatibilité aux équipes agiles pour faire l'interface entre la gestion traditionnelle de projet et la gouvernance. Les backlogs vous permettent même de prendre un pari sur la date de réalisation.
+Les _backlogs_ sont une bonne idée. Les _backlogs_ facilitent la transition entre l'ancien monde des « exigences en amont » et le nouveau monde plus dynamique qu'est l'agile. Les _backlogs_ offrent aux équipes agiles une couche de compatibilité  qui fait office d'interface avec la gouvernance et la gestion traditionnelle de projet. Les _backlogs_ vous permettent même de prendre un pari sur la date de fin !
 
 Backlogs allow you to even out work between the quiet periods and the busy times. Backlogs give you a place to store good ideas which you can’t do just now. And because stakeholders can see their request is not forgotten they don’t need to shout for it today.
 
-Les _backlogs_ vous permettent même de travailler entre des périodes calmes et des périodes chargées. Les _backlogs_ sont le lieu pour y mettre toutes les bonnes idées que vous ne pouvez pas faire maintenant. Et tout simplement parce que les parties prenantes peuvent voir que leur requête n'est pas oubliée, cela fait qu'ils n'ont pas besoin de crier pour l'avoir aujourd'hui.
+Les _backlogs_ vous permettent même répartir le travail entre des périodes calmes et des périodes chargées. Les _backlogs_ sont l'endroit pour y mettre toutes les bonnes idées que vous n'êtes pas en mesure de faire maintenant. Et tout simplement parce que les parties prenantes peuvent voir que leur requête n'est pas oubliée, cela fait qu'ils n'ont pas besoin de crier pour l'avoir aujourd'hui.
 
 Yes backlogs are good. I’ve seen them work well myself and I’ve taught many teams to effectively use backlogs.
 
