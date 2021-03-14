@@ -57,7 +57,7 @@ Assez souvent, il peut nous arriver de penser que « travailler plus dur » soit
 
 Nous ne voulons pas que nos collaborateurs _travaillent plus dur_. Nous voulons qu'ils soient _plus accomplis_. Si nous confondons les objectifs alors nous nous retrouvons dans les genres de problèmes dont nous avons discuté dans la [partie V](http://www.les-traducteurs-agiles.org/2019/07/15/questions-reponses-a-propos-de-la-velocite-5eme-partie.html) lorsque nous avons parlé de « leur prendre leurs outils ». Leurs rendre la vie plus difficile ne donne rien de bon au niveau du résultat.
 
-Joignez-vous à nous pour la [partie X (vo)](https://agileotter.blogspot.com/2019/09/q-and-on-velocity-part-x.html) où nous parlerons expérimentation et accélération des processus.
+Joignez-vous à nous pour la [partie X](http://www.les-traducteurs-agiles.org/2021/03/07/questions-reponses-a-propos-de-la-velocite-10eme-partie.html) où nous parlerons expérimentation et accélération des processus.
 
 ---
 Auteur : Tim Ottinger  
