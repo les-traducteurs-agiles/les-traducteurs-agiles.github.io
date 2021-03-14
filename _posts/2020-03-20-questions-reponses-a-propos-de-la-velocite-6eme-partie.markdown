@@ -67,7 +67,7 @@ Et voici la vérité au cœur de cet article faisant écho à la théorie des co
 
 Cela signifie qu'il est possible d'aller au-delà de nos hypothèses irréfragables. Avec toute une série de phrases comme « c'est les devs », « c'est l'AQ », « vous ne travaillez pas assez », « vous prenez pas les choses au sérieux » -- qui [supposent toutes, que les problèmes sont liés à la motivation](https://agileotter.blogspot.com/2015/09/confirmation-bias-and-twelve-day.html) plutôt qu'à des éléments techniques.
 
-Si une personne fait face à un tel mur de briques, qu'est-ce qu'elle peut faire ? Eh bien c'est ce que nous verrons dans la [7ème partie de cette série d'articles.](https://agileotter.blogspot.com/2018/11/q-and-on-velocity-part-vii.html)
+Si une personne fait face à un tel mur de briques, qu'est-ce qu'elle peut faire ? Eh bien c'est ce que nous verrons dans la [7ème partie de cette série d'articles.](http://www.les-traducteurs-agiles.org/2020/04/15/questions-reponses-a-propos-de-la-velocite-7eme-partie.html)
 
 [^1]: NdT - Pour en savoir plus sur l'espace de curiosité, c'est par [ici](http://www.les-traducteurs-agiles.org/2016/10/16/espace-de-curiosite.html)
 
