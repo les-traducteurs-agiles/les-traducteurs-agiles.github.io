@@ -95,7 +95,7 @@ Nous savons seulement qu'il existe une différence entre ce que nous nous attend
 
 Je sais quels sont les choix qui mènent au blâme et à la frustration, et lesquels mène à l'alignement et à l'amélioration.
 
-Mais je vais vous laisser méditer là-dessus jusqu'à la [6ème partie](https://agileotter.blogspot.com/2018/10/q-and-on-velocity-part-vi.html)
+Mais je vais vous laisser méditer là-dessus jusqu'à la [6ème partie](http://www.les-traducteurs-agiles.org/2020/03/26/questions-reponses-a-propos-de-la-velocite-6eme-partie.html)
 
 [^1]: en vo
 [^2]: en vf
