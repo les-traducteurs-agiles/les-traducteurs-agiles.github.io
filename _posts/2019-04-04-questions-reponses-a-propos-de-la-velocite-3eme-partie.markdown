@@ -75,7 +75,7 @@ Blâmer la réalité de ne pas correspondre à la fiction c'est inutile, et blâ
 
 Cela nous laisse avec un arrière-goût de pessimisme optimiste : si ce travail ne peut pas être réalisé complètement, quelle est la meilleure livraison possible que nous pouvons faire étant donné les ressources, le temps et le périmètre disponible ?
 
-Rendez-vous [ici](https://agileotter.blogspot.com/2018/10/q-and-on-velocity-part-iv.html) pour la 4ème partie.
+Rendez-vous [ici](http://www.les-traducteurs-agiles.org/2019/05/26/questions-reponses-a-propos-de-la-velocite-4eme-partie.html) pour la 4ème partie.
 
 ---
 Auteur : Tim Ottinger  
