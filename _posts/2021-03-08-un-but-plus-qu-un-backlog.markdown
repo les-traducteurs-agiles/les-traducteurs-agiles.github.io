@@ -91,7 +91,7 @@ Répéter trimestriellement les étapes 3 & 4.
 **Étape 5** : Lors de chaque réunion de planification, prendre note de ce tout ce que vous avez fait et de votre avancement par rapport aux _OKRs_.  
 **Étape 6** : Demander « qu'est-ce que nous devons faire faire ensuite pour atteindre les _OKRs_»
 
-<div align="left" style="float:right; padding-left:30px" >
+<div align="left" style="float:left; padding-left:30px" >
   <img title="Vélocité" src="{{ site.url }}assets/allan_kelly/Succeeding-with-OKRs.png" width="160px" height="227px" />
 </div>
 
