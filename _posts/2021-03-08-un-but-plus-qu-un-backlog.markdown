@@ -9,7 +9,7 @@ tags:
 ---
 
 <div align="right" style="float:right; padding-left:30px" >
-  <img title="Vélocité" src="{{ site.url }}assets/allan_kelly/Backlogs.png" />
+  <img title="Vélocité" src="{{ site.url }}assets/allan_kelly/Backlogs.png" width="410px" height="307px"/>
 </div>
 
 Les _backlogs_ sont une bonne idée. Les _backlogs_ facilitent la transition entre l'ancien monde des « exigences en amont » et ce nouveau monde plus dynamique qu'est l'agile. Les _backlogs_ offrent aux équipes agiles une couche de compatibilité qui fait office de transition avec la gouvernance et la gestion plus traditionnelle de projet. Les _backlogs_ vous permettent même de prendre un pari sur une date de fin possible !
@@ -92,7 +92,7 @@ Répéter trimestriellement les étapes 3 & 4.
 **Étape 6** : Demander « qu'est-ce que nous devons faire faire ensuite pour atteindre les _OKRs_»
 
 <div align="left" style="float:right; padding-left:30px" >
-  <img title="Vélocité" src="{{ site.url }}assets/allan_kelly/Succeeding-with-OKRs.png" />
+  <img title="Vélocité" src="{{ site.url }}assets/allan_kelly/Succeeding-with-OKRs.png" width="160px" height="227px" />
 </div>
 
 Répéter toutes les deux semaines les étapes 5 & 6.
