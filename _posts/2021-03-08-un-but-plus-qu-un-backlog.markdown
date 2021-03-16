@@ -31,14 +31,12 @@ Il existe généralement **une hypothèse selon laquelle le _backlog_ représent
 Dans certains cas, les équipes luttent pour, ne serait-ce, que pour commencer à travailler car les activités de recensement de l'ensemble des exigences et d'analyse sont exigées en amont avant toute création de _backlog_.  Dans le pire des cas, ce travail, fait lui-même l'objet d'estimation et de date de fin prévisionnelle avant que la toute première ligne de code ne soit écrite ou que les développeurs ne soient recrutés.
 
 À long terme, il est tout simplement irréaliste de prendre comme postulat qu'un _backlog_ doit demeurer figé. Même en ajoutant davantage d'analyses ou des analyses plus poussées, il est impossible de prévoir les futures demandes. L'adage agile « c'est en faisant le travail que nous le comprenons » fonctionne dans les deux sens : les développeurs comprennent ce qu'ils ont à réaliser (en le faisant - NdT) et les clients/parties prenantes/analystes comprennent ce qu'ils veulent (en le voyant - NdT).
----
+
 De nouveaux éléments à faire apparaîtront donc après que vous ayez commencé, tout système n'ayant pas intégré cette vérité échouera d'une manière ou d'une autre.
 
 **2) C'est bien plus gros que vous ne le pensiez**
 
 Non seulement le _backlog_ grossi avec des éléments complètement nouveaux, mais aussi avec des éléments qui changent - et qui grossissent. Il existe plusieurs raisons expliquant cela : de nouvelles opportunités apparaissent, des choses auparavant floues deviennent claires, certaines demandes exigent plus de travail que prévu et ainsi de suite.
-
-[Humans are very bad at estimating](https://www.allankellyassociates.co.uk/archives/2238/estimation-planning-teams-and-money-some-data/), especially about the future, and, it turns out, they are also very bad at estimating time spent in the past. If you want accurate forecasts you need to invest in them, you need to make structural changes and you need to use statistics.
 
 [Les humains sont très mauvais pour faire des estimations (vo)](https://www.allankellyassociates.co.uk/archives/2238/estimation-planning-teams-and-money-some-data/) et plus particulièrement en ce qui concerne le futur, et, il s'avère qu'ils sont aussi très mauvais pour estimer le temps écoulé dans le passé. Si vous voulez des prévisions précises, vous devez investir là-dessus, vous devez faire des changements structurels et vous devez utiliser des statistiques.
 
@@ -80,17 +78,17 @@ Lorsque j'ai écris [Succeeding with OKRs in Agile (livre en vo)](https://amzn.t
 
 **Notes après publication** : [Jari Mäkelä](https://twitter.com/yareeh) m'a fait la suggestion via Twitter d'appeler cela : le développement piloté par le but ou PDD (Purpose Driven Development).
 
-**Étape 1** : Clarifier votre but — quel est votre raison d'être ultime d'exister ?
+**Étape 1** : Clarifier votre but — quel est votre raison d'être ultime d'exister ?  
 **Étape 2** : Clarifier comment votre stratégie existante vous aide à atteindre ce but, et si vous n'avez pas de stratégie, créez-en une.
 
 Répéter annuellement les étapes 1 & 2.
 
-**Étape 3** : Penser avec une perspective élargie, mettre en place vos _OKRs_ en équipe afin que vous puissiez continuer à avancer vers votre but en suivant votre stratégie.
+**Étape 3** : Penser avec une perspective élargie, mettre en place vos _OKRs_ en équipe afin que vous puissiez continuer à avancer vers votre but en suivant votre stratégie.  
 **Étape 4** : Passer les 12 semaines suivantes à atteindre ces _OKRs_.
 
 Répéter trimestriellement les étapes 3 & 4.
 
-**Étape 5** : Lors de chaque réunion de planification, prendre note de ce tout ce que vous avez fait et de votre avancement par rapport aux _OKRs_
+**Étape 5** : Lors de chaque réunion de planification, prendre note de ce tout ce que vous avez fait et de votre avancement par rapport aux _OKRs_.  
 **Étape 6** : Demander « qu'est-ce que nous devons faire faire ensuite pour atteindre les _OKRs_»
 
 <div align="left" style="float:right; padding-left:30px" >
