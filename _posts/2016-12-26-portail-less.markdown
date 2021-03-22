@@ -27,7 +27,7 @@ tags:
 
 * [Portail Framework LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-framework.html) - 95%
   * [Introduction à LeSS](http://less.works/less/framework/introduction.html)
-  * [Pourquoi LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/pourquoi-less.html) 
+  * [Pourquoi LeSS (fr)](http://www.les-traducteurs-agiles.org/2016/12/19/pourquoi-less.html)
   * [Le Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/15/less-le-produit.html)
   * [Le Product Owner (fr)](http://www.les-traducteurs-agiles.org/2019/06/16/less-product-owner.html)
   * [Le Backlog du Produit (fr)](http://www.les-traducteurs-agiles.org/2017/02/22/less-le-backlog-du-produit.html)
@@ -48,12 +48,12 @@ tags:
   * [Le ScrumMaster (fr)](http://www.les-traducteurs-agiles.org/2017/04/04/less-le-scrummaster.html)
 
 
-* [Portail Principes (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-principes.html) - 73%
+* [Portail Principes (fr)](http://www.les-traducteurs-agiles.org/2016/12/28/less-portail-principes.html) - 83%
   * [Présentation des principes (fr)](http://www.les-traducteurs-agiles.org/2017/11/01/less-presentation-des-principes.html)
   * [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html)
   * [Plus avec LeSS (fr)](http://www.les-traducteurs-agiles.org/2018/10/19/less-plus-avec-less.html)
   * [Pensée Lean](http://less.works/less/principles/lean-thinking.html)
-  * [Approche systémique](http://less.works/less/principles/systems_thinking.html)
+  * [Approche systémique (fr)](http://www.les-traducteurs-agiles.org/2020/11/01/less-approche-systemique.html)
   * [Contrôle du processus empirique (fr)](http://www.les-traducteurs-agiles.org/2016/12/24/less-controle-du-processus-empirique.html)
   * [Transparence (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
   * [Amélioration continue vers la perfection](http://less.works/less/principles/continuous-improvement-towards-perfection.html)
