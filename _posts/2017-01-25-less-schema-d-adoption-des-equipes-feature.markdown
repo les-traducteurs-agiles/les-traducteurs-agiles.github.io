@@ -47,12 +47,12 @@ Ce schéma d’adoption des équipes feature est tiré d’un cas d'adoption de 
 
 
 ---
-Auteur : The LeSS Company B.V.
-Source : [Feature Team Adoption Map - Large Scale Scrum (LeSS)](http://less.works/less/adoption/feature-team-adoption_map.html)
+Auteur : The LeSS Company B.V.  
+Source : [Feature Team Adoption Map - Large Scale Scrum (LeSS)](http://less.works/less/adoption/feature-team-adoption_map.html)  
 
 ---
-Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)
-Date de traduction : 25/01/2017
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 25/01/2017  
 
 ---
 
