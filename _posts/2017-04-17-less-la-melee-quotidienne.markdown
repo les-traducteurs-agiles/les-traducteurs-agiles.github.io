@@ -27,7 +27,7 @@ Une autre technique de [coordination (fr)](http://www.les-traducteurs-agiles.org
 
 ---
 Auteur : The LeSS Company B.V.  
-Source : [Daily Scrum (LeSS)http://less.works/less/framework/daily-scrum.html](url_article_en_vo)  
+Source : [Daily Scrum (LeSS)](http://less.works/less/framework/daily-scrum.html)  
 
 ---
 Traducteur : [Fabrice Aimetti](http://www.fabrice-aimetti.fr/)  
