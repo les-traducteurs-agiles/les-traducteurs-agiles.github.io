@@ -17,7 +17,7 @@ tags:
 * [Scrum à grande échelle reste du Scrum (fr)](http://www.les-traducteurs-agiles.org/2016/12/25/less-scrum-a-grande-echelle-reste-du-scrum.html)
 * [Plus avec LeSS (fr)](http://www.les-traducteurs-agiles.org/2018/10/19/less-plus-avec-less.html)
 * [Pensée Lean](http://less.works/less/principles/lean-thinking.html)
-* [Approche systémique](http://less.works/less/principles/systems_thinking.html)
+* [Approche systémique (fr)](http://www.les-traducteurs-agiles.org/2020/11/01/less-approche-systemique.html)
 * [Contrôle du processus empirique (fr)](http://www.les-traducteurs-agiles.org/2016/12/24/less-controle-du-processus-empirique.html)
 * [Transparence (fr)](http://www.les-traducteurs-agiles.org/2016/12/23/less-transparence.html)
 * [Amélioration continue vers la perfection](http://less.works/less/principles/continuous-improvement-towards-perfection.html)
