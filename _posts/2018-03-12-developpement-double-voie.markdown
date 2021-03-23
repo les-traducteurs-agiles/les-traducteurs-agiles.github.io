@@ -2,7 +2,7 @@
 layout: "post"
 title: "Le développement à double voie n'est pas un duel de voies"
 date: "2018-03-18 00:01"
-tags: 
+tags:
 - agile
 ---
 
@@ -112,7 +112,7 @@ C'est de cette manière que fonctionne la boucle d'apprentissage. Et voici un ce
 
 L'enchaînement des boucles de découverte ressemblent à peu près à cela :
 
-![Itérations de découverte]({{ site.url }}assets/jeff_patton/discovery-iterations-768x311-fr.jpg)
+![Itérations de découverte]({{ site.url }}assets/jeff_patton/discovery-iterations-1024x415-fr.jpg)
 
 Désormais, il devrait être clair qu'à la fois les travaux de développement et les travaux de découverte sont essentiels. Mais l'état d'esprit avec lequel vous abordez ces travaux, et le processus pour les faire, sont très différents.
 
@@ -196,4 +196,3 @@ Date de traduction : 18/03/2018
 ---
 
 {% include share_buttons.html %}
-
