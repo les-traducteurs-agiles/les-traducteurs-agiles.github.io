@@ -26,8 +26,6 @@ Scrum est basé sur un principe très simple et très strict : inspecter et adap
 
 Passons en revue quelques points.  
 
-Scrum does not say “you have to test your code inside the Sprint”. What does it say? Scrum says that at the end of every Sprint you must produce a product Increment. Regarding the increment:
-
 Scrum ne dit pas " vous devez tester votre code dans un Sprint". Que dit-il ? Scrum dit qu'à la fin de chaque Sprint vous devez produire un incrément du produit. En ce qui concerne l'incrément :  
 
 > L'incrément est la somme de l'ensemble des items du Product Backlog réalisés pendant un Sprint et de la valeur des incréments des Sprints précédents. À la fin d'un Sprint, le nouvel incrément doit être "fini", ce qui signifie qu'il doit être en condition opérationnelle et correspondre à la définition de "fini" de l'équipe Scrum. Il doit être utilisable que le Product Owner décide ou pas de le livrer réellement. ([Scrum Guide](http://www.scrumguides.org/scrum-guide.html)).  
@@ -37,8 +35,6 @@ Notez bien cette dernière phrase :
 > [L'incrément] doit être utilisable que le Product Owner décide ou pas de le livrer réellement.  
 
 De plus, à la Définition de Fini, nous trouvons "tester à fond", ce qui implique peu ou prou cela :  
-
-Each Increment is additive to all prior Increments and thoroughly tested, ensuring that all Increments work together.
 
 > Chaque Incrément est le complément de l'ensemble des incréments précédents et il est testé à fond, ceci afin d'être certain que tous les incréments fonctionnent ensemble.  
 
