@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le triathlon du développement produit"
-date:   2020-03-31 00:00
+date:   2021-03-31 00:00
 published: true
 tags:
 - produit
