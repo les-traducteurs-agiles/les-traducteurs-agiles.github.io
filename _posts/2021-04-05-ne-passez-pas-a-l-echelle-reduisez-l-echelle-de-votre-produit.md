@@ -114,7 +114,7 @@ Down!](https://medium.com/the-liberators/dont-scale-up-scale-your-product-down-c
 ---
 Traducteurs : [Samuel Chapal](https://www.linkedin.com/in/samuel-chapal/?originalSubdomain=fr) (texte), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/) (images)  
 Relecture : [Patrick Roux](https://www.linkedin.com/in/patrick-roux/), [Samuel Chapal](https://www.linkedin.com/in/samuel-chapal/?originalSubdomain=fr), [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 05/05/2021    
+Date de traduction : 05/04/2021    
 
 ---
 
