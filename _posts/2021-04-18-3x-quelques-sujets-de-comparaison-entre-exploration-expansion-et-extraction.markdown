@@ -2,37 +2,36 @@
 layout: post
 title:  "3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction"
 date:   2021-04-18 09:56
-published: false
+published: true
 tags:
-- tag1
-- tag2
+- 3X
 ---
 
-Comparing Explore, Expand, and Extract: Topics in 3X
+Pour la description des trois phases Exploration, Expansion et Extraction, je suis tenté de les décrire phase par phase. « Voici comment faire l'exploration », « Voici comment faire l'extraction ». Voici quelles sont les différentes techniques efficaces pour cette phase-là et comment fonctionnent-elles ensemble. Toutefois, identifier la phase dans laquelle vous vous trouvez et identifier les transitions entre les différentes phases est un problème qui peut s'avérer difficile.
 
-In describing the three phases, I am tempted to describe a phase at a time. “Here is how you Explore,” “Here is how you Extract”. The techniques effective in a given phase work together. However, identifying your current phase and identifying transitions between phases is also a hard problem.
+Toutes ces histoires ont besoin d'être racontées. Cette note introduit et rassemble une série d'articles portant chacun sur un sujet, comme l'estimation, le test, et l'organisation de l'équipe, pour chacune des trois phases. Chaque note décrira aussi la transition entre chaque phase. Lorsque cette série sera terminée, vous pourrez extirper et rassembler les différents sujets pour une phase donnée et vous aurez le début d'une approche pour gérer cette phase.
 
-Both stories need to be told. This note introduces and collects a series on topics, like estimation, testing, and team organization, compared across the three phases. Each note will also describe the transition between phases. Once this series is finished, squish the topics for a given phase together and you’ll have the beginnings of an approach for handling that phase.
-
-- [Estimates](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243)
-- [Sequencing](https://www.facebook.com/notes/kent-beck/sequencing-in-3x/1243615332337995)
-- [Teams](https://www.facebook.com/notes/kent-beck/teams-in-3x/1244519748914220)
-- [Time](https://www.facebook.com/notes/kent-beck/time-in-3x/1245493485483513)
-- [Money](https://www.facebook.com/notes/kent-beck/money-in-3x/1248165731882955)
+- [Les estimations (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243)
+- [Le séquencement (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/sequencing-in-3x/1243615332337995)
+- [Les équipes (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/teams-in-3x/1244519748914220)
+- [Le temps (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/time-in-3x/1245493485483513)
+- [L'argent (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/money-in-3x/1248165731882955)
 - Risk
-- [Economy](https://www.facebook.com/notes/kent-beck/economy-in-3x/1249013955131466)
-- Latency/throughput/variance
-- Dependencies
+- [L'économie (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/economy-in-3x/1249013955131466)
+- La latence/ le débit / la variance
+- Les dépendances
+
+
 
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Auteur : [Kent Beck](https://medium.com/@kentbeck_7670/about)  
+Source : [Comparing Explore, Expand, and Extract: Topics in 3X](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558/)  
+Date de parution originale : 201x  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)   
+Date de traduction : 18/04/2021  
 
 ---
 
