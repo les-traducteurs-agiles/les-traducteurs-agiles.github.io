@@ -16,7 +16,7 @@ Toutes ces histoires ont besoin d'être racontées. Cette note introduit et rass
 - [Les équipes (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/teams-in-3x/1244519748914220)
 - [Le temps (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/time-in-3x/1245493485483513)
 - [L'argent (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/money-in-3x/1248165731882955)
-- Risk
+- Le risque
 - [L'économie (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/economy-in-3x/1249013955131466)
 - La latence/ le débit / la variance
 - Les dépendances
