@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Les estimations en 3X"
-date:   2021-04-19 00:01
+date:   2021-04-20 00:01
 published: true
 tags:
 - 3X
