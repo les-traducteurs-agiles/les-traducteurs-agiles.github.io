@@ -7,7 +7,7 @@ tags:
 - 3X
 ---
 
-![]({{ site.url }}assets/kent_beck/3X-estimates.jpg)
+![Les estimations]({{ site.url }}assets/kent_beck/3X-estimates.jpg)
 
 Cet article fait partie de la série [3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction](http://www.les-traducteurs-agiles.org/2021/04/18/3x-quelques-sujets-de-comparaison-entre-exploration-expansion-et-extraction.html).
 
