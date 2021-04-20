@@ -1,68 +1,74 @@
 ---
 layout: post
 title:  "Les estimations en 3X"
-date:   2021-04-18 10:01
-published: false
+date:   2021-04-19 00:01
+published: true
 tags:
-- tag1
-- tag2
+- 3X
 ---
 
-Estimates in 3X
+![]({{ site.url }}assets/kent_beck/3X-estimates.jpg)
 
-Part of [Comparing Explore, Expand, and Extract](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558).
+Cet article fait partie de la série [3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction](http://www.les-traducteurs-agiles.org/2021/04/18/3x-quelques-sujets-de-comparaison-entre-exploration-expansion-et-extraction.html).
 
-If you had infinite resources, you’d just do everything. Infinite resources erase opportunity cost. In our universe, though, resources are always finite. Everything we do implies the loss of everything we didn’t do instead.
+Si vous avez des ressources pour ainsi dire infinies, vous pouvez tout faire. Des ressources infinies éliminent le coût de l'opportunité. Dans notre univers, toutefois, les ressources sont en quantités finies. Tout ce que nous faisons implique la perte de quelque chose que nous ne ferons pas à la place.
 
-We can’t make these decisions perfectly, witness all the death-bed regrets. However, we can sometimes do better than a dartboard at deciding what to do and what not to do. That’s where estimates come in.
+Nos prises de décisions sont loin d'être toujours parfaites, les regrets nous poursuivent jusqu'à notre dernier souffle. Toutefois, nous pouvons faire mieux quelques fois en matière de prise de décision que de faire comme si nous jouions aux fléchettes. C'est là où les estimations rentrent en jeu.
 
-An estimate is a measure of some limited resource expected to be consumed in pursuing one course of action. We might expect to spend two months marketing a book, or ten thousand dollars, or two peoples’ time for a month. Whether the limited resource is time, money, or people, we would like to know beforehand how much of the resource will be consumed so we can wisely choose our course of action.
+Une estimation est un indicateur relatif à une ressource limitée qui sera utilisée dans un plan d'actions donné. Nous pourrions, par exemple, dans l'objectif de commercialiser un livre d'y passer deux mois de notre propre temps, ou de dépenser dix milles dollars, ou d'utiliser deux équivalents temps plein pendant un mois. Que la ressource finie soit du temps, du budget ou des personnes, nous souhaiterions savoir avant de commencer quelle quantité de cette ressource sera utilisée afin que nous puissions choisir en toute conscience notre plan d'actions.
 
-Estimates measure benefits as well as costs. Estimated benefits help decide between alternatives. Estimates of benefits are as subject to variability as estimates of costs, though, and are subject to path dependence (A or B might not be valuable but A & B are awesome).
+Les estimations prennent en compte tout autant les bénéfices que les coûts. Les bénéfices estimés permettant de décider entre telle ou telle alternative. Les estimations des bénéfices tout autant que celles des coûts sont sujettes à une certaine volatilité, et restent aussi sujettes à une certaine forme de dépendance (A ou B pourrait ne pas être utile mais A & B ensemble sont formidables).
 
-Estimates behave differently in explore, expand, and extract. These sometimes-contradictory differences partly explain why estimating software development is so hard sometimes.
+Les estimations se comportent différemment en exploration, expansion ou extraction. Ces différences, quelques fois contradictoires, expliquent en partie pourquoi les estimations en développement logiciel s'avèrent certaines fois difficiles .
 
-## Explore
+## Exploration
 
-Estimates of benefits are right out the window. The essence of exploring is that you don’t know where success will appear. You have some intuition or you wouldn’t be trying an idea, but some of the most valuable ideas are those attempted out of sheer cussedness.
+Les estimations des bénéfices sont justes de l'autre côté de la fenêtre. L'essence même de l'exploration c'est que vous ne savez pas là où le succès va apparaître. Vous avez bien quelque intuition là dessus ou sinon vous ne seriez pas en train d'essayer une idée, mais certaines des idées les plus utiles sont celles qui ont été tentés par pure effronterie.  
 
-Estimates of exploration costs are more of a challenge than a prediction. “I think I can answer this question for X dollars/hours/people.” “How about X/4?” This economy of scope is the game that makes exploring romantic. Instead of estimates, use timeboxes. “Once we’ve used X dollars/hours/people, we’re going to treat the question as answered and move on.”
+Les estimations des coûts d'exploration sont davantage de l'ordre du défi que de la prédiction. « Je pense que je peux répondre à cette question pour X euros/heures/personnes», « Et si on faisait X/4 ? ». Cette économie relative au périmètre est ce qui rend l'exploration romantique. À la place de faire des estimations, utilisez plutôt des forfaits. « Une fois que nous aurons utilisé X euros/heures/personnes, nous considérerons ce point comme réglé et continuerons à avancer. »
 
 You _can_ estimate in the large in exploration. Think of a startup selling equity for a round of funding. The amount of money may be based on some mythical “valuation”, but it’s really an estimate of how much exploration will cost times the probability of success times the value of success. You’d hate to run out of money/time/people just before succeeding, but you’d also hate to keep spending after failure is inevitable.
 
-## Expand
+En exploration, vous _pouvez_ estimer dans les grandes lignes. Pensez à une _startup_ vendant des actions lors d'un tour de financement. Le montant financier peut être basé sur une « évaluation » quelque peu chimérique, mais il s'agit vraiment d'une estimation de combien l'exploration coûtera multipliée par la probabilité de succès multipliée par la la valeur du succès. Vous détesteriez être à court de budget/temps/personnes à un cheveu de réussir, mais vous détesteriez tout autant continuer à dépenser alors que l'échec s'avère inévitable.
+
+## Expansion
 
 In the expand phase you are seeing consistent growth. This makes it possible to estimate when you are going to run out of a resource, be it money, computers, or people. You can generally only see one bottleneck ahead. Whatever you’ve done to mitigate that bottleneck changes the location and form of the next bottleneck.
 
-“According to these projections, on May 12 we will run out of disk space.” “Okay, do this and this and this to get more disks and that and that and that to use fewer disks.”
+Dans la phase expansion vous chercher une croissance constante. C'est ce qui rend possible l'estimation lorsque vous allez être à court d'une ressource, que ce soit en terme budgétaire, de matériels informatiques, ou de personnes. Tout ce que vous pouvez voir généralement c'est le prochain goulot d'étranglement. Quoi que vous fassiez pour atténuer cela, ce goulot d'étranglement va changer d'endroit pour former le prochain goulot d'étranglement.
 
-Estimates warn of trouble in expansion. If you see curves interest that you really don’t want to cross, you try to change things, and the curves remain stubbornly crossed, then it’s time to invoke plan B.
+« Selon les projections, le 12 mai, nous n'aurons plus d'espace disque. », « Okay, faites ça, ça et ça pour avoir plus de disques et ça, ça et ça pour utiliser moins de disque. »  
 
-Estimates of cost during expansion are not usually important. You have a winner, provided you can ride the rocket all the way up. Burning a little money now to make sure you make it to orbit makes sense. (Burning so much money that the rocket crashes, not so good.) Keep an eye on the total available, but don’t worry about individual actions.
+Les estimations nous préviennent des problèmes en phase d'expansion. Si vous voyez certaines choses se dessiner que vous ne voulez pas qui se réalisent, comme des courbes dont vous ne voulez qu'elles se croisent, vous essayez de changer les choses, mais il se peut que les courbes s'obstinent à se croiser, alors il est temps d'invoquer le plan B.
 
-## Extract
+Les estimations en terme de coût durant l'expansion ne sont généralement pas importantes. Souvenez-vous, vous avez tiré le ticket gagnant en phase d'exploration … à condition que vous soyez capable de chevaucher la fusée jusqu'en haut. Cela a du sens de cramer un peu de budget maintenant pour être sûr d'aller en orbite. (Par contre, cramer trop d'argent alors que la fusée s'écrase, c'est moins bon). Gardez donc un œil sur la totalité du budget disponible, mais ne vous souciez pas de chaque actions individuelles.
 
-Estimates become valuable in extraction. You have enough experience with costs and benefits to be accurate. Sequencing tasks correctly creates value. You want to realize the highest return on investment first.
+## Extraction
 
-The usual rules apply:
+Les estimations deviennent utiles lors de la phase d'extraction. Vous avez désormais assez d'expérience en matière de coûts et de bénéfices pour être plus précis. Séquencer les tâches correctement créé de la valeur. Dans cette phase, vous voulez avant tout réaliser le meilleur retour sur investissement possible.
 
-- Practice and reflect so you learn.
-- Estimate small-ish things, so surprises remain small-ish.
-- Notice when estimates suddenly go wonky. You may have re-entered exploration.
+Les règles suivantes s'appliquent :
+
+- Pratiquer et réfléchir sur ce que vous avez appris.
+- Estimer des toutes petites choses, afin que les surprises restent toutes petites.
+- Prêter attention lorsque les estimations deviennent bizarroïdes subitement . Vous êtes peut-être revenu en exploration.
 
 ## Conclusion
 
 “Estimate Sometimes” lacks the sensible ring of “plan the work, work the plan” and fails as a rallying cry beside “No Estimates!”. However, that’s the whole point of 3X. Each phase requires its own approach. Estimates are just one example.
 
+« Estimer parfois » s'écarte du point sensible « planifier le travail, exécuter le plan » et sans être pour autant le cri de ralliement de la bannière « No Estimates ! »[^1]. Toutefois, c'est tout l'intérêt de 3X. Chaque phase exige sa propre approche. Les estimations en sont justes un exemple.
+
+[^1]: « No Estimates ! » est un courant dans le mouvement Agile pour lequel l'inutilité des estimations à priori sans élément de référence n'est plus à démontrer. Que si estimations il doit y avoir, elles doivent être sur la base de données historiques sur lesquelles s'appuyer. NdT
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Auteur : [Kent Beck](https://medium.com/@kentbeck_7670/about)  
+Source : [Estimates in 3X](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243)  
+Date de parution originale : 201x  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)   
+Date de traduction : 20/04/2021  
 
 ---
 
