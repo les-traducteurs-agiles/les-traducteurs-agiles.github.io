@@ -7,11 +7,13 @@ tags:
 - 3X
 ---
 
+![Les 3 phases]({{ site.url }}assets/kent_beck/3X-topics-list.jpg)
+
 Pour la description des trois phases Exploration, Expansion et Extraction, je suis tenté de les décrire phase par phase. « Voici comment faire l'exploration », « Voici comment faire l'extraction ». Voici quelles sont les différentes techniques efficaces pour cette phase-là et comment fonctionnent-elles ensemble. Toutefois, identifier la phase dans laquelle vous vous trouvez et identifier les transitions entre les différentes phases est un problème qui peut s'avérer difficile.
 
 Toutes ces histoires ont besoin d'être racontées. Cette note introduit et rassemble une série d'articles portant chacun sur un sujet, comme l'estimation, le test, et l'organisation de l'équipe, pour chacune des trois phases. Chaque note décrira aussi la transition entre chaque phase. Lorsque cette série sera terminée, vous pourrez extirper et rassembler les différents sujets pour une phase donnée et vous aurez le début d'une approche pour gérer cette phase.
 
-- [Les estimations (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243)
+- [Les estimations (vf)](http://www.les-traducteurs-agiles.org/2021/04/20/les-estimations-en-3x.html)
 - [Le séquencement (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/sequencing-in-3x/1243615332337995)
 - [Les équipes (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/teams-in-3x/1244519748914220)
 - [Le temps (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/time-in-3x/1245493485483513)
