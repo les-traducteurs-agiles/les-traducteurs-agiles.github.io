@@ -22,19 +22,19 @@ Essayer de communiquer cette révélation s'est avérée plutôt frustrante. Je 
 
 Je me suis réveillé au milieu de la nuit avec une nouvelle approche, une nouvelle métaphore avec un nouveau vocabulaire à utiliser. Le voici.
 
-# Explorer / Étendre / Extraire
+# Exploration / Expansion / Extraction
 
-![explorer-étdendre-extraire]({{ site.url }}assets/kent_beck/note-rose-fr.png)
+![exploration-expansion-extraction]({{ site.url }}assets/kent_beck/note-rose-fr.png)
 
-Image : Explorer / Étendre / Extraire
+Image : Exploration / Expansion / Extraction
 
 Le développement produit se déroule en trois phases :
 
-1. Explorer - en partant dans une quête difficile et risquée en vue d'obtenir un retour viable sur un investissement viable. Une exploration couronnée de succès est, par nature, complètement imprévisible, donc la stratégie pour obtenir la valeur attendue la plus élevée est de réduire le coût de l'expérimentation et de faire de petits investissements dans plusieurs expérimentations non corrélées les unes aux autres. Si vous êtes chanceux, et que l'une de ces expérimentations s'avère fructueuse cela nous conduit à :
+1. Exploration - en partant dans une quête difficile et risquée en vue d'obtenir un retour viable sur un investissement viable. Une exploration couronnée de succès est, par nature, complètement imprévisible, donc la stratégie pour obtenir la valeur attendue la plus élevée est de réduire le coût de l'expérimentation et de faire de petits investissements dans plusieurs expérimentations non corrélées les unes aux autres. Si vous êtes chanceux, et que l'une de ces expérimentations s'avère fructueuse cela nous conduit à :
 
-2. Étendre - maintenant les choses deviennent un peu folles (pensez à Pokemon Go ou à Facebook Live Video). Des goulots d'étranglements inattendus font leur apparition. Tout ce que vous pouvez faire à ce moment là c'est éliminer le goulot d'étranglement qui arrive, juste avant qu'il ne vous fasse échouer. Une fois que la croissance est devenue routine, il est temps de :
+2. Expansion - maintenant les choses deviennent un peu folles (pensez à Pokemon Go ou à Facebook Live Video). Des goulots d'étranglements inattendus font leur apparition. Tout ce que vous pouvez faire à ce moment là c'est éliminer le goulot d'étranglement qui arrive, juste avant qu'il ne vous fasse échouer. Une fois que la croissance est devenue routine, il est temps de :
 
-3. Extraire - maintenant la forme des espaces du problème et de la solution est claire. Un euro investi équivaut à 3 euros récupérés. Des stratégies émergent : par exemple voici la manière de mettre en place ce service dans une nouvelle ville. Les économies d'échelles sont aussi à prendre en compte : livrer le service à un coût plus bas s'avère davantage profitable.
+3. Extraction - maintenant la forme des espaces du problème et de la solution est claire. Un euro investi équivaut à 3 euros récupérés. Des stratégies émergent : par exemple voici la manière de mettre en place ce service dans une nouvelle ville. Les économies d'échelles sont aussi à prendre en compte : livrer le service à un coût plus bas s'avère davantage profitable.
 
 Bref, nous avons devant nous de nombreuses heures sympa en perspective pour creuser ce qu'implique ce modèle mais nous venons d'en voir l'essentiel.
 
