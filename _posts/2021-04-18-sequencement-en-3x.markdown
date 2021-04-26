@@ -1,58 +1,62 @@
 ---
 layout: post
-title:  "Séquencement en 3X"
-date:   2021-04-18 10:03
-published: false
+title:  "Le séquencement en 3X"
+date:   2021-04-26 10:03
+published: true
 tags:
-- tag1
-- tag2
+- 3X
 ---
 
-Sequencing in 3X
+![Les séquencements]({{ site.url }}assets/kent_beck/3X-sequencing.jpg)
 
-Part of [Comparing Explore, Expand, and Extract](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558).
+Cet article fait partie de la série [3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction](http://www.les-traducteurs-agiles.org/2021/04/18/3x-quelques-sujets-de-comparaison-entre-exploration-expansion-et-extraction.html).
 
-Death, taxes, and sequencing. You are going to do something now and everything else later (even if the something you do now is nothing). How do you decide what to do now and what to defer?
+Mort, impôts et séquencement[^1]. Vous allez faire quelque chose maintenant et tout le reste plus tard (même si le quelque chose que vous faites maintenant c'est rien). Comment décidez-vous quoi faire maintenant et quoi reporter à plus tard ?
 
-Estimates of costs and benefits are one factor influencing sequencing. As described in [Estimates in 3X](https://www.facebook.com/notes/kent-beck/estimates-in-3x/1242012852498243), though, estimates vary in how useful they are in the different phases. In the absence of estimates, how do you choose?
+Les estimations en terme de coûts et de bénéfices sont l'un des facteurs pouvant influencer le séquencement. Comme cela est décrit dans les [estimations en 3X](http://www.les-traducteurs-agiles.org/2021/04/20/les-estimations-en-3x.html), l'utilité des estimations est variable selon les différentes phases. En l'absence d'estimations, comment faites-vous pour choisir ?
 
-## Explore
+## Exploration
 
-The bad news is that during exploration we don’t have the information we need to make optimal sequencing decisions. The good news is that sequencing doesn’t matter. Success is going to be a surprise. We’re going to roll the dice until we get double sixes. One dice roll is much like another.
+La mauvaise nouvelle c'est que durant l'exploration, nous n'avons pas les informations dont nous avons besoin pour pouvoir séquencer de manière optimale nos décisions. La bonne nouvelle c'est que ce séquencement n'a pas d'importance en soi. On ne sait pas quand va se produire une réussite, la surprise est totale. Nous allons jeter les dés encore et encore jusqu'à ce que nous obtenions un double six. Et un jet de dés ressemble à un autre jet de dés.
 
-We do have a balance question during exploration: what proportion of effort should go into experimenting and what proportion into making experimenting cheaper. This turns into a sequencing question–shall I experiment next or optimize experimenting?
+Nous devons nous poser une question cruciale lorsque nous sommes en phase d'exploration : quelle est la proportion d'effort devrions-nous consacrer en terme d'expérimentation et quelle est celle à consacrer pour rendre l'expérimentation moins cher. Autrement dit, en tournant cela sous la forme d'une question sur le séquencement : dois-je expérimenter sur autre chose ou dois-je optimiser l'expérimentation ?
 
-A reasonable heuristic for balancing and sequencing is to optimize some aspect of experimenting when it has become tedious. I call this Frustration-Driven Development.
+Une bonne heuristique pour pouvoir choisir et séquencer correctement est d'optimiser certains aspects de l'expérimentation lorsqu'elle devient fastidieuse. J'appelle cela le développement piloté par la frustration.
 
-## Expand
+## Expansion
 
-The bad news about sequencing in expansion is that if you mess it up, you’ll fail. The margin for error is tight. You are trying to clear bottlenecks just before they ruin your product.
+La mauvaise nouvelle à propos du séquencement en phase d'expansion c'est que si vous le râtez, vous échouerez. La marge d'erreur est très faible. Vous êtes en train d'essayer d'enlever les goulots d'étranglements juste avant qu'ils ne ruinent votre produit.
 
-The good news is that sequencing decisions are mostly out of your hands. You’re trying to bend the supply curve of your rate-limiting resource up and bend the demand curve down so that they no longer cross in the foreseeable future. Once you’ve done that you are faced with the next bottleneck. And once there are no bottlenecks looming, you into extraction where you _can_ finally make informed sequencing decisions.
+La bonne nouvelle c'est que ces décisions de séquencement sont pour la plupart entre vos mains. Vous êtes en train d'essayer de faire fléchir la courbe de l'offre — en deça de la limite haute à ne pas atteindre — et de faire fléchir la courbe de la demande afin qu'elles ne croisent pas dans un futur proche. Une fois que vous avez fait ça, vous faites face au prochain goulot d'étranglement. Et une fois qu'il n'y a plus de goulot d'étranglement à l'horizon, vous vous retrouvez en phase d'extraction où vous _pouvez_ enfin prendre des décisions de séquencement sur la base d'informations fiables.  
 
-![](https://scontent-cdg2-1.xx.fbcdn.net/v/t31.18172-8/14086457_10154497380318675_7907348228576767704_o.jpg?_nc_cat=107&ccb=1-3&_nc_sid=abc084&_nc_ohc=y1U4CYH12lEAX81HP5A&_nc_ht=scontent-cdg2-1.xx&oh=9f2292bd7a99bee41379b3be4dc4ec2b&oe=60A1E9F5)
+![Les séquencements]({{ site.url }}assets/kent_beck/3X-sequencing-2-fr.png)
 
-_Expansion: one damn bottleneck after another_
+_Expansion : un foutu goulot d'étranglement l'un après l'autre_
 
-## Extract
+## Extraction
 
-In extraction you have reliable estimates of costs and benefits. Sort the tasks to be done by ROI, add a little randomness to avoid local minima, and pick whatever is next.
+En extraction, vous avez des estimations fiables des coûts et des bénéfices. Vous triez les tâches à faire par région d'intérêt[^2], en y ajoutant un peu d'aléatoire pour éviter un minimum local[^3] et vous prenez ce qui vient ensuite.
 
-One heuristic is to keep the tasks small. In extraction, you have a lot to lose, so avoid making big changes. Small tasks are easier to estimate, and it’s easier to spot one that is going bad.
+Une heuristique est de faire en sorte que les tâches restent de petites tailles. En phase d'extraction, vous avez beaucoup à perdre, donc il faut éviter de faire de gros changements. De petites tâches sont plus faciles à estimer, et il est plus facile d'en détecter une pour qui les choses se passent mal.
 
 ## Conclusion
 
-The sequencing mistake is to obsess over sequencing decisions that don’t matter or can’t be made on the basis of data. All that energy would be better spent experimenting or improving experimenting.
+L'erreur en terme de séquencement est d'être obséder par des décisions de séquencement qui ne valent rien ou qui ne peuvent pas être faites sur la base de données. Toute cette énergie serait mieux employée à faire de l'expérimentation ou à améliorer l'expérimentation.
 
+[^1]: La partie de la phrase « Mort, taxe » fait référence à une citation célèbre attribuée généralement à Benjamin Franklin. Pour en savoir plus, vous pouvez vous référer à cet [article](https://en.wikipedia.org/wiki/Death_and_taxes_(idiom)) sur Wikipedia. - NdT
+
+[^2]: Une région d'intérêt (ou ROI en anglais, pour region of interest et non return on investment) est un sous-ensemble d'un jeu de données généralement d'une image. L'auteur l'applique ici aux graphiques évoqués plus haut - NdT
+
+[^3]: Imaginez une courbe ayant des hauts et des bas. Le « bas » le plus petit sur l'ensemble de la courbe est dit « minimum global » et les autres de moindre importance sont dit « minimum local ». L'auteur applique cette notion aux graphiques évoqués plus haut - NdT
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [Titre_article_en_vo](url_article_en_vo)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Auteur : [Kent Beck](https://medium.com/@kentbeck_7670/about)  
+Source : [Sequencing in 3X](https://www.facebook.com/notes/kent-beck/sequencing-in-3x/1243615332337995)  
+Date de parution originale : 201x  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
-Date de traduction : jj/mm/yyyy  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 26/04/2021  
 
 ---
 
