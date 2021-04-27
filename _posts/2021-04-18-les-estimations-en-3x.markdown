@@ -27,13 +27,9 @@ Les estimations des bénéfices sont justes de l'autre côté de la fenêtre. L'
 
 Les estimations des coûts d'exploration sont davantage de l'ordre du défi que de la prédiction. « Je pense que je peux répondre à cette question pour X euros/heures/personnes», « Et si on faisait X/4 ? ». Cette économie relative au périmètre est ce qui rend l'exploration romantique. À la place de faire des estimations, utilisez plutôt des forfaits. « Une fois que nous aurons utilisé X euros/heures/personnes, nous considérerons ce point comme réglé et continuerons à avancer. »
 
-You _can_ estimate in the large in exploration. Think of a startup selling equity for a round of funding. The amount of money may be based on some mythical “valuation”, but it’s really an estimate of how much exploration will cost times the probability of success times the value of success. You’d hate to run out of money/time/people just before succeeding, but you’d also hate to keep spending after failure is inevitable.
-
 En exploration, vous _pouvez_ estimer dans les grandes lignes. Pensez à une _startup_ vendant des actions lors d'un tour de financement. Le montant financier peut être basé sur une « évaluation » quelque peu chimérique, mais il s'agit vraiment d'une estimation de combien l'exploration coûtera multipliée par la probabilité de succès multipliée par la la valeur du succès. Vous détesteriez être à court de budget/temps/personnes à un cheveu de réussir, mais vous détesteriez tout autant continuer à dépenser alors que l'échec s'avère inévitable.
 
 ## Expansion
-
-In the expand phase you are seeing consistent growth. This makes it possible to estimate when you are going to run out of a resource, be it money, computers, or people. You can generally only see one bottleneck ahead. Whatever you’ve done to mitigate that bottleneck changes the location and form of the next bottleneck.
 
 Dans la phase expansion vous chercher une croissance constante. C'est ce qui rend possible l'estimation lorsque vous allez être à court d'une ressource, que ce soit en terme budgétaire, de matériels informatiques, ou de personnes. Tout ce que vous pouvez voir généralement c'est le prochain goulot d'étranglement. Quoi que vous fassiez pour atténuer cela, ce goulot d'étranglement va changer d'endroit pour former le prochain goulot d'étranglement.
 
@@ -54,8 +50,6 @@ Les règles suivantes s'appliquent :
 - Prêter attention lorsque les estimations deviennent bizarroïdes subitement . Vous êtes peut-être revenu en exploration.
 
 ## Conclusion
-
-“Estimate Sometimes” lacks the sensible ring of “plan the work, work the plan” and fails as a rallying cry beside “No Estimates!”. However, that’s the whole point of 3X. Each phase requires its own approach. Estimates are just one example.
 
 « Estimer parfois » s'écarte du point sensible « planifier le travail, exécuter le plan » et sans être pour autant le cri de ralliement de la bannière « No Estimates ! »[^1]. Toutefois, c'est tout l'intérêt de 3X. Chaque phase exige sa propre approche. Les estimations en sont justes un exemple.
 
