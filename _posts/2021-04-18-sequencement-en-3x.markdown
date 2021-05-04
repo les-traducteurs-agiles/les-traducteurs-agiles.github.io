@@ -45,7 +45,7 @@ L'erreur en terme de séquencement est d'être obsédé par des décisions de s�
 
 [^1]: La partie de la phrase « Mort, taxe » fait référence à une citation célèbre attribuée généralement à Benjamin Franklin. Pour en savoir plus, vous pouvez vous référer à cet [article](https://en.wikipedia.org/wiki/Death_and_taxes_(idiom)) sur Wikipedia. - NdT
 
-[^2]: Une région d'intérêt (ou ROI en anglais, pour region of interest et non return on investment) est un sous-ensemble d'un jeu de données généralement d'une image. L'auteur l'applique ici aux graphiques évoqués plus haut - NdT
+[^2]: Une zone ou région d'intérêt (ou ROI en anglais, pour region of interest et non return on investment) est un sous-ensemble d'un jeu de données généralement d'une image. L'auteur l'applique ici aux graphiques évoqués plus haut - NdT
 
 [^3]: Imaginez une courbe ayant des hauts et des bas. Le « bas » le plus petit sur l'ensemble de la courbe est dit « minimum global » et les autres de moindre importance sont dit « minimum local ». L'auteur applique cette notion aux graphiques évoqués plus haut - NdT
 
