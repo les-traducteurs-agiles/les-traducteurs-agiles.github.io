@@ -75,7 +75,7 @@ Les équipes fonctionnelles sont plus adaptées à reduire les coûts via des é
 
 Functional teams necessarily misalign incentives \[love to find a way to fix this\]. One team’s gains may involve another team’s loss. Management is responsible for communicating the overall vision and ensuring that teams optimize instead of maximize or minimize.
 
-Les équipes fonctionnelles n'ont pas forcément les mêmes motivations \[j'adorerais trouver un moyen de corriger cela\]. Ce qu'une équipe arrive à obtenir peut se faire au détriment d'une autre. L'encadrement est responsable pour communiquer la vision globale et s'assurer que les équipes optimisent les choses plutôt que les maximiser ou de les minimiser.
+Les équipes fonctionnelles ont fatalement des motivations contradictoires \[j'adorerais trouver un moyen de corriger cela\]. Ce qu'une équipe arrive à gagner de son côté peut se faire au détriment d'une autre. L'encadrement est responsable pour communiquer la vision globale et s'assurer que les équipes optimisent les choses plutôt que les maximiser ou de les minimiser.
 
 ## Conclusion
 
