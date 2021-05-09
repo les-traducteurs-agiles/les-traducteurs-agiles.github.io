@@ -75,7 +75,7 @@ Les équipes fonctionnelles sont plus adaptées à reduire les coûts via des é
 
 Functional teams necessarily misalign incentives \[love to find a way to fix this\]. One team’s gains may involve another team’s loss. Management is responsible for communicating the overall vision and ensuring that teams optimize instead of maximize or minimize.
 
-Les équipes fonctionnelles ont fatalement des motivations contradictoires \[j'adorerais trouver un moyen de corriger cela\]. Ce qu'une équipe arrive à gagner de son côté peut se faire au détriment d'une autre. L'encadrement est responsable pour communiquer la vision globale et s'assurer que les équipes optimisent les choses plutôt que les maximiser ou de les minimiser.
+Les équipes fonctionnelles ont fatalement des motivations non concordantes \[j'adorerais trouver un moyen de corriger cela\]. Ce qu'une équipe arrive à gagner de son côté peut se faire au détriment d'une autre[^4]. L'encadrement est responsable pour communiquer la vision globale et s'assurer que les équipes optimisent les choses plutôt que les maximiser ou de les minimiser.
 
 ## Conclusion
 
@@ -94,6 +94,8 @@ Ou vous pouvez essayer ces différentes formes d'équipes toutes en même temps 
 [^2]: Le Lieutenant [William Calley](https://fr.wikipedia.org/wiki/William_Calley) est un ancien militaire états-uniens ayant commis un crime de guerre lors de la guerre du Vietnam - NdT
 
 [^3]: D'autres expressions peuvent également être utilisés pour traduire l'expression « war room » : salle des opérations, centre de commandement … - NdT
+
+[^4]: Prenons par exemple une équipe dont la motivation est de rendre une application la plus rapide possible - par y arriver, elle décide d'accroître le nombre de serveurs sans prêter attention à l'équipe en charge des-dits serveurs qui a comme motivation d'avoir un parc restreint pour mieux pouvoir le gérer. - NdT
 
 ---
 Auteur : [Kent Beck](https://medium.com/@kentbeck_7670/about)  
