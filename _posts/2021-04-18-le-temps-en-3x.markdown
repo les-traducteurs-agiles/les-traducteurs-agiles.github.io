@@ -4,8 +4,7 @@ title:  "Le temps en 3X"
 date:   2021-04-18 10:07
 published: false
 tags:
-- tag1
-- tag2
+- 3X
 ---
 
 Part of [Comparing Explore, Expand, and Extract](https://www.facebook.com/notes/kent-beck/comparing-explore-expand-and-extract-topics-in-3x/1241983035834558).
