@@ -104,7 +104,7 @@ Date de parution originale : 201x
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relecture : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : jj/mm/yyyy  nbsp
 
 ---
