@@ -11,11 +11,11 @@ tags:
 
 Mark Bonchek et Chris Fussel expliquent dans leur article éponyme [pourquoi la stratégie et les plans s'avèrent insuffisants (vo)](http://blogs.hbr.org/cs/2013/02/use_doctrine_to_pierce_the_f.html) :
 
-> _Une stratégie ne donne pas suffisamment d'éléments aux employés d'une entreprise pour les guider quant à la manière de passer à l'action, et les plans s'avèrent trop rigides pour s'adapter à des changements de situation. Dans des environnements en constante évolution, vous avez besoin de balises anti-brouillard pour savoir si vous vous rapprochez du sol._
+> « Une stratégie ne donne pas suffisamment d'éléments aux employés d'une entreprise pour les guider quant à la manière de passer à l'action, et les plans s'avèrent trop rigides pour s'adapter à des changements de situation. Dans des environnements en constante évolution, vous avez besoin de balises anti-brouillard pour savoir si vous vous rapprochez du sol. »
 
 … où les « balises anti-brouillard » représentent la doctrine.
 
-> _Une doctrine permet de créer un cadre de référence commun à l'intérieur duquel les individus peuvent prendre des décisions rapides justifiées compte tenu des circonstances dans lesquelles elles sont prises … Si la stratégie permet de définir les objectifs et que les plans préconisent les comportements, alors la doctrine permet de guider les décisions._
+> « Une doctrine permet de créer un cadre de référence commun à l'intérieur duquel les individus peuvent prendre des décisions rapides justifiées compte tenu des circonstances dans lesquelles elles sont prises … Si la stratégie permet de définir les objectifs et que les plans préconisent les comportements, alors la doctrine permet de guider les décisions. »
 
 Autrement dit, **la doctrine nous permet de décentraliser, en toute sécurité, la prise de décision par la mise en place d'une logique de décision cohérente**.
 
@@ -44,8 +44,8 @@ J'ai quelques problèmes avec cette proposition pour les raisons suivantes :
 
 J'ai tendance à préferer plutôt une méthode Agile concrète. En raison de mon histoire personnelle, j'aurais tendance à préférer [Extreme Programming](http://jchyip.blogspot.com.au/2011/05/listen-test-code-refactor-learn-target.html) :
 
-> _Le logiciel est quelque chose de bien trop difficile pour passer du temps sur des choses qui ne valent pas le coup. Donc, si nous recommencions tout depuis le début, quelles sont les choses qui comptent absolument à nos yeux ? … **Écouter, Tester, Coder, Réusiner**. C'est tout ce qui compte pour (faire) du logiciel. Toute personne qui vous dit quelque chose de différent est en train de vous vendre quelque chose._
-
+> « Le logiciel est quelque chose de bien trop difficile pour passer du temps sur des choses qui ne valent pas le coup. Donc, si nous recommencions tout depuis le début, quelles sont les choses qui comptent absolument à nos yeux ? … **Écouter, Tester, Coder, Réusiner**. C'est tout ce qui compte pour (faire) du logiciel. Toute personne qui vous dit quelque chose de différent est en train de vous vendre quelque chose. »
+>
 > Kent Beck
 
 Écouter, Tester, Coder, Réusiner - ces 4 verbes semblent bien trop orientés développement logiciel pour s'apprêter à une doctrine Agile généraliste, poussons donc un peu plus loin …
@@ -69,12 +69,12 @@ Je fais ici référence à deux types de distance :
 
 En d'autres termes, en utilisant les termes mêmes de tout professionnel Agile un temps soit peu efficace :
 
-> **Est-ce que vous avez un test pour ça ?
+> **Est-ce que vous avez un test pour ça** ?
 
 ### 3. Faire de plus petites étapes
 
-> _…parmi toutes les améliorations les plus importantes de ces dernières années en terme de développement produit, certaines comme l'ingénierie concurrente, le prototypage rapide et les méthodes agiles ont comme caractéristique que de participer à **la réduction de la taille des lots**
-
+> « … parmi toutes les améliorations les plus importantes de ces dernières années en terme de développement produit, certaines comme l'ingénierie concurrente, le prototypage rapide et les méthodes agiles ont comme caractéristique que de participer à **la réduction de la taille des lots**. »
+>
 > Extrait du livre [The Principles of Product Development Flow](http://www.amazon.com/gp/product/B007TKU0O0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007TKU0O0&linkCode=as2&tag=youdthinwitha-20) de Don Reinertsen
 
 Il en découle alors des lots de travaux plus petits, des livraisons plus petites, etc.
@@ -83,7 +83,7 @@ Et parce qu'éviter les coûts de transaction est généralement la raison princ
 
 ### 4. S'améliorer au fur et à mesure
 
-> _Quittez ce monde en le laissant un peu meilleur qu'il ne l'était quand vous l'avez trouvé._
+> « Quittez ce monde en le laissant un peu meilleur qu'il ne l'était quand vous l'avez trouvé. »
 >
 > Robert Baden-Powell   
 
