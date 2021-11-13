@@ -99,7 +99,7 @@ Répéter toutes les deux semaines les étapes 5 & 6.
 
 Et si vous êtes plutôt Kanban alors garder les étapes 1, 2, 3 et 4, ajuster comme bon vous semble les étapes 5 et 6.
 
-Après avoir fini, terminé et publié [Succeeding with OKRs](https://amzn.to/3iWOH9O), je souhaiterais avoir été plus clair dans le livre. Les idées sont là mais avec le temps elles sont devenues beaucoup plus claires … peut être bien que [j'ai besoin de faire d'un autre livre](https://leanpub.com/agileokrsextra).
+Après avoir fini, terminé et publié [Succeeding with OKRs](https://amzn.to/3iWOH9O), je souhaiterais avoir été plus clair dans le livre. Les idées sont là mais avec le temps elles sont devenues beaucoup plus claires … peut-être bien que [j'ai besoin de faire d'un autre livre](https://leanpub.com/agileokrsextra).
 
 [^1]: OKR - Objectives and key results - Objectifs et résultats clés est une approche visant à aider à la définition et de suivi d'objectifs - NdT
 
