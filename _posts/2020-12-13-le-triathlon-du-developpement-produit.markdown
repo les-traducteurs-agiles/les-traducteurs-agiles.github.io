@@ -17,7 +17,7 @@ Le présent article est la republication d'un [précédent article](https://www.
 
 Image : la révélation
 
-Les quatre deniers mois ont été féconds au-delà de toute espérance en ce qui me concerne. J'ai changé ma manière d'aborder le développement logiciel mais aussi la vie en général. Différents profils de risques exigent différentes approches, mais je peux quelques fois choisir le profil de risque que j'utilise dans une situation donnée.
+Les quatre derniers mois ont été féconds au-delà de toute espérance en ce qui me concerne. J'ai changé ma manière d'aborder le développement logiciel mais aussi la vie en général. Différents profils de risques exigent différentes approches, mais je peux quelques fois choisir le profil de risque que j'utilise dans une situation donnée.
 
 Essayer de communiquer cette révélation s'est avérée plutôt frustrante. Je me sens comme un chiot en promenade. C'est comme si je courais devant, que je trouvais un _super_ bâton, que je le ramenais, que je l'apportais aux pieds de mon maître et que j'aboyais maintenant dans tous les sens sans que personne ne prête attention à ce bâton et à quel point il est vraiment _super_.
 
@@ -33,11 +33,11 @@ Le développement produit se déroule en trois phases :
 
 1. Exploration - en partant dans une quête difficile et risquée en vue d'obtenir un retour viable sur un investissement viable. Une exploration couronnée de succès est, par nature, complètement imprévisible, donc la stratégie pour obtenir la valeur attendue la plus élevée est de réduire le coût de l'expérimentation et de faire de petits investissements dans plusieurs expérimentations non corrélées les unes aux autres. Si vous êtes chanceux, et que l'une de ces expérimentations s'avère fructueuse cela nous conduit à :
 
-2. Expansion - maintenant les choses deviennent un peu folles (pensez à Pokemon Go ou à Facebook Live Video). Des goulots d'étranglements inattendus font leur apparition. Tout ce que vous pouvez faire à ce moment là c'est éliminer le goulot d'étranglement qui arrive, juste avant qu'il ne vous fasse échouer. Une fois que la croissance est devenue routine, il est temps de :
+2. Expansion - maintenant les choses deviennent un peu folles (pensez à Pokémon Go ou à Facebook Live Video). Des goulots d'étranglements inattendus font leur apparition. Tout ce que vous pouvez faire à ce moment-là c'est éliminer le goulot d'étranglement qui arrive, juste avant qu'il ne vous fasse échouer. Une fois que la croissance est devenue routine, il est temps de :
 
 3. Extraction - maintenant la forme des espaces du problème et de la solution est claire. Un euro investi équivaut à 3 euros récupérés. Des stratégies émergent : par exemple voici la manière de mettre en place ce service dans une nouvelle ville. Les économies d'échelles sont aussi à prendre en compte : livrer le service à un coût plus bas s'avère davantage profitable.
 
-Bref, nous avons devant nous de nombreuses heures sympa en perspective pour creuser ce qu'implique ce modèle mais nous venons d'en voir l'essentiel.
+Bref, nous avons devant nous de nombreuses heures sympas en perspective pour creuser ce qu'implique ce modèle mais nous venons d'en voir l'essentiel.
 
 # Leçons apprises de ce Triathlon
 
@@ -53,15 +53,15 @@ Bref, nous avons devant nous de nombreuses heures sympa en perspective pour creu
 
 * La manière dont chacune des trois phases avance se recoupe peu ou prou. L'exploration (la nage) paraît lente. Les expériences échouent les unes après les autres. De faux-espoirs sont anéantis. Jour après jour. Puis vient le succès du jour au lendemain de l'expansion (le vélo). Les progrès qui auraient pris des mois se font en quelques jours ou quelques heures, tout comme un kilomètre en vélo est _sans commune mesure_ plus court qu'un kilomètre à la nage.
 
-* ??? \[j'espère avoir quelques suggestions de la part de tri-athlètes ou de poètes\]
+* ??? \[J'espère avoir quelques suggestions de la part de triathlètes ou de poètes\]
 
 # Application
 
 Quelques éléments à souligner :
 
-* Choisir l'exploration. Si vous êtes en pleine extraction et que vous commencez à perdre espoir ou que êtes victime de surmenage, passez alors délibérément en phase d'exploration.
+* Choisir l'exploration. Si vous êtes en pleine extraction et que vous commencez à perdre espoir ou que vous êtes victime de surmenage, passez alors délibérément en phase d'exploration.
 
-* Accélérer l'expérimentation. Si vous avez suivi toutes les règles et que vos expériences ne mènent nulle part, brisez alors les règles pour expérimenter plus vite. Si ces expérimentations n'ont pas été faites pour durer, quelque chose de rapide et de facile ne vous coûtera pas alors grand chose à long terme.
+* Accélérer l'expérimentation. Si vous avez suivi toutes les règles et que vos expériences ne mènent nulle part, brisez alors les règles pour expérimenter plus vite. Si ces expérimentations n'ont pas été faites pour durer, quelque chose de rapide et de facile ne vous coûtera pas alors grand-chose à long terme.
 
 * Transition. Si les choses ne se passent pas bien, regardez si vous avez changé de phases sans y prêter attention. Si c'est le cas, changez alors les règles du jeu pour qu'elles correspondent à la phase dans laquelle vous êtes.
 
