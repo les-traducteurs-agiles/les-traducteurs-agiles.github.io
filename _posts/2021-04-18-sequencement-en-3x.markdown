@@ -19,7 +19,7 @@ Les estimations en termes de coûts et de bénéfices sont l'un des facteurs pou
 
 La mauvaise nouvelle c'est que durant l'exploration, nous n'avons pas les informations dont nous avons besoin pour pouvoir séquencer de manière optimale nos décisions. La bonne nouvelle c'est que ce séquencement n'a pas d'importance en soi. On ne sait pas quand se produit une réussite, la surprise est totale. Nous allons jeter les dés jusqu'à ce que nous obtenions un double six. Quoi de plus semblable qu’un jet de dés si ce n’est un autre jet de dés.
 
-Nous devons nous poser une question cruciale lorsque nous sommes en phase d'exploration : quelle est la proportion d'effort devrions-nous consacrer en termes d'expérimentation et quelle est celle à consacrer pour rendre l'expérimentation moins cher. Autrement dit, en tournant cela sous la forme d'une question sur le séquencement : dois-je expérimenter sur autre chose ou dois-je optimiser l'expérimentation ?
+Nous devons nous poser une question cruciale lorsque nous sommes en phase d'exploration : quelle proportion d'effort devrions-nous consacrer en termes d'expérimentation et quelle est celle à consacrer pour rendre l'expérimentation moins chère. Autrement dit, en tournant cela sous la forme d'une question sur le séquencement : dois-je expérimenter autre chose ou dois-je optimiser l'expérimentation ?
 
 Une bonne heuristique pour faire un choix et séquencer correctement est d'optimiser certains aspects de l'expérimentation lorsqu'elle devient fastidieuse. J'appelle cela le développement piloté par la frustration.
 
