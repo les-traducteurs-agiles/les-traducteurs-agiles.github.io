@@ -11,15 +11,15 @@ tags:
 
 Cet article fait partie de la série [3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction](http://www.les-traducteurs-agiles.org/2021/04/18/3x-quelques-sujets-de-comparaison-entre-exploration-expansion-et-extraction.html).
 
-Mort, impôts et séquencement[^1]. Vous allez faire quelque chose maintenant et tout le reste plus tard (même si le quelque chose que vous faites maintenant c'est rien). Comment décidez-vous ce que vous allez faire maintenant et ce que vous reportez à plus tard ?
+Mort, impôts et séquencement[^1]. Vous allez faire quelque chose maintenant et tout le reste plus tard (même si le quelque chose que vous faites maintenant ce n'est rien). Comment décidez-vous ce que vous allez faire maintenant et ce que vous reportez à plus tard ?
 
-Les estimations en terme de coûts et de bénéfices sont l'un des facteurs pouvant influencer le séquencement. Tel que cela est décrit dans les [estimations en 3X](http://www.les-traducteurs-agiles.org/2021/04/20/les-estimations-en-3x.html), l'utilité des estimations est variable selon les différentes phases. En l'absence d'estimations, comment faites-vous pour choisir ?
+Les estimations en termes de coûts et de bénéfices sont l'un des facteurs pouvant influencer le séquencement. Tel que cela est décrit dans les [estimations en 3X](http://www.les-traducteurs-agiles.org/2021/04/20/les-estimations-en-3x.html), l'utilité des estimations est variable selon les différentes phases. En l'absence d'estimations, comment faites-vous pour choisir ?
 
 ## Exploration
 
 La mauvaise nouvelle c'est que durant l'exploration, nous n'avons pas les informations dont nous avons besoin pour pouvoir séquencer de manière optimale nos décisions. La bonne nouvelle c'est que ce séquencement n'a pas d'importance en soi. On ne sait pas quand se produit une réussite, la surprise est totale. Nous allons jeter les dés jusqu'à ce que nous obtenions un double six. Quoi de plus semblable qu’un jet de dés si ce n’est un autre jet de dés.
 
-Nous devons nous poser une question cruciale lorsque nous sommes en phase d'exploration : quelle est la proportion d'effort devrions-nous consacrer en terme d'expérimentation et quelle est celle à consacrer pour rendre l'expérimentation moins cher. Autrement dit, en tournant cela sous la forme d'une question sur le séquencement : dois-je expérimenter sur autre chose ou dois-je optimiser l'expérimentation ?
+Nous devons nous poser une question cruciale lorsque nous sommes en phase d'exploration : quelle proportion d'effort devrions-nous consacrer en termes d'expérimentation et quelle est celle à consacrer pour rendre l'expérimentation moins chère. Autrement dit, en tournant cela sous la forme d'une question sur le séquencement : dois-je expérimenter autre chose ou dois-je optimiser l'expérimentation ?
 
 Une bonne heuristique pour faire un choix et séquencer correctement est d'optimiser certains aspects de l'expérimentation lorsqu'elle devient fastidieuse. J'appelle cela le développement piloté par la frustration.
 
@@ -41,7 +41,7 @@ Une heuristique est de faire en sorte que les tâches restent de petites tailles
 
 ## Conclusion
 
-L'erreur en terme de séquencement est d'être obsédé par des décisions de séquencement qui ne valent rien ou qui ne peuvent pas être basées sur des données. Toute cette énergie serait bien mieux employée en expérimentant ou en améliorant l'expérimentation.
+L'erreur en termes de séquencement est d'être obsédé par des décisions de séquencement qui ne valent rien ou qui ne peuvent pas être basées sur des données. Toute cette énergie serait bien mieux employée en expérimentant ou en améliorant l'expérimentation.
 
 [^1]: La partie de la phrase « Mort, taxe » fait référence à une citation célèbre attribuée généralement à Benjamin Franklin. Pour en savoir plus, vous pouvez vous référer à cet [article](https://en.wikipedia.org/wiki/Death_and_taxes_(idiom)) sur Wikipedia. - NdT
 
