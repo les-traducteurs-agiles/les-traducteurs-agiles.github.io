@@ -42,7 +42,7 @@ J'ai quelques problèmes avec cette proposition pour les raisons suivantes :
 
 ### Qu'en est-il d'Extreme Programming ?
 
-J'ai tendance à préferer plutôt une méthode Agile concrète. En raison de mon histoire personnelle, j'aurais donc tendance à préférer [Extreme Programming](http://jchyip.blogspot.com.au/2011/05/listen-test-code-refactor-learn-target.html) :
+J'ai tendance à préférer plutôt une méthode Agile concrète. En raison de mon histoire personnelle, j'aurais donc tendance à préférer [Extreme Programming](http://jchyip.blogspot.com.au/2011/05/listen-test-code-refactor-learn-target.html) :
 
 > « Le logiciel est quelque chose de bien trop difficile pour passer du temps sur des choses qui ne valent pas le coup. Donc, si nous recommencions tout depuis le début, quelles sont les choses qui comptent absolument à nos yeux ? … **Écouter, Tester, Coder, Réusiner**. C'est tout ce qui compte pour (faire) du logiciel. Toute personne qui vous dit quelque chose de différent est en train de vous vendre quelque chose. »
 >
@@ -59,21 +59,21 @@ J'ai entendu pour la première fois cette phrase de la part de [John Sullivan](h
 Je fais ici référence à deux types de distance :
 
 1. **La distance physique**
-2. **La distance conceptuel**, c'est-à-dire, de quelle manière le problème est-il conceptuellement accessible aux personnes qui vont résoudre le problème. Cela nous mène à des choses comme rendre les problèmes visibles, avoir de meilleures techniques pour modéliser le problème, etc.
+2. **La distance conceptuelle**, c'est-à-dire, de quelle manière le problème est-il conceptuellement accessible aux personnes qui vont résoudre le problème. Cela nous mène à des choses comme rendre les problèmes visibles, avoir de meilleures techniques pour modéliser le problème, etc.
 
 ### 2. Valider chaque étape
 
 - Quel est le résultat souhaité ?
-- Pourquoi passez-vous par cette étape ? Est-ce que cela vous rapproche du résultat souhaité ?
+- Pourquoi passez vous par cette étape ? Est-ce que cela vous rapproche du résultat souhaité ?
 - Comment saurez-vous que cette étape a été faite et franchie avec succès ?
 
-En d'autres termes, en utilisant les termes mêmes de tout professionnel Agile un temps soit peu efficace :
+En d'autres termes, en utilisant les termes mêmes de tout professionnel Agile un tant soit peu efficace :
 
 > **Avez-vous un test pour ça** ?
 
 ### 3. Faire de plus petites étapes
 
-> « … parmi toutes les améliorations les plus importantes de ces dernières années en terme de développement produit, certaines comme l'ingénierie concurrente, le prototypage rapide et les méthodes agiles ont comme caractéristique que de participer à **la réduction de la taille des lots**. »
+> « … parmi toutes les améliorations les plus importantes de ces dernières années en termes de développement produit, certaines comme l'ingénierie concurrente, le prototypage rapide et les méthodes agiles ont comme caractéristique que de participer à **la réduction de la taille des lots**. »
 >
 > Extrait du livre [The Principles of Product Development Flow](http://www.amazon.com/gp/product/B007TKU0O0/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B007TKU0O0&linkCode=as2&tag=youdthinwitha-20) de Don Reinertsen
 
