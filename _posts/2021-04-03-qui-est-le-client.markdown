@@ -58,7 +58,7 @@ Une petite entreprise a un niveau de complexité intermédiaire. Le client est s
 
 À chaque fois que vous avez des types de clients différents se retrouvent impliqués dans l'achat du produit, et plus spécifiquement lorsque l'un d'entre eux utilise l'argent des autres, vous avez alors des _problèmes d'agences_ (cf. [Références](#ref)) : qui agit en tant qu'agent pour qui ?
 
-Autrement dit, les gens sont davantage motivés par maximiser leur propre profit plutôt que disons l'entreprise pour laquelle il travaille. Est-ce quelqu'un a choisit ce produit par qu'il s'agit du meilleur choix, ou simplement parce que dépenser $5 Millions lui permet d'apparaître comme plus important ?
+Autrement dit, les gens sont davantage motivés par maximiser leur propre profit plutôt que disons l'entreprise pour laquelle il travaille. Est-ce quelqu'un a choisi ce produit par qu'il s'agit du meilleur choix, ou simplement parce que dépenser $5 Millions lui permet d'apparaître comme plus important ?
 
 ## Qui sont les bénéficiaires ?
 
