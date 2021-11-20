@@ -37,7 +37,7 @@ Dans la phase expansion vous chercher une croissance constante. C'est ce qui ren
 
 Les estimations nous préviennent des problèmes en phase d'expansion. Si vous voyez certaines choses se dessiner que vous ne voulez pas qui se réalisent, comme des courbes dont vous ne voulez qu'elles se croisent, vous essayez de changer les choses, mais il se peut que les courbes s'obstinent à se croiser, alors il est temps d'invoquer le plan B.
 
-Les estimations en termes de coût durant l'expansion ne sont généralement pas importantes. Souvenez-vous, vous avez tiré le ticket gagnant en phase d'exploration … à condition que vous soyez capable de chevaucher la fusée jusqu'en haut. Cela a du sens de cramer un peu de budget maintenant pour être sûr d'aller en orbite. (Par contre, cramer trop d'argent alors que la fusée s'écrase, c'est moins bon). Gardez donc un œil sur la totalité du budget disponible, mais ne vous souciez pas de chaque actions individuelles.
+Les estimations en termes de coût durant l'expansion ne sont généralement pas importantes. Souvenez-vous, vous avez tiré le ticket gagnant en phase d'exploration … à condition que vous soyez capable de chevaucher la fusée jusqu'en haut. Cela a du sens de cramer un peu de budget maintenant pour être sûr d'aller en orbite. (Par contre, cramer trop d'argent alors que la fusée s'écrase, c'est moins bon). Gardez donc un œil sur la totalité du budget disponible, mais ne vous souciez pas de chaque action individuelle.
 
 ## Extraction
 
