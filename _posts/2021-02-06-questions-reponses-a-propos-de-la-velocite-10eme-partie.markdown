@@ -16,12 +16,11 @@ Pour cette discussion, explorons ensemble l'idée de faire du bon boulot rapidem
 
 Il y a des choses intéressantes dans ce que dit A. En fait, les compétences, et les outils et le savoir-faire peuvent permettre de travailler plus vite. Un développeur avec une bonne connaissance de ses outils et de tas d'autres choses peut accomplir son travail en beaucoup moins de temps qu'un développeur ayant moins de connaissances.   
 
-Ceci est souvent confondu avec être un « développeur puissance 10 » mais il s'agit en fait d'un simple développeur entouré d'autres individus qui ne connaissent ni l'environnement technique, ni la base de code ni les outils. Si vous aimez les développeurs puissance 10, investissez en eux pour les aider à apprendre à aller plus vite. C'est ce qui est évoqué dans Modern Agile [« Rendre les gens fantastiques»](http://modernagile.org/#guidingPrinciples), et dans le Manifeste Agile [« Fournissez-leur l’environnement et le soutien dont ils
-ont besoin »](http://agilemanifesto.org/iso/fr/principles.html).
+Ceci est souvent confondu avec être un « développeur puissance 10 » mais il s'agit en fait d'un simple développeur entouré d'autres individus qui ne connaissent ni l'environnement technique, ni la base de code ni les outils. Si vous aimez les développeurs puissance 10, investissez en eux pour les aider à apprendre à aller plus vite. C'est ce qui est évoqué dans Modern Agile [« Rendre les gens fantastiques »](http://modernagile.org/#guidingPrinciples), et dans le Manifeste Agile [« Fournissez-leur l’environnement et le soutien dont ils ont besoin »](http://agilemanifesto.org/iso/fr/principles.html).
 
 Mais avançons …
 
-> A : D'accord. **Supposons donc** que le goulot d'étranglement se situe dans le développement; Qu'est-ce que nous changeons ?  
+> A : D'accord. **Supposons donc** que le goulot d'étranglement se situe dans le développement ; Qu'est-ce que nous changeons ?  
 > B : Toute chose qui rend difficile ou risquée de livrer du code opérationnel aujourd'hui.  
 > A : Comment savons-nous ce qu'il en est, ou ce que nous devons faire à la place ?  
 > B : En expérimentant. Certains changements apportent quelque chose, d'autres non.  
@@ -39,7 +38,7 @@ Si nous ne donnons pas les moyens d'apprendre et d'expérimenter, alors nous ne 
 
 Est-ce possible d'être vu en train d'apprendre et d'essayer des choses au travail ? Que se passe t'il si vous essayer quelque chose et que cela ne fonctionne pas ? Comment cela apparaît-il sur l'entretien annuel ?
 
-Nous espérons qu'une approche expérimentale, informative, attentive du développement logiciel soit perçue comme quelque chose de positif de la part de l'organisation. Il est arrivé cependant que la vélocité soit récompensée et que le savoir-faire soit récompensée mais aucune concession ne doit être faite pour rendre possible l'acquisition de la vélocité et du savoir-faire. Sinon cela rend très difficile la perspective de pouvoir retenir des gens motivés.
+Nous espérons qu'une approche expérimentale, informative, attentive du développement logiciel soit perçue comme quelque chose de positif de la part de l'organisation. Il est arrivé cependant que la vélocité soit récompensée et que le savoir-faire soit récompensé mais aucune concession ne doit être faite pour rendre possible l'acquisition de la vélocité et du savoir-faire. Sinon cela rend très difficile la perspective de pouvoir retenir des gens motivés.
 
 > A : Il nous est impossible de réduire le périmètre. Il nous est impossible de décaler la date cible. Il nous est impossible d'expérimenter. Qu'avez-vous d'autres à nous proposer ?  
 > B : **Échouer du mieux que vous pouvez**. Faites du mieux que vous le pouvez, en partant du principe que vous allez échouer.
@@ -48,13 +47,13 @@ Le « meilleur échec possible » fait ici office d'objectif à atteindre pour u
 
 Le pire échec possible est d'avoir 100% du travail terminé à 90%. Rien n'est livrable ni utile. C'est un gâchis.
 
-Avoir 90% du travail fait à 100% est un succès partiel. Ce n'est pas une réussite à 100%, mais c'est tout de même 90% des fonctionnalités utilisables, fonctionnelles, démontrables et vendables. Cela ne satisfait peut être pas tout le monde, mais cela peut aider certaines personnes. Seule une partie de la valeur est livrée, et c'est tout de même vachement mieux que d'avoir zéro valeur.
+Avoir 90% du travail fait à 100% est un succès partiel. Ce n'est pas une réussite à 100%, mais c'est tout de même 90% des fonctionnalités utilisables, fonctionnelles, démontrables et vendables. Cela ne satisfait peut-être pas tout le monde, mais cela peut aider certaines personnes. Seule une partie de la valeur est livrée, et c'est tout de même vachement mieux que d'avoir zéro valeur.
 
-Si vous ne pouvez pas allez plus vite, alors faites de votre mieux avec votre vitesse actuelle. Échouer aussi bien que possible.
+Si vous ne pouvez pas aller plus vite, alors faites de votre mieux avec votre vitesse actuelle. Échouer aussi bien que possible.
 
 >   
 > A : C'est tout ?  
-> B : Non. Rappelez-vous que le développement n'est peut être pas le goulot d'étranglement.
+> B : Non. Rappelez-vous que le développement n'est peut-être pas le goulot d'étranglement.
 
 Les organisations sont stupéfaites et vexées de découvrir que leur temps de traversée de 45 jours de mise à disposition jusqu'au marché ne puisse pas être amélioré (de beaucoup) en accélérant la phase de  développement tout simplement parce que le développement n'est pas le premier consommateur de temps dans leur cas.
 
@@ -88,15 +87,15 @@ Et s'il y a un changement intervient en 4, puis en 9, en 4 à nouveau, puis enco
 
 Mais si vous êtes dans cette situation, alors ce sont de _**très bonnes nouvelles**_.
 
-Vous n'avez pas besoin d'être un génie technique pour corriger les temps d'attente ou les fils d'attente. Cela demande seulement quelqu'un avec des barrettes de responsables et un peu d'approche systémique.
+Vous n'avez pas besoin d'être un génie technique pour corriger les temps d'attente ou les files d'attente. Cela demande seulement quelqu'un avec des barrettes de responsables et un peu d'approche systémique.
 
-Vous pouvez le faire. Vous pouvez faire la GROSSE différence en terme de délai de mise sur le marché.
+Vous pouvez le faire. Vous pouvez faire la GROSSE différence en termes de délai de mise sur le marché.
 
 Vous pouvez donner à vos employés [l’environnement et le soutien dont ils ont besoin](http://agilemanifesto.org/iso/fr/principles.html). Est-ce de la formation ? de l'information ? sur la théorie du management ? des ordinateurs plus rapides ? [Leur apprendre à prévenir les anomalies ? (vo)](https://agileotter.blogspot.com/2014/01/bug-teams-well-meaning-foolishness.html). Leur apprendre à utiliser leur compétence de développeurs plus efficacement ? Éliminer les silos (travailler ensemble plutôt que de s'attendre au travers des fils d'attente) ?
 
 Vous pouvez changer le système. Vous êtes un responsable. Vous en avez les [compétences et la lattitude (vo)](http://agileotter.blogspot.com/2017/09/the-5-ts.html).
 
-Et ça, c'est pas des bonnes nouvelles ?
+Et ça, ce n'est pas des bonnes nouvelles ?
 
 [^1]: ou time-to-market si vous préférez le terme anglophone
 
