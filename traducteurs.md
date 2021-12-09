@@ -79,6 +79,16 @@ permalink: /traducteurs/
 </div>
 
 <div class="thumbnails">
+  <img src="/assets/lta/christophe_gesché.jpg" />  
+
+  <h4> Christophe Gesché </h4>
+  <p>Twitter : <a href="https://twitter.com/Moosh_be">@Moosh_be</a></p>
+  <p>LinkedIn : <a href="https://www.linkedin.com/in/moosh/">Christophe Gesché</a><br />&nbsp;</p>
+  <p>&nbsp;</p>
+</div>
+
+
+<div class="thumbnails">
   <img src="http://www.gravatar.com/avatar/4887ddb695f685cdbc2c6a632ce8f940?s=180" />  
 
   <h4> Florent Lothon </h4>
