@@ -15,8 +15,8 @@ Toutes ces histoires ont besoin d'être racontées. Cette note introduit et rass
 
 - [Les estimations (vf)](http://www.les-traducteurs-agiles.org/2021/04/20/les-estimations-en-3x.html)
 - [Le séquencement (vf)](http://www.les-traducteurs-agiles.org/2021/04/26/sequencement-en-3x.html)
-- [Les équipes (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/teams-in-3x/1244519748914220)
-- [Le temps (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/time-in-3x/1245493485483513)
+- [Les équipes (vf)](http://www.les-traducteurs-agiles.org/2021/06/20/les-equipes-en-3x.html)
+- [Le temps (vf)](http://www.les-traducteurs-agiles.org/2021/12/12/le-temps-en-3x.html)
 - [L'argent (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/money-in-3x/1248165731882955)
 - Le risque
 - [L'économie (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/economy-in-3x/1249013955131466)
