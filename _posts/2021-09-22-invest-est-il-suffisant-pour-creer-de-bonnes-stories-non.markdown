@@ -101,23 +101,23 @@ Je me rappelle d'un projet visant à remplacer un vieux système existant avec p
 
 However, most times I’ve seen a hundred stories, or even hundreds, the teams weren’t collaborating deeply or well. Rather, they seemed to use the set of stories (held in a tool) to _avoid_ conversations and let analysis “get ahead”.  (For the record, dumping lots of stories in a tool is _not_ collaboration.)
 
-Toutefois, la plupart du temps lorsque je vois une centaine de _stories_, ou même des centainesn, les équipes ne collaborent pas bien ou de manière suffisante. À la place de cela, elles smeblent utilisés l'ensemble des _stories_ (souvent contenues dans un outil) pour _éviter_ les conversations et laisser l'analyse « mener la danse ».
+Toutefois, la plupart du temps lorsque je vois une centaine de _stories_, ou même des centaines, les équipes ne collaborent pas bien ou de manière suffisante. À la place de cela, elles smeblent utilisés l'ensemble des _stories_ (souvent contenues dans un outil) pour _éviter_ les conversations et laisser l'analyse « mener la danse ».
 
 Instead, agile teams _limit_ work in progress (WIP). They’ve found it better to have the conversation, and move on to implementing and deploying while it’s still fresh in everybody’s minds. You may then be able to get feedback, ideally from real use, and adjust future directions based on what you learn. 
 
-
+Au lieu de cela, les équipes agiles limitent le travail en cours (TEC). Elles ont découvert qu'il est mieux d'avoir une conversion, puis d'aller faire l'implémentation et le déploiement tant que c'est toujours frais à l'esprit.  Vous pourrez alors être en mesure d'avoir des retours d'informations, idéalement issus après une utilisation réelle et d'ajuster les orientations futures en fonction de ce que vous avez appris.
 
 > Stories replace documentation and handoffs with a dynamic interplay of conversation, experiments, implementation, and feedback.
 
-
+> Les _stories_ remplace la documentation et les multiples passages de relais par une dynamique de conversations, d'expérimentatons, d'implémentations et de retours d'informations.
 
 Stories replace documentation and handoffs with a dynamic interplay of conversation, experiments, implementation, and feedback. Rather than the old mostly-stable context, Agile teams recognize that most work now takes place in a constantly-evolving environment, and they must respond accordingly.
 
-
+Les _stories_ remplacent la documentation et les multiples passages de relais par une dynamique de conversations, d'expérimentatons, d'implémentations et de retours d'informations. Plutôt que l'ancien contexte plutôt stable la plupart du temps, les équipes agiles reconnaissent le fait que travail se déroule désormais la plupart du temps dans un environnement en constante évolution et qu'elles doivent y réagir de manière adaptée.
 
 ## **A Product Isn’t a Bunch of Stories – or a Bunch of Code**
 
-
+## **Un produit n'est pas un paquet de _stories_ — ou un paquet de code**
 
 Stories can help in development, but there’s more to a product than stories or the code that implements them. A software product is not just software – it participates in and creates a whole ecosystem. 
 
