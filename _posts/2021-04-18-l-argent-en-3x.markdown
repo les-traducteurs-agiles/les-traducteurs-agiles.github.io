@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "L'argent en 3X"
-date:   2021-12-19 00:01
-published: false
+date:   2021-12-20 00:01
+published: true
 tags:
 - 3X
 ---
@@ -55,7 +55,7 @@ L'extraction est la phase où l'argent commence à se comporter comme de l'argen
 
 La valeur en phase d'exploration et d'expansion est pilotée par la valeur de l'option. Autrement dit, en phase d'exploration, vous faites des promesses et les investisseurs valorisent ces promesses. En phase d'extraction, la valeur est pilotée par les flux de trésorerie. La croissance est multipliée par 2, 3, 5 et basée sur l'historique, elle n'est pas multipliée par 1 000 et n'est pas basée ni sur des contes de fées ni sur une bonne dose d'optimisme.
 
-Les montants absolus changent une nouvelle fois, ils sont de deux ordres de magnitude plus élevés qu'ils ne l'étaient en phase d'expansion. Vous devez soit ajuster les montants soit embaucher du monde qui n'est pas intimidé par tous ces zéros.
+Les montants absolus changent une nouvelle fois, ils sont de deux ordres de magnitude plus élevés qu'ils ne l'étaient en phase d'expansion. Vous devez soit ajuster les montants soit embaucher du monde qui ne soit pas intimidé par tous ces zéros.
 
 L'argent en phase d'extraction a un effet de levier beaucoup plus petit. Vous pouvez dépenser une centaine de millions d'eurso pour en gagner dix, et non un million pour récupérer dix millions comme vous pouviez le faire en phase d'expansion.
 
@@ -76,7 +76,7 @@ Date de parution originale : 201x
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 19/12/2021  
+Date de traduction : 20/12/2021  
 
 ---
 
