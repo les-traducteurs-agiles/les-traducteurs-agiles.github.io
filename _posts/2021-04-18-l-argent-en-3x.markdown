@@ -7,7 +7,7 @@ tags:
 - 3X
 ---
 
-![L'argent]({{ site.url }}assets/kent_beck/3X-money.jpg)
+![L'argent]({{ site.url }}assets/kent_beck/3X-Money.jpg)
 
 Cet article fait partie de la série [3X - Quelques sujets de comparaison entre Exploration, Expansion et Extraction](http://www.les-traducteurs-agiles.org/2021/04/18/3x-quelques-sujets-de-comparaison-entre-exploration-expansion-et-extraction.html).
 
@@ -61,7 +61,7 @@ L'argent en phase d'extraction a un effet de levier beaucoup plus petit. Vous po
 
 ## Conclusion
 
-![En résumé]({{ site.url }}assets/kent_beck/3X-money-2-fr.png)
+![En résumé]({{ site.url }}assets/kent_beck/3X-Money-2-fr.png)
 
 _L'argent selon les différentes phases_
 
