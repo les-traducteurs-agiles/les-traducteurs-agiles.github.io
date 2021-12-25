@@ -123,7 +123,7 @@ Cette personne agit comme un substitut pour le vrai product owner. Cela peut abo
 
 #### Solution :
 
-Chaque cas est différent, mais voici une solution qui pourrait s'appliquer de manière générale, je crois que nous pourrions essayer d'utiliser la même approche que dans le premier exemple : avoir un analyste métier dans l'équipe qui pourrait aider le product owner a avoir plus de temps pour aider l'équipe à livrer le bon produit.
+Chaque cas est différent, mais voici une solution qui pourrait s'appliquer de manière générale, je crois que nous pourrions essayer d'utiliser la même approche que dans le premier exemple : avoir un analyste métier dans l'équipe qui pourrait aider le product owner à avoir plus de temps pour aider l'équipe à livrer le bon produit.
 
 ### Le comité product owner
 
