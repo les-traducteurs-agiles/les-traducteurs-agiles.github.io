@@ -49,7 +49,7 @@ En général, une bonne user story devrait être écrite pour couvrir toutes les
 
 ### Aucune visibilité de l'avancement du product backlog
 
-Généralement le scrum master réalise des burn down charts montrant comment se déroule le sprint. C'est une pratique assez répandu, ce qui est moins répandu est le burn up ou le burn down de livraison ou de produit . C'est un problème assez répandu dans beaucoup d'organisations dans lesquelles j'ai pu travailler. Ne pas avoir ce type d'informations rend la vie du product owner plus difficile parce qu'il est plus difficile de savoir si l'équipe est dans les clous ou pas.
+Généralement le scrum master réalise des burn down charts montrant comment se déroule le sprint. C'est une pratique assez répandu, ce qui est moins répandu est le burn up ou le burn down de livraison ou de produit. C'est un problème assez répandu dans beaucoup d'organisations dans lesquelles j'ai pu travailler. Ne pas avoir ce type d'informations rend la vie du product owner plus difficile parce qu'il est plus difficile de savoir si l'équipe est dans les clous ou pas.
 
 Avec ce type d'informations disponible le product owner peut prendre de meilleures décisions sur le périmètre afin de livrer le produit dans les temps, et apporter la plus grande valeur possible au client.
 
