@@ -61,7 +61,7 @@ La solution ici est assez facile. Le product owner devrait construire un burn do
 
 ### Le backlog est rempli de tout un galimatias et non d'user stories en bonne et due forme.
 
-Ce problème est de loin le plus répandu de ceux que j'ai pu observé ces dernières années. La plupart du temps, le product owner n'écrit pas les stories dans un format utilisable, il écrit juste quelques mots et c'est tout. Le problème avec cette approche repose sur le fait que personne en dehors du product owner ne pourra comprendre de quoi parle la user story. Pour être honnête, j'ai vu des exemples de stories dans lesquelles même le product owner ne savait plus ce qu'il voulait solutionner avec certaines des users stories qu'il avait écrite.
+Ce problème est de loin le plus répandu de ceux que j'ai pu observer ces dernières années. La plupart du temps, le product owner n'écrit pas les stories dans un format utilisable, il écrit juste quelques mots et c'est tout. Le problème avec cette approche repose sur le fait que personne en dehors du product owner ne pourra comprendre de quoi parle la user story. Pour être honnête, j'ai vu des exemples de stories dans lesquelles même le product owner ne savait plus ce qu'il voulait solutionner avec certaines des users stories qu'il avait écrite.
 
 #### Solution :
 
