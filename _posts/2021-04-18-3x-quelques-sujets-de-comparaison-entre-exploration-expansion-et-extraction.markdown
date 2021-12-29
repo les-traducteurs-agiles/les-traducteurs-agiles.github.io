@@ -17,9 +17,9 @@ Toutes ces histoires ont besoin d'être racontées. Cette note introduit et rass
 - [Le séquencement (vf)](http://www.les-traducteurs-agiles.org/2021/04/26/sequencement-en-3x.html)
 - [Les équipes (vf)](http://www.les-traducteurs-agiles.org/2021/06/20/les-equipes-en-3x.html)
 - [Le temps (vf)](http://www.les-traducteurs-agiles.org/2021/12/12/le-temps-en-3x.html)
-- [L'argent (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/money-in-3x/1248165731882955)
+- [L'argent (vf)](http://www.les-traducteurs-agiles.org/2021/12/20/l-argent-en-3x.html)
 - Le risque
-- [L'économie (vo - traduction à venir)](https://www.facebook.com/notes/kent-beck/economy-in-3x/1249013955131466)
+- [L'économie (vf)](http://www.les-traducteurs-agiles.org/2021/12/29/economie-en-3x.html)
 - La latence/ le débit / la variance
 - Les dépendances
 
