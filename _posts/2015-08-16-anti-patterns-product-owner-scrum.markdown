@@ -11,7 +11,7 @@ tags:
 
 Pendant toute ma vie professionnelle, les gens m'ont parlé pendant des heures de l'importance de bons patterns de conception. Je crois que nous avons tous acheté des livres sur les patterns de conceptions, les recettes de cuisines ou tout autre sorte d'ouvrages nous donnant les bonnes pratiques dans tel ou tel domaine. Je n'ai rien contre ça et comment le pourrais-je ? J'ai moi-même écrit un livre boîte-à-outils sur les rétrospectives agiles :). Tous ces ouvrages sont utiles et nécessaires mais pendant ma carrière j'ai compris qu'écrire sur les bonnes pratiques n'est pas suffisant. Nous devons écrire à propos de ce que nous ne devrions pas faire, les anti patterns, les mauvaises odeurs comme je les appelle.
 
-Lors des prochaines semaines, je vais passer un peu de temps à écrire là-dessus. J'écrirai plusieurs articles sur les mauvaises odeurs dans les différents rôles de Scrum et sur les différentes erreurs que font habituellement les entreprises lorsqu'elles implémentent scrum. Je commencerai cette série sur les mauvaises odeurs des product owners. J'ai déjà écrit [ici](http://lmsgoncalves.com/2013/02/27/common-mistakes/) sur les problèmes arrivant d'ordinaire aux product owners dans les organisations, et aujourd'hui je vais ajouter de nouveaux problèmes à cette liste.. Si vous êtes intéressés par les anti patterns, cliquez [là](http://lmsgoncalves.com/tag/anti-pattern/), vous y trouverez tous les articles de mon blog sur ce sujet.
+Lors des prochaines semaines, je vais passer un peu de temps à écrire là-dessus. J'écrirai plusieurs articles sur les mauvaises odeurs dans les différents rôles de Scrum et sur les différentes erreurs que font habituellement les entreprises lorsqu'elles implémentent scrum. Je commencerai cette série sur les mauvaises odeurs des product owners. J'ai déjà écrit [ici](http://lmsgoncalves.com/2013/02/27/common-mistakes/) sur les problèmes arrivant d'ordinaire aux product owners dans les organisations, et aujourd'hui je vais ajouter de nouveaux problèmes à cette liste. Si vous êtes intéressés par les anti patterns, cliquez [là](http://lmsgoncalves.com/tag/anti-pattern/), vous y trouverez tous les articles de mon blog sur ce sujet.
 
 ### Pas de product owner unique pour une équipe
 
@@ -49,7 +49,7 @@ En général, une bonne user story devrait être écrite pour couvrir toutes les
 
 ### Aucune visibilité de l'avancement du product backlog
 
-Généralement le scrum master réalise des burn down charts montrant comment se déroule le sprint. C'est une pratique assez répandu, ce qui est moins répandu est le burn up ou le burn down de livraison ou de produit . C'est un problème assez répandu dans beaucoup d'organisations dans lesquelles j'ai pu travailler. Ne pas avoir ce type d'informations rend la vie du product owner plus difficile parce qu'il est plus difficile de savoir si l'équipe est dans les clous ou pas.
+Généralement le scrum master réalise des burn down charts montrant comment se déroule le sprint. C'est une pratique assez répandu, ce qui est moins répandu est le burn up ou le burn down de livraison ou de produit. C'est un problème assez répandu dans beaucoup d'organisations dans lesquelles j'ai pu travailler. Ne pas avoir ce type d'informations rend la vie du product owner plus difficile parce qu'il est plus difficile de savoir si l'équipe est dans les clous ou pas.
 
 Avec ce type d'informations disponible le product owner peut prendre de meilleures décisions sur le périmètre afin de livrer le produit dans les temps, et apporter la plus grande valeur possible au client.
 
@@ -61,7 +61,7 @@ La solution ici est assez facile. Le product owner devrait construire un burn do
 
 ### Le backlog est rempli de tout un galimatias et non d'user stories en bonne et due forme.
 
-Ce problème est de loin le plus répandu de ceux que j'ai pu observé ces dernières années. La plupart du temps, le product owner n'écrit pas les stories dans un format utilisable, il écrit juste quelques mots et c'est tout. Le problème avec cette approche repose sur le fait que personne en dehors du product owner ne pourra comprendre de quoi parle la user story. Pour être honnête, j'ai vu des exemples de stories dans lesquelles même le product owner ne savait plus ce qu'il voulait solutionner avec certaines des users stories qu'il avait écrite.
+Ce problème est de loin le plus répandu de ceux que j'ai pu observer ces dernières années. La plupart du temps, le product owner n'écrit pas les stories dans un format utilisable, il écrit juste quelques mots et c'est tout. Le problème avec cette approche repose sur le fait que personne en dehors du product owner ne pourra comprendre de quoi parle la user story. Pour être honnête, j'ai vu des exemples de stories dans lesquelles même le product owner ne savait plus ce qu'il voulait solutionner avec certaines des users stories qu'il avait écrite.
 
 #### Solution :
 
@@ -123,7 +123,7 @@ Cette personne agit comme un substitut pour le vrai product owner. Cela peut abo
 
 #### Solution :
 
-Chaque cas est différent, mais voici une solution qui pourrait s'appliquer de manière générale, je crois que nous pourrions essayer d'utiliser la même approche que dans le premier exemple : avoir un analyste métier dans l'équipe qui pourrait aider le product owner a avoir plus de temps pour aider l'équipe à livrer le bon produit.
+Chaque cas est différent, mais voici une solution qui pourrait s'appliquer de manière générale, je crois que nous pourrions essayer d'utiliser la même approche que dans le premier exemple : avoir un analyste métier dans l'équipe qui pourrait aider le product owner à avoir plus de temps pour aider l'équipe à livrer le bon produit.
 
 ### Le comité product owner
 
@@ -131,7 +131,7 @@ Cela arrive dans les entreprises qui créent un comité pour être responsable p
 
 #### Solution :
 
-Chaque produit devrait avoir un seul product owner. De part mon expérience, si nous avons plusieurs personnes responsables pour un produit alors en fait nous n'en avons aucune. N'assignez jamais plus d'un product owner sur un produit. Si vous avez plusieurs produits qui sont liés les uns aux autres, vous pourriez avoir besoin d'un programme. Dans ce cas, vous devriez avoir un responsable de programme ou un product owner en chef comme certaines entreprises peuvent l'appeler, mais jamais avoir plus d'une personne responsable pour un produit.
+Chaque produit devrait avoir un seul product owner. De par mon expérience, si nous avons plusieurs personnes responsables pour un produit alors en fait nous n'en avons aucune. N'assignez jamais plus d'un product owner sur un produit. Si vous avez plusieurs produits qui sont liés les uns aux autres, vous pourriez avoir besoin d'un programme. Dans ce cas, vous devriez avoir un responsable de programme ou un product owner en chef comme certaines entreprises peuvent l'appeler, mais jamais avoir plus d'une personne responsable pour un produit.
 
 ### Le product owner sacrifie la qualité du produit afin de livrer le produit plus vite
 
@@ -147,7 +147,7 @@ Ce problème est assez sérieux et, à mon avis, c'est quelque chose qui fait pa
 
 Une DdF est une simple liste de tâches définies par l'équipe qui représente toutes les activités qui doivent être faites avant que la story rentre en production. Pour en savoir plus à ce sujet, consultez ce [blog](http://lmsgoncalves.com/2014/10/05/15-ideas-definition-of-done-dod/).
 
-Sans une DdF, c'est plus facile pour un product owner de pousser l'équipe dans ses retranchements ; si c'est liste est présente, il est possible pour les développeurs de montrer qu'une story n'est pas finie tant que toutes les tâches qui font partie de la DdF ne sont pas terminées. De part mon expérience, cela peut aider à réduire le problème.
+Sans une DdF, c'est plus facile pour un product owner de pousser l'équipe dans ses retranchements ; si c'est liste est présente, il est possible pour les développeurs de montrer qu'une story n'est pas finie tant que toutes les tâches qui font partie de la DdF ne sont pas terminées. De par mon expérience, cela peut aider à réduire le problème.
 
 ### Confondre le rôle de product owner et celui de scrum master
 
@@ -171,7 +171,7 @@ Dans certaines entreprises, le product owner a un semblant de pouvoir, et certai
 
 #### Solution :
 
-Dans ce cas, je crois vraiment qu'il n'y a grand chose que je puisse suggérer ; la direction doit comprendre que le product owner est extrêmement important pour l'entreprise et que seules les personnes comprenant les clients et le marché peuvent faire un bon boulot. Assigner des personnes qui ne comprennent ni le marché ni les clients à ces postes est un aller-simple vers l'échec. Je peux simplement suggérer que la direction devrait assigner ce poste à des personnes selon leurs compétences et non sur la base d'intérêt politique.
+Dans ce cas, je crois vraiment qu'il n'y a grand-chose que je puisse suggérer ; la direction doit comprendre que le product owner est extrêmement important pour l'entreprise et que seules les personnes comprenant les clients et le marché peuvent faire un bon boulot. Assigner des personnes qui ne comprennent ni le marché ni les clients à ces postes est un aller-simple vers l'échec. Je peux simplement suggérer que la direction devrait assigner ce poste à des personnes selon leurs compétences et non sur la base d'intérêt politique.
 
 ### Le product owner qui pensent que ce n'est pas leur rôle de maintenir le backlog ou qui délèguent l'écriture des user stories à l'équipe et/ou au SM
 
@@ -203,19 +203,19 @@ Cela devient vraiment dangereux lorsque des équipes travaillent sur plusieurs p
 
 Ici, il est important que le product owner comprenne quelles sont les choses les plus importantes qui doivent être livrées aux clients. Les product owners doivent comprendre que l'équipe ne peut pas tout livrer en même temps, par conséquent ils doivent vraiment comprendre quelle est la priorité principale qui devrait être terminée pour le prochain sprint.
 
-Lorsque nous avons appliqué cette règle dans quelques unes de mes équipes, elles se sont focalisées sur leur objectif de manière radicale et elles ont commencé à livrer davantage de stories par sprint. Mais plus important que ça, elles ont commencé à livrer des fonctionnalités complètement implémentées qui pourraient être livrées aux clients. Avant, les équipes livraient beaucoup de choses, mais aucune des fonctionnalités n'étaient prêtes, bloquant ainsi la livraison aux clients.
+Lorsque nous avons appliqué cette règle dans quelques-unes de mes équipes, elles se sont focalisées sur leur objectif de manière radicale et elles ont commencé à livrer davantage de stories par sprint. Mais plus important que ça, elles ont commencé à livrer des fonctionnalités complètement implémentées qui pourraient être livrées aux clients. Avant, les équipes livraient beaucoup de choses, mais aucune des fonctionnalités n'étaient prêtes, bloquant ainsi la livraison aux clients.
 
 ### Le product owner qui insiste pour architecturer la conception de la solution
 
-J'ai mentionné précédemment que quelque fois le product owner est un ex-architecte ou un ex-responsable technique. Cela a pour conséquence qu'il est normal d'avoir ce type d'anti patterns. Le product owner veut être responsable de l'architecture du produit, rendant ainsi folle l'équipe.
+J'ai mentionné précédemment que quelque fois le product owner est un ex-architecte ou un ex-responsable technique. Cela a pour conséquence qu'il est normal d'avoir ce type d'anti-patterns. Le product owner veut être responsable de l'architecture du produit, rendant ainsi folle l'équipe.
 
 #### Solution :
 
-Le scrum master et l'équipe doivent expliquer au product owner que la conception de l'architecture n'est pas de sa responsabilité. J'ai toujours aimé donné l'explication suivante : le scrum master et l'équipe sont responsables du "comment" : comment le produit est réalisé. Le product owner est responsable du "quoi", ce qui veut dire que le product owner devrait être le seul qui dit qu'est-ce qui est supposé être réalisé.
+Le scrum master et l'équipe doivent expliquer au product owner que la conception de l'architecture n'est pas de sa responsabilité. J'ai toujours aimé donner l'explication suivante : le scrum master et l'équipe sont responsables du "comment" : comment le produit est réalisé. Le product owner est responsable du "quoi", ce qui veut dire que le product owner devrait être le seul qui dit qu'est-ce qui est supposé être réalisé.
 
 ### Le product owner qui ne se considère pas comme faisant partie de l'équipe
 
-Je ne vois pas trop souvent cet anti pattern, mais plusieurs personnes me l'ont signalé, par conséquent je l'ajoute à ma liste. Comme le titre le suggère, le product owner ne se sent pas comme faisant partie de l'équipe. Il sent qu'il devrait être responsable pour livrer des stories et rien de plus. Comme vous pouvez l'imaginez, la coopération entre les membres de l'équipe et le product owner ne sera pas au beau fixe, et arrivé à un certain point la coopération deviendra extrêmement difficile.
+Je ne vois pas trop souvent cet anti-pattern, mais plusieurs personnes me l'ont signalé, par conséquent je l'ajoute à ma liste. Comme le titre le suggère, le product owner ne se sent pas comme faisant partie de l'équipe. Il sent qu'il devrait être responsable pour livrer des stories et rien de plus. Comme vous pouvez l'imaginez, la coopération entre les membres de l'équipe et le product owner ne sera pas au beau fixe, et arrivé à un certain point la coopération deviendra extrêmement difficile.
 
 #### Solution :
 
@@ -223,7 +223,7 @@ Le guide scrum indique :
 
 "L'équipe scrum comprend un product owner, l'équipe de développement, et un scrum master."
 
-Bien sûr, ce n'est pas parce que le guide scrum l'indique, qu'il est garantit que le product owner se considèrera comme faisant partie de l'équipe. Mais, je pense néanmoins que cela pourrait être un bon point de départ. Le scrum master ou l'équipe pourraient lui expliquer, que selon le manuel, le product owner fait officiellement partie de l'équipe. En plus de cet argument, l'équipe et le scrum master pourraient expliquer au product owner qu'ils ne sont pas capables de faire un super boulot à moins que le product owners ne se rapprochent plus d'eux. Et cela pourrait être un bon sujet pour une rétrospective.
+Bien sûr, ce n'est pas parce que le guide scrum l'indique, qu'il est garanti que le product owner se considèrera comme faisant partie de l'équipe. Mais, je pense néanmoins que cela pourrait être un bon point de départ. Le scrum master ou l'équipe pourraient lui expliquer, que selon le manuel, le product owner fait officiellement partie de l'équipe. En plus de cet argument, l'équipe et le scrum master pourraient expliquer au product owner qu'ils ne sont pas capables de faire un super boulot à moins que le product owners ne se rapprochent plus d'eux. Et cela pourrait être un bon sujet pour une rétrospective.
 
 J'espère que vous avez aimez cet article :) J'écrirai davantage sur ces sujets ces prochaines semaines :)
 
