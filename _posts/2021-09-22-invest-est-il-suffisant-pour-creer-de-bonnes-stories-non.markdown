@@ -9,7 +9,7 @@ tags:
 
 I developed the INVEST model years ago to help someone (and then many people) think about the user stories they were creating. Is INVEST all you need to create good stories? Unfortunately, no.
 
-Il y a de cela plusieurs, j'ai développé le modèle INVEST pour aider quelqu'un (et par la suite plusieurs personnes) à bien réfléchir aux _user stories_ qu'il créait. Est-ce qu'INVEST est suffisant pour que vous puissiez créer de bonnes _stories_ ? Malheureusement, non ?
+Il y a plusieurs années, j'ai développé le modèle INVEST afin d'aider une personne (et par la suite plusieurs autres) à bien réfléchir sur les _user stories_ qu'elle était en train de créer. Est-ce qu'INVEST est suffisant pour que vous puissiez créer de bonnes _stories_ ? Malheureusement, non.
 
 ## **INVEST**
 
@@ -17,27 +17,27 @@ Il y a de cela plusieurs, j'ai développé le modèle INVEST pour aider quelqu'u
 
 Briefly, INVEST (see [References](https://xp123.com/articles/all-you-need-is-invest-no/?utm_source=rss&utm_medium=rss&utm_campaign=all-you-need-is-invest-no#references)) is an acronym for qualities of good user stories:
 
-En résumé, INVEST est un acronyme des caractéristiques de ce qui fait de bonnes _user stories_ :
+En résumé, INVEST est un acronyme décrivant les caractéristiques d'une bonne _user story_ :
 
 **I – Independent** – Stories are (mostly) independent capabilities.
 
-**I – Indépendante** – Les _stories_ sont le reflet (pour la plupart) de fonctionnalités indépendantes.
+**I – Indépendante** – Les _stories_ représentent (pour la plupart d'entre elles) des fonctionnalités indépendantes les unes des autres.
 
 **N – Negotiable** – Stories are not specifications, but solution ideas we explore together.
 
-**N – Negotiable** – Les _stories_ ne sont pas des spécifications, mais des idées de solution que nous explorons ensemble.
+**N – Negotiable** – Les _stories_ ne sont pas des spécifications, mais des idées de solution à explorer ensemble.
 
 **V – Valuable** – Stories are valuable to those who care about the product.
 
-**V – (de) Valeur** – Les _stories_ apportent quelque chose d'utile, de valeur à ceux qui s'intéressent à ce produit
+**V – (de) Valeur** – Les _stories_ doivent apporter quelque chose d'utile, de valeur à ceux ayant de l'intérêt pour le produit
 
 **E – Estimable** (yes, it also means “can be estimated”:) – Stories can be estimated in terms of the work required for a particular team to implement them. (I don’t emphasize this one too much; estimates are over-used, and often unnecessary; Small and Testable capture most of what I care about there.)
 
-**E – Estimable** (oui, cela signifie aussi « peut être estimé ») — les _stories_ peuvent être estimées par rapport aux travaux nécessaires pour une équipe donnée pour les implémenter. (Je n'insiste pas trop sur ce dernier ; les estimations sont sur-utilisées, et souvent inutiles ; _Suffisamment petite_ et _Testable_ reflètent beaucoup mieux ma pensée sur ce point.).
+**E – Estimable** (oui, cela signifie aussi « peut être estimé ») — les _stories_ peuvent être estimées en terme de travaux à effectuer pour les implémenter par une équipe donnée. (Je n'insiste pas trop sur ce dernier point ; les estimations sont sur-utilisées, et souvent inutiles ; les éléments _Suffisamment petite_ et _Testable_ qui suivent reflètent beaucoup mieux ma pensée sur ce point.).
 
 **S – Small** – Stories are on the scale of hours to days, not months to years.
 
-**S – Suffisamment petite** — Les _stories_ se mesurent à l'échelle de quelques heures à quelques jours, pas à l'échelle de mois ou d'années.
+**S – Suffisamment petite** — Les _stories_ se mesurent à l'échelle de quelques heures à quelques jours, pas à l'échelle de quelques mois ou de quelques années.
 
 **T – Testable** – Stories are well enough understood that we can describe examples and behaviors.
 
@@ -49,7 +49,7 @@ Cette formulation d'INVEST, est la formulation originelle. J'ai tendance à y aj
 
 - **End-to-End** – Focus on a story as a full capability (from a user’s perspective), not a piece of a capability. (I’ve seen many places where teams have pieces of the puzzle, but nobody owns the end to end flow or capability.) 
 
-- **De bout-en-bout** – Une _story_ se doit d'être considérée comme étant une fonctionnalité pleine et entière (du point de vue utilisateur), et non comme une simple fraction de celle-ci.
+- **De bout-en-bout** – Une _story_ se doit d'être considérée comme étant une fonctionnalité pleine et entière (du point de vue utilisateur), et non comme une simple fraction de celle-ci. (J'ai vu plein )
 
 - **Scalable** (rather than just Small) – A story’s headline can be fulfilled in many ways – a manual solution, a minimal solution, or a full-featured solution. (Yes, this overlaps with the idea of negotiation through possible solutions). 
 
@@ -121,39 +121,39 @@ Les _stories_ remplacent la documentation et les multiples passages de relais pa
 
 Stories can help in development, but there’s more to a product than stories or the code that implements them. A software product is not just software – it participates in and creates a whole ecosystem. 
 
-
+Les _stories_ peuvent être d'une grande aide au cours du développement d'un produit, mais un produit c'est bien plus que des _stories_ ou du code. Un produit logiciel n'est pas que du logiciel — il participe à tout un écosystème et à le créer.
 
 Especially early on, a team may have a lot of learning to do: users, customers, capabilities needed, architecture, etc. You may need to do experiments to learn where your ideas are useful or valuable. 
 
-
+En particulier au début, une équipe a beaucoup de choses à apprendre : utilisateurs, clients, compétences nécessaires, architecture, etc. Vous pouvez avoir besoin d'expérimenter pour apprendre si vos idées sont utiles ou ont de la valeur.
 
 Some developers resent the “folderol” and think somebody should somehow just know and tell them what to do – never backtracking, or even changing direction. They may get to work as if that were true, but the best teams instead accept the instability and leverage it to make even better products. 
 
-
+Certains développeurs peuvent être agacés par « tout ce cirque » et pensent que quelqu'un devrait d'une manière ou d'une autre tout savoir et leur dire simplement ce qu'il faut faire — sans jamais revenir en arrière, ou sans jamais changer de direction. Ils peuvent se mettre au travail comme si tout était déjà acquis, mais les meilleures équipes acceptent cette instabilité des choses et la met à profit pour réaliser des produits encore mieux.
 
 Product management has its own practices; product managers must balance outside and inside forces. To learn more deeply about this role, I look to Jeff Patton, Marty Cagan, Melissa Perri, and others (see [References](https://xp123.com/articles/all-you-need-is-invest-no/?utm_source=rss&utm_medium=rss&utm_campaign=all-you-need-is-invest-no#references)). Writing stories may be a small or even non-existent part of a product manager’s job. 
 
-
+La gestion de produit a ses propres pratiques ; les responsables produits doivent trouver un équilibre entre les forces internes et externes. Je me suis tourné vers  Jeff Patton, Marty Cagan, Melissa Perri, ainsi que bien d'autres pour en apprendre davantage sur ce rôle (cf. [References](https://xp123.com/articles/all-you-need-is-invest-no/?utm_source=rss&utm_medium=rss&utm_campaign=all-you-need-is-invest-no#references)). La rédaction des _user stories_ peut s'avérer être une petite partie voire même ne rien représenter du quotidien du responsable produit.
 
 ## **Leveraging Agility**
 
-
+## **Mettre à profit l'agilité**
 
 A key aspect of agility is that we don’t just lock in on some idea and head there, but rather we adjust both our direction and our target as we learn. 
 
-
+Un des aspects clés de l'agilité est que nous ne restons pas simplement bloqué sur la même idée, mais plutôt que nous ajustons à la fois notre trajectoire et notre cible au fur et à mesure que nous en apprenons davantage.
 
 If your habit is to define a large project, load a bunch of stories in a tool, head there, and measure “conformance to plan”, you’re missing a chance. 
 
-
+Si votre habitude est de définir un grand projet, de mettre un paquet de _stories_ dans un outil, de vous y jetez dedans tête la première, et de mesure « la conformité par rapport à un plan », vous râtez votre chance.
 
 Agility is instead built around an evolutionary approach: ship something simple (but end to end), try it, learn, and repeat – a little better each time around. User stories support this as a lightweight way of reminding us what to do. 
 
-
+L'agilité est plutôt construite comme une approche évolutionaire : livrez quelque chose de simple (mais de bout en bout), essayez-la, tirez-en des leçons, et répéter l'opération — un petit mieux à chaque fois. Les _user stories_ favorisent ça car elles sont une manière simple et légère de nous rappeler quoi faire.
 
 ## **Making Stories Work**
 
-
+## **Pour des _stories_ bien huilées**
 
 - Take a whole-product perspective.
 - Build in learning and feedback – part of everything you do.
@@ -162,6 +162,12 @@ Agility is instead built around an evolutionary approach: ship something simple 
 - Have conversations about capabilities – and implement them soon after. 
 - Use a tool if needed (e.g., remote), but don’t let stories become a “pile of leaves” (Jeff Patton’s great metaphor). 
 - Use CCC, INVEST, story templates, or whatever else will help you sustain a context where the above works well. 
+
+- Adoptez une approche globale produit
+- Intégrez-y des boucles d'apprentissages et de rétroactions — cela fait partie de votre boulot
+- Adoptez une approche évolutionnaire qui soutient cela
+- Ayez peu de travail en cours — concentrez-vous à finir des choses avant d'en commencer de nouvelles
+-
 
 
 
