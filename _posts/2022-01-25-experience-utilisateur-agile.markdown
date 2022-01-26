@@ -13,6 +13,8 @@ De nombreuses équipes agiles rencontrent des difficultés pour lier l’expéri
 
 [![Expérience Utilisateur Agile]({{ site.url }}assets/mia_kolmodin/Agile-userexperience-poster-2018-ver10-22-110122.png)]({{ site.url }}assets/mia_kolmodin/Agile-userexperience-poster-2018-ver10-22-110122.pdf)
 
+(Cliquez donc sur l'image pour télécharger le fichier pdf correspondant 😉)
+
 J’espère que ce poster pourra vous donner les grandes lignes et vous apprendra comment l’expérience utilisateur peut se mettre en place dans un contexte Agile à l’aide des posters : [Le Product Ownership Agile en résumé - et en poster](http://www.les-traducteurs-agiles.org/2017/12/28/agile-product-ownership-en-resume.html) et [Agile en résumé – avec une pincée de Lean UX](http://www.les-traducteurs-agiles.org/2016/12/25/agile-en-resume.html).
 
 ## Que veut dire Expérience Utilisateur (UX) ?  
