@@ -8,7 +8,7 @@ tags:
 - product owner
 ---
 
-Mon ami Marty Cagan a publié récemment deux articles, [celui-ci](https://svpg.com/the-cspo-pathology/) puis [celui-là](https://svpg.com/the-mba-pathology/) qui relatent quelques uns des défis que doit relever l'approche produit. Vous devriez lire ces articles. Marty a tout à fait raison.
+Mon ami Marty Cagan a publié récemment deux articles, [celui-ci](https://svpg.com/the-cspo-pathology/) puis [celui-là](https://svpg.com/the-mba-pathology/) qui relatent quelques-uns des défis que doit relever l'approche produit. Vous devriez lire ces articles. Marty a tout à fait raison.
 
 Le présent article va aborder quelque chose d'encore plus fondamental. Il s'agit du contre-modèle du prestataire de services qui est inscrit dans l'adn même de nos processus. Il est présent dans la gouvernance de la plupart des grandes entreprises. Il est présent dans le développement agile. Et cette manière de penser nous a été inculqué depuis notre enfance. Il est difficile d'y échapper. Et je crois que c'est quelque chose d'inscrit en beaucoup de personnes tout à fait bien intentionnées mais qui se perdent en chemin lorsqu'elles essaient d'appliquer à l'approche produit.
 
@@ -16,7 +16,7 @@ Je n'ai pas de solution. Je voudrais juste que vous soyez en capacité de reconn
 
 ## Nous savons tous ce qui rend un produit génial
 
-Je démarre beaucoup de formations et de conférences en posant la question « qu'est-ce qui rend un produit génial ? ». Je vous invite à vous posez cette question maintenant. Réfléchissez à un produit que vous utilisez souvent. Posez-vous la question pourquoi est-il génial. Faites-le vraiment. Prenez un moment pour le faire et faites-le.
+Je démarre beaucoup de formations et de conférences en posant la question « qu'est-ce qui rend un produit génial ? ». Je vous invite à vous poser cette question maintenant. Réfléchissez à un produit que vous utilisez souvent. Posez-vous la question pourquoi est-il génial. Faites-le vraiment. Prenez un moment pour le faire et faites-le.
 
 J'ai fait suffisamment longtemps cet exercice  pour savoir qu'un certain nombre de choses reviennent régulièrement. Des choses comme :
 
@@ -50,7 +50,7 @@ Nous mesurons les impacts du produit par des choses comme :
 
 Nos clients ne se préoccupent pas de ce genre de choses. Mais si vous, vous élaborez des produits, vous feriez mieux de vous en préoccuper.
 
-Ma définition de ces deux mots est assez précise. Si vous essayez d'élaborez un produit à succès, vous aurez besoin de vous focaliser sur les résultats et l'impact. Autrement dit avec un peu plus d'emphase :
+Ma définition de ces deux mots est assez précise. Si vous essayez d'élaborer un produit à succès, vous aurez besoin de vous focaliser sur les résultats et l'impact. Autrement dit avec un peu plus d'emphase :
 
 > L'approche produit déplace votre point d'attention vers les résultats et l'impact métier.
 
@@ -62,7 +62,7 @@ Si vous voulez me voir en dire davantage sur les notions de résultat et d'impac
 
 ## Pour l'instant oublions tout cela … réaménageons notre cuisine
 
-Réfléchissez une minute avec moi sur le sujet suivant. Imaginons que vous vouliez réaménager votre cuisine. Certains d'entre vous ont peut être déjà survécu à cette horreur. Si vous devez faire appel à un grand cuisiniste, quels seraient vos critères de recherche ? Réfléchissez-y une minute.
+Réfléchissez une minute avec moi sur le sujet suivant. Imaginons que vous vouliez réaménager votre cuisine. Certains d'entre vous ont peut-être déjà survécu à cette horreur. Si vous devez faire appel à un grand cuisiniste, quels seraient vos critères de recherche ? Réfléchissez-y une minute.
 
 Lorsque je pose cette question aux gens, ils me donnent des réponses comme :
 
@@ -75,7 +75,7 @@ Lorsque je pose cette question aux gens, ils me donnent des réponses comme :
 - Me tient informé lorsque les choses tournent mal
 - Finis dans les temps ou dans des délais proches
 
-Il y a quelques années, j'ai fait réaménager ma cuisine. Voici Ed. C'est la personne que nous avons choisi pour ce travail. En fait, il n'y avait pas que Ed. Ed a toute une équipe pluri-disciplinaire de charpentiers, fabricants de meubles, carreleurs, plombiers, de plaquistes … et de plein d'autres corps de métiers auxquels je ne comprends rien. Angel était la personne sur le chantier en charge de gérer toutes ces personnes. C'est lui qui se tient à côté du gros trou sur mon mur.
+Il y a quelques années, j'ai fait réaménager ma cuisine. Voici Ed. C'est la personne que nous avons choisi pour ce travail. En fait, il n'y avait pas que Ed. Ed a toute une équipe pluridisciplinaire de charpentiers, fabricants de meubles, carreleurs, plombiers, de plaquistes … et de plein d'autres corps de métiers auxquels je ne comprends rien. Angel était la personne sur le chantier en charge de gérer toutes ces personnes. C'est lui qui se tient à côté du gros trou sur mon mur.
 
 [![Ed & Angel]({{ site.url }}assets/jeff_patton/ed-et-angel-fr.png)]({{ site.url }}assets/jeff_patton/ed-et-angel-fr.png)
 
@@ -110,7 +110,7 @@ Je suis prêt à parier que ce processus correspond à celui que vous utilisez a
 
 [![flux-client-cuisiniste]({{ site.url }}assets/jeff_patton/flux-métier-technologie-fr.png)]({{ site.url }}assets/jeff_patton/flux-métier-technologie-fr.png)
 
-J'ai fait mon premier projet agile en l'an 2000 en XP. Sur ma carte de visite de l'époque, il était écrit « responsable de produit ». Mais en XP, j'étais connu comme le « client ». Si vous utilisez Scrum, vous pourriez rayer le terme de « client » et le remplacer par celui de «_product owner_», et l'autre côté avec celui d'« équipe de livraison ». Alors comment ça marche tout ça ,
+J'ai fait mon premier projet agile en l'an 2000 en XP. Sur ma carte de visite de l'époque, il était écrit « responsable de produit ». Mais en XP, j'étais connu comme le « client ». Si vous utilisez Scrum, vous pourriez rayer le terme de « client » et le remplacer par celui de «_product owner_», et l'autre côté avec celui d'« équipe de livraison ». Alors comment ça marche tout ça ?
 
 ## **Alors qu'est-ce qu'on fait ?**
 
@@ -128,7 +128,7 @@ De manière assez intéressante si vos parties prenantes apprécient votre trava
 
 ### L'équipe n'est pas réellement propriétaire des résultats
 
-Si ce que j'ai dit précédemment n'est pas suffisamment clair, le client est celui qui tient le résultat du produit entre ses mains — c'est lui qui tire la valeur de ce qui a été construit. C'est parce qu'il a décidé de ce qui devrait être construit. Il est difficile de prendre la responsabilité du résultat lorsque vous ne comprenez pas votre utilisateur final, les vrais problèmes que vous résolvez, ou de prendre de vrais décisions quant à la manière de les résoudre.
+Si ce que j'ai dit précédemment n'est pas suffisamment clair, le client est celui qui tient le résultat du produit entre ses mains — c'est lui qui tire la valeur de ce qui a été construit. C'est parce qu'il a décidé de ce qui devrait être construit. Il est difficile de prendre la responsabilité du résultat lorsque vous ne comprenez pas votre utilisateur final, les vrais problèmes que vous résolvez, ou de prendre de vraies décisions quant à la manière de les résoudre.
 
 >_Le modèle du prestataire de services sépare d'un côté ceux responsables des résultats du produit de ceux responsables de la livraison du produit._
 
@@ -146,7 +146,7 @@ Un certain nombre d'idées de produits échouent. Nous savons tous que le taux d
 
 >_Nous utilisons le travail de l'exploration produit pour identifier les besoins du vrai client et le testons à fond pour obtenir le résultat que nous espérons._
 
-Si le résultat que vous souhaitez est d'obtenir la satisfaction des parties prenantes alors toutes vos investigations vont être focalisées là-dessus. Toute l'attention d'Ed était focalisé sur moi et sur ce que je voulais. Ed ne conçoit pas de cuisines pour IKEA. Et comme pour moi et pour ma cuisine, vos parties prenantes ont des idées fortes sur ce qu'elles veulent voir réaliser. Elles ne veulent pas vraiment que vous questionniez et testiez leurs idées. Pas vraiment. Les équipes informatiques _à l'ancienne_ se lancent dans des « recueils d'exigences » parce la totalité de ce que veut le métier peut s'avérer être une exigence.
+Si le résultat que vous souhaitez est d'obtenir la satisfaction des parties prenantes alors toutes vos investigations vont être focalisées là-dessus. Toute l'attention d'Ed était focalisée sur moi et sur ce que je voulais. Ed ne conçoit pas de cuisines pour IKEA. Et comme pour moi et pour ma cuisine, vos parties prenantes ont des idées fortes sur ce qu'elles veulent voir réaliser. Elles ne veulent pas vraiment que vous questionniez et testiez leurs idées. Pas vraiment. Les équipes informatiques _à l'ancienne_ se lancent dans des « recueils d'exigences » parce la totalité de ce que veut le métier peut s'avérer être une exigence.
 
 J'aurais souhaité qu'Ed me questionne sur mon choix pour le sol. Il l'a fait un peu, mais je n'ai pas écouté. J'ai choisi cette couleur bois gris très jolie. J'ai dépensé quelques milliers de dollars pour l'acheter. Et lorsque l'équipe d'Ed a commencé à le mettre en place, j'ai réalisé assez vite que le sol que j'avais choisi allait jurer avec le bois des éléments de cuisine. Cela faisait chier. Cela faisait chier parce que j'ai dû payer l'équipe d'Ed pour enlever ce sol. J'ai dû acheter un nouveau sol. J'ai dû vendre ce sol de cette couleur bois gris très jolie stocké dans mon garage pour une fraction du prix que je l'avais acheté. C'était une erreur très coûteuse. Et à la fin, je l'ai payé. Souvenez-vous Ed vend du temps et du matériel. L'erreur n'était pas sa faute. C'était la mienne. J'ai dû payer en plus et prendre en compte le retard qui en a découlé sur le projet de la cuisine. Parce que ce sont mes propres choix qui ont généré cela
 
@@ -174,7 +174,7 @@ Comment est-ce que votre entreprise gagne ce retour sur investissement du logici
 
 ## **Le processus que nous utilisons est l'expérience produit du prestataire de service**
 
-Pour mon cuisiniste, il s'agit de son modèle d'engagement client. Le mettre en œuvre de manière plus efficiente et plus efficace pourrait lui permettre de gagner plus d'argent. Mais pas toujours. S'il se fait payer à l'heure, travailler davantage d'heure équivaut à gagner davantage d'argent. Être plus efficient n'est peut être pas le mieux. Vous pouvez d'ailleurs peut être observer cela si votre entreprise a fait appel à un éditeur tiers pour élaborez ses logiciels. Tout comme Ed, l'éditeur gagne de l'argent en vendant son temps.
+Pour mon cuisiniste, il s'agit de son modèle d'engagement client. Le mettre en œuvre de manière plus efficiente et plus efficace pourrait lui permettre de gagner plus d'argent. Mais pas toujours. S'il se fait payer à l'heure, travailler davantage d'heure équivaut à gagner davantage d'argent. Être plus efficient n'est peut-être pas le mieux. Vous pouvez d'ailleurs peut-être observer cela si votre entreprise a fait appel à un éditeur tiers pour élaborer ses logiciels. Tout comme Ed, l'éditeur gagne de l'argent en vendant son temps.
 
 > _Le modèle de service peut correspondre à votre flux de processus. Mais ne le confondez pas avec votre expérience produit._
 
@@ -212,11 +212,11 @@ La valeur qui manque le plus dans le manifeste agile est :
 
 >_Des résultats satisfaisants plus qu'une livraison efficiente_
 
-De la même manière que cela est stipulé dans le manifieste, la partie droite de la phrase présente toujours de la valeur. En fait, cela est nécessaire. Mais la partie gauche de la phrase est ce qui compte le plus.
+De la même manière que cela est stipulé dans le manifeste, la partie droite de la phrase présente toujours de la valeur. En fait, cela est nécessaire. Mais la partie gauche de la phrase est ce qui compte le plus.
 
 Vous pouvez m'écouter à ce sujet dans cette [conversation que j'ai eue avec Mellissa Perri](https://produxlabs.com/product-thinking-blog/episode-15-jeff-patton)
 
-Vous pouvez livrez ce que vous avez dit que vous pourriez livrez à chaque sprint, et cela n'est pas grave si le travail effectué ne donne pas les résultats que votre organisation avait prédit. Faire de l'agile à la lettre peut avoir comme résultat de faire de vous un grand prestataire de service, mais pas un créateur de produits à succès.
+Vous pouvez livrer ce que vous avez dit que vous pourriez livrez à chaque sprint, et cela n'est pas grave si le travail effectué ne donne pas les résultats que votre organisation avait prédit. Faire de l'agile à la lettre peut avoir comme résultat de faire de vous un grand prestataire de service, mais pas un créateur de produits à succès.
 
 ## **Cela est inscrit en nous depuis notre plus jeune âge**
 
@@ -224,7 +224,7 @@ Je vais poser comme postulat que ce style de processus de gestion de projet, que
 
 Après avoir focalisé pendant une décade voire plus sur des aspects de temps, de coûts, de périmètre et de qualité sans m'être jamais inquiété des résultats, je dois désormais axer ma réflexion de manière délibérée sur les résultats. Je dois considérer ce sur quoi je suis en train de travailler comme un véritable produit, pas simplement comme un devoir qui doit impressionner un professeur. Je dois me soucier de celles ou ceux qui utiliseront mon produit et de la manière dont il pourra leur être utile.
 
-Cet article que vous lisez est un produit. Il n'a pas été écrit que pour vous. Il a été écrit pour des milliers de personnes que je n'ai jamais rencontré. J'espère qu'il sera beaucoup lu. J'espère qu'il aidera votre organisation à reconnaître cet anti-modèle et que vous prendrez des mesures pour éviter de travailler de cette manière. C'est le résultat que je recherche. Ce serait bien plus facile si je pouvais aller voir quelqu'un et obtenir un « A ». Je serais heureux aussi avec un « B- ».
+Cet article que vous lisez est un produit. Il n'a pas été écrit que pour vous. Il a été écrit pour des milliers de personnes que je n'ai jamais rencontrées. J'espère qu'il sera beaucoup lu. J'espère qu'il aidera votre organisation à reconnaître cet anti-modèle et que vous prendrez des mesures pour éviter de travailler de cette manière. C'est le résultat que je recherche. Ce serait bien plus facile si je pouvais aller voir quelqu'un et obtenir un « A ». Je serais heureux aussi avec un « B- ».
 
 ## **Arrêtez ça, arrêtez ça tout simplement**
 
@@ -254,11 +254,11 @@ Après avoir livré une fonctionnalité, prenez une partie de votre rétrospecti
 
 J'ose même dire que :
 
-> _Vous focalisez sur les résultats du produit va vous permettre d'aller vers une état d'esprit orienté produit_
+> _Vous focalisez sur les résultats du produit va vous permettre d'aller vers un état d'esprit orienté produit_
 
 Faites cela en équipe et vous insufflerez une approche produit dans votre organisation. Et à la fin, votre organisation vous dira merci pour ça. Rappelez-vous, les résultats et les impacts prennent du temps.
 
-## Oui, j'ai déjà rabâché là-dessus à plusieurs reprise
+## Oui, j'ai déjà rabâché là-dessus à plusieurs reprises
 
 Il est possible que vous m'ayez vu évoquer ce concept lors d'une conférence ou d'une session de formation. Si ce n'est pas le cas, vous pouvez jeter un coup d'œil sur :
 
@@ -268,7 +268,7 @@ Il est possible que vous m'ayez vu évoquer ce concept lors d'une conférence ou
 
 ## J'aimerai savoir ce que vous pensez ou faites différemment après avoir lu cet article.
 
-Vous avez peut être remarqué qu'il n'y a aucun moyen de faire des commentaires sur cet article. Et vous avez peut être envie d'en faire … même si c'est uniquement pour signaler des erreurs d'orthographes ou de grammaire (dont il me semble presque impossible de me débarasser).
+Vous avez peut-être remarqué qu'il n'y a aucun moyen de faire des commentaires sur cet article. Et vous avez peut-être envie d'en faire … même si c'est uniquement pour signaler des erreurs d'orthographes ou de grammaire (dont il me semble presque impossible de me débarasser).
 
 Vous pouvez faire part de votre avis sur cet article sur Twitter et en me twittant : @jeffpatton
 
