@@ -11,9 +11,9 @@ tags:
 
 Mark Bonchek et Chris Fussel expliquent dans leur article éponyme [pourquoi la stratégie et les plans s'avèrent insuffisants (vo)](http://blogs.hbr.org/cs/2013/02/use_doctrine_to_pierce_the_f.html) :
 
-> « Une stratégie ne donne pas suffisamment d'éléments aux employés d'une entreprise pour les guider quant à la manière de passer concrètement à l'action, et les plans s'avèrent trop rigides pour s'adapter à des changements de situation. Dans des environnements en constante évolution, vous avez besoin de balises anti-brouillard pour déterminer si vous vous rapprochez du sol. »
+> « Une stratégie ne donne pas suffisamment d'éléments aux employés d'une entreprise pour les guider quant à la manière de passer concrètement à l'action, et les plans s'avèrent trop rigides pour s'adapter à des changements de situation. Dans des environnements en constante évolution, vous avez besoin de balises antibrouillard pour déterminer si vous vous rapprochez du sol. »
 
-… où les « balises anti-brouillard » représentent la doctrine.
+… où les « balises antibrouillard » représentent la doctrine.
 
 > « Une doctrine permet de créer un cadre de référence commun à l'intérieur duquel les individus peuvent prendre des décisions rapides et justifiées, compte tenu des circonstances dans lesquelles elles sont prises … Si la stratégie permet de définir les objectifs et que les plans préconisent les comportements, alors la doctrine permet de guider les décisions. »
 
@@ -40,7 +40,7 @@ J'ai quelques problèmes avec cette proposition pour les raisons suivantes :
 - **Le Manifeste Agile n'a pas été mis à jour depuis 2001** (c'est-à-dire il y a 12 ans au moment où je rédige ces lignes). Pour citer John Boyd : « Ne considérez pas le Manifeste Agile comme étant une doctrine parce que beaucoup de choses affreuses se sont produites ces 12 dernières années. ».
 - **12 principes cela fait beaucoup à retenir dans notre mémoire de travail …** et je préférerais une doctrine que les gens pourraient se rappeler sans avoir à la lire et à la relire … tout du moins dans sa version de base.
 
-### Qu'en est-il d'Extreme Programming ?
+### Qu'en est-il de l'Extreme Programming ?
 
 J'ai tendance à préférer plutôt une méthode Agile concrète. En raison de mon histoire personnelle, j'aurais donc tendance à préférer [Extreme Programming](http://jchyip.blogspot.com.au/2011/05/listen-test-code-refactor-learn-target.html) :
 
@@ -64,7 +64,7 @@ Je fais ici référence à deux types de distance :
 ### 2. Valider chaque étape
 
 - Quel est le résultat souhaité ?
-- Pourquoi passez vous par cette étape ? Est-ce que cela vous rapproche du résultat souhaité ?
+- Pourquoi passez-vous par cette étape ? Est-ce que cela vous rapproche du résultat souhaité ?
 - Comment saurez-vous que cette étape a été faite et franchie avec succès ?
 
 En d'autres termes, en utilisant les termes mêmes de tout professionnel Agile un tant soit peu efficace :
