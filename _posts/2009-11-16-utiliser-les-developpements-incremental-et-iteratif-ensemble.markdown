@@ -38,15 +38,15 @@ Figure 1: Le mode de validation en V est un acte normal de la vie.
 
 La figure 1 devrait vraiment être lue à l’envers, comme un diagramme de dépendance : nous ne pouvons pas livrer tant que nous n’avons pas débogué et validé; nous ne pouvons pas déboguer tant que nous n’avons pas codé; nous ne pouvons pas coder tant que nous n’avons pas conçu; nous ne pouvons pas concevoir tant que nous n’avons pas décidé quoi concevoir.
 
-En d’autres termes, la validation en V est un acte normal de la vie, et nous aurons à le traiter aussi bien dans le développement incrémental que itératif.
+En d’autres termes, la validation en V est un acte normal de la vie, et nous aurons à le traiter aussi bien dans le développement incrémental qu'itératif.
 
 ## Développement incrémental
 
 Dans le développement incrémental, nous découpons les tâches en petits morceaux et les planifions pour être développées au fil du temps et intégrées dès qu’elles sont terminées. Les figures 2 à 4 illustrent ce cycle.
 
-Imaginez que les premiers blocs du dessus représentent divers composants de l’interface utilisateur, les blocs du milieu représentent le middleware, et les blocs du bas représentent les composants du back-end ou de la base de données.
+Imaginez que les premiers blocs du dessus représentent divers composants de l’interface utilisateur, les blocs du milieu représentent le middleware, et les blocs du bas représentent les composants du backend ou de la base de données.
 
-La figure 2 montre que, lors du premier incrément, un ensemble complet de fonctionnalités est construit de l’interface utilisateur (IHM) jusqu’au back-end (et dans ce cas, des morceaux supplémentaires de l’interface utilisateur sont également construits). Dans le second incrément (figure 3), nous voyons que la fonctionnalité supplémentaire qui est ajoutée concerne toutes les couches du système. Cela peut constituer un stade d’avancement suffisant pour déployer le système tel qu’il est pour les utilisateurs finaux et commencer à en faire bénéficier le métier. Dans le troisième incrément (figure 4), le reste du système est complété.
+La figure 2 montre que, lors du premier incrément, un ensemble complet de fonctionnalités est construit de l’interface utilisateur (IHM) jusqu’au backend (et dans ce cas, des morceaux supplémentaires de l’interface utilisateur sont également construits). Dans le second incrément (figure 3), nous voyons que la fonctionnalité supplémentaire qui est ajoutée concerne toutes les couches du système. Cela peut constituer un stade d’avancement suffisant pour déployer le système tel qu’il est pour les utilisateurs finaux et commencer à en faire bénéficier le métier. Dans le troisième incrément (figure 4), le reste du système est complété.
 
 ![Développement incrémental – Niveau 1]({{ site.url }}assets/alistair_cockburn/Fig2-inc-stage1.jpg)
 
@@ -172,7 +172,7 @@ Le projet Laddie utilisait une approche Agile avec des itérations de deux semai
 
 Le client avait le choix de retarder la réalisation de nouvelles user stories afin de corriger les erreurs commises, ou bien alors de repousser ces corrections en fin de backlog (c’était leur stratégie de développement itératif – pas très agréable du point de vue du client).
 
-Le client s’était plaint après un moment qu’il sentait qu’il fallait bien faire les choses dès la première fois puisque les choix qu’ont lui laissaient sur le comment et quand il faudrait corriger les erreurs n’étaient pas très agréables. Ceci, avait-il correctement estimé, violait l’esprit même du développement Agile.
+Le client s’était plaint après un moment qu’il sentait qu’il fallait bien faire les choses dès la première fois puisque les choix qu’on lui laissaient sur le comment et quand il faudrait corriger les erreurs n’étaient pas très agréables. Ceci, avait-il correctement estimé, violait l’esprit même du développement Agile.
 
 Terminons avec une histoire heureuse.
 
@@ -180,7 +180,7 @@ Le projet Winifred était à prix, périmètre et délai fixé, 18 mois avec une
 
 Il n’y avait pas de stratégie incrémentale particulière requise au sein de chaque cycle de développement. Les équipes pouvaient développer les fonctionnalités dans l’ordre qu’elles souhaitaient. Par contre, chaque équipe devait montrer ses travaux en cours aux utilisateurs finaux au minimum deux fois par cycle, de sorte que les utilisateurs pouvaient modifier ou corriger ce qui était en cours de construction (ceci était leur stratégie de développement itératif). Cela devait être le logiciel réel, de l’interface utilisateur jusqu’à la base de données, et non de simples maquettes d’écran bouchonnées.
 
-Typiquement, chaque équipe montrait aux utilisateurs ce qu’ils avaient construit après six semaines de travail et de nouveau après huit semaines de travail. Lors de la première rencontre utilisateur, peut-être 60 à 80% des fonctionnalités étaient complètes. Les utilisateurs avaient le droit de changer quoique ce soit qu’ils n’aimaient pas, y compris, "je sais que c’est ce que j’ai dit que je voulais, mais maintenant que je le vois, ce n’est pas du tout ce que je veux."
+Typiquement, chaque équipe montrait aux utilisateurs ce qu’ils avaient construit après six semaines de travail et de nouveau après huit semaines de travail. Lors de la première rencontre utilisateur, peut-être 60 à 80% des fonctionnalités étaient complètes. Les utilisateurs avaient le droit de changer quoi que ce soit qu’ils n’aimaient pas, y compris, "je sais que c’est ce que j’ai dit que je voulais, mais maintenant que je le vois, ce n’est pas du tout ce que je veux."
 
 À la deuxième rencontre, peut-être 90 à 95% des fonctionnalités étaient complètes, et les utilisateurs avaient seulement le droit de faire corriger des erreurs flagrantes et de demander des petits ajustements. Cela a permis de corriger à la fois les spécifications et les interfaces utilisateurs tout en conservant encore un sens pour un contrat au forfait.
 
@@ -194,7 +194,7 @@ Le terme "incrément" signifie à la base "ajouter".
 
 Le mot "itérer" signifie à la base "refaire".
 
-Malheureusement, le "développement itératif" renvoie aujourd’hui aussi bien à incrémental que itératif, sans ne faire aucune différence. C’est malheureusement regrettable pour notre industrie logicielle puisque chacun a un objectif différent et doit être géré différemment.
+Malheureusement, le "développement itératif" renvoie aujourd’hui aussi bien à incrémental qu'itératif, sans ne faire aucune différence. C’est malheureusement regrettable pour notre industrie logicielle puisque chacun a un objectif différent et doit être géré différemment.
 
 Le développement incrémental vous donne la possibilité d’améliorer votre processus de développement, ainsi que d’ajuster les exigences à l’évolution de l’environnement.
 
