@@ -23,7 +23,7 @@ Les caractéristiques d'une équipe feature sont énumérées ci-dessous :
 * dans Scrum, habituellement 7 ± 2 personnes.
 
 
-La mise en oeuvre de pratiques d'ingénierie modernes, en particulier l'intégration continue, est essentielle lorsque vous choisissez d'être une équipe feature. L'intégration continue facilite la propriété collective du code, ce qui est nécessaire lorsque plusieurs équipes travaillent en même temps sur les mêmes composants.
+La mise en œuvre de pratiques d'ingénierie modernes, en particulier l'intégration continue, est essentielle lorsque vous choisissez d'être une équipe feature. L'intégration continue facilite la propriété collective du code, ce qui est nécessaire lorsque plusieurs équipes travaillent en même temps sur les mêmes composants.
 
 Un malentendu fréquent : chaque membre d'une équipe feature doit connaître l'ensemble du système. Pas forcément, parce que :
 
@@ -33,9 +33,9 @@ Un malentendu fréquent : chaque membre d'une équipe feature doit connaître l'
 
 Dans une organisation basée sur des équipes feature, lorsque la spécialisation devient une contrainte... l'apprentissage commence.
 
-**Une organisation basée sur des équipes feature exploite les avantages de la vitessegénérée par la spécialisation, ceci tant que la cartographie des exigences correspond aux compétences des équipes.**
+**Une organisation basée sur des équipes feature exploite les avantages de la vitesse générée par la spécialisation, ceci tant que la cartographie des exigences correspond aux compétences des équipes.**
 
-**Mais lorsque les exigences ne correspondent pas aux compétences des équipes,l'apprentissage est "forcé", rompant ainsi la contrainte de sur-spécialisation.**
+**Mais lorsque les exigences ne correspondent pas aux compétences des équipes, l'apprentissage est "forcé", rompant ainsi la contrainte de sur-spécialisation.**
 
 Les compétences d'une équipe feature s'équilibrent entre spécialisation et flexibilité.
 
