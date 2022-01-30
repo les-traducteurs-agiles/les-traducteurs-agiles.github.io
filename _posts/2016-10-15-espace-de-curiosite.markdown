@@ -3,7 +3,7 @@ layout: post
 title:  "L’espace de curiosité"
 date:   2016-10-16 00:00:01
 published: true
-tags: 
+tags:
 - agile
 - inspiration
 ---
@@ -39,7 +39,7 @@ J’ai pas mal écrit sur le fait d’arrêter de réagir avec colère, et l’u
 
 Maintenant, je vois tellement de choses que je dois apprendre, je peux prendre l’opportunité de poser des questions, de regarder les alternatives et d’apprendre des autres. J’ai appris que si nous entrons dans l’espace de curiosité en étant des personnes honnêtes et curieuses, nous impliquons les autres. Nous pouvons en apprendre tellement plus. Nous nous ouvrons à d’autres explications, d’autres théories et d’autres possibilités.
 
-Cet espace entre ce que nous attendons et la réalité n’est pas un “problème” qui doit être maîtriser.
+Cet espace entre ce que nous attendons et la réalité n’est pas un “problème” qui doit être maîtrisé.
 
 C’est une histoire qui reste à découvrir.
 
