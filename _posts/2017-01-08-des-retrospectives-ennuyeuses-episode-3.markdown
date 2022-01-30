@@ -24,7 +24,7 @@ Nous avons commencé avec ce dessin de base :
 
 ![Dessin de base]({{ site.url }}assets/retrospectives_ennuyeuses/sq-basicsketch.jpg)
 
-Après que tout le monde ait fini, chaque personne explique son dessin à l’équipe. Les ressemblances entre les différents dessins sont très étonnants. En voici quelques-uns :
+Après que tout le monde ait fini, chaque personne explique son dessin à l’équipe. Les ressemblances entre les différents dessins sont très étonnantes. En voici quelques-uns :
 
 ![Courbe]({{ site.url }}assets/retrospectives_ennuyeuses/sq-curve2.jpg)
 
@@ -38,7 +38,7 @@ Après que tout le monde ait fini, chaque personne explique son dessin à l’é
 
 > “Nous avons avancé à la vitesse d’une tortue. Si nous pouvions trouver un vélo, nous pourrions aller beaucoup plus vite.”
 
-Se servir des dessins (comme support de discussion - NdT) permet de mettre en lumière certains problèmes qui requièrent notre attention, et permet à l’équipe de réfléchir à la suite de la rétrospective. Comme vous l’aurez probablement remarqué notre projet est sur un point d’inflexion crucial. Il y a quelque part quelque chose - un risque caché - qui requiert notre attention pour que nous soyons certain que les choses continuent de se dérouler sans accrocs.
+Se servir des dessins (comme support de discussion - NdT) permet de mettre en lumière certains problèmes qui requièrent notre attention, et permet à l’équipe de réfléchir à la suite de la rétrospective. Comme vous l’aurez probablement remarqué notre projet est sur un point d’inflexion crucial. Il y a quelque part quelque chose - un risque caché - qui requiert notre attention pour que nous soyons certains que les choses continuent de se dérouler sans accrocs.
 
 ---
 Auteur : [Nick Oostvogels](https://skycoach.be/ss/)  
