@@ -34,8 +34,8 @@ Les recettes sont une source de distraction si votre but est d'arriver à d'éno
 
 Une fois que les moteurs de la fusée sont allumés, l'argent change de caractère. Les risques sont :
 
-- Une désintégration rapide imprévue en plein vol. Pensez à Friendster, un réseau social qui a grossi comme pas il n'était pas permis mais incapable de maintenir performance et stabilité. Il aurait pu battre Facebook mais au lieu de cela ils ont explosé en plein vol.
-- Une incapacité à atteindre une certaine altitude. La concurrence et les changements de goûts peuvent tronquer la croissance. Une fois que les moteurs de la fusée sont allumés, emmenez-la le plus haut que vous pouvez. « Combien de fois plus rapide pourriez-vous grossir avec davantage de capital ? ».
+- Une désintégration rapide imprévue en plein vol. Pensez à Friendster, un réseau social qui a grossi comme il n'était pas permis mais incapable de maintenir performance et stabilité. Il aurait pu battre Facebook mais au lieu de cela ils ont explosé en plein vol.
+- Une incapacité à atteindre une certaine altitude. La concurrence et les changements de goûts peuvent tronquer la croissance. Une fois que les moteurs de la fusée sont allumés, emmenez-la aussi haut que vous pouvez. « Combien de fois plus rapide pourriez-vous grossir avec davantage de capital ? ».
 
 Le capital de rare va devenir abondant lorsque vous entrez en phase d'expansion.
 
