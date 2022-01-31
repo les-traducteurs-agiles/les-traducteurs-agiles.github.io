@@ -56,7 +56,7 @@ La mêlée de mêlées ne fait pas partie de LeSS, et nous ne recommandons pas d
 
 ## Réunions multi-équipes
 
-Il est courant que des équipes ressentent le besoin de travailler en relation étroite alors que ce n'est pas le cas pour d'autres équipes.Pour celles qui travaillent en relation étroite, il est fréquent d'avoir plusieurs réunions LeSS inter-équipes. Quelques exemples :
+Il est courant que des équipes ressentent le besoin de travailler en relation étroite alors que ce n'est pas le cas pour d'autres équipes. Pour celles qui travaillent en relation étroite, il est fréquent d'avoir plusieurs réunions LeSS inter-équipes. Quelques exemples :
 
 * [Affinage du Backlog Produit](http://www.les-traducteurs-agiles.org/2018/01/26/less-l-affinage-du-backlog-produit.html) inter-équipes
 * [Planification du sprint (partie 2)](http://www.les-traducteurs-agiles.org/2017/03/10/less-la-planification-du-sprint-2eme-partie.html) inter-équipes
@@ -76,7 +76,7 @@ Dans certains domaines, les features sont monstrueusement grandes. Lorsque vous 
 
 Une autre technique, pour coordonner les équipes qui travaillent ensemble sur les éléments découpés qui se rapportent à une même grande feature, consiste à créer une équipe organisatrice. Une équipe organisatrice est une équipe feature ordinaire qui prend le lead sur la globalité d'une feature géante. En plus du travail de développement, cette équipe garde la trace de ce que les autres équipes font et les aide à se synchroniser. En résumé, elle organise la coordination transversale aux équipes qui travaillent sur la feature géante, en plus de son propre travail de développement.
 
-Parfois, plusieurs équipes commencent à développer une feature géante au même moment. D'autres fois, l'équipe organisatrice commence toute seule pour préparer au plus tôt le transfert de connaissance et simplifier er rendre cohérente la conception. Après quelques sprints, d'autres équipes rejoignent l'équipe organisatrice. Dans ce cas, l'équipe organisatrice a la responsabilité de former les équipes qui les rejoignent pour les aider à apprendre ce qu'elle sait déjà.
+Parfois, plusieurs équipes commencent à développer une feature géante au même moment. D'autres fois, l'équipe organisatrice commence toute seule pour préparer au plus tôt le transfert de connaissance et simplifier et rendre cohérente la conception. Après quelques sprints, d'autres équipes rejoignent l'équipe organisatrice. Dans ce cas, l'équipe organisatrice a la responsabilité de former les équipes qui les rejoignent pour les aider à apprendre ce qu'elle sait déjà.
 
 
 ---

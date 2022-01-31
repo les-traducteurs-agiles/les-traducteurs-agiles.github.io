@@ -22,7 +22,7 @@ Afin que LeSS soit adopté au niveau organisationnel, les principes suivants son
 
 Appliquez plutôt LeSS de manière efficace sur un seul produit plutôt que mal l’appliquer sur plusieurs.
 
-Concentrez l’effort d’adoption sur un groupe produit, apportez lui tout le support dont il peut avoir besoin et assurez-vous que ce groupe fonctionne bien. De cette façon, le risque est minimisé et si vous échouez tout même alors cela devient une opportunité d’en apprendre plus. Et lorsque vous réussissez, cela crée une “rumeur” positive qui se révèlera être un formidable substrat très utile pour de futures adoptions.
+Concentrez l’effort d’adoption sur un groupe produit, apportez-lui tout le support dont il peut avoir besoin et assurez-vous que ce groupe fonctionne bien. De cette façon, le risque est minimisé et si vous échouez tout même alors cela devient une opportunité d’en apprendre plus. Et lorsque vous réussissez, cela crée une “rumeur” positive qui se révèlera être un formidable substrat très utile pour de futures adoptions.
 
 ## Une approche descendante et ascendante
 
@@ -46,7 +46,7 @@ Un vrai soutien commence par une auto-formation. L’ensemble de l’encadrement
 
 Comment former de nouvelles équipes ? Qui fera partie d’une communauté de pratiques ? Comment allez-vous répondre à leurs questions et à d’autres encore ?
 
-Faites appel au volontariat ! Le véritable volontariat est un formidable moyen d'engager l'esprit et le coeur des personnes. Il est naturellement sous-utilisé, probablement parce que les managers ressentent une perte de contrôle dans ce cas. Mais les personnes dans les équipes ressentent la prise de pouvoir.
+Faites appel au volontariat ! Le véritable volontariat est un formidable moyen d'engager l'esprit et le cœur des personnes. Il est naturellement sous-utilisé, probablement parce que les managers ressentent une perte de contrôle dans ce cas. Mais les personnes dans les équipes ressentent la prise de pouvoir.
 
 Le volontariat commence par la formation. Tout d’abord, donnez assez de formations et d’explications pour que les gens comprennent ce sur quoi ils se portent volontaires.
 

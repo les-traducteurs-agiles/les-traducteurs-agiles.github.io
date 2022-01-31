@@ -11,11 +11,11 @@ tags:
 
 Un coach ou un scrumMaster trop bavard est un problème qui arrive fréquemment lors des mêlées quotidiennes. Il n’y a rien de mal à ce qu’ils prennent la parole pendant la réunion, mais si nous voulons que l’équipe se l’approprie, ce sont les développeurs qui doivent faire la majorité des échanges.
 
-Les coachs veulent généralement bien faire, mais certains d’entre eux ont souvent un ancien parcours managérial dans des organisations où les informations et le travail étaient donnés aux développeurs par l’encadrement. Cela contribue à la mise en place d’un modèle dans lequel les développeurs s’attendent à ce que les problèmes soient résolus par l’encadrement. Nous voulons créer un nouveau modèle, dans lequel les développeurs résolvent eux-même la plupart des problèmes.
+Les coachs veulent généralement bien faire, mais certains d’entre eux ont souvent un ancien parcours managérial dans des organisations où les informations et le travail étaient donnés aux développeurs par l’encadrement. Cela contribue à la mise en place d’un modèle dans lequel les développeurs s’attendent à ce que les problèmes soient résolus par l’encadrement. Nous voulons créer un nouveau modèle, dans lequel les développeurs résolvent eux-mêmes la plupart des problèmes.
 
 Les coachs doivent coacher les développeurs à travers ce changement de modèle. Cela requiert du courage de leur part et cela crée parfois un vide qu’ils doivent eux-mêmes remplir.
 
-Une bonne pratique que je conseille aux coachs est de poser des questions - même des questions auxquelles ils ont les réponses - et d’attendre la réponse. La pratique consiste consiste à compter 10 secondes en silence après avoir posé la question. Ne soyez pas surpris si cela prend 6-7 secondes avant que quelqu’un prenne la parole … de longs silences peuvent être inconfortables pour un développeur qui connaît la réponse, mais qui est un peu timide pour prendre la parole. Si vous êtes arrivé à 10 secondes et que personne n’a parlé, posez une question bateau ; une question qui est plus facile à répondre et qui vous amène à mi-chemin.
+Une bonne pratique que je conseille aux coachs est de poser des questions - même des questions auxquelles ils ont les réponses - et d’attendre la réponse. La pratique consiste à compter 10 secondes en silence après avoir posé la question. Ne soyez pas surpris si cela prend 6-7 secondes avant que quelqu’un prenne la parole … de longs silences peuvent être inconfortables pour un développeur qui connaît la réponse, mais qui est un peu timide pour prendre la parole. Si vous êtes arrivé à 10 secondes et que personne n’a parlé, posez une question bateau ; une question qui est plus facile à répondre et qui vous amène à mi-chemin.
 
 **Exemple :**
 
