@@ -24,7 +24,7 @@ Généralement, nous faisons la distinction entre :
 * La définition “concrète” du produit, qui correspond à un sous-ensemble du précédent et qui nous permet de démarrer puis de l’améliorer à partir de là.
 
 
-Habituellement, la manière de trouver la définition d’un produit se fait en posant des questions qui approfondissent les choses pour ensuite affiner et réduire ces choses à une définition concrète .
+Habituellement, la manière de trouver la définition d’un produit se fait en posant des questions qui approfondissent les choses pour ensuite affiner et réduire ces choses à une définition concrète.
 
 ## Questions qui approfondissent les choses
 
