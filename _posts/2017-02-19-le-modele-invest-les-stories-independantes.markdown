@@ -9,7 +9,7 @@ tags:
 
 Le modèle [INVEST](http://www.les-traducteurs-agiles.org/story/2015/02/23/investissez-dans-de-bonnes-stories-et-dans-des-taches-smart.html) est un moyen mnémotechnique permettant de se rappeler des principales caractéristiques des _user stories_ et il commence par un **I** comme **Indépendant**.
 
-Chacune des stories indépendante décrit un aspect différent des capacités d’un système. Elles sont plus facile à manier parce que chacune d’elle peut être (pour la plupart d’entre elles) comprise, suivie, implémentée, testée, etc.
+Chacune des stories indépendante décrit un aspect différent des capacités d’un système. Elles sont plus faciles à manier parce que chacune d’elle peut être (pour la plupart d’entre elles) comprise, suivie, implémentée, testée, etc.
 
 Les approches de développement agile sont flexibles, elles sont plus aptes à poursuivre ce qui _a_ le plus de valeur aujourd’hui, et elles ne sont pas contraintes de suivre une conjecture vieille de 6 mois sur ce qui _devrait avoir_ de la valeur aujourd’hui. Des _stories_ indépendantes nous aident à faire en sorte à ce que cela soit vrai : plutôt qu’un gros bloc “à prendre ou à laisser”, elles nous permettent de nous focaliser sur les différents aspects d’un système.  
 
@@ -54,7 +54,7 @@ Une seconde dépendance assez répandue est la dépendance d’ordonnancement : 
 
 Bien qu’aucune approche ne puisse le garantir, la dépendance d’ordonnancement est quelque chose généralement d’inoffensif la plupart du temps et qui peut être contourné. Il y a plusieurs raisons à cela :
 
-1. Certaines dépendances d’ordonnancement découlent de la nature même du problème . Par exemple, une _story_ “l’utilisateur ré-expédie un message” suit naturellement “l’utilisateur envoie un message”. Même s’il y a une dépendance d’ordonnancement que nous ne pouvons pas supprimer, ce n’est pas grave car le métier aura tendance à planifier ces _stories_ de telle manière que cette dépendance sera naturelle et inoffensive.
+1. Certaines dépendances d’ordonnancement découlent de la nature même du problème. Par exemple, une _story_ “l’utilisateur ré-expédie un message” suit naturellement “l’utilisateur envoie un message”. Même s’il y a une dépendance d’ordonnancement que nous ne pouvons pas supprimer, ce n’est pas grave car le métier aura tendance à planifier ces _stories_ de telle manière que cette dépendance sera naturelle et inoffensive.
 2. Même si une dépendance d’ordonnancement existe, il y a seulement 50% de chance que la planification soit faite dans le “mauvais” ordre.
 3. Nous pouvons trouver des manières plus intelligentes pour supprimer la plupart des dépendances d’ordonnancement.
 
@@ -68,7 +68,7 @@ Les dépendances de confinement arrivent lorsque nous organisons les _stories_ d
 
 > Une bonne organisation pour décrire un système est rarement la meilleure pour planifier son implémentation.
 
-la plus grosse réserve au sujet d’une décomposition hiérarchique est bien qu’il puisse s’agir d’une stratégie utile pour organiser et comprendre un large ensemble de _stories_, cela n’en fait pas une bonne stratégie pour planifier. En effet, cela vous encourage à faire une planification de type “en profondeur d’abord” : gérer ce domaine d’abord, et lorsque cela est fini, de faire le domaine suivant. Mais il est peu probable en réalité que les _stories_ ayant le plus de valeur soient toutes dans le même domaine. Nous avons tout intérêt plutôt de créer d’abord une version minimale de l’ensemble du système, puis une version plus affinée ensuite (avec la fonctionnalité la plus importante qui suit), et ainsi de suite.
+La plus grosse réserve au sujet d’une décomposition hiérarchique est bien qu’il puisse s’agir d’une stratégie utile pour organiser et comprendre un large ensemble de _stories_, cela n’en fait pas une bonne stratégie pour planifier. En effet, cela vous encourage à faire une planification de type “en profondeur d’abord” : gérer ce domaine d’abord, et lorsque cela est fini, de faire le domaine suivant. Mais il est peu probable en réalité que les _stories_ ayant le plus de valeur soient toutes dans le même domaine. Nous avons tout intérêt plutôt de créer d’abord une version minimale de l’ensemble du système, puis une version plus affinée ensuite (avec la fonctionnalité la plus importante qui suit), et ainsi de suite.
 
 ## Dernière ligne droite
 
