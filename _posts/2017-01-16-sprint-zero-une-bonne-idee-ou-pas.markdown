@@ -8,7 +8,7 @@ tags:
 - sprint
 ---
 
-J’ai écris récemment un article au sujet de [solutions alternatives à la numérotation usuelle des sprints](https://www.mountaingoatsoftware.com/blog/number-name-date-stamp-or-sing-your-sprints). Dans cet article, je voudrais parler d’un numéro très spécial que certaines équipes utilisent pour numéroter leurs sprints -- le zéro.
+J’ai écrit récemment un article au sujet de [solutions alternatives à la numérotation usuelle des sprints](https://www.mountaingoatsoftware.com/blog/number-name-date-stamp-or-sing-your-sprints). Dans cet article, je voudrais parler d’un numéro très spécial que certaines équipes utilisent pour numéroter leurs sprints -- le zéro.
 
 Le concept de “sprint zéro” est devenu populaire au sein de certaines équipes et il est donc important de voir s’il s’agit ou non d’une bonne idée.
 
@@ -22,12 +22,12 @@ La prise de cette décision peut elle-même être considérée comme un projet.
 
 Etant donné que Scrum fonctionne comme un cadre de travail de gestion de projet générique, il peut être utilisé pour gérer le travail de ce projet-avant-le-projet. Pendant ce projet-avant-le-projet, les membres de cette équipe (voire peut être seulement le futur product owner) peuvent travailler pour créer un _product backlog_ initial, trouver ou embaucher des équipiers, mettre en place un environnement technique, et ainsi de suite.
 
-Je pense qu’il est intéressant d’envisager ce travail comme étant un projet à part entière car il n’est pas difficile d’imaginer sans aller bien loin que ce travail prendra plus d’un sprint, le sprint zéro spécial. Comment une équipe qui utilise un sprint zéro peut elle appeler son second sprint si elle en a besoin d’un de plus pour faire n’importe quel travail qui justifierait ce type de sprint spécial ? Un sprint 0,5 ?
+Je pense qu’il est intéressant d’envisager ce travail comme étant un projet à part entière car il n’est pas difficile d’imaginer sans aller bien loin que ce travail prendra plus d’un sprint, le sprint zéro spécial. Comment une équipe qui utilise un sprint zéro peut-elle appeler son second sprint si elle en a besoin d’un de plus pour faire n’importe quel travail qui justifierait ce type de sprint spécial ? Un sprint 0,5 ?
 
 Quelques précautions sont nécessaires désormais :
 
 * Faites en sorte que tout “projet avant le projet” soit mené de manière aussi légère que possible. La plupart des projets de développement ne nécessitent pas généralement de projet avant de pouvoir commencer.
-* Rester fidèle aux principes de Scrum. Une équipe participant à un projet avant le projet ne sera peut être pas capable d’avoir quoi que ce soit de potentiellement livrable. C’est tout à fait correct. Mais essayez de comprendre pourquoi avoir quelque chose de potentiellement livrable est un principe fondamental de Scrum et appliquez-le honnêtement au projet avant le projet. 
+* Rester fidèle aux principes de Scrum. Une équipe participant à un projet avant le projet ne sera peut-être pas capable d’avoir quoi que ce soit de potentiellement livrable. C’est tout à fait correct. Mais essayez de comprendre pourquoi avoir quelque chose de potentiellement livrable est un principe fondamental de Scrum et appliquez-le honnêtement au projet avant le projet. 
 
 Ce dernier point -- rester fidèle aux principes de Scrum dans un projet-avant-le-projet-- sera approfondit dans mon prochain article.
 
