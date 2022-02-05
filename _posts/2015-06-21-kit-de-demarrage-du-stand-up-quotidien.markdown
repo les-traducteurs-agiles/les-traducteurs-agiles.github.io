@@ -9,8 +9,8 @@ tags:
 ---
 La stand-up quotidien peut être l'une des pratiques agiles les plus faciles ou les plus  difficiles à faire correctement. Le but initial, lorsque l'on introduit le **stand-up quotidien** (connu également sous le nom de **mêlée quotidienne** ou de **rassemblement**) est d'amener les gens à faire part brièvement de leur avancée. L'accent devrait être mis particulièrement sur :
 
-* Qu'est ce que j'ai fait hier (ou depuis la dernière rencontre de l'équipe) ?
-* Qu'est ce que je vais faire aujourd'hui (ou d'ici la prochaine rencontre de l'équipe) ?
+* Qu'est-ce que j'ai fait hier (ou depuis la dernière rencontre de l'équipe) ?
+* Qu'est-ce que je vais faire aujourd'hui (ou d'ici la prochaine rencontre de l'équipe) ?
 * Quels obstacles ai-je découvert ?
 
 C'est un _défi_ à relever quand l'expression de la réponse à ces trois questions est trop vague (par exemple, hier j'ai travaillé sur la même user story) ou trop détaillée. Une quantité suffisante de détails devrait être partagée pour être certain que les personnes comprennent le sujet sur lequel on a travaillé (par exemple, hier j'ai travaillé sur l'ouverture du port pour permettre l'établissement des  communications) ou sur lequel on va travailler (par exemple, aujourd'hui, je vais travailler sur la mise en place du protocole asynchrone et je vais mettre en place un test de transfert de paquets sur ce nouveau port). Au début, il est conseillé de limiter le temps de parole à 1 mn pour éviter que le stand-up dure trop longtemps.
@@ -27,7 +27,7 @@ Le bénéfice est que l'équipe peut être mise au courant plus rapidement si de
 Parce que la tournure d'esprit de l'agilité se concentre d'abord sur les travaux ayant la priorité la plus haute, cela permet un partage d'informations sur l'avancée des travaux d'être concentré avant tout sur les travaux les plus prioritaires et sur le reste ensuite.
 Cela donne également plus de visibilité notamment quand les stories les plus prioritaires ne sont pas en cours de réalisation alors que d'autres le sont. Cela peut vous aider à récupérer des ressources pour des travaux prioritaires qui ne sont pas encore terminés.
 
-La clé du succès est d'adopter, de réfléchir et d'adapter. Je vous souhaite bonne chance dans votre aventure du stand-up quotidien. Et vous, comment menez vous votre stand-up quotidien et l'avez fait évoluer avec le temps ? Si oui, de quelles manières l'avez vous fait évoluer ?
+La clé du succès est d'adopter, de réfléchir et d'adapter. Je vous souhaite bonne chance dans votre aventure du stand-up quotidien. Et vous, comment menez-vous votre stand-up quotidien et l'avez fait évoluer avec le temps ? Si oui, de quelles manières l'avez-vous fait évoluer ?
 
 ---
 Auteur : [Mario Moreira](https://www.blogger.com/profile/00969447879025623968)  
