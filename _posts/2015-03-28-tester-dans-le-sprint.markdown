@@ -63,11 +63,11 @@ Désolé, l'équipe, nous avons celui-là. Le conseil de Scrum est clair : produ
 
 Ainsi, d'un côté, si nous ne testons pas dans un Sprint, nous ne pouvons pas savons pas si l'incrément fonctionne, donc nous ne pouvons pas livrer un incrément opérationnel, et par conséquent nous ne faisons pas de Scrum. (Nous nous préparons aussi à échouer, mais cela nous le découvrirons bientôt.)  
 
-Et c'est maintenant où nous sortons notre "Ce n'est pas un vrai écossais" ( [expression](http://en.wikipedia.org/wiki/No_true_Scotsman) exprimant une idée fausse - NdT) parmi d'autres excuses faisant paraître crédible que notre soit disant projet Scrum n'ait pas livré un incrément opérationnel à chaque Sprint et ce n'est pas notre faute. Ouaaais. C'est la faute de Scrum !  
+Et c'est maintenant où nous sortons notre "Ce n'est pas un vrai écossais" ( [expression](http://en.wikipedia.org/wiki/No_true_Scotsman) exprimant une idée fausse - NdT) parmi d'autres excuses faisant paraître crédible que notre soi-disant projet Scrum n'ait pas livré un incrément opérationnel à chaque Sprint et ce n'est pas notre faute. Ouaaais. C'est la faute de Scrum !  
 
 À quoi nous attendions-nous ? Que l'Inquisition de Scrum viendrait fondre sur nous dans leurs habits rouges et nous ferait passer cul par-dessus tête au sujet de notre incrément ? Même s'ils ne se montraient pas, nous aurions ressorti notre excuse : "Cela ne fonctionne pas pour nous. Notre situation est spéciale.".  
 
-Eh bien, si l'Inquisition de Scrum s'était montrée dans leurs chouettes habits rouges, nous aurions pu mettre de faux badges du mérites Scrum sur nos chemises et retirer notre banderole "Cela fait 221 jours que nous n'avons pas fait de Scrum". Cela fait zéro jours de Scrum. Zéro !  
+Eh bien, si l'Inquisition de Scrum s'était montrée dans leurs chouettes habits rouges, nous aurions pu mettre de faux badges du mérites Scrum sur nos chemises et retirer notre banderole "Cela fait 221 jours que nous n'avons pas fait de Scrum". Cela fait zéro jour de Scrum. Zéro !  
 
 # Qu'est-ce que "Scrum" a fait pour rendre ceci clair ?
 
@@ -85,15 +85,15 @@ Alors que je pense que nous avons le projet que nous méritons, en choisissant q
 
 # Que devrions-nous faire de plus ?
 
-Lorsque j'ai commencé cet article, je pensais parler de l'insistance constante de Jeff et les autres , puis le sujet devint plus abstrait et il était nécessaire de plus y travailler. Toutefois, il suffit que je regarde où que ce soit pour que je trouve des références explicites aux tests dans le sprint.  
+Lorsque j'ai commencé cet article, je pensais parler de l'insistance constante de Jeff et les autres, puis le sujet devint plus abstrait et il était nécessaire de plus y travailler. Toutefois, il suffit que je regarde où que ce soit pour que je trouve des références explicites aux tests dans le sprint.  
 
 Est-ce que tester pourrait être plus souligné ? C'est certain. Il devrait l'être au prix d'autre chose, bien sûr, mais on pourrait en dire plus. Si Jeff a raison en disant qu'il s'agit d'un des plus gros problèmes dans l'agilité, il faudrait sûrement insister plus. En même temps, je ne suis pas vraiment certain de ce qu'il "faudrait" faire.  
 
-(Épargnez-moi les inévitables polémiques sur comment se fait-il que les scrum masters certifiés n'en savent pas assez sur ce sujet et que la certification est une arnaque, et ainsi de suite. La question a déjà été posée et répondue). Oui, il y a des problèmes. Les gens doivent en savoir plus. Tous le monde dans le domaine "Agile" travaille dur pour aider les personnes à comprendre ce qu'il faut faire et comment le faire.  
+(Épargnez-moi les inévitables polémiques sur comment se fait-il que les scrum masters certifiés n'en savent pas assez sur ce sujet et que la certification est une arnaque, et ainsi de suite. La question a déjà été posée et répondue). Oui, il y a des problèmes. Les gens doivent en savoir plus. Tout le monde dans le domaine "Agile" travaille dur pour aider les personnes à comprendre ce qu'il faut faire et comment le faire.  
 
 Revenons-en à nos moutons. Tout d'abord, qu'est que vous pourriez faire qui serait utile ? Je dirais qu'il n'est pas utile de faire sa petite rengaine cynique "Hahaha, vous voyez ? Scrum échoue". Même si c'était vrai, cela ne serait pas utile. Être utile serait de dire des choses comme "Tester est une partie vitale de Scrum. Vous ne pouvez pas faire de bon scrum sans cela.". Être utile serait d'écrire des articles sur comment tester dans un contexte agile, ou comment tester peut améliorer votre situation. Des choses comme cela.  
 
-Aidez à rendre le monde meilleur. Offrez de meilleurs idées, et pas des dénigrements aux bonnes idées. Est-ce que vous avez des idées qui pourraient aider ? Mettez-les sur la table. Vous pourriez même m'écrire une note avec vos suggestions.  
+Aidez à rendre le monde meilleur. Offrez de meilleures idées, et pas des dénigrements aux bonnes idées. Est-ce que vous avez des idées qui pourraient aider ? Mettez-les sur la table. Vous pourriez même m'écrire une note avec vos suggestions.  
 
 # TL;PL
 
