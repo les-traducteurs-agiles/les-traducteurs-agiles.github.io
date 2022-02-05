@@ -27,7 +27,7 @@ Bien sûr, il est important de savoir comment vous travaillez et d’essayer de 
 
 Les burn down d’itération et de livraison sont importants pour savoir où vous en êtes. Lorsque vous voyez un virage se profiler à l’horizon, vous n’accélérez pas, vous ajustez votre conduite. C’est la même chose avec le burn down : utilisez-le pour décider quoi faire, pas pour accélérer.
 
-Mettre la pression (sur l’équipe - NdT) au niveau du burn down aura comme conséquence d’avoir de plus petites stories (ce qui peut être une bonne chose), qu’il y aura moins de tests et de _refactoring_. Ce n’est pas une bonnes chose, cela va vous ralentir et engendrer plus d’anomalies. Vous voulez des anomalies ? C’est comme ça que vous en aurez.
+Mettre la pression (sur l’équipe - NdT) au niveau du burn down aura comme conséquence d’avoir de plus petites stories (ce qui peut être une bonne chose), qu’il y aura moins de tests et de _refactoring_. Ce n’est pas une bonne chose, cela va vous ralentir et engendrer plus d’anomalies. Vous voulez des anomalies ? C’est comme ça que vous en aurez.
 
 ## Stories planifiés vs réalisées - 35 %
 
@@ -51,9 +51,9 @@ Toutefois, c’est une métrique convenable, bien qu’elle puisse être diffici
 
 Regardons un peu plus rapidement les éléments restants sur la liste de VersionOne :
 
-Le _travail en cours_ est une bonne chose à regarder. S’il est élevé, le travail reste alors en attente et les gens ont tendance à changer de tâches. Et c’est comme ça que les choses ralentissent et que vous rajoutez plus d’anomalies, donc garder un TEC [^1] aussi bas que possible est une bonne chose. Utilisez le TEC comme d’un signal pour voir si vos équipes ne sont pas aussi pluri-disciplinaires qu’elles pourraient l’être.
+Le _travail en cours_ est une bonne chose à regarder. S’il est élevé, le travail reste alors en attente et les gens ont tendance à changer de tâches. Et c’est comme ça que les choses ralentissent et que vous rajoutez plus d’anomalies, donc garder un TEC [^1] aussi bas que possible est une bonne chose. Utilisez le TEC comme d’un signal pour voir si vos équipes ne sont pas aussi pluridisciplinaires qu’elles pourraient l’être.
 
-Les indicateurs des _anomalies en production_ et des _anomalies dans le temps_ valent le coût d’être suivis. De bonnes équipes agiles livraient peut être 10% ou moins d’anomalies avant de devenir agiles. Si le nombre d’anomalies ne baissent pas lorsque vous devenez agiles, réfléchissez à envoyer vos équipes à des ateliers de pratiques agiles de développement logiciel comme le développement piloté par les tests et le _refactoring_. Si les anomalies montent en flèche, vos équipes doivent resserrer les boulons sur les tests et le _refactoring_. Une des causes typiques d’une piètre qualité est de mettre la pression pour aller plus vite. C’est pourquoi mesurer des choses comme la vélocité est presque toujours négative.
+Les indicateurs des _anomalies en production_ et des _anomalies dans le temps_ valent le coût d’être suivis. De bonnes équipes agiles livraient peut-être 10% ou moins d’anomalies avant de devenir agiles. Si le nombre d’anomalies ne baissent pas lorsque vous devenez agiles, réfléchissez à envoyer vos équipes à des ateliers de pratiques agiles de développement logiciel comme le développement piloté par les tests et le _refactoring_. Si les anomalies montent en flèche, vos équipes doivent resserrer les boulons sur les tests et le _refactoring_. Une des causes typiques d’une piètre qualité est de mettre la pression pour aller plus vite. C’est pourquoi mesurer des choses comme la vélocité est presque toujours négative.
 
 _Budget vs coût réel_ est un indicateur un peu étrange. Le budget d’une équipe de développement logiciel est dominé dans le temps par les salaires. La seule manière vous permettant de dépasser le budget sur un mois donné, toute proportion gardée sur le degré de dépassement, est en embauchant accidentellement plus de personnes que prévu. C’est une erreur de budget ou d’encadrement, et non un problème d’équipe. À moins que vous ne les envoyiez à trop de réunions à Aruba, il y a peu de chances que ce soit une métrique utile.
 
@@ -63,7 +63,7 @@ Attendez, hein ? quoi ? Vous pensiez que le _product owner_ devrait seulement em
 
 La seule chose positive concernant l’indicateur _précision de l’estimation_ est d’être à la 13ème place. Tout d’abord, vous ne voulez pas vraiment de la précision. Si l’équipe pouvait faire tout le boulot en moins de temps qu’il n’en faut pour l’estimer vous seriez heureux, même si cette estimation s’avère complètement imprécise. Par conséquent, toutes les estimations faites par l’équipe seront plus élevées et vous serez heureux. La précision de l’estimation est donc une métrique bidon.
 
-De nos jours, les meilleurs équipes n’estiment plus du tout au niveau de la story. Elles découpent les stories, elles les font, elles les réalisent, elles les font fonctionner et elles les terminent, finis.
+De nos jours, les meilleures équipes n’estiment plus du tout au niveau de la story. Elles découpent les stories, elles les font, elles les réalisent, elles les font fonctionner et elles les terminent, finis.
 
 _Valeur métier livrée_ Super ! Enfin une bonne idée. C’est vraiment dommage qu’elle soit en numéro 14 de la liste. Comment améliorez-vous la valeur métier livrée ? Vous donnez à l’équipe du travail à faire qui a de la valeur. Comme votre idée la meilleure vaut probablement 100 fois plus que votre idée la plus mauvaise, réaliser les stories dans l’ordre des plus au moins importantes est bien le meilleur plan possible. Et au sujet des dates de livraison, reportez-vous aux paragraphes précédents.
 
@@ -81,7 +81,7 @@ La _valeur gagnée_ est un indicateur répandu dans certaines grandes organisati
 
 En supposant un budget en personnel fixe, la valeur gagnée sera représentée généralement par une ligne droite par rapport au temps ou au budget. Cela suppose donc un accroissement linéaire de la “valeur”. Étant donné que vous prenez les items du backlog ayant le plus de valeur d’abord, votre valeur gagnée devrait être connue d’avance pendant toute la durée du projet. Et cela, si vous êtes bien entendu vraiment bon à la budgétisation du coût des fonctionnalités que vous ne construirez jamais. Il est toutefois possible d’estimer combien de temps cela prend pour construire un pont ou une route. (Ajoutez ici votre propre liste de construction de ponts et de routes ayant dépassé le budget). Il est quasiment impossible de budgéter combien de fonctionnalités d’un nouveau produit vous pouvez faire avec une nouvelle équipe. Il peut toutefois être possible de budgéter un produit qui soit similaire à un autre que vous venez juste de réaliser.
 
-Vous avez peut être commencé à comprendre que je n’ai pas grand chose à cirer de la valeur gagnée. C’est vrai. Je connais une personne, qui elle, je pense y est plutôt bonne. Si vous voulez que je vous mette en contact avec elle, faites-le moi savoir. Mais à moins que vous ne soyez obligé par le règlement intérieur d’utiliser la valeur gagnée, ne l’utilisez pas, tout simplement.
+Vous avez peut-être commencé à comprendre que je n’ai pas grand-chose à cirer de la valeur gagnée. C’est vrai. Je connais une personne, qui elle, je pense y est plutôt bonne. Si vous voulez que je vous mette en contact avec elle, faites-le moi savoir. Mais à moins que vous ne soyez obligé par le règlement intérieur d’utiliser la valeur gagnée, ne l’utilisez pas, tout simplement.
 
 La _rétention client_ est une idée sympa. Mais c’est un indicateur à la ramasse, difficile à mettre en relation avec vos décisions, et tout aussi peu utile qu’un autre indicateur client auquel vous pourriez penser.
 
@@ -89,7 +89,7 @@ L’_impact sur les ventes/revenus_ est aussi vraiment à la ramasse et difficil
 
 L’_utilisation du produit_ peut être un super indicateur. Je connais une entreprise qui, dans un contexte publicitaire, suit le nombre de clics sur chacune des fonctionnalités. Ils ont trouvé cela intéressant en pensant comment cela pouvait servir le domaine de la publicité. Et la plupart d’entre nous savons bien qu’il y a une fonctionnalité à laquelle nous aimerions bien échapper dans les applications que nous utilisons au quotidien. Donc si vous suivez l’utilisation à un niveau suffisamment fin et suffisamment proche de vos décisions, vous pourriez apprendre comment prendre de bonnes décisions.
 
-##D’accord Ron, y’a t’il UNE métrique qui trouve grâce à tes yeux ?
+##D’accord Ron, y a-t-il UNE métrique qui trouve grâce à tes yeux ?
 
 Pour comparer une équipe à une autre ? Je n’aime pas beaucoup les métriques car comparer les équipes les unes aux autres c’est pire que comparer des pommes ou des oranges. Au moins les pommes et les oranges sont des fruits et qu’elles sont à peu près de forme ronde. Les équipes, pas vraiment. Néanmoins, je me rappelle d’une comparaison d’équipe qui a donné quelque chose de positif :
 
@@ -117,9 +117,9 @@ _Dessinez une petite zone sur le tableau blanc_. Lorsqu’une partie du code a b
 
 Un _graphique du nombre de tests d’acceptance écrits par rapport à ceux qui sont au vert_ J’ai déjà vu ce graphique montrer à une équipe que celle-ci avait effectivement des tests écrits mais qu’elle n’avait pas eu les réponses “correctes” à ceux-ci de la part de l’équipe du _product owner_. Vous pourriez donc le trouver utile.
 
-La _vélocité_ en terme de stories faites est tout à fait valable. Elle montera et descendra et vous pourrez bien apprendre quelque chose si vous réfléchissez dessus. Toutefois, soyez très prudent : ne regardez pas l’effort d’un travailleur ou d’une équipe ou quoi que ce soit de ce genre. Mais lorsque la courbe de progression change, vous êtes en train d’observer _quelque chose_. Profitez de la rétrospective pour trouver ce que c’est.
+La _vélocité_ en termes de stories faites est tout à fait valable. Elle montera et descendra et vous pourrez bien apprendre quelque chose si vous réfléchissez dessus. Toutefois, soyez très prudent : ne regardez pas l’effort d’un travailleur ou d’une équipe ou quoi que ce soit de ce genre. Mais lorsque la courbe de progression change, vous êtes en train d’observer _quelque chose_. Profitez de la rétrospective pour trouver ce que c’est.
 
-Cet article, [de gros graphiques bien visibles](http://www.ronjeffries.com/xprog/articles/bigvisiblecharts/), paru il y a quelques temps, pourrait vous donner des idées. Aujourd’hui, je pourrais peut-être déceler des problèmes dans certains d’entre eux que je n’avais pas vu lorsque j’ai écris cet article à l’époque en 2004 et notamment sur leur mauvaise utilisation éventuelle.
+Cet article, [de gros graphiques bien visibles](http://www.ronjeffries.com/xprog/articles/bigvisiblecharts/), paru il y a quelques temps, pourrait vous donner des idées. Aujourd’hui, je pourrais peut-être déceler des problèmes dans certains d’entre eux que je n’avais pas vu lorsque j’ai écrit cet article à l’époque en 2004 et notamment sur leur mauvaise utilisation éventuelle.
 
 De manière générale, soyez très prudent en essayant de mesurer une équipe avec des métriques. Utilisez des métriques pour suivre des choses que l’équipe devra regarder par la suite. En tout cas, vous ne devriez certainement pas du tout les utiliser pour comparer les équipes entre elles.
 
