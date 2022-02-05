@@ -15,11 +15,11 @@ Et oui, mis à part l’éthique puritaine du travail, je mérite bien cela une 
 
 Aujourd’hui, les membres les plus avisées de la communauté Lean savent que la productivité est la cause numéro une du gaspillage : si, moi individuellement, je continue à produire tout mon soûl, il n’y a aucune garantie que mon travail rejoindra quoi que ce soit sur la chaîne de fabrication pour générer de la valeur. Je devrais plutôt travailler au rythme de la demande.
 
-Et dans le domaine du travail du savoir alimenté par de l’innovation, une grande quantité d’heures passées sur la ligne de fabrication ou au bureau est probablement moins efficientes que quelques heures passées au musée des beaux-arts. Jurgen Appelo a écrit récemment au sujet des vacances illimitées; je pense que cette perspective rééquilibre la balance en faveur d’un temps équivalent pour notre vie personnelle.
+Et dans le domaine du travail du savoir alimenté par de l’innovation, une grande quantité d’heures passées sur la ligne de fabrication ou au bureau est probablement moins efficientes que quelques heures passées au musée des beaux-arts. Jurgen Appelo a écrit récemment au sujet des vacances illimitées ; je pense que cette perspective rééquilibre la balance en faveur d’un temps équivalent pour notre vie personnelle.
 
 Il ne s’agit pas de faire une semaine ordinaire au travail : il s’agit du non-travail de ce que DeMarco à l’habitude de nommer du “temps non productif” [^1]. Pourquoi parlons-nous de la durée du temps passé au travail à la place de la durée du temps passé à jouer avec nos enfants ? Et l’angle agile alors ?
 
-L’entreprise idéale produit une valeur infinie avec zéro effort : l’objectif est de s’en rapprocher le plus. Inscrire uniquement la mesure du temps de travail maximum que vous avez passé est le signe d’une organisation immature. Personne ne se soucie du temps que vous avez travaillé : ce qui est important c’est la valeur délivrée, et le temps restant jusqu’à ce que vous en livriiez.
+L’entreprise idéale produit une valeur infinie avec zéro effort : l’objectif est de s’en rapprocher le plus. Inscrire uniquement la mesure du temps de travail maximum que vous avez passé est le signe d’une organisation immature. Personne ne se soucie du temps que vous avez travaillé : ce qui est important c’est la valeur délivrée, et le temps restant jusqu’à ce que vous en livriez.
 
 ## Ne donnez pas de la valeur au temps
 
