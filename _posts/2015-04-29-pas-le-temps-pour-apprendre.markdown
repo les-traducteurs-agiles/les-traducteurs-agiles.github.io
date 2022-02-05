@@ -11,10 +11,9 @@ Le problème numéro un que je vois chez les clients, c'est qu'il n'y a pas le t
 
 Dans une plus large mesure, le développement Agile de logiciel c'EST apprendre. Nous essayons toutes sortes de choses attentivement, nous regardons les résultats que nous obtenons, nous réfléchissons sur pourquoi nous obtenons ces résultats, et nous ajustons. Nous faisons cela à des niveaux multiples de granularités, du choix des produits à développer jusqu'à l'écriture d'un code fonctionnel et fiable.
 
-Cela prends du temps, mais cela paye, avec le temps. Pour continuer à faire les mêmes choses de la même manière, cela implique que nous savons tout ce qu'il y a besoin de savoir à ce sujet, et qu'il ne reste plus aucune amélioration possible à faire. Que nous sommes déjà à la vitesse maximale. Que nous pouvons seulement faire pire que ce que nous faisons en ce moment. Je trouve cela hautement improbable.
+Cela prend du temps, mais cela paye, avec le temps. Pour continuer à faire les mêmes choses de la même manière, cela implique que nous savons tout ce qu'il y a besoin de savoir à ce sujet, et qu'il ne reste plus aucune amélioration possible à faire. Que nous sommes déjà à la vitesse maximale. Que nous pouvons seulement faire pire que ce que nous faisons en ce moment. Je trouve cela hautement improbable.
 
 Il y a toujours plus à apprendre. Il y a toujours des façons d'apprendre de meilleures façons d'apprendre.
-
 
 ---
 Auteur : [George Dinwiddie](http://blog.gdinwiddie.com/about/)  
