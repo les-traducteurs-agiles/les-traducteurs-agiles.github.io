@@ -46,11 +46,11 @@ Eh bien, je vous ai déjà parlé du fait que j'utilise [Remember the Milk](http
 
 Il y a une autre raison importante de conserver des listes : **La science de la créativité suggère que les personnes les plus innovantes sont celles qui collectent les idées venant de plusieurs sources et qui les transforment en réservoirs d'inspiration**. Non seulement, j'ai des listes de livres ; j'ai aussi des listes (ou plutôt des collections non ordonnées) de citations, d'articles, d'images, d'idées professionnelles à moitié travaillées, et tout un fouillis de projets ayants précédemment échoués ou restant inachevés.
 
-Les recherches indiquent que **les personnes créatives se complaisent dans des environnements un peu en désordre**, où il y a juste assez de bruits de fonds pour permettre à leurs cerveaux de faire des connections fortuites [^3] entre des idées n'ayant aucun rapport entre elles. L'innovation est le fait de créer quelque chose de nouveau à partir de choses déjà existantes. Il n'y a pas beaucoup de chances que ça arrive si vous n'avez pas de matériaux brutes à partir desquels jouer.
+Les recherches indiquent que **les personnes créatives se complaisent dans des environnements un peu en désordre**, où il y a juste assez de bruits de fonds pour permettre à leurs cerveaux de faire des connections fortuites [^3] entre des idées n'ayant aucun rapport entre elles. L'innovation est le fait de créer quelque chose de nouveau à partir de choses déjà existantes. Il n'y a pas beaucoup de chances que ça arrive si vous n'avez pas de matériaux bruts à partir desquels jouer.
 
 [^3]: concept de la [sérenpidité](https://fr.wikipedia.org/wiki/S%C3%A9rendipit%C3%A9) - NdT
 
-Et comme nos cerveaux ne sont pas optimisés pour la mémorisation, il est utile d'avoir certains outils nous permettant de stocker des quantités illimités de fatras. Ceux qui connaissent [Getting Things Done](https://fr.wikipedia.org/wiki/Getting_Things_Done) se rappelleront qu'il s'agit d'un élément central dans la méthode de David Allen sur la productivité : **sortez tout le foutoir de votre cerveau et consignez-le dans un dépôt**, que vous pourrez explorer à loisir pour y chercher des idées .
+Et comme nos cerveaux ne sont pas optimisés pour la mémorisation, il est utile d'avoir certains outils nous permettant de stocker des quantités illimitées de fatras. Ceux qui connaissent [Getting Things Done](https://fr.wikipedia.org/wiki/Getting_Things_Done) se rappelleront qu'il s'agit d'un élément central dans la méthode de David Allen sur la productivité : **sortez tout le foutoir de votre cerveau et consignez-le dans un dépôt**, que vous pourrez explorer à loisir pour y chercher des idées.
 
 ### Inventaire
 
@@ -64,7 +64,7 @@ _(Note :  ces citations de Vasco Duarte et Paul Klipp sont montrées uniquement 
 
 Ma liste de souhaits de livres n'est pas un inventaire. C'est une vue globale de mes options. Seuls les livres que j'ai achetés, que je n'ai pas lu, et qui restent à dormir sur mes étagères pourraient être qualifier d'inventaire, parce que j'ai investi en les achetant. (Mais je les considère toujours comme des options et comme une belle décoration de mon séjour.)
 
-La même chose s'appliquent à votre product backlog. **Un backlog est uniquement "gaspillage" si vous le considérez comme une _checklist_ à la place d'une liste de souhaits**, et que vous oubliez alors de faire la moitié des items sur la liste. S'engager à faire quelque chose, et ne pas le faire, est potentiellement un comportement superfétatoire. Cela fait perdre du temps, de l'énergie et de l'argent à tout le monde. Mais soulignez vos options, et les coucher par écrit parce que votre mémoire n'est pas équipé pour se rappeler des listes, c'est vraiment un signe d'intelligence et non une idiotie.
+La même chose s'applique à votre product backlog. **Un backlog est uniquement "gaspillage" si vous le considérez comme une _checklist_ à la place d'une liste de souhaits**, et que vous oubliez alors de faire la moitié des items sur la liste. S'engager à faire quelque chose, et ne pas le faire, est potentiellement un comportement superfétatoire. Cela fait perdre du temps, de l'énergie et de l'argent à tout le monde. Mais soulignez vos options, et les coucher par écrit parce que votre mémoire n'est pas équipé pour se rappeler des listes, c'est vraiment un signe d'intelligence et non une idiotie.
 
 De plus, dire aux développeurs et aux concepteurs de toujours bien tenir et nettoyer leurs listes d'idées à moitié germées est comme d'**imposer une politique de bureaux bien rangés à des créatifs**. Cela dénote un point de vue mécanique de la productivité, et cela pourrait être la chose la plus stupide que vous pourriez demander à des personnes desquelles on attend de l'innovation. Si elles n'ont pas le droit de garder des listes d'idées, comment voulez-vous qu'elles fassent des produits innovants ?
 
@@ -74,7 +74,7 @@ Il n'y a aucun gaspillage dans le concept de backlog. Un backlog par lui-même n
 
 Dire aux gens que les backlogs sont du gaspillage n'aidera en rien les personnes à être plus innovantes.
 
-_photo credit: (c) 2013 Barnyz, Creative Commons 2.0_
+_Photo credit: (c) 2013 Barnyz, Creative Commons 2.0_
 
 ---
 Auteur : [Jurgen Appelo](http://jurgenappelo.com/about/)  
