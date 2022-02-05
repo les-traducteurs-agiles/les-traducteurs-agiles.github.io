@@ -18,9 +18,9 @@ Puis en 2011, Joe Dager me posa la question sur les origines du développement e
 
 Dans une réponse reçue de Ed Yourdon le même jour, la rumeur P. J. prenait de l'ampleur :
 
-> Si quelqu'un dans mon ancienne entreprise, YOURDON Inc, mérite un quelconque crédit, ce serait bien P.J. Plauger. Il fût l'instrument qui me persuada de faire entrer UNIX dans notre entreprise (dont la licence à l'époque coûtait $10 000, une somme d'argent que Plauger prêta à l'entreprise sans aucun intérêts !). Et même les terminaux qui ressemblaient à des machines à écrire coûtait $ 3 000 -- donc nous ne pouvions nous permettre d'en acheter beaucoup.
+> Si quelqu'un dans mon ancienne entreprise, YOURDON Inc, mérite un quelconque crédit, ce serait bien P.J. Plauger. Il fût l'instrument qui me persuada de faire entrer UNIX dans notre entreprise (dont la licence à l'époque coûtait $10 000, une somme d'argent que Plauger prêta à l'entreprise sans aucun intérêt !). Et même les terminaux qui ressemblaient à des machines à écrire coûtait $ 3 000 -- donc nous ne pouvions nous permettre d'en acheter beaucoup.
 
-Cela a forcé les développeurs à travailler ensemble sur un Teletype. Mais ce qui fit tout bousculé fût cette réponse de Jerry Weinberg plus tard dans la journée :
+Cela a forcé les développeurs à travailler ensemble sur un Teletype. Mais ce qui fit tout bousculer fût cette réponse de Jerry Weinberg plus tard dans la journée :
 
 > J'ai appris le développement en binôme (sur papier - dans les années 50, nous n'avions même pas de terminaux) à Los Angeles de Bernie Dimsdale, qui l'avait lui-même appris de John von Neumann. Je ne sais pas s'il y a eu une histoire avant cela, mais cela remonte à Aberdeen Proving Grounds[^1] dans les années 40.
 
@@ -36,7 +36,7 @@ Ce que me confirma Doug McIlroy le lendemain :
 
 La nuit dernière après quelques bières, j'ai appris l'existence d'une "nouvelle" variation sur ce thème appelé le développement collectif de Woody Zuill. C'est une bonne idée et beaucoup de personnes sont en train de l'adopter. Elle, aussi a une histoire. Je me rappelle que Joe Davison, Ricky Spiece et Martin Biernat faisaient déjà cela dans les années 1990.
 
-Le binôme, c'est génial et c'est pas nouveau. Je suis certain qu'Ada et Charles le pratiquait en 1843. Apprenons à binômer et amusons-nous.
+Le binôme, c'est génial et ce n'est pas nouveau. Je suis certain qu'Ada et Charles le pratiquait en 1843. Apprenons à binômer et amusons-nous.
 
 ---
 Auteur : [Jim ("Cope") Coplien](https://sites.google.com/a/gertrudandcope.com/www/jimcoplien)  
