@@ -7,7 +7,7 @@ tags: inspiration
 
 Le temps a de la patience.
 
-Et la patience a t'elle du temps ?
+Et la patience a-t-elle du temps ?
 
 Je pense que le temps a plus de patience. Il est déjà infini. La patience devrait avoir du temps. Mais seulement autant qu'elle a de patience. La patience a besoin plus que du temps.
 
