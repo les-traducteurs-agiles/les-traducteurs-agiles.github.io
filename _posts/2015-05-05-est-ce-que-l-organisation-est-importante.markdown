@@ -33,7 +33,7 @@ Ou pas ?
 
 Bien que l'ensemble du programme tient en vingt lignes, tu peux voir toutes les interactions de toutes les variables alors, oui, il est facile à lire et facile à modifier.
 
-Mais et si ce code faisait partie d'un programme de dix mille lignes ? Quelles sont les implications de cette boucle conditionnelle `if` ? Est-ce d'autres fonctions pourraient être embrouillées par le fait que la fonction `dial` modifie le `volume` du `modem`?
+Mais et si ce code faisait partie d'un programme de dix mille lignes ? Quelles sont les implications de cette boucle conditionnelle `if` ? Est-ce d'autres fonctions pourraient être embrouillées par le fait que la fonction `dial` modifie le `volume` du `modem` ?
 
 Au fur et à mesure que les programmes s’agrandissent, certaines parties commencent à dépendre d'autres parties. Les liaisons commencent à s'emmêler de plus en plus. Et le programme commence à se transformer en un _système_. Et un _système_ est toujours plus difficile à comprendre, plus difficile à lire, et plus difficile à modifier qu'un programme.
 
@@ -47,7 +47,7 @@ Pour répondre à cela, laisses-moi te montrer une photo de mon bureau :
 
 Comme tu peux le voir, il n'est pas vraiment bien organisé. Oh, il y a une _espèce_ d'organisation. Mais il y a aussi beaucoup de chaos. Est-ce que cela signifie que l'organisation ne compte pas ?
 
-En fait, le truc à propos de mon bureau est qu'il reste relativement simple. Il y a une pile sur ma droite. Et une autre pile sur ma gauche. La pile de droite contient les livres que je suis en train de lire ou auxquels je me réfère. La pile de gauche contient essentiellement un meli-melo de choses dont je ne veux pas m'occuper aujourd'hui mais que je devrai m'occuper certainement demain. Aucune des deux piles n'est particulièrement grande. Un rapide recherche linéaire dans l'une ou l'autre des piles me permet de retrouver ce dont j'ai besoin. Les dépendances sont limitées.
+En fait, le truc à propos de mon bureau est qu'il reste relativement simple. Il y a une pile sur ma droite. Et une autre pile sur ma gauche. La pile de droite contient les livres que je suis en train de lire ou auxquels je me réfère. La pile de gauche contient essentiellement un méli-mélo de choses dont je ne veux pas m'occuper aujourd'hui mais que je devrai m'occuper certainement demain. Aucune des deux piles n'est particulièrement grande. Un rapide recherche linéaire dans l'une ou l'autre des piles me permet de retrouver ce dont j'ai besoin. Les dépendances sont limitées.
 
 En d'autres termes, mon bureau est quelque peu désorganisé, mais il reste relativement simple. Et c'en est la clé. Les choses relativement simples peuvent tolérer un certain degré de désorganisation. Toutefois, au fur et à mesure que la complexité s'accroit, la désorganisation devient suicidaire. Essayez de trouver un livre ici :
 
@@ -61,15 +61,15 @@ _Beaucoup_ efforts ont été investis pour organiser cette deuxième bibliothèq
 
 Mais demandes à l'un des bibliothécaires de trouver un livre, et ils l'auront normalement entre les mains en quelques secondes.
 
-Et nous arrivons là au coeur de la question que tu posais réellement. Tu étais en train de demander si le temps exigé pour apprendre le schéma de l'organisation du système en vaut la peine. Apprendre ce schéma d'organisation est _difficile_. Devenir compétent à lire et à modifier le code à l'intérieur de ce schéma demande du temps, des efforts et du travail. Et cela peut être ressenti comme du gaspillage lorsque tu le compares à comment la vie peut être simple lorsque tu as seulement 100 lignes de code.
+Et nous arrivons là au cœur de la question que tu posais réellement. Tu étais en train de demander si le temps exigé pour apprendre le schéma de l'organisation du système en vaut la peine. Apprendre ce schéma d'organisation est _difficile_. Devenir compétent à lire et à modifier le code à l'intérieur de ce schéma demande du temps, des efforts et du travail. Et cela peut être ressenti comme du gaspillage lorsque tu le compares à comment la vie peut être simple lorsque tu as seulement 100 lignes de code.
 
 Et voici que surgit alors un autre problème.
 
-La structure d'organisation qui marche pour un programme de mille ligne, ne marche pas pour un programme de dix mille lignes de code. Et la structure d'organisation qui marche pour un programme de dix mille lignes ne fonctionne pas pour un programme de cent mille lignes.
+La structure d'organisation qui marche pour un programme de mille lignes, ne marche pas pour un programme de dix mille lignes de code. Et la structure d'organisation qui marche pour un programme de dix mille lignes ne fonctionne pas pour un programme de cent mille lignes.
 
-Cela peut sembler presque intolérable. Parce que au fur et à mesure que le programme grossit, tu dois investir du temps, des efforts et en travail dans un schéma d'organisation voué à devenir obsolète.
+Cela peut sembler presque intolérable. Parce qu'au fur et à mesure que le programme grossit, tu dois investir du temps, des efforts et en travail dans un schéma d'organisation voué à devenir obsolète.
 
-Et donc la question que tu pose est si cela vaut le coup d'investir dans un quelconque schéma d'organisation  étant donné qu'il deviendra obsolète un jour.
+Et donc la question que tu poses est si cela vaut le coup d'investir dans un quelconque schéma d'organisation  étant donné qu'il deviendra obsolète un jour.
 
 La réponse à cette question devrait être évidente. Si tu décides qu'organiser ton système ne vaut pas les efforts investis, tu finiras par être
 un [thésauriseur de code]({{ site.url }}equipe/developpement/refactoring/2015/05/05/les-thesauriseurs-de-code.html).
