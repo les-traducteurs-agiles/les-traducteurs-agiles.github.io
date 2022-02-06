@@ -8,7 +8,7 @@ tags:
 
 J’ai déjà écrit par le passé sur les [user stories](http://blog.gdinwiddie.com/2009/09/13/using-user-stories/) (en VO - NdT) et j’avais rendu public un [papier avec une page sur le fractionnement des stories,]({{ site.url }}assets/fractionner_stories/User_stories.pdf) (en VF - NdT) qui outre la présence d’une liste d’heuristiques de fractionnement, présente plusieurs liens vers diverses techniques de fractionnement de stories.
 
-Ce que ce papier ne contenait pas, c’était une manière encore plus simple de fractionner des stories.  Lorsque nous faisons du développement piloté par les tests d’acceptance (DPTA pour l’acronyme ou ATDD pour l’acronyme plus répandu - en vo - pour acceptance test driven development - NdT), nous faisons des exemples illustrant la fonctionnalité souhaitée pour le logiciel. Chacun de ces exemples est, potentiellement, une storie à part entière. Vous pouvez fractionner une stories en divisant ces exemples en deux ou plusieurs groupes. C’est aussi simple que ça.
+Ce que ce papier ne contenait pas, c’était une manière encore plus simple de fractionner des stories. Lorsque nous faisons du développement piloté par les tests d’acceptance (DPTA pour l’acronyme ou ATDD pour l’acronyme plus répandu - en vo - pour acceptance test driven development - NdT), nous faisons des exemples illustrant la fonctionnalité souhaitée pour le logiciel. Chacun de ces exemples est, potentiellement, une story à part entière. Vous pouvez fractionner une story en divisant ces exemples en deux ou plusieurs groupes. C’est aussi simple que ça.
 
 D’ailleurs, voici quelques guides sur le fractionnement des stories :
 
