@@ -31,7 +31,7 @@ Afin de corriger cela, il est important de rendre visible les bénéfices et les
 
 ## À quoi "correct" pourrait-il ressembler ?
 
-Les premières notes de la chanson de Bob Marley "Get Up Stand Up" se font entendre ... résonnant comme une cloche pavlovienne, l'équipe se lève pour aller se tenir devant le mur de cartes sans aucune autre indication supplémentaire. Cette chanson fait partie d'une coutume qui se joue à la même heure le matin chaque jour. Certaines personnes déplacent les cartes à leur emplacement actuel sur le flux de travail, ajoutent des notes adhésives de différentes couleurs avec des informations supplémentaires. Quelques personnes intéressées ne faisant pas partie du projet jettent aussi un coup d'oeil pour voir comment les choses ont progressé.
+Les premières notes de la chanson de Bob Marley "Get Up Stand Up" se font entendre ... résonnant comme une cloche pavlovienne, l'équipe se lève pour aller se tenir devant le mur de cartes sans aucune autre indication supplémentaire. Cette chanson fait partie d'une coutume qui se joue à la même heure le matin chaque jour. Certaines personnes déplacent les cartes à leur emplacement actuel sur le flux de travail, ajoutent des notes adhésives de différentes couleurs avec des informations supplémentaires. Quelques personnes intéressées ne faisant pas partie du projet jettent aussi un coup d'œil  pour voir comment les choses ont progressé.
 
 Le responsable de l'équipe, remarquant que l'activité auprès du mur a cessé, met en route un énorme minuteur que l'équipe a précédemment acheté ; ils sont tous intéressés par la durée réelle que prendra la réunion du stand-up quotidien.
 
@@ -67,7 +67,7 @@ Bon départ, Amélioration, Focalisation, Équipe, Situation
 >
 > [--  Brian Marick, "Latour 3 : Anthrax et stand-ups"](http://www.exampler.com/blog/2007/11/06/latour-3-anthrax-and-standups/)
 
-Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigüe de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientées sur le travail de l'activité mais sans direction commune.
+Un **bon départ** signifie que la réunion debout devrait donner de l'énergie, pas en prendre. L'énergie vient de l'insufflation d'un sentiment d'objectivation et d'urgence ; un sens aigu de l'objectif et une compréhension aigüe de ce qu'il faut faire pour l'accomplir. Il est important de distinguer cela de la "fausse urgence", où les personnes sont orientées sur le travail de l'activité mais sans direction commune.
 
 ### Amélioration
 
@@ -93,7 +93,7 @@ Le stand-up devrait soutenir la création d'un environnement qui encourage les p
 
 La **situation** est le fait de répondre à deux questions :
 
-* Comment est ce que le travail progresse ?
+* Comment est-ce que le travail progresse ?
 * Y'a t'il autre chose d'intéressant que l'équipe devrait savoir ?
 
 Il doit surement exister d'autres moyens pour répondre à ces questions mais le stand-up quotidien est une opportunité particulière pour s'assurer que des informations importantes ne passent à travers les mailles du filet.
@@ -167,7 +167,7 @@ Il s'agit du nombre minimum de questions satisfaisant aux objectifs du stand-up 
 
 Olve Maudal a suggéré que les questions devraient être inversées afin de mettre en avant l'ordre d'importance réel des questions :
 
-> 1. Y'a t'il des obstacles sur votre chemin ?
+> 1. Y a-t-il des obstacles sur votre chemin ?
 > 2. Sur quoi êtes-vous en train de travailler aujourd'hui ?
 > 3. Qu'avez-vous fini depuis hier ?
 >  
@@ -189,7 +189,7 @@ Jonathan Rasmussen propose d'utiliser d'autres termes pour changer la dynamique 
 
 > * Ce que vous avez fait pour changer le monde hier
 > * Comment vous allez l'écrasez aujourd'hui
-> * Comment vous allez passez à travers de n'importe quel obstacle qui aura eu le malheur de se mettre sur votre chemin
+> * Comment vous allez passer à travers de n'importe quel obstacle qui aura eu le malheur de se mettre sur votre chemin
 >          
 > Répondre à ce type de question change complètement la dynamique du stand-up. À la place de se tenir debout et de donner une information, maintenant vous montez sur scène et déclarez votre intention à l'univers.
 >  
@@ -280,7 +280,7 @@ Selon la culture de l'organisation ou même de l'équipe, le fait de passer une 
 
 ### Prendre une carte
 
-Pendant un stand-up, les participants doivent savoir qui est supposé parler en premier et après cela qui est supposé à parler ensuite. Pour aller à l'encontre de l'auto-organisation, il n'est rien de plus subtil et définitif que de laisser le facilitateur décider qui devrait parler en premier. L'équipe n'est peut être pas très partante pour **passer le témoin** car ses membres ont généralement des tasses de café dans les mains.
+Pendant un stand-up, les participants doivent savoir qui est supposé parler en premier et après cela qui est supposé à parler ensuite. Pour aller à l'encontre de l'auto-organisation, il n'est rien de plus subtil et définitif que de laisser le facilitateur décider qui devrait parler en premier. L'équipe n'est peut-être pas très partante pour **passer le témoin** car ses membres ont généralement des tasses de café dans les mains.
 
 _Par conséquent_  
 
@@ -306,13 +306,13 @@ _Par conséquent_
 
 **Parcours le tableau**, est un modèle de stand-up qui passe en revue chaque élément affiché sur votre tableau de gestion visuel.
 
-La plupart des équipes agiles et leans utilisent un système de gestion visuel qui montre ce sur quoi on travaille. Pour le développement agile de logiciel, cela pourrait être appelé "tableau de suivi des tâches", "mur de stories", ou "tableau Kanban". Ces tableaux présenteront le processus dans lequel les items se déplaceront. L'avancée est généralement représenté en déplaçant les cartes à travers le tableau. De manière idéale, la position verticale indiquera la priorité.
+La plupart des équipes agiles et leans utilisent un système de gestion visuel qui montre ce sur quoi on travaille. Pour le développement agile de logiciel, cela pourrait être appelé "tableau de suivi des tâches", "mur de stories", ou "tableau Kanban". Ces tableaux présenteront le processus dans lequel les items se déplaceront. L'avancée est généralement représentée en déplaçant les cartes à travers le tableau. De manière idéale, la position verticale indiquera la priorité.
 
 Avec ce tableau en place, le stand-up passe en revue chaque item de la fin du processus vers le début (par exemple de droite à gauche) et de la plus haute à la basse priorité (par exemple du haut vers le bas). Vous pouvez même indiquer explicitement sur le tableau la séquence à utiliser.
 
 _Mais_
 
-Avoir évidemment un tableau est un pré-requis que toutes les équipes n'auront pas. Dans ce cas, le modèle personne-par-personne est plus approprié.
+Avoir évidemment un tableau est un prérequis que toutes les équipes n'auront pas. Dans ce cas, le modèle personne-par-personne est plus approprié.
 
 **Parcourir le tableau** a beaucoup plus de chance de tourner en un **compte rendu au chef** si **Faire tourner le facilitateur** ou tout autre pattern d'auto-organisation n'est pas appliqué.
 
@@ -412,7 +412,7 @@ Maintenez la durée du stand-up quotidien à **quinze minutes ou moins**. De man
 
 _Mais_
 
-Même quinze minutes peuvent être trop longues pour de petites équipes. À cause de l'effet de la perte d'attention, quinze minutes est une bonne limite y compris pour de grandes équipes. Il est aussi possible d'avoir une durée de réunion qui soit trop courte, où arrivé à la fin les participants n'auront toujours aucune idée de ce qu'il se passe ni à qui parler pour le savoir.
+Même quinze minutes peuvent être trop longues pour de petites équipes. À cause de l'effet de la perte d'attention, quinze minutes est une bonne limite y compris pour de grandes équipes. Il est aussi possible d'avoir une durée de réunion qui soit trop courte, où arrivé à la fin les participants n'auront toujours aucune idée de ce qu'il se passe, ni à qui parler pour le savoir.
 
 ### Signaler la fin
 
@@ -432,7 +432,7 @@ Minuter les réunions et publier les résultats. La plupart du temps, les partic
 
 _Mais_
 
-Comme avec tous les indicateurs, le minutage des réunions ne devraient pas être fait à moins qu'il n'y ait un objectif concret à accomplir en raison d'un problème de niveaux d'énergie. Une fois l'objectif atteint, les minutages devraient être arrêtés. Minuter sans aucune raison particulière conduira à de la suspicion et à une apathie vis-à-vis des indicateurs.
+Comme avec tous les indicateurs, le minutage des réunions ne devrait pas être fait à moins qu'il n'y ait un objectif concret à accomplir en raison d'un problème de niveaux d'énergie. Une fois l'objectif atteint, les minutages devraient être arrêtés. Minuter sans aucune raison particulière conduira à de la suspicion et à une apathie vis-à-vis des indicateurs.
 
 ### Traitez-le hors-réunion
 
@@ -544,7 +544,7 @@ Les stand-ups agissent comme un filet de sécurité. Au pire, un obstacle sera c
 
 En espérant que ce papier vous ait offert un peu plus de vision dans les détails subtiles des pratiques de stand-ups efficaces et des indicateurs des problèmes généraux, il devrait être clair que le stand-up n'est pas qu'uniquement se tenir debout ensemble tous les jours.
 
-À la fin de la journée, il est important de ne pas se sentir trop inquiet d'avoir tous les patterns ou même d'avoir quelques unes des mauvaises odeurs. Rappelez-vous de BAFES. Est-ce que les personnes sont pleines d'énergie ? Est-ce que les personnes ont une attitude tournée vers l'amélioration ? Est-ce que les personnes sont concentrées sur nos objectifs ? Est-ce que les personnes travaillent ensemble en équipe ? Est-ce que tous le monde sait ce qu'il se passe ?
+À la fin de la journée, il est important de ne pas se sentir trop inquiet d'avoir tous les patterns ou même d'avoir quelques-unes des mauvaises odeurs. Rappelez-vous de BAFES. Est-ce que les personnes sont pleines d'énergie ? Est-ce que les personnes ont une attitude tournée vers l'amélioration ? Est-ce que les personnes sont concentrées sur nos objectifs ? Est-ce que les personnes travaillent ensemble en équipe ? Est-ce que tout le monde sait ce qu'il se passe ?
 
 Si vous répondrez à ces questions par l'affirmative, la réunion se déroule probablement bien. Après, il s'agit vraiment juste de se tenir debout ensemble tous les jours.
 
@@ -552,7 +552,7 @@ Si vous répondrez à ces questions par l'affirmative, la réunion se déroule p
 
 Je voudrais remercier les re-lecteurs de cette dernière version : Joe Ely, Steven List, Michelle Pace, Jonathan Rasmusson, et Nigel Waddington
 
-Je voudrais également remercier les re-lecteurs des versions précédentes : Ivan Moore, Alan Francis, Owen Rogers, Susan Newton, James Ross, Rebecca Parsons, Brian Marick, Dick Gabriel, Linda Rising, James Coplien, Lise Hvatum, Cecilia and Terje Haskins, Danny Dig, David Hecksel, Ali Arsanjani, Bill Wake, Ralph Johnson, Pau Arumi, David Garcia, Leon Welicki, Djamal Bellebia, Dirk Riehle, Hesham Saadawi, et Paddy Fagan.
+Je voudrais également remercier les relecteurs des versions précédentes : Ivan Moore, Alan Francis, Owen Rogers, Susan Newton, James Ross, Rebecca Parsons, Brian Marick, Dick Gabriel, Linda Rising, James Coplien, Lise Hvatum, Cecilia and Terje Haskins, Danny Dig, David Hecksel, Ali Arsanjani, Bill Wake, Ralph Johnson, Pau Arumi, David Garcia, Leon Welicki, Djamal Bellebia, Dirk Riehle, Hesham Saadawi, et Paddy Fagan.
 
 Enfin, je voudrais remercier toutes les personnes avec lesquelles j'ai pu participer à des stand-ups quotidiens.
 
@@ -566,9 +566,9 @@ Enfin, je voudrais remercier toutes les personnes avec lesquelles j'ai pu partic
 
 ---
 
-Jason Yip est consultant senior à ThoughtWorks. Il est spécialisé dans l'application des concepts, principes et pratiques de l'agilité et du lean dans le développement logiciels et dans les opérations des technologies de l'information.
+Jason Yip est consultant senior à ThoughtWorks. Il est spécialisé dans l'application des concepts, principes et pratiques de l'agilité et du lean dans le développement logiciel et dans les opérations des technologies de l'information.
 
-En plus de cet article, Jason Yip écrit un blog sur le développement logiciel, touchant à de nombreuses problématiques autour du développement logiciel agile et lean. Ces articles sont courts par la taille et grands par leur contenu de part la réflexion qu'ils peuvent engendrés, avec de nombreux liens vers des articles intéressants sur les logiciels et les personnes.
+En plus de cet article, Jason Yip écrit un blog sur le développement logiciel, touchant à de nombreuses problématiques autour du développement logiciel agile et lean. Ces articles sont courts par la taille et grands par leur contenu de par la réflexion qu'ils peuvent engendrés, avec de nombreux liens vers des articles intéressants sur les logiciels et les personnes.
 
 ---
 Auteur : [Jason Yip](https://plus.google.com/+JasonYip)  
