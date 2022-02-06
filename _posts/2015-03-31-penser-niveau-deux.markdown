@@ -7,7 +7,7 @@ tags: inspiration
 
 **Niveau 0** : faire ce que vous êtes en train de faire, y compris bavarder. Exemple : taper dans un ballon, parler avec quelqu'un
 
-**Niveau 1** : Prêter attention à ce que vous êtes en train de faire, y penser. "Je suis en train de taper dans ce ballon, cela me rends heureux de taper dans un ballon, même si ce n'est pas un très bon tir".
+**Niveau 1** : Prêter attention à ce que vous êtes en train de faire, y penser. "Je suis en train de taper dans ce ballon, cela me rend heureux de taper dans un ballon, même si ce n'est pas un très bon tir".
 
 **Niveau 2** : discuter de ou réfléchissez à votre sujet de réflexion, discuter ou réfléchissez sur la structure et la signification du sujet de la discussion et de la réflexion.
 
@@ -15,7 +15,7 @@ Je ne pense pas qu'il y ait un niveau 3, parce que l'acte d'accomplir le niveau 
 
 Les personnes que je fréquente communiquent essentiellement au niveau 2. Nous faisons tout ce que nous sommes en train de faire, nous y prêtons attention, et (généralement de manière sans rien dire) nous faisons remarquer à chacun la signification du fait que nous et/ou les autres personnes ont ou n'ont pas prêter attention à la structure et à la signification de ce qu'il vient juste de se produire à un niveau 0 ou 1 de communication.
 
-C'est sympa. C'est même sympa (pour une courte période), de fréquenter des personnes agissant la plupart du temps au niveau 0. Avoir une meta-meta-discussion avec quelqu'un au sujet d'une interaction de niveau 0 est intéressante, parce que le niveau 1 en est absent, ainsi que la plus grande partie des référents.
+C'est sympa. C'est même sympa (pour une courte période), de fréquenter des personnes agissant la plupart du temps au niveau 0. Avoir une méta-méta-discussion avec quelqu'un au sujet d'une interaction de niveau 0 est intéressante, parce que le niveau 1 en est absent, ainsi que la plus grande partie des référents.
 
 Je pense plus particulièrement à vous, Jonathan House et Ghennipher Weeks (et à une ou deux autres personnes).   
 
