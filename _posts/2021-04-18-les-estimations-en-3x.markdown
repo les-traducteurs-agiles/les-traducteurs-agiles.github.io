@@ -31,22 +31,22 @@ En exploration, vous _pouvez_ estimer dans les grandes lignes. Pensez à une _st
 
 ## Expansion
 
-Dans la phase expansion vous chercher une croissance constante. C'est ce qui rend possible l'estimation lorsque vous allez être à court d'une ressource, que ce soit en terme budgétaire, de matériels informatiques, ou de personnes. Tout ce que vous pouvez voir généralement c'est le prochain goulot d'étranglement. Quoi que vous fassiez pour atténuer cela, ce goulot d'étranglement va changer d'endroit pour former le prochain goulot d'étranglement.
+Dans la phase expansion vous cherchez une croissance constante. C'est ce qui rend possible l'estimation lorsque vous allez être à court d'une ressource, que ce soit en terme budgétaire, de matériels informatiques, ou de personnes. Tout ce que vous pouvez voir généralement c'est le prochain goulot d'étranglement. Quoi que vous fassiez pour atténuer cela, ce goulot d'étranglement va changer d'endroit pour former le prochain goulot d'étranglement.
 
 « Selon les projections, le 12 mai, nous n'aurons plus d'espace disque. », « Okay, faites ça, ça et ça pour avoir plus de disques et ça, ça et ça pour utiliser moins de disque. »  
 
-Les estimations nous préviennent des problèmes en phase d'expansion. Si vous voyez certaines choses se dessiner que vous ne voulez pas qui se réalisent, comme des courbes dont vous ne voulez qu'elles se croisent, vous essayez de changer les choses, mais il se peut que les courbes s'obstinent à se croiser, alors il est temps d'invoquer le plan B.
+Les estimations nous préviennent des problèmes en phase d'expansion. Si vous voyez certaines choses se dessiner dont vous ne voulez pas qu'elles se réalisent, comme des courbes dont vous ne voulez qu'elles se croisent, vous essayez de changer les choses, mais il se peut que les courbes s'obstinent à se croiser, alors il est temps de passer au plan B.
 
 Les estimations en termes de coût durant l'expansion ne sont généralement pas importantes. Souvenez-vous, vous avez tiré le ticket gagnant en phase d'exploration … à condition que vous soyez capable de chevaucher la fusée jusqu'en haut. Cela a du sens de cramer un peu de budget maintenant pour être sûr d'aller en orbite. (Par contre, cramer trop d'argent alors que la fusée s'écrase, c'est moins bon). Gardez donc un œil sur la totalité du budget disponible, mais ne vous souciez pas de chaque action individuelle.
 
 ## Extraction
 
-Les estimations deviennent utiles lors de la phase d'extraction. Vous avez désormais assez d'expérience en matière de coûts et de bénéfices pour être plus précis. Séquencer les tâches correctement créés de la valeur. Dans cette phase, vous voulez avant tout réaliser le meilleur retour sur investissement possible.
+Les estimations deviennent utiles lors de la phase d'extraction. Vous avez désormais assez d'expérience en matière de coûts et de bénéfices pour être plus précis. Séquencer les tâches correctement crée de la valeur. Dans cette phase, vous voulez avant tout réaliser le meilleur retour sur investissement possible.
 
 Les règles suivantes s'appliquent :
 
 - Pratiquer et réfléchir sur ce que vous avez appris.
-- Estimer des toutes petites choses, afin que les surprises restent toutes petites.
+- Estimer de toutes petites choses, afin que les surprises restent toutes petites.
 - Prêter attention lorsque les estimations deviennent subitement bizarroïdes. Vous êtes peut-être revenu en exploration.
 
 ## Conclusion
