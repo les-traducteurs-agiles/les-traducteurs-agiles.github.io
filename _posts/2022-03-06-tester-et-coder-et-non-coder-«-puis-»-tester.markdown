@@ -32,11 +32,11 @@ Par exemple, le postulat que « de meilleures exigences (quelque soit la signif
 
 Nous avons eu, Paul et moi, de nombreuses discussions tout au long de l'année dernière, et nous avons discuté de nombreux thèmes. Nous sommes tous les deux d'accord que le fil de discussion présent sur Linked-In aurait pu aboutir à une grande discussion sur la collaboration tout au long du cycle de vie de développement — comment nous influençons, aidons et essayons de faire en sorte que le produit soit réalisé et livré avec succès.
 
-Il ne s'agit pas de tester des aspects spécifiques comme les exigences ou le code. Il s'agit de la mnaière dont nous obtenons un retour d'informations rapide. C'est l'une des raisons pour lesquelles j'ai créé ce diagramme qui essaye de montrer le test en continu.
+Il ne s'agit pas de tester des aspects spécifiques comme les exigences ou le code. Il s'agit de la mnaière dont nous obtenons un retour d'informations rapide. C'est l'une des raisons pour lesquelles j'ai créé ce diagramme qui essaye de montrer le test continu.
 
 ![illustration déplacer à gauche - déplacer à droite]({{ site.url }}assets/janet_gregory/shift-diagram-fr.png)
 
-J'ai été influencé par le modèle du [test en continu (VF)](http://www.les-traducteurs-agiles.org/2018/07/08/les-tests-continus-dans-devops.html) de Dan Ashby ; toutefois je n'en suis pas complètement satisfaite, mais c'est un début. Par exemple, il n'est pas évident pour tout le monde que les activités de test se déroulent dans les sections formuler et réaliser. Nous devons avoir des retours d'informations et des pratiques rapides comme « montrez-moi » pour que le développeur puisse montrer ce qu'il ou elle a codé afin que les anomalies puissent être trouvées rapidement et corrigées immédiatement.
+J'ai été influencé par le modèle du [test continu (VF)](http://www.les-traducteurs-agiles.org/2018/07/08/les-tests-continus-dans-devops.html) de Dan Ashby ; toutefois je n'en suis pas complètement satisfaite, mais c'est un début. Par exemple, il n'est pas évident pour tout le monde que les activités de test se déroulent dans les sections formuler et réaliser. Nous devons avoir des retours d'informations et des pratiques rapides comme « montrez-moi » pour que le développeur puisse montrer ce qu'il ou elle a codé afin que les anomalies puissent être trouvées rapidement et corrigées immédiatement.
 
 En résumé, le test fait partie intégrante de l'ensemble du développement et ne peut être séparé de l'aspect code de la construction d'un proudit. Je pense que l'une de mes prochaines citations sera :
 
