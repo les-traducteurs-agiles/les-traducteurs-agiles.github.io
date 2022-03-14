@@ -25,7 +25,7 @@ Il est similaire au cycle DevOps, mais vous remarquerez qu'il n'y a pas dans ce 
 
 Il est difficile d'inclure des boucles de rétroaction dans un schéma sans compliquer celui-ci outre mesure, et de plus ce cycle ne s'inscrit pas dans un cadre temporel donné. Certaines des étapes se dérouleront très vites et d'autres peut être très lentement en fonction du nombre d'éléments connus ou inconnus. Certaines fois une équipe aura besoin de marquer une pause et de reculer d'une étape ou deux.
 
-![Cycle de dev 2 avec des pauses]({{ site.url }}assets/janet_gregory/Dev-cycle2-fr.png)
+![Cycle de dev 2 avec des pauses]({{ site.url }}assets/janet_gregory/Dev-cycle2-with-pauses-fr.png)
 
 **Schéma 3: Cycle de développement avec des pauses**
 
@@ -60,7 +60,7 @@ La partie gauche de la boucle montre les tests que nous pouvons faire au plus t�
 
 **Apprentissage** : Des personnes m'ont posé des questions au sujet de la place du test dans le cadre de l'apprentissage. Au fur et à mesure que les équipes observent la manière dont leur produit est utilisé par les clients, elles peuvent émettre des hypothèses sur la manière de l'améliorer. Elles sont en train de tester nos postulats.
 
-**En résumé**
+##En résumé
 
 Le terme [test continu (VO)](https://www.mabl.com/blog/what-does-continuous-testing-actually-mean) a été utilisé jusqu'à la corde et détourné de sa signification première, je vais par conséquent me détourner de ce terme et j'espère que le terme « terme holistique » résonnera chez les gens. Lorsque nous testons, nous devons considérer tous les types de tests, pas seulement ceux dont nous pensons que le testeur est responsable. Cela inclus l'automatisation, le test exploratoire, ou n'importe quel autre test centré sur l'humain. Cela implique toute l'équipe, toute l'organisation du produit, et même le client. Nous devons considérer le test d'un point de vue holistique, et j'espère que ce schéma aidera les personne à comprendre « à quel moment » les différents types de test devraient prendre place.
 
