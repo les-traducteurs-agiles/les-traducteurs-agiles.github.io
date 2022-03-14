@@ -7,7 +7,7 @@ tags:
 - test
 ---
 
-**Le _test holistique_ est un terme auquel je réfléchis depuis quelques temps. Il existe différents types de test à prendre en compte dans nos efforts en vue d'améliorer de la qualité.**
+## Le _test holistique_ est un terme auquel je réfléchis depuis quelques temps. Il existe différents types de test à prendre en compte dans nos efforts en vue d'améliorer de la qualité.
 
 En janvier 2021, j'ai écrit un article de blog intitulé [« Tester et coder, et non coder « puis » tester » (VF)](http://www.les-traducteurs-agiles.org/2022/03/07/tester-et-coder-et-non-coder-puis-tester.html) pour mettre l'accent sur le test et le codage comme faisant partie du même processus. Dans cet article, j'avais présenté le schéma ci-dessous pour illustrer le test continu
 
