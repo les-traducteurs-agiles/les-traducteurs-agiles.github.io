@@ -72,7 +72,7 @@ Source : [Testing from a holistic point of view](https://janetgregory.ca/testing
 Date de parution originale : 30 Avril 2021  
 
 ---
-Traducteur : [[Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 14/03/2022  
 
 ---
