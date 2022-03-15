@@ -7,6 +7,12 @@ tags:
 - agile
 ---
 
+![Tweet Allen]({{ site.url }}assets/allen_holub/AgileIsTweet-2048x1167.png)
+
+![Tweet Allen]({{ site.url }}assets/allen_holub/AgileIsTweet-2048x1167-fr.png)
+
+
+
 > Note du traducteur : une première traduction de cette liste d'heuristiques existe sous la forme d'un commentaire dans l'article originel. La liste ayant changé depuis cette 1ère traduction, des différences existent donc avec la présente traduction
 
 
