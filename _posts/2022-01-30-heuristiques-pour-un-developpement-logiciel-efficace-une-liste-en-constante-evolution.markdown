@@ -7,16 +7,16 @@ tags:
 - agile
 ---
 
-> Note du traducteur : une première traduction de cette liste d'heuristiques existe sous la forme d'un commentaire dans l'article originel. La liste ayant changé depuis cette 1ère traduction, comparer les deux traductions
+> Note du traducteur : une première traduction de cette liste d'heuristiques existe sous la forme d'un commentaire dans l'article originel. La liste ayant changé depuis cette 1ère traduction, des différences existent donc avec la présente traduction
 
 
 1. En l'absence de sécurité psychologique, de respect et de confiance, aucun des éléments suivants n’est possible.
 
 2. La manière dont nous travaillons, le travail que nous faisons, et les organisations au sein desquelles nous travaillons font partie d’un système connecté. Vous ne pouvez rien changer sans tout changer. Vous ne pouvez pas améliorer un système en bricolant sur des parties dudit système.
 
-3. Les processus existent pour être au service des individus ; des individus avant tout. Les processus, qui ne sont pas développés par les personnes qui les utilisent, fonctionnent rarement si ce n'est pas du tout.
+3. Les processus existent pour être au service des individus ; les individus viennent avant tout. Les processus, qui ne sont pas développés par les personnes qui les utilisent, fonctionnent rarement si ce n'est pas du tout.
 
-4. Les meilleures façons de travailler sont collaboratives. La négociation n’est pas de la collaboration. Des personnes seules qui déploient des efforts héroïques pour réussir ne seront jamais aussi efficaces que des groupes de travail. Nous obtenons les meilleurs résultats lorsque les clients, les gens du métier et les développeurs travaillent littéralement ensemble.
+4. Les meilleures façons de travailler sont collaboratives. La négociation n’est pas de la collaboration. Des personnes seules qui déploient des efforts héroïques pour réussir ne seront jamais aussi efficaces que des groupes collaboratifs. Nous obtenons les meilleurs résultats lorsque les clients, les gens du métier et les développeurs travaillent littéralement ensemble.
 
 5. Accueillez le changement – au sein des organisations, des processus, des produits, des plans – n’importe quand. Vous ne pouvez pas être simultanément rigide et agile.
 
@@ -30,9 +30,9 @@ tags:
 
 10. La simplicité est essentielle. Cette règle s’applique à tout, de la structure organisationnelle et des processus jusqu’aux plus infimes détails des produits que nous développons. Nous ne perdons pas de temps en construisant (des produits ou des organisations ou d'autres choses) dans le cadre d’un futur que nous sommes incapable à prédire.
 
-11. Le travail est transitoire. Nous nous attendons à changer, voire même à rejeter, tout ce que nous avons construit, des produits aux organisations en passant par les processus. Tout n’est qu’expérimentation.
+11. La nature même du travail est impermanente. Nous nous attendons à changer, voire même à rejeter, tout ce que nous avons construit, des produits aux organisations en passant par les processus. Tout n’est qu’expérimentation.
 
-12. Nous travaillons à rendre meilleure la vie de nos clients et leur travail plus facile. Nous faisons cela en fournissant un flux régulier d’artéfacts et nous faisons de notre mieux pour qu’ils soient utiles.
+12. Nous travaillons à rendre meilleure la vie de nos clients et leur travail plus facile. Nous faisons cela en fournissant un flux régulier d’artéfacts et d'assistance qu'ils trouvent utiles.
 
 13. Nous réfléchissons de manière holistique. Nous visons à réaliser des produits, non à travailler sur des projets. Si vous n’avez pas de projets, vous n’avez pas besoin de gestion de projets.
 
@@ -52,9 +52,9 @@ tags:
 
 21. L’autonomie ne signifie pas que les équipes ne se coordonnent pas les unes avec les autres et avec le reste de l’organisation. L’alignement allant des objectifs stratégiques aux technologies d’implémentation est essentiel.
 
-22. Les meilleures équipes sont des équipes stables. Apportez du travail aux équipes ; ne constituez pas des équipes pour faire le travail. Financez des équipes, pas des travaux.
+22. Les meilleures équipes sont des équipes stables. Apportez du travail aux équipes ; ne constituez pas des équipes pour faire le travail. Financez les équipes, pas les travaux.
 
-23. Des équipes qui dépendent d’autres équipes sont dans l’incapacité de réagir suffisamment vite, il est donc nécessaire que les membres de l’équipe aient toutes les compétences nécessaires pour donner vie à une idée et la mettre entre les mains des clients. Les compétences des uns et des autres se recoupent, afin que nul ne soit indispensable.
+23. Des équipes qui dépendent d’autres équipes sont dans l’incapacité de réagir suffisamment vite, il est donc nécessaire que les membres de l’équipe aient toutes les compétences nécessaires pour donner vie à une idée et la mettre entre les mains des clients. Les compétences des uns et des autres se recoupent, afin que nul ne soit une personne-clé.
 
 24. Les personnes doivent pouvoir démarrer chaque nouvelle journée en étant fraîches, disposes et capables de donner le meilleur d’elles-mêmes (ou de s'arrêter lorsque les conditions ne s'y prêtent plus).
 
