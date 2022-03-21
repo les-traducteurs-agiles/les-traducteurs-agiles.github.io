@@ -7,7 +7,7 @@ tags:
 - agile
 ---
 
-> Une allégorie ?  Du sarcasme ?  Un parodie ?  À vous de décider.
+> Une allégorie ?  Du sarcasme ?  Une parodie ?  À vous de décider.
 
 Les plus fervents partisans du baseball nous disent que le baseball est un super jeu, amusant à jouer et à regarder. Il apparait clairement qu'ils sont soit complètement stupides soit malfaisants soit les deux, parce que nous avons essayé le baseball et ça n'a pas marché.
 
@@ -15,7 +15,7 @@ Pour commencer, les pré-requis de ce jeu sont stupides : il est impossible avec
 
 Avec seulement quatre joueurs, nous n'avons pas besoin de toutes ces bases (ce qui est une autre preuve flagrante d'inefficacité et d'impossibilité de changer d'échelle), donc nous utilisons simplement une seule base : la plaque de but.  
 Lorsqu'un batteur frappe la balle, il a juste à courir autour d'un carré (pour plus de détails voir ci-dessous), et de revenir vers la « plaque de but ».  
-Au début, nous avions un coureur qui courrait autour du carré de 27 mètres de côté comme indiqué par les partisans du baseball, mais pour quelle que raison que ce soit ces gens-là étaient incapables de voir que les 110 mètres du champ extérieur constitue une distance que peu de coureurs peuvent arriver à courrir après une frappe.  
+Au début, nous avions un coureur qui courrait autour du carré de 27 mètres de côté comme indiqué par les partisans du baseball, mais pour quelle que raison que ce soit ces gens-là étaient incapables de voir que les 110 mètres du champ extérieur constitue une distance que peu de coureurs peuvent arriver à courir après une frappe.  
 Personne n'est capable de faire le tour sans être éliminé. Nous avons trouvé qu'un cercle ayant un diamètre de  8,72 m2 était l'idéal. Le cercle, avec son ratio optimal entre la surface et la circonférence, est bien plus efficace que ce carré proposé par ces scribouillards du baseball.
 
 L'équipement « requis » par ces gens-là est absurde, anachronique, discriminant et cruel. Tout d'abord la « balle » est supposée être recouverte de peau de cheval. C'est à la fois cruel pour les chevaux, et discriminatoire envers les fournisseurs traditionnels de revêtement de balle à base de porc et de volaille. En réaction à cela, nous utilisons d'autres types de balle.  
@@ -25,7 +25,7 @@ Comment est-ce que les partisans du baseball peuvent-ils promouvoir un jeu qui c
 Nous nous sommes finalement rabattus sur des chaussettes en laines, rembourrées de papier journal avec un nœud au bout. Elles sont très faciles à attraper, elles ne vont pas très loin, et le bout qui pendouille permet de les lancer facilement.
 
 Les soit-disantes « battes » sont aussi une mauvaise idée. D'abord, elles n'ont rien à voir avec ces attrapeurs d'insectes à fourrure que l'on voit dans le ciel nocturne[^1]. Cette homonymie a été l'origine de nombreuses confusions qui ont retardé plus d'un match.  
-De plus, les « battes de baseball » (nous avons dû utiliser une appelation moins confusante) sont coûteuses à l'achat et difficile à fabriquer. Nous avons essayé de laisser chaque batteur utilisé la batte de leur choix, mais cela n'a fait que ralentir le jeu et a complexifié le calcul des statistiques (qui est un élément essentiel du baseball selon ses partisans).  
+De plus, les « battes de baseball » (nous avons dû utiliser une appellation prêtant moins à confusion) sont coûteuses à l'achat et difficile à fabriquer. Nous avons essayé de laisser chaque batteur utilisé la batte de leur choix, mais cela n'a fait que ralentir le jeu et a complexifié le calcul des statistiques (qui est un élément essentiel du baseball selon ses partisans).  
 Nous avons fini par utiliser des branches présentes sur le terrain. Celles en pin sont les meilleures, elles sont faciles à arracher d'un tronc d'arbre, et comme les mains deviennent collantes avec la résine de l'arbre, cela devient plus faciles pour attraper la chaussette sur le terrain.
 
 En parlant du terrain, un autre problème que les partisans du baseball n'ont pas géré correctement est qu'avec une personne qui lance, l'autre qui attrape et les deux autres sur le terrain, la balle qui est frappée se retrouve propulsée trop souvent là où ne sont pas les joueurs de champ, ce qui a pour résultat que l'on court beaucoup trop, que les matchs durent trop longtemps et que les différences au niveau des scores sont trop élevées.  
