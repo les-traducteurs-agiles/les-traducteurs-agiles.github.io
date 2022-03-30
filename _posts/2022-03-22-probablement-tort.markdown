@@ -73,8 +73,7 @@ Est-ce que TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce q
 
 ## OO (la programmation orientée objet) a échoué
 
-Nous allons pouvoir passer plus rapidement l'OO.  
-Quand la programmation orientée objet échoue t'elle ?
+Nous allons pouvoir passer plus rapidement l'OO. À quel moment la programmation orientée objet échoue t'elle ?
 
 La programmation orientée objet ne vous apportera pas grand chose si vous préférez avoir une seule énorme classe contenant l'ensemble des données à gérer, et que le code qui doit manipuler ces données est dans une seule méthode géante.
 
