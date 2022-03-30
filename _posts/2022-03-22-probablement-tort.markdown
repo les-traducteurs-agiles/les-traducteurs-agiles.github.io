@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Probablement tort"
-date:   2022-03-28 00:01
+date:   2022-03-30 00:01
 published: true
 tags:
 - agile
@@ -153,7 +153,7 @@ Date de parution originale : 14 Mars 2022
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 29/03/2022  
+Date de traduction : 30/03/2022  
 
 ---
 
