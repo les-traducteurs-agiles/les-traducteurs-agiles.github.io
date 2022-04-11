@@ -10,7 +10,7 @@ tags:
 
 Est-ce que votre équipe agile est perdue dans la fumée et occupée à éteindre des incendies un peu partout ? Luttez-vous pour garder votre équipe agile focalisée ? Ressentez-vous le besoin de faire mieux et davantage que d'exécuter toutes les deux semaines le haut du backlog ? Utilisez-vous, ou voulez-vous utiliser, les OKR avec une équipe agile ?
 
-C'est à ces questions que Allan Kelly tente de répondre dans son ouvrage "Réussir avec les OKR en Agile" à découvrir la suite ici : https://leanpub.com/agileokrs_fr/
+C'est à ces questions que Allan Kelly tente de répondre dans son ouvrage "Réussir avec les OKR en Agile" à découvrir la suite [ici](https://leanpub.com/agileokrs_fr/).
 
 [![Réussir avec les OKR en Agile - le livre]({{ site.url }}assets/allan_kelly/Reussir-avec-les-OKR-en-Agile.png)](https://leanpub.com/agileokrs_fr/)
 
