@@ -9,7 +9,7 @@ tags:
 - scrum
 ---
 
-> On pourrait croire que les développeurs savent qu'ils peuvent faire des erreurs. Toutefois nous avons tendance à avoir des opinions bien arrêtées bien plus que nous ne devrions en avoir. Du moins c'est mon avis.
+> On pourrait croire que les développeurs savent qu'ils peuvent commettre des erreurs. Toutefois nous avons tendance à avoir des opinions bien arrêtées bien plus que nous ne devrions en avoir. Du moins c'est mon avis.
 
 Mon article le plus célèbre est sans doute : [Nous avons essayé le baseball et ça n'a pas marché](http://www.les-traducteurs-agiles.org/2022/03/21/nous-avons-essaye-le-baseball-et-ca-n-a-pas-marche.html).
 
@@ -19,7 +19,7 @@ Heureux de vous retrouver. L'autre jour, j'ai entendu l'un de mes collègues gro
 
 > Je connais la source de mes échecs, et il ne s'agit pas d'un paradigme ou d'un processus. Vous pouvez me citer.
 
-Il m'est déjà arrivé par le passé d'avoir à vivre de mauvaises choses. Il m'a toujours semblé qu'il est possible d'accepter qu'il puisse arriver de temps en temps de mauvaises choses à des gens biens et de passer à autre chose, réconforté par le fait qu'il ou elle aille bien, ou qu'il est possible d'examiner les choses que l'on vient de faire pour voir si l'une d'entre elles a pu provoquer une mauvaise chose, ou s'il pourrait y avoir des choses à faire dans le futur qui pourrait diminuer les probabilités que ces mauvaises choses se reproduisent.
+Il m'est déjà arrivé par le passé d'avoir à vivre de mauvaises choses. Il m'a toujours semblé qu'il est possible d'accepter qu'il puisse arriver de temps en temps de mauvaises choses à des gens bien et de passer à autre chose, réconforté par le fait qu'il ou elle aille bien, ou qu'il est possible d'examiner les choses que l'on vient de faire pour voir si l'une d'entre elles a pu provoquer une mauvaise chose, ou s'il pourrait y avoir des choses à faire dans le futur qui pourrait diminuer les probabilités que ces mauvaises choses se reproduisent.
 
 Ma propre personnalité a évolué de telle manière qu'elle me laisse plus encline à réfléchir et à agir comme si j'avais une influence substantielle sur ce qui a pu m'arriver et elle me pousse à essayer d'apprendre de nouvelles manières d'agir qui auront tendance à m'amener davantage de bonnes choses et moins de mauvaises choses.
 
@@ -45,23 +45,23 @@ Qu'est-ce que cela peut bien vouloir dire ? Je suppose que nous devrions examine
 
 > (l'utilisation de) TDD mène à une conception simple et à un haut niveau de confiance sur ce que le programme fait par rapport à ce que nous nous attendons qu'il fasse.
 
-Je ne pense pas que nous ayons jamais dit que TDD allait éliminer toutes les anomalies, même si certaines équipes ont réduit leur taux d'introduction d'anomalies de l'ordre d'un facteur deux en utilisant le TDD ainsi que d'autres types de pratiques.
+Je ne pense pas que nous n'ayons jamais dit que TDD allait éliminer toutes les anomalies, même si certaines équipes ont réduit leur taux d'introduction d'anomalies de l'ordre d'un facteur deux en utilisant le TDD ainsi que d'autres types de pratiques.
 
-Je ne pense pas que nous ayons jamais dit que TDD vous garantirait une conception parfaite, voire satisfaisante, même si lorsque vous regardez un expert en TDD produire du logiciel, il peut produire des conceptions d'une étonnante simplicité.
+Je ne pense pas que nous n'ayons jamais dit que TDD vous garantirait une conception parfaite, voire satisfaisante, même si lorsque vous regardez un expert en TDD produire du logiciel, il peut produire des conceptions d'une étonnante simplicité.
 
-Je ne pense pas que nous ayons jamais dit que TDD garantirait quoi que ce soit, même si nous avons tendance à faire preuve d'enthousiasme sur les résultats que nous arrivons à obtenir avec.
+Je ne pense pas que nous n'ayons jamais dit que TDD garantirait quoi que ce soit, même si nous avons tendance à faire preuve d'enthousiasme sur les résultats que nous arrivons à obtenir avec.
 
 Et je suis certain que nous n'avons jamais dit que TDD puisse être utilisé comme ça sans réfléchir tout en espérant en retirer un quelconque bénéfice.
 
 Toutefois, supposons que le bien-nommé Alex Coder essaye le TDD et n'arrive pas à aboutir à une conception simple, et qu'il n'a pas une grande confiance dans le code produit. Supposons alors qu'Alex dise « TDD a échoué. Je ne suis pas arrivé pas à obtenir une conception simple et un grand niveau de confiance dans le programme produit. En fait, le programme fait en TDD s'est avéré vraiment hideux et truffé d'anomalies. »
 
-Je pense que si nous devions poser à Alex quelques questions supplémentaires, nous obtiendrions quelques réponses intéressantes. Par exemple, si nous devions poser la question est-ce qu'il est facile ou difficile d'écrire des tests. Je parierais qu'Alex nous dirait que c'était difficile, voire souvent très difficile. Si nous devions poser la question à quelle fréquence les tests changeaient, Alex nous répondrait très vraisemblablement qu'il devait changer les tests très souvent, à tel point que faire en sorte de continuer à faire tourner les tests lui génèrait plus de travail que le vrai programme.
+Je pense que si nous devions poser à Alex quelques questions supplémentaires, nous obtiendrions quelques réponses intéressantes. Par exemple, si nous devions poser la question est-ce qu'il est facile ou difficile d'écrire des tests. Je parierais qu'Alex nous dirait que c'était difficile, voire souvent très difficile. Si nous devions poser la question à quelle fréquence les tests changeaient, Alex nous répondrait très vraisemblablement qu'il devait changer les tests très souvent, à tel point que faire en sorte de continuer à faire tourner les tests lui générait plus de travail que le vrai programme.
 
-Nous serions aussi tenté de lui rétorquer assez cruellement « Vous utilisez mal le TDD ». Bien assez vite, quelqu'un rétorquera « Aucun vrai écossais ! » ([expression](http://en.wikipedia.org/wiki/No_true_Scotsman) exprimant une idée fausse - NdT).
+Nous serions aussi tentés de lui rétorquer assez cruellement « Vous utilisez mal le TDD ». Bien assez vite, quelqu'un rétorquera « Aucun vrai écossais ! » ([expression](http://en.wikipedia.org/wiki/No_true_Scotsman) exprimant une idée fausse - NdT).
 
 Qui a raison ? Qui a tort ? Eh bien, oui. Lorsque je pense au TDD, j'en suis venu à croire ce qui suit :
 
-> TDD fonctionne très bien dès lors le développeur privilégie l'utilisation d'objets et de méthodes cohésives de petite taille,  de telle sorte que la plupart des fonctions soient bien isolées et indépendantes. Et TDD fonctionne particulièrement bien lorsque les objets sont immutables, ou que les changements d'état sont petits et discrets. Le TDD fonctionne bien avec un style de développement du type « faites, ne posez pas de questions ».
+> TDD fonctionne très bien dès lors le développeur privilégie l'utilisation d'objets et de méthodes cohésives de petite taille, de telle sorte que la plupart des fonctions soient bien isolées et indépendantes. Et TDD fonctionne particulièrement bien lorsque les objets sont immutables, ou que les changements d'état sont petits et discrets. Le TDD fonctionne bien avec un style de développement du type « faites, ne posez pas de questions ».
 >
 > Le TDD ne fonctionne pas bien lorsque le développeur privilégie les fonctions en série qui racontent toute une histoire et en détail. TDD ne fonctionne pas bien lorsque les objets changent d'état souvent. TDD ne fonctionne pas si bien que ça avec des objets de taille importante ayant plusieurs membres changeant de manière indépendante.
 
@@ -69,7 +69,7 @@ Maintenant, il est « bien connu » que des objets, des procédures cohésifs 
 
 En sortant le jugement de valeur de l'équation, je voudrais dire que le TDD fonctionne bien avec des objets peu connectés, très cohésifs et des fonctions de petite taille, et non avec des objets qui ont une faible cohésion et un fort couplage, ni avec des fonctions de grande taille.
 
-Est-ce que TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce qu'un marteau échoue lorsque vous essayez de visser un vis avec ?
+Est-ce que TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce qu'un marteau échoue lorsque vous essayez de visser une vis avec ?
 
 ## OO (la programmation orientée objet) a échoué
 
