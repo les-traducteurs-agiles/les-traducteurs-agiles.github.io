@@ -9,13 +9,13 @@ tags:
 - scrum
 ---
 
-> On pourrait croire que les développeurs savent qu'ils peuvent commettre des erreurs. Toutefois nous avons tendance à avoir des opinions bien arrêtées bien plus que nous ne devrions en avoir. Du moins c'est mon avis.
+> On pourrait croire que les développeurs savent qu'ils peuvent commettre des erreurs. Toutefois, nous avons tendance à avoir des opinions bien arrêtées bien plus que nous ne devrions en avoir. Du moins c'est mon avis.
 
 Mon article le plus célèbre est sans doute : [Nous avons essayé le baseball et ça n'a pas marché](http://www.les-traducteurs-agiles.org/2022/03/21/nous-avons-essaye-le-baseball-et-ca-n-a-pas-marche.html).
 
 Revenez quand vous l'aurez lu.
 
-Heureux de vous retrouver. L'autre jour, j'ai entendu l'un de mes collègues grommeler sur le fait que dans la plupart des conversations on finit par tomber sur quelqu'un qui va dire quelque chose du genre « La développement orienté-objet a échoué » ou « le développement piloté par les tests a échoué » ou « Scrum a échoué ». J'ai alors répondu à son tweet par :
+Heureux de vous retrouver. L'autre jour, j'ai entendu l'un de mes collègues grommeler sur le fait que dans la plupart des conversations, on finit par tomber sur quelqu'un qui va dire quelque chose du genre « Le développement orienté-objet a échoué » ou « le développement piloté par les tests a échoué » ou « Scrum a échoué ». J'ai alors répondu à son tweet par :
 
 > Je connais la source de mes échecs, et il ne s'agit pas d'un paradigme ou d'un processus. Vous pouvez me citer.
 
@@ -29,11 +29,11 @@ Et pourtant. Et pourtant. Vous trouverez que malgré tout votre pagayage, vos ef
 
 Et alors … et alors … vos yeux tombent sur les guides assis dans leurs kayaks, immobiles sur l'eau, semblant à peine toucher l'eau avec leurs pagaies. Ils semblent à peine perturbés par cette même rivière qui manque de vous faire chavirer à chaque instant.
 
-Sur l'eau, la manière dont vous pagayez est importante. Le type de bateau que vous avez est important. Oh, vous arrivez à suivre probablement le courant de la rivière et de temps en temps vous vous retrouverez à l'eau, et vous pouvez être certain que vous serez complètement trempé. Mais la manière dont vous pagayez est importante.
+Sur l'eau, la manière dont vous pagayez est importante. Le type de bateau que vous avez est important. Oh, vous arrivez à suivre probablement le courant de la rivière et de temps en temps, vous vous retrouverez à l'eau, et vous pouvez être certain que vous serez complètement trempé. Mais la manière dont vous pagayez est importante.
 
 ## Qu'est-ce que cela à avoir avec le reste ?
 
-Eh bien, la première chose, sur laquelle j'ai commencé à travailler, c'est l'attitude. Je choisis de me comporter comme si j'avais de l'influence sur ce qui m'arrive. Donc lorsque je fais face à un échec[^1], je regarde où est-ce que dans le passé j'ai pu faire fausse route, et je regarde vers l'avenir pour voir qu'est-ce que je pourrais mieux faire la prochaine fois.
+Eh bien, la première chose, sur laquelle j'ai commencé à travailler, c'est l'attitude. Je choisis de me comporter comme si j'avais de l'influence sur ce qui m'arrive. Donc lorsque je fais face à un échec[^1], je regarde où est-ce que dans le passé j'ai pu faire fausse route, et je regarde vers l'avenir pour voir ce que je pourrais mieux faire la prochaine fois.
 
 Je suppose que ce que je fais fait la différence. Il ne m'est pas possible d'imaginer vivre autrement, que ce que je fais n'ai pas d'importance. Ce serait horrible.
 
@@ -55,7 +55,7 @@ Et je suis certain que nous n'avons jamais dit que TDD puisse être utilisé com
 
 Toutefois, supposons que le bien-nommé Alex Coder essaye le TDD et n'arrive pas à aboutir à une conception simple, et qu'il n'a pas une grande confiance dans le code produit. Supposons alors qu'Alex dise « TDD a échoué. Je ne suis pas arrivé pas à obtenir une conception simple et un grand niveau de confiance dans le programme produit. En fait, le programme fait en TDD s'est avéré vraiment hideux et truffé d'anomalies. »
 
-Je pense que si nous devions poser à Alex quelques questions supplémentaires, nous obtiendrions quelques réponses intéressantes. Par exemple, si nous devions poser la question est-ce qu'il est facile ou difficile d'écrire des tests. Je parierais qu'Alex nous dirait que c'était difficile, voire souvent très difficile. Si nous devions poser la question à quelle fréquence les tests changeaient, Alex nous répondrait très vraisemblablement qu'il devait changer les tests très souvent, à tel point que faire en sorte de continuer à faire tourner les tests lui générait plus de travail que le vrai programme.
+Je pense que si nous devions poser à Alex quelques questions supplémentaires, nous obtiendrions quelques réponses intéressantes. Par exemple, si nous devions poser la question: Est-ce qu'il est facile ou difficile d'écrire des tests ? Je parierais qu'Alex nous dirait que c'était difficile, voire souvent très difficile. Si nous devions poser la question à quelle fréquence les tests changeaient, Alex nous répondrait très vraisemblablement qu'il devait changer les tests très souvent, à tel point que faire en sorte de continuer à faire tourner les tests lui générait plus de travail que le vrai programme.
 
 Nous serions aussi tentés de lui rétorquer assez cruellement « Vous utilisez mal le TDD ». Bien assez vite, quelqu'un rétorquera « Aucun vrai écossais ! » ([expression](http://en.wikipedia.org/wiki/No_true_Scotsman) exprimant une idée fausse - NdT).
 
@@ -73,13 +73,13 @@ Est-ce que TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce q
 
 ## OO (la programmation orientée objet) a échoué
 
-Nous allons pouvoir passer plus rapidement l'OO. À quel moment la programmation orientée objet échoue t-elle ?
+Nous allons pouvoir passer plus rapidement l'OO. À quel moment la programmation orientée objet échoue-t-elle ?
 
 La programmation orientée objet ne vous apportera pas grand-chose si vous préférez avoir une seule énorme classe contenant l'ensemble des données à gérer, et que le code qui doit manipuler ces données est dans une seule méthode géante.
 
 Assez curieusement, les circonstances dans lesquelles l'OO fonctionne le mieux sont les mêmes que pour le TDD : c'est-à-dire lorsque le code que vous écrivez est très modulaire, très cohésif, avec des fonctions et des objets de petite taille.
 
-Est-ce que la programmation orientée objet échoue lorsque vous préférez utiliser de grosses fonctions exploitant d'énormes blobs de données ? Est-ce qu'une débrousailleuse échoue lorsque vous essayez de couper un chêne avec ?
+Est-ce que la programmation orientée objet échoue lorsque vous préférez utiliser de grosses fonctions exploitant d'énormes blobs de données ? Est-ce qu'une débroussailleuse  échoue lorsque vous essayez de couper un chêne avec ?
 
 ## Scrum a échoué
 
@@ -104,7 +104,7 @@ Si les gens n'ont pas d'autres choix que de travailler dans ces conditions, nous
 
 > Scrum demande que l'Équipe Scrum sélectionne la quantité de travail à faire à chaque Sprint.
 
-Si dans une soi-disante démarche Scrum nous trouvons quelqu'un qui dit à l'équipe ce sur quoi elle doit travailler et la quantité de travail à produire, ce n'est pas du tout Scrum.
+Si dans une soi-disant démarche Scrum nous trouvons quelqu'un qui dit à l'équipe ce sur quoi elle doit travailler et la quantité de travail à produire, ce n'est pas du tout Scrum.
 
 Si c'est la manière dont vous gérez le travail, Scrum n'est pas pour vous. Vous ne pouvez pas faire du Scrum de cette manière.
 
@@ -116,7 +116,7 @@ Si vous êtes en train de faire de votre mieux sans construire un logiciel opér
 
 > Scrum demande que l'équipe et les parties prenantes inspectent les résultats et ajustent la manière dont ils travaillent pour le prochain Sprint.
 
-Si sur une soi-disante démarche Scrum, les mêmes problèmes se reproduisent _Sprint_ après _Sprint_ et que des changements effectifs ne sont pas mis en place pour résoudre les problèmes, il n'y a que deux possibilités.
+Si sur une soi-disant démarche Scrum, les mêmes problèmes se reproduisent _Sprint_ après _Sprint_ et que des changements effectifs ne sont pas mis en place pour résoudre les problèmes, il n'y a que deux possibilités.
 
 La plus probable, c'est que les membres de l'équipe n'essayent pas vraiment de les corriger. Peut-être que l'équipe ne fait pas assez preuve d'ouverture, de respect, et de courage pour les amener au grand jour. Peut-être que quelqu'un aux responsabilités à demander aux personnes de simplement essayer de manière plus acharnée. D'une manière ou d'une autre, ils choisissent de ne pas les corriger.
 
