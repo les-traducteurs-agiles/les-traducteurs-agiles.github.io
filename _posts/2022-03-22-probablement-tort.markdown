@@ -43,17 +43,17 @@ Passons un peu à de la programmation.
 
 Qu'est-ce que cela peut bien vouloir dire ? Je suppose que nous devrions examiner les promesses de TDD. En réfléchissant, je pense que cela devrait donner quelque chose comme :
 
-> (l'utilisation de) TDD mène à une conception simple et à un haut niveau de confiance sur ce que le programme fait par rapport à ce que nous nous attendons qu'il fasse.
+> (l'utilisation du) TDD mène à une conception simple et à un haut niveau de confiance sur ce que le programme fait par rapport à ce que nous nous attendons qu'il fasse.
 
-Je ne pense pas que nous n'ayons jamais dit que TDD allait éliminer toutes les anomalies, même si certaines équipes ont réduit leur taux d'introduction d'anomalies de l'ordre d'un facteur deux en utilisant le TDD ainsi que d'autres types de pratiques.
+Je ne pense pas que nous n'ayons jamais dit que le TDD allait éliminer toutes les anomalies, même si certaines équipes ont réduit leur taux d'introduction d'anomalies de l'ordre d'un facteur deux en utilisant le TDD ainsi que d'autres types de pratiques.
 
-Je ne pense pas que nous n'ayons jamais dit que TDD vous garantirait une conception parfaite, voire satisfaisante, même si lorsque vous regardez un expert en TDD produire du logiciel, il peut produire des conceptions d'une étonnante simplicité.
+Je ne pense pas que nous n'ayons jamais dit que le TDD vous garantirait une conception parfaite, voire satisfaisante, même si lorsque vous regardez un expert en TDD produire du logiciel, il peut produire des conceptions d'une étonnante simplicité.
 
-Je ne pense pas que nous n'ayons jamais dit que TDD garantirait quoi que ce soit, même si nous avons tendance à faire preuve d'enthousiasme sur les résultats que nous arrivons à obtenir avec.
+Je ne pense pas que nous n'ayons jamais dit que le TDD garantirait quoi que ce soit, même si nous avons tendance à faire preuve d'enthousiasme sur les résultats que nous arrivons à obtenir avec.
 
-Et je suis certain que nous n'avons jamais dit que TDD puisse être utilisé comme ça sans réfléchir tout en espérant en retirer un quelconque bénéfice.
+Et je suis certain que nous n'avons jamais dit que le TDD puisse être utilisé comme ça sans réfléchir tout en espérant en retirer un quelconque bénéfice.
 
-Toutefois, supposons que le bien-nommé Alex Coder essaye le TDD et n'arrive pas à aboutir à une conception simple, et qu'il n'a pas une grande confiance dans le code produit. Supposons alors qu'Alex dise « TDD a échoué. Je ne suis pas arrivé pas à obtenir une conception simple et un grand niveau de confiance dans le programme produit. En fait, le programme fait en TDD s'est avéré vraiment hideux et truffé d'anomalies. »
+Toutefois, supposons que le bien-nommé Alex Coder essaye le TDD et n'arrive pas à aboutir à une conception simple, et qu'il n'a pas une grande confiance dans le code produit. Supposons alors qu'Alex dise « le TDD a échoué. Je ne suis pas arrivé pas à obtenir une conception simple et un grand niveau de confiance dans le programme produit. En fait, le programme fait en TDD s'est avéré vraiment hideux et truffé d'anomalies. »
 
 Je pense que si nous devions poser à Alex quelques questions supplémentaires, nous obtiendrions quelques réponses intéressantes. Par exemple, si nous devions poser la question: Est-ce qu'il est facile ou difficile d'écrire des tests ? Je parierais qu'Alex nous dirait que c'était difficile, voire souvent très difficile. Si nous devions poser la question à quelle fréquence les tests changeaient, Alex nous répondrait très vraisemblablement qu'il devait changer les tests très souvent, à tel point que faire en sorte de continuer à faire tourner les tests lui générait plus de travail que le vrai programme.
 
@@ -61,15 +61,15 @@ Nous serions aussi tentés de lui rétorquer assez cruellement « Vous utilisez
 
 Qui a raison ? Qui a tort ? Eh bien, oui. Lorsque je pense au TDD, j'en suis venu à croire ce qui suit :
 
-> TDD fonctionne très bien dès lors le développeur privilégie l'utilisation d'objets et de méthodes cohésives de petite taille, de telle sorte que la plupart des fonctions soient bien isolées et indépendantes. Et TDD fonctionne particulièrement bien lorsque les objets sont immutables, ou que les changements d'état sont petits et discrets. Le TDD fonctionne bien avec un style de développement du type « faites, ne posez pas de questions ».
+> Le TDD fonctionne très bien dès lors le développeur privilégie l'utilisation d'objets et de méthodes cohésives de petite taille, de telle sorte que la plupart des fonctions soient bien isolées et indépendantes. Et le TDD fonctionne particulièrement bien lorsque les objets sont immutables, ou que les changements d'état sont petits et discrets. Le TDD fonctionne bien avec un style de développement du type « faites, ne posez pas de questions ».
 >
-> Le TDD ne fonctionne pas bien lorsque le développeur privilégie les fonctions en série qui racontent toute une histoire et en détail. TDD ne fonctionne pas bien lorsque les objets changent d'état souvent. TDD ne fonctionne pas si bien que ça avec des objets de taille importante ayant plusieurs membres changeant de manière indépendante.
+> Le TDD ne fonctionne pas bien lorsque le développeur privilégie les fonctions en série qui racontent toute une histoire et en détail. Le TDD ne fonctionne pas bien lorsque les objets changent d'état souvent. Le TDD ne fonctionne pas si bien que ça avec des objets de taille importante ayant plusieurs membres changeant de manière indépendante.
 
 Maintenant, il est « bien connu » que des objets, des procédures cohésifs de petite taille sont « mieux » que de longues méthodes et des objets massifs qui combinent tout ce qu'il y a besoin de savoir sur l'univers. Par « bien connu », je veux dire quelque chose d'un peu mieux que « Eh bien, Ron et Kent aime ça », mais certainement moins bien que « personne ne peut réussir avec des objets de grande taille et du code procédural ».
 
 En sortant le jugement de valeur de l'équation, je voudrais dire que le TDD fonctionne bien avec des objets peu connectés, très cohésifs et des fonctions de petite taille, et non avec des objets qui ont une faible cohésion et un fort couplage, ni avec des fonctions de grande taille.
 
-Est-ce que TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce qu'un marteau échoue lorsque vous essayez de visser une vis avec ?
+Est-ce que le TDD « échoue » dans ces circonstances ? Je ne sais pas. Est-ce qu'un marteau échoue lorsque vous essayez de visser une vis avec ?
 
 ## OO (la programmation orientée objet) a échoué
 
@@ -134,7 +134,7 @@ Si vous faites Scrum de manière adéquate, je pense que vous êtes susceptible 
 
 En tant que développeur logiciel, vous devriez savoir que vous avez assez souvent tort. En tant qu'être humain, vous devriez savoir que vous avez assez souvent tort.
 
-Lorsque les choses ne vont pas dans votre sens, vous pouvez blâmer l'OO, ou TDD, ou Scrum, ou vous pouvez penser sur ce qu'il se passe et voir si vous pouvez vous débrouiller ou pagayer autrement. Et peut-être même que vous aurez besoin d'un nouveau bateau.
+Lorsque les choses ne vont pas dans votre sens, vous pouvez blâmer l'OO, ou le TDD, ou Scrum, ou vous pouvez penser sur ce qu'il se passe et voir si vous pouvez vous débrouiller ou pagayer autrement. Et peut-être même que vous aurez besoin d'un nouveau bateau.
 
 Ou simplement vous laissez porter par le courant. C'est quelque chose de tout à fait correct. C'est votre[^4] choix.
 
