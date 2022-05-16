@@ -7,6 +7,8 @@ tags:
 - affiche
 - poster
 - fiche
+- expérience utilisateur
+- ux
 ---
 
 De nombreuses équipes agiles rencontrent des difficultés pour lier l’expérience utilisateur et les processus de design avec les approches agiles dont Scrum. Dans ce poster (et dans cet article) j’essaye de décrire ce lien et comment vous pouvez collaborer dans l'équipe pour en apprendre davantage sur les besoins utilisateurs et les solutions pour résoudre ensemble les vrais problèmes des utilisateurs. J’utilise ce poster depuis plus d’un an dans mes formations [PO et UX (Build the Right Product – Innovation through Collaboration & Design Thinking)](https://dandypeople.com/training/build-the-right-product/) ainsi que dans mes coachings agiles.
