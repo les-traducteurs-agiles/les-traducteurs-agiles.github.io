@@ -1,19 +1,15 @@
 ---
 layout: post
 title:  "Quelques heuristiques pour une organisation efficace : une liste en constante évolution(*)"
-date:   2022-01-30 00:00
+date:   2022-05-24 00:00
 published: false
 tags:
 - agile
 ---
 
-![Tweet Allen]({{ site.url }}assets/allen_holub/AgileIsTweet-2048x1167.png)
-
 ![Tweet Allen]({{ site.url }}assets/allen_holub/AgileIsTweet-2048x1167-fr.png)
 
-
-
-> Note du traducteur : une première traduction de cette liste d'heuristiques existe sous la forme d'un commentaire dans l'article originel. La liste ayant changé depuis cette 1ère traduction, des différences existent donc avec la présente traduction
+> Note du traducteur : une première traduction de cette liste d'heuristiques existe sous la forme d'un commentaire dans l'article originel. La liste ayant changé depuis cette 1ère traduction, des différences existent donc avec la présente traduction.
 
 
 1. En l'absence de sécurité psychologique, de respect et de confiance, aucun des éléments suivants n’est possible.
@@ -80,7 +76,8 @@ Date de parution originale : 24 Juillet 2021
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 30/01/2021  
+Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)]
+Date de traduction : 24/05/2021  
 
 ---
 
