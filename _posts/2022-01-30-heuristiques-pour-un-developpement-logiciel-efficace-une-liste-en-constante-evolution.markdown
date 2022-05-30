@@ -76,7 +76,7 @@ Date de parution originale : 24 Juillet 2021
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)]  
+Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : 30/05/2021  
 
 ---
