@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Quelques heuristiques pour une organisation efficace : une liste en constante évolution(*)"
-date:   2022-05-24 00:00
-published: false
+date:   2022-05-30 00:00
+published: true
 tags:
 - agile
 ---
@@ -64,7 +64,7 @@ tags:
 
 26. La communication est centrale pour obtenir des résultats efficaces. L’efficacité de la communication s’améliore avec le degré de proximité physique et la richesse du média de communication utilisé. La communication en face à face en temps réel est ce qu’il y a de mieux, toutefois elle n’est pas toujours possible, donc nous devons, quand nous le pouvons, nous en rapprocher du mieux que nous le pouvons.
 
-27. Une grande partie des dysfonctionnements en terme de management proviennent d'une forme de peur, qui à son tour vient d'un manque de transparence. Nos processus doivent être aussi transparent que possible.
+27. Une grande partie des dysfonctionnements en terme de management vient d'une forme de peur, qui à son tour vient d'un manque de transparence. Nos processus doivent être aussi transparents que possible.
 
 * Cette liste résulte d’une réflexion qui m’est complètement personnelle. Elle a vu le jour afin de présenter les valeurs et les principes du Manifeste Agile d’une manière qui se veut plus claire et plus contemporaine même si j’y ai ajouté des petites choses ici ou là. Elle représente un instantané de ma réflexion, et non un ensemble de vérités irréfutables.
 
@@ -76,8 +76,8 @@ Date de parution originale : 24 Juillet 2021
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)]
-Date de traduction : 24/05/2021  
+Relectrice : [Cidalia De Bastos](http://www.les-traducteurs-agiles.org/traducteurs/)]  
+Date de traduction : 30/05/2021  
 
 ---
 
