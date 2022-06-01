@@ -107,27 +107,25 @@ Si la base de code n'a pas eu de test unitaire dans les deux dernières années,
 
 **Quality of feedback** When you passed a functional test, you could be very confident about the functionality you just tested. But when you found it fail, usually you need to do some debugging to see what is wrong. Unit test might be able to give you more precise information about what is working and what is broken.
 
-**Qualité du _feedback_** Après avoir passé un test fonctionnel, vous pourriez être très confiant
+**Qualité du _feedback_** Après avoir passé un test fonctionnel, vous pourriez être pluôt confiant pra rapport à la fonctionnalité que vous venez de tester. Mais lorsque vous vous apercevez que le test a échoué, généralement vous devez faire du débogage pour voir ce qui est incorrect. Les tests unitaires pourraient vous donner une information plus précise sur ce qui fonctionne ou ne fonctionne pas.
 
 Unit test is on the abstraction level of the programming language. When running unit test, everything should happen just within the CPU and memory. And each test case should be small. Therefore, it should run very fast. Typically, you should be able to run hundreds of unit tests within a few seconds. Including the compiling or other preparation time, the whole process of running unit test should take less than 1 minute.
 
-
+Les tests unitaires sont sur le même niveau d'abstraction que le langage de programmation employé. Lors de l'exécution du test unitaire, tout devrait s'exécuter simplement au niveau du micro-processeur et de la mémoire. Et chaque cas de test devrait être de petite taille. En conséquence, il devrait s'exécuter très rapidement. Ainsi, vous devriez pouvoir exécuter plusieurs centaines de tests unitaires en quelques secondes. Cela comprend le temps de compilation ou de préparation, l'ensemble du processus d'exécution d'un test unitaire devrait prendre moins d'une minute.
 
 Unit test should also be repeatable. If nothing changes, unit test runs should always return the same result.
 
-
+Les tests unitaires devraient aussi être répétables. Si rien ne change, l'exécution d'un test unitaire devrait retourner toujours le même résultat.
 
 If the unit test is very fast and repeatable, programmers can run it as often as they want, e.g. every a few minutes. The unit test will continuously provide quality feedback to the programmer. So that the programmer can go with a steady progress and focus on more important things rather than spending too much energy on trivial issues.
 
-
+Si un test unitaire est très rapide et répétable, les développeurs peuvent l'exécuter aussi souvent qu'ils le veulent, par exemple tous les quelques minutes. Le test unitaire continuera de donner des retours d'informations de qualité aux développeurs. Cela permettra ainsi aux développeurs d'avancer avec un rythme régulier et de se focaliser sur des choses plus importantes plutôt que de passer trop d'énergie sur des choses triviales.
 
 ![](https://less.works/img/technical-excellence/xtest_levels.png.pagespeed.ic.-xbOy_tP-P.png)
 
-
-
 A reasonable automated test structure should be like a pyramid. At the bottom are a lot of unit test cases. In the middle are much fewer integration level test cases. On the top, there are even fewer functional/system level tests.
 
-
+Une structure de test automatisé acceptable devrait ressembler un peu à une pyramide. À la base de la pyramide, il y a un grand nombre de cas de tests unitaires. Au milieu, il y a des cas de tests d'intégration en moins grand nombre. En haut, il n'y a que quelques cas de tests fonctionnels/systèmes. 
 
 ## Common Misconceptions of Unit Test
 
