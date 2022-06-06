@@ -125,47 +125,47 @@ Si un test unitaire est très rapide et répétable, les développeurs peuvent l
 
 A reasonable automated test structure should be like a pyramid. At the bottom are a lot of unit test cases. In the middle are much fewer integration level test cases. On the top, there are even fewer functional/system level tests.
 
-Une structure de test automatisé acceptable devrait ressembler un peu à une pyramide. À la base de la pyramide, il y a un grand nombre de cas de tests unitaires. Au milieu, il y a des cas de tests d'intégration en moins grand nombre. En haut, il n'y a que quelques cas de tests fonctionnels/systèmes. 
+Une structure de test automatisé acceptable devrait ressembler un peu à une pyramide. À la base de la pyramide, il y a un grand nombre de cas de tests unitaires. Au milieu, il y a des cas de tests d'intégration en moins grand nombre. En haut, il n'y a que quelques cas de tests fonctionnels/systèmes.
 
 ## Common Misconceptions of Unit Test
 
-
+## Idées fausses à propos du test unitaire
 
 ### Unit test is not as important as the production code
 
-
+### Le test unitaire n'est pas aussi vitale que le code en production
 
 It is true that in the end, it’s production code that makes the product. But most software products have evolutionary life cycles. The code is not static. It changes over time. Code without unit test does not have the necessary protection when being changed. Unit test also contains important information that is not included in the production code.
 
-
+Il est vrai qu'en fin de compte, c'est le code en production qui rend réel le produit; Mais la plupart des produits logiciels ont des cycles de vie évolutif. Le code n'est pas statique. Il change avec le temps. Du code sans test unitaire n'a pas la protections suffisante pour être changé. Les tests unitaires contient aussi des informations importantes qui ne sont pas présentes dans le code en production.
 
 So unit test is just as important as the production code. They should be **in the same SCM repository**. They should follow the same coding standard as the production code.
 
-
+Par conséquent le test unitaire est tout aussi important que le code en production. Il devrait être stocké **dans le même dépôt de gestion du code source**. Le test unitaire devrait suivre les mêmes conventions de codage que le code en production.
 
 ### Unit Test is done by testing engineers
 
-
+### Le test unitaire est fait par des ingénieurs tests
 
 The purpose of unit test is not for finding bugs. Technically, it _checks_ rather than _tests_ if the code under test has implemented the behaviour intended by the programmer who designed it. So the reasonable choice is just let the same programmer writes both the test and the code under test.
 
-
+L'objectif du test unitaire n'est pas de trouver des anomalies. Techniquement, il _vérifie_ plutôt que _tester_ si le code sous test a implémenté le comportement voulu par le développeur qui l'a conçu. Donc le choix logique est de simplement laisser la même personne écrire à la fois le test et le code sous test.
 
 It’s also encouraged to have two or more people pair up to do the programming together. They write the unit test and the code under test together. There are many fun ways of _pair-programming_. You may find more information in the Test-Driven Development section.
 
-
+Il est aussi encouragé d'avoir deux ou plusieurs personnes travaillant de concert pour programmer à la fois le test et le code sous test ensemble.  Il existe plusieurs manières sympa pour programmer en binome. Vous trouverez davantage d'informations à ce sujet dans la section développement piloté par les tests.
 
 ### You can write unit test without changing the code under test
 
-
+### Vous pouvez écrire des tests unitaires sans changer le code sous test.
 
 This is often not true. If the code doesn’t have good testability, you might still be able to write unit test for it technically. But the unit test written for non-testable code is usually very hard to maintain and understand. Therefore, it doesn’t make much sense to have it.
 
-
+C'est souvent inexact. Si le code n'a pas une bonne testabilité, vous pourriez tout de même être en capacité technique d'écrire le test unitaire qui va avec.  Mais un test unitaire qui a été écrit pour un code non-testable est généralement très dur à maintenir et à comprendre. Par conséquent, il n'y a pas vraiment de raison de l'avoir.
 
 **The secret of unit test is not about writing test, but writing testable code under test.** We want testable code and easy test, which is a win-win. We don’t want non-testable code and hard-to-maintain code, which is a lose-lose.
 
-
+**Le secret du test unitaire n'est pas d'écrire du test, mais d'écrire du code testable sous test.** Nous voulons du code testable et facile à tester, ce qui est gagnant-gagnant. Nous ne voulons pas du code non-testable et difficile-à-maintenir, ce qui est du perdant-perdant.
 
 ### I can add unit test later
 
