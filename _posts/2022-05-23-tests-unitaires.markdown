@@ -165,56 +165,56 @@ C'est souvent inexact. Si le code n'a pas une bonne testabilité, vous pourriez 
 
 **The secret of unit test is not about writing test, but writing testable code under test.** We want testable code and easy test, which is a win-win. We don’t want non-testable code and hard-to-maintain code, which is a lose-lose.
 
-**Le secret du test unitaire n'est pas d'écrire du test, mais d'écrire du code testable sous test.** Nous voulons du code testable et facile à tester, ce qui est gagnant-gagnant. Nous ne voulons pas du code non-testable et difficile-à-maintenir, ce qui est du perdant-perdant.
+**Le secret du test unitaire n'est pas d'écrire du test, mais d'écrire du code testable sous test.** Nous voulons du code testable et facile à tester, ce qui est une démarche gagnant-gagnant. Nous ne voulons pas du code non-testable et difficile-à-maintenir, ce qui est une démarche perdant-perdant.
 
 ### I can add unit test later
 
-
+### Je peux ajouter les tests unitaires plus tard
 
 Well, try asking the rock climbers to set their anchors later.
 
-
+Eh bien, essayez donc de demander à des grimpeurs de mettre leurs pitons plus tard.
 
 ![](https://less.works/img/technical-excellence/xunit_test.png.pagespeed.ic.U9rHA2rtat.webp)
 
 ## Good Unit Test Patterns
 
-
+## Schéma pour de bons tests unitaires
 
 ### No news is good news
 
-
+### Pas de nouvelles, bonnes nouvelles
 
 If the test passes, it should just print OK (and perhaps some dots to show the progress). No other information.
 
-
+Si le test passe, il devrait afficher seulement OK (voire quelques points pour afficher son avancement). Aucune autre information nécessaire.
 
 ![](https://less.works/img/technical-excellence/500xNxunit_test_success.png.pagespeed.ic.W3mg1FIwIC.png)
 
 Rule of thumb:
 
-
+Règle empirique :
 
 > No human intervention should be needed to get ready for the test, running the test cases or checking the result.
 
-
+> Aucune intervention humaine ne devrait être nécessaire pour préparer l'exécution du test, exécuter les cas de tests ou en vérifier les résultats.
 
 And when it fails, it should provide precise information. The goal is to limit the amount of time you spend on debugging when the test fails.  
 ![](https://less.works/img/technical-excellence/342xNxunit_test_fail.png.pagespeed.ic.eM-9actgRz.png)
 
-
+Et lorsqu'un test unitaire échoue, il devrait nous fournir des informations précises. L'objectif est de limiter la durée pendant laquelle vous êtes occupés à débogguer le code concnerné.
 
 ### Arrange, Act, Assert
 
-
+### Mise en place, Action, Contrôle (Arrange, Act, Assert)
 
 A good pattern to follow in a unit test is “**AAA**”: **Arrange**, **Act** and **Assert**.
 
-
+Un bon schéma à suivre en ce qui concerne les tests unitaires est “**MAC**”: **Mise en place**, **Action** et **Contrôle**
 
 If you can easily find this pattern in each of your test cases, your tests should be easy to understand, and they should be fairly specific and to the point. One unit test case should test only one thing. Therefore, there should be only one set of AAA in one test case. A test case shouldn’t be very long (longer than 10 lines of code) if it follows the AAA pattern.
 
-
+Si vous pouvez repérer ce schéma dans chacun de vos cas de tests, vos tests devraient facile à comprendre, et ils devraient s'avérer suffisamment spécifiques et aller droit au but. Un cas de test unitaire devrait tester une seule et unique chose. Par conséquent, il devrait y avoir un seul AAA dans un cas de test. Un cas de test ne devrait pas être très prolixe (c'est-à-dire plus de 10 lignes de code) s'il suit le schéma AAA.
 
 import unittest
 class TestGroupForTextWrapping(unittest.TestCase):
@@ -229,67 +229,84 @@ class TestGroupForTextWrapping(unittest.TestCase):
         \# Assert:  Assert that the expected results have occurred.
         self.assertEqual(\["a" * 5\], wrapped)
 
+import unittest
+class TestGroupForTextWrapping(unittest.TestCase):
+
+        def test\_ne\_devrait\_pas\_avoir\_de\_retour\_à\_la\_ligne\_lorsque\_la\_longueur\_de\_la\_chaîne\_de\_caractères\_est\_de\_5\_et\_que\_la\_hauteur\_est\_10(self):
+            \# Arrange - Mise en place :  Mettre en place toutes les préconditions nécessaires ainsi que les entrées.
+            wrapper = TextWrapper(width=10)
+
+            \# Act - Action :  Action sur l'objet ou la méthode sous test.
+            wrapped = wrapper.wrap("a" * 5)
+
+            \# Assert - Contrôle :  Contrôle que le résultat attendu s'est bien produit.
+            self.assertEqual(\["a" * 5\], wrapped)
 
 
 ### Behaviour Driven Development (BDD) Style
 
-
+### Développement piloté par le comportement (BDD)
 
 Similar to the **AAA** pattern, the **BDD** style uses three other keywords to specify each test case: **Given**, **When** and **Then**. (You can also use **And** as another keyword.)
 
-
+Identique au schéma **MAC**, le BDD utilise trois mots-clés différents pour spécifier chaque cas de test : **Étant donné**, **Lorsque** et **Alors**. (Vous pouvez aussi utiliser **Et** comme mot-clé supplémentaire)
 
     Given The Text Wrapper's Width Defined As 10
     And Using '-' As Word Connector
     When The Wrapper Wrap Text Length is Less Than 10
     Then The Text Should Not Be Wrapped
 
-
+    Given - Étant donné que la longueur du texte pour le retour à la ligne est défini à 10
+    And - Et que le caractère '-' est utilisé comme connecteur entre deux mots
+    When - Lorsque la longueur du texte est inférieure à 10
+    Then - Alors le texte ne devrait pas être retourné à la ligne
 
 
 As you can see, “given-when-then” maps to “arrange-act-assert” pretty well. They both simply define a state transition of a Finite State Machine (FSM). You can find more on this in the [Uncle Bob’s article](https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd). Some differences:
 
-
+Comme vous pouvez le constater, le triptype « étant donné - lorsque - alors » correspond plutôt bien avec le triptype « Mise en place - Action - Contrôler ». Ils définissent tous les deux un état transition d'une machine à état finie. Vous pouvez en savoir plus en consultant cet article d'[Oncle Bob](https://sites.google.com/site/unclebobconsultingllc/the-truth-about-bdd). Voici quelques différences entre les deux :
 
 - BDD is more “outside-in”, which means that it emphasises more the external behaviour
 - With BDD, you need to define a **domain specific language** to write your test specifications. Because of this, usually you’ll need a different framework. One example for Python is [behave](http://pythonhosted.org/behave/).
 
-
+- Le BDD est davantage « dehors-dedans », cela veut dire qu'il met davantage l'accent sur le comportement externe
+- Avec le BDD, vous devez définir un **langage spécifique au domaine** pour écrire vos spécifications de tests. À cause de ceal, vous aurez besoin généralemnt d'un _framework_. Par exemple, pour Python vous pourrez utilisez [behave](http://pythonhosted.org/behave/).
 
 ### The Golden Rule Of a Unit Test
 
-
+### La règle d'or du test unitaire
 
 In general, a good rule for unit test case is:
 
-
+De manière générale, une bonne règle d'or pour des tests unitaires serait :
 
 > **Each unit test case should be very limited in scope.**
 
-
+> **Chaque cas de test unitaire devrait avoir un périmètre très restreint.**
 
 So that:
 
-
+De telle manière que :
 
 - When the test fails, no debugging is needed to locate the problem.
 - Tests are stable because dependencies are simple.
 - Less duplication, easier to maintain.
 
-
+- Lorsque le test échoue, qu'il ne soit pas nécessaire de faire du déboggage pour localiser le problème.
+- Les tests soient stables car les dépendances sont simples.
+- Il y ait moins de duplications, que ce soit plus facile à maintenir
 
 There is no secret to write good unit test. In order to write good unit test, you need to create easy-to-test design.
 
-
+Il n'existe pas de secrets pour écrire un bon test unitaire. Afin d'écrire un bon test unitaire, vous devez créer une conception qui soit facile à tester.
 
 
 ---
-Auteur : [Prénom_Nom](url_bio)  nbsp
-Source : [LeSS - Unit Testing](http://less.works/less/technical-excellence/unit-testing.html)  nbsp
-Date de parution originale : jj_MMMM_yyyy  nbsp
+Auteur : The LeSS Company B.V.  
+Source : [LeSS - Unit Testing](http://less.works/less/technical-excellence/unit-testing.html)  
 
 ---
-Traducteur : [Prénom_Nom](url_bio)  nbsp
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
 Date de traduction : jj/mm/yyyy  nbsp
 
 ---
