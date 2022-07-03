@@ -187,7 +187,7 @@ permettra ainsi aux développeurs d'avancer à un rythme régulier et de se
 focaliser sur des choses plus importantes plutôt que de passer trop
 d'énergie sur des choses triviales.
 
-![Niveaux de test]({{ site.url }}assets/less/Xtest_levels_fr.png)
+![Niveaux de test]({{ site.url }}assets/less/xtest_levels_fr.png)
 
 Une structure de test automatisé acceptable devrait ressembler à une
 pyramide. À la base de la pyramide, il y a un grand nombre de cas de
