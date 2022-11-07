@@ -59,7 +59,7 @@ L'objectif du test unitaire peut être résumé ainsi :
 
 -   Faciliter les changements
     -   Le test unitaire fait en sorte de protéger les comportements
-        décidés par les développeurs qui se sont succédés afin qu'il
+        décidés par les développeurs qui se sont succédé afin qu'il
         soit possible de changer le code sans casser les fonctionnalités
         existantes.
 -   Simplifier l'intégration
@@ -119,7 +119,7 @@ maintenance est aussi très faible. Vous pouvez ne pas avoir le même
 niveau de confiance pour un cas de test unitaire qui s'est exécuté avec
 succès que pour un cas de test fonctionnel. Vous pourriez avoir besoin
 de plusieurs cas de test unitaire pour avoir le même niveau de
-confiance. Mais le coût de tous ces petits cas de test unitaire restent
+confiance. Mais le coût de tous ces petits cas de test unitaire reste
 malgré tout plus faible que celui de plusieurs cas de test fonctionnel.
 
 Si le code source n\'a bénéficié d\'aucun test unitaire depuis les deux
@@ -222,7 +222,7 @@ fois le test et le code sous test.
 
 Il est aussi encouragé d'avoir deux ou plusieurs personnes travaillant
 de concert pour programmer à la fois le test et le code sous test. Il
-existe plusieurs manières sympa pour programmer en binôme. Vous
+existe plusieurs manières sympas pour programmer en binôme. Vous
 trouverez davantage d'informations à ce sujet dans la section
 développement piloté par les tests.
 
@@ -330,7 +330,7 @@ Voici quelques différences entre les deux :
 -   Avec le BDD, vous devez définir un **langage spécifique au domaine**
     pour écrire vos spécifications de tests. À cause de cela, vous aurez
     besoin généralement d'un *framework* supplémentaire. Par exemple,
-    pour Python vous pourrez utilisez
+    pour Python vous pourrez utiliser
     [behave](https://pypi.org/project/behave/).
 
 ### La règle d'or du test unitaire
