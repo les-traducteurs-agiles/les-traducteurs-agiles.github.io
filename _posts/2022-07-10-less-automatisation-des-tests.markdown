@@ -13,7 +13,7 @@ tags:
 
 Les développeurs agiles mettent en avant l'importance des tests
 automatisés. En effet, avec des cycles courts, l'exécution manuelle des
-tests de régression s'avère quasiment impossible. Cela signifie t'il
+tests de régression s'avère quasiment impossible. Cela signifie t-il
 qu'il n'y a pas du tout de tests manuels ? Non. Certains tests manuels
 sont toujours recommandés, même si ces tests diffèrent quelque peu des
 tests manuels faits à l'aide de scripts.
@@ -61,7 +61,7 @@ tests automatisés est d'une importance capitale.
 
 ### Faire quelques tests manuels
 
-Automatiser *tous* les tests pourraient ne pas valoir le coût voire même
+Automatiser *tous* les tests pourrait ne pas valoir le coût voire même
 ne pas être possible. Certains tests tels que ceux évoqués ci-dessous
 devront alors être faits manuellement :
 
@@ -181,7 +181,7 @@ d'automatisation à faire. Lors de son itération précédente, ces tâches
 avaient été faites par un spécialiste des tests mais ces tâches devaient
 être faites dorénavant par l'ensemble de l'équipe.
 
-Nous avons fait démarré l'équipe avec un atelier d'une journée au cours
+Nous avons fait démarrer l'équipe avec un atelier d'une journée au cours
 duquel un spécialiste a formé et accompagné les différents membres de
 l'équipe. Après cet atelier, l'équipe s'est scindée en plusieurs groupes
 de deux personnes plus un groupe de trois personnes pour travailler sur
@@ -191,7 +191,7 @@ travail nécessaire à cause de la duplication présente dans les tests.
 Avant ça, aucun d'entre eux ne l'avaient remarqué et le spécialiste des
 tests --- qui n'avait pas beaucoup d'expérience en programmation --- ne
 s'en était jamais soucié. Maintenant que toute l'équipe était impliquée,
-tous le monde s'en souciait et la qualité des tests s'est alors
+tout le monde s'en souciait et la qualité des tests s'est alors
 grandement améliorée.
 
 ### Supprimer des tests lorsqu'ils n'apportent aucune valeur
@@ -202,7 +202,7 @@ régression du système.
 
 Lorsqu'un test existant n'est plus nécessaire --- sachant qu'il n'est
 qu'une sous-partie d'un autre test --- supprimez-le. Ne pas supprimer
-les tests superflus n'apportent rien mais augmentent par contre le
+les tests superflus n'apporte rien mais augmentent par contre le
 travail de maintenance et diminuent la vitesse d'exécution des tests.
 
 ### Éviter de tester à travers une IHM
@@ -225,7 +225,7 @@ travaillant selon une approche en cascade. Le conseil habituel en
 automatisation de test est de sélectionner et d'automatiser uniquement
 les cas de tests les plus importants --- par une équipe dédiée à
 l'automatisation des tests --- après la livraison. Ils ont donc fait ça.
-À la fin de la livraison suivante, ils ont alors exécutés les tests et
+À la fin de la livraison suivante, ils ont alors exécuté les tests et
 \... ils ont tous échoués. Mettre à jour tous les tests aurait pris trop
 de temps, alors ils ont décidé de tout tester manuellement.
 
