@@ -21,7 +21,7 @@ tags:
 * [Tests unitaires](http://less.works/less/technical-excellence/unit-testing.html)
 * [Développement piloté par les tests (fr)](http://www.les-traducteurs-agiles.org/2020/03/08/less-developpement-pilote-par-les-tests.html)
 * [Réflexions à propos des tests](http://less.works/less/technical-excellence/thinking-about-testing.html)
-* [Automatisation des tests](http://less.works/less/technical-excellence/test-automation.html)
+* [Automatisation des tests (fr)](http://www.les-traducteurs-agiles.org/2022/11/06/less-automatisation-des-tests.html)
 
 
 La véritable flexibilité (agilité) ne peut être apparaître que si vous êtes capable d'opérer des changements sur le produit d'une manière qui soit facile, rapide et flexible. Dans cet esprit :
