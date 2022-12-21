@@ -15,7 +15,7 @@ Quasi-quotidiennement, je vois apparaître sur LinkedIn des articles comportant 
 
 Une partie de cette désinformation a une portée tellement vaste qu'au mieux les personnes débutantes en agile, n'apprennent en rien ce qu'est vraiment l'agile et au pire sont détournés de l'agile et des réels bénéfices qu'elle pourrait leur apporter à eux et à leur organisation.
 
-Bien sûr, il n'y a aucune raison pour que les personnes qui ne connaissent pas plus que cela l'agile puissent être amenés à croire que mon article soit plus pertinent qu'un autre sur l'agile. Heureusement d'autres personnes le savent, des agilistes respectés et chevronnés pourront commenter et vérifier si ce que je dis est correct.
+Bien sûr, il n'y a aucune raison pour que les personnes qui ne connaissent pas plus que cela l'agile puissent être amenées à croire que mon article soit plus pertinent qu'un autre sur l'agile. Heureusement, d'autres personnes le savent, des agilistes respectés et chevronnés pourront commenter et vérifier si ce que je dis est correct.
 
 J'apprécierais aussi tout retour sur les points abordés dans cet article afin que je puisse l'améliorer ainsi que toute question et réponse, afin que cet article devienne une FAQ la plus complète possible sur l'agile.
 
@@ -31,11 +31,11 @@ _Agile est une approche de développement logiciel dans laquelle des gens du mé
 
 ## Pourquoi Agile ?
 
-Les méthodes allégées mentionnées ci-dessus (qui ont conduit au consensus sur les valeurs et les principes agiles) étaient en contraste totale avec les méthodes dominantes sur le développement logiciel dans les années 1990. Les méthodes traditionnelles de développement logiciel étaient lourdes en terme de processus, de phases, d'étapes de validations ; elles étaient pilotés par des jalons de documentation plutôt que par la livraison d'un "logiciel opérationnel". Ces méthodes traditionnelles pouvaient mener à des projets logiciels qui prenaient quelques fois des mois, voire des années avant qu'une seule ligne de code ne soit écrite.
+Les méthodes allégées mentionnées ci-dessus (qui ont conduit au consensus sur les valeurs et les principes agiles) étaient en contraste total avec les méthodes dominantes sur le développement logiciel dans les années 1990. Les méthodes traditionnelles de développement logiciel étaient lourdes en termes de processus, de phases, d'étapes de validations ; elles étaient pilotées par des jalons de documentation plutôt que par la livraison d'un "logiciel opérationnel". Ces méthodes traditionnelles pouvaient mener à des projets logiciels qui prenaient quelques fois des mois, voire des années avant qu'une seule ligne de code ne soit écrite.
 
-Une autre conséquence des approches traditionnelles a été que les développeurs ne pouvaient plus obtenir de retours d'informations sur le logiciel qu'ils avaient construits de la part des clients pour qui ils l'avaient construits jusqu'à ce que le logiciel soit "fini". Le décalage entre le moment où les exigences étaient collectées et le moment où le logiciel était livré menait souvent à un logiciel qui ne correspond pas aux besoins courants du client.
+Une autre conséquence des approches traditionnelles a été que les développeurs ne pouvaient plus obtenir de retours d'informations sur le logiciel qu'ils avaient construit de la part des clients pour qui ils l'avaient construit jusqu'à ce que le logiciel soit "fini". Le décalage entre le moment où les exigences étaient collectées et le moment où le logiciel était livré menait souvent à un logiciel qui ne correspond pas aux besoins courants du client.
 
-Les approches agiles réduisent ce risque en raccourcissant les boucles de retours d'informations autant que possible. Les développeurs (comprenant les programmeurs, les testeurs, les concepteurs, etc.) partagent leurs codes et leurs conceptions entre eux, de manière quasi-continue. Elles construisent le logiciel par incréments (appelé également "fonctionnalité par fonctionnalité"), montrent régulièrement au client (toutes les n semaines et souvent beaucoup plus fréquemment) le logiciel construit jusqu'à présent .
+Les approches agiles réduisent ce risque en raccourcissant les boucles de retours d'informations autant que possible. Les développeurs (comprenant les programmeurs, les testeurs, les concepteurs, etc.) partagent leurs codes et leurs conceptions entre eux, de manière quasi continue. Elles construisent le logiciel par incréments (appelé également "fonctionnalité par fonctionnalité"), montrent régulièrement au client (toutes les n semaines et souvent beaucoup plus fréquemment) le logiciel construit jusqu'à présent.
 
 Si le client est satisfait de ce qu'il voit (c'est-à-dire qui a de la "valeur" à ses yeux), il peut commencer à l'utiliser tout de suite même s'il n'a pas toutes les fonctionnalités qu'il (pense qu'il) voulait. S'il n'est pas satisfait, l'équipe peut faire les changements nécessaires rapidement et revenir vers le client avec une nouvelle version du logiciel.
 
@@ -55,7 +55,7 @@ conceptions émergent d'équipes auto-organisées"
 
 Afin d'être en capacité de continuer à répondre aux exigences de pouvoir générer rapidement de la valeur pour le client et le métier indéfiniment, nous devons nous assurer que la base de code reste dans un état permettant de faire facilement des adaptations.
 
-Pour parvenir à ce rythme soutenable, il est vitale que l'architecture du système soit en adéquation avec une capacité d'adaptation. Garder une architecture flexible est quelque chose qui est souvent négligée dans pas mal de projets, et avec une équipe continuant à ajouter des incréments en courtes itérations, après quelques temps il arrive régulièrement d'avoir à faire de gros efforts de _refactoring_ ou de reconstruction afin de rendre à nouveau le base de code adaptable.
+Pour parvenir à ce rythme soutenable, il est vital que l'architecture du système soit en adéquation avec une capacité d'adaptation. Garder une architecture flexible est quelque chose qui est souvent négligée dans pas mal de projets, et avec une équipe continuant à ajouter des incréments en courtes itérations, après quelque temps il arrive régulièrement d'avoir à faire de gros efforts de _refactoring_ ou de reconstruction afin de rendre à nouveau la base de code adaptable.
 
 Il est également important que les équipes ne se fatiguent pas, ne stressent pas ou ne craquent pas. Des développeurs écrivant du code s'avérant être médiocre/buggé, des équipes ne s'arrêtant pas pour réfléchir et améliorer le produit qu'elles sont en train de réaliser, ainsi que la façon dont elles le réalisent, ne réaliseront pas un logiciel d'exception.
 
@@ -67,27 +67,27 @@ Bien sûr, les méthodes et les cadres de travail allégés mentionnés précéd
 
 ## Qu'est-ce que n'est PAS Agile ?
 
-* Un méthodologie ou un processus rigide
+* Une méthodologie ou un processus rigide
 * Inadaptée aux grands projets
 * Adaptée uniquement à de petits ou à des projets sans aucun risque
 * Du développement en mode cowboy, sans planification ou sans documentation
 * Un ensemble de bonnes pratiques
 * Une manière alternative de gérer des projets traditionnels
 * L'abandon des spécialistes ou des experts
-* Un moyen d'en faire davantage "plus vite"  ou "plus efficacement"
+* Un moyen d'en faire davantage "plus vite" ou "plus efficacement"
 * Un moyen de micro-manager les développeurs
-* Que des réunions-debouts, des notes repositionnables et de la collaboration
+* Que des réunions-debout, des notes repositionnables et de la collaboration
 * Scrum *
 
-\* _Comme évoqué précédemment, Scrum est antérieur au manifeste agile. Après 2001, Scrum pouvait être décrit comme un cadre de travail agile, mais il n'est pas l'Agile à lui tout seul. Il existe plusieurs manière de travailler qui sont en adéquation avec le manifeste agile mais pas avec Scrum._
+\* _Comme évoqué précédemment, Scrum est antérieur au manifeste agile. Après 2001, Scrum pouvait être décrit comme un cadre de travail agile, mais il n'est pas l'Agile à lui tout seul. Il existe plusieurs manières de travailler qui sont en adéquation avec le manifeste agile, mais pas avec Scrum._
 
 ## Quels sont les bénéfices métiers potentiels d'adopter l'agile ?
 
 * **Battre les concurrents présents sur le marché** (réduction du risque de disruption et/ou de perte de l'avantage d'être arrivé le premier)
 
-* **Réaliser ce qu'il faut** (réduction du risque de sur-investissement dans un logiciel qui n'est pas utilisé ou qui ne donne pas la valeur attendue)  
+* **Réaliser ce qu'il faut** (réduction du risque de surinvestissement dans un logiciel qui n'est pas utilisé ou qui ne donne pas la valeur attendue)  
 
-* **Réaliser comme il faut** (réduction du risque d'avoir une réputation de faire des produits de mauvaise qualité, et de dépenser du temps/€ pour avoir échouer à satisfaire la demande et d'avoir de la dette technique)  
+* **Réaliser comme il faut** (réduction du risque d'avoir une réputation de faire des produits de mauvaise qualité, et de dépenser du temps/€ pour avoir échoué à satisfaire la demande et d'avoir de la dette technique)  
 
 * **Des clients plus heureux** (réduction du risque de perdre des clients ou d'avoir une réputation de mauvaise qualité de service)  
 
@@ -103,7 +103,7 @@ Bien sûr, les méthodes et les cadres de travail allégés mentionnés précéd
 
 \* _Les lecteurs attentifs auront peut-être remarqué que j'avais dit "Agile n'est pas le moyen d'avoir d'en faire davantage "plus vite", et puis que j'avais continué en disant qu'"Agile peut permettre d'améliorer l'efficacité opérationnelle - livre davantage de valeur, plus vite" !_
 
-_En raison de la nature itérative et incrémentale des approches agiles, où nous nous focalisons continuellement sur avoir des livrables ayant la plus haute valeur possible en très petits lots et écartons le reste, une adhésion aux valeurs et aux principes du manifeste agile devraient permettre de tirer plus tôt de meilleurs retours sur investissement par rapport à la valeur, en comparaison avec l'approche traditionnelle séquentielle piloté par la documentation. Nous ne faisons pas davantage de travail plus vite - nous livrons plutôt du travail en plus petit lot plus tôt - en gardant les choses simples, en éliminant les étapes du processus et les travaux qui ne contribuent à avoir de la valeur._
+_En raison de la nature itérative et incrémentale des approches agiles, où nous nous focalisons continuellement sur avoir des livrables ayant la plus haute valeur possible en très petits lots et écartons le reste, une adhésion aux valeurs et aux principes du manifeste agile devraient permettre de tirer plus tôt de meilleurs retours sur investissement par rapport à la valeur, en comparaison avec l'approche traditionnelle séquentielle piloté par la documentation. Nous ne faisons pas davantage de travail plus vite - nous livrons plutôt du travail en plus petit lot, plus tôt - en gardant les choses simples, en éliminant les étapes du processus et les travaux qui ne contribuent à avoir de la valeur._
 
 _Une telle focalisation sur livrer de la valeur pour le client plus tôt et plus souvent conduit à l'amélioration de l'"efficacité du flux" - c'est-à-dire que le temps de développement du logiciel qui ne donne pas de valeur au métier est réduit - et c'est de cette forme d'efficacité à laquelle je me réfère._
 
@@ -111,11 +111,11 @@ _Une telle focalisation sur livrer de la valeur pour le client plus tôt et plus
 
 Agile décrit un ensemble de principes de gestion de projet et de développement logiciel compris universellement, qui tous ensemble permettent de réduire potentiellement le risque, du moins dans une certaine mesure, sur quasiment tous les projets.
 
-Avant que quiconque ne dise "Agile n'a pas inventé ce genre de choses !", ces principes ne sont en aucun cas nouveaux, et n'étaient pas nouveaux en 2001. Agile les a plutôt rassemblé sous une forme pratique.
+Avant que quiconque ne dise "Agile n'a pas inventé ce genre de choses !", ces principes ne sont en aucun cas nouveaux, et n'étaient pas nouveaux en 2001. Agile les a plutôt rassemblés sous une forme pratique.
 
 Agile encapsule la plupart des choses dont nous avons besoin, du moins du point de vue des valeurs et des principes, c'est-à-dire livrer des projets informatiques plus efficacement. Quels sont les projets qui ne seraient pas en mesure de tirer avantage de se focaliser sur les individus et leurs interactions, l'amélioration continue, la livraison d'un logiciel opérationnel pour le client avec des itérations rapides, l'excellence technique et la réponse au changement ? En travaillant de manière transverse au niveau des fonctions et des départements, en livrant, en réfléchissant\* et en s'améliorant en cycles courts et continus ?
 
-C'est particulièrement vrai si l'alternative pour les équipes est de retourner à leurs silos fonctionnels, se passant le travail de la main à la main, exigeant au passage de longs cycles d'approbation, des phases de tests en décalé, et en mesurant l'avancement du projet en utilisant des jalons de documentations. De telles approches ne sont simplement plus viables dans la majorité des secteurs dépendant d'avoir des livraisons de logiciels et des résultats rapides.
+C'est particulièrement vrai si l'alternative pour les équipes est de retourner à leurs silos fonctionnels, se passant le travail de la main à la main, exigeant au passage de longs cycles d'approbation, des phases de tests en décalé, et en mesurant l'avancement du projet en utilisant des jalons de documentations. De telles approches ne sont simplement plus viables dans la majorité des secteurs, dépendant d'avoir des livraisons de logiciels et des résultats rapides.
 
 Toutefois, étant donné la nature d'agile, il y a des éléments clés qui doivent être mis en place, au moins dans le moyen et long terme, pour que le modèle de livraison agile puisse être "adapté à l'usage" de manière durable.
 
@@ -129,15 +129,15 @@ Toutefois, étant donné la nature d'agile, il y a des éléments clés qui doiv
 
 * Notre client perçoit l'avantage d'avoir un "_product owner_" (tel que décrit précédemment) qui travaille directement avec l'équipe de développement pour négocier et faire des compromis sur le périmètre, optimisant la valeur et offrant un accès plus facile à d'autres experts du domaine lorsque l'équipe en a besoin.
 
-En bref, nous devons avoir un client, et notre client doit à la fois vouloir, et être capable d'absorber, une approche agile. Sans ces pré-requis, cela devient absurde de décrire la manière dont nous travaillons comme étant "agile", du moins du point de vue de la livraison.
+En bref, nous devons avoir un client, et notre client doit à la fois vouloir, et être capable d'absorber, une approche agile. Sans ces prérequis, cela devient absurde de décrire la manière dont nous travaillons comme étant "agile", du moins du point de vue de la livraison.
 
 Même si agile arrive à passer le critère "adapté à l'usage", on pourrait alléguer aussi qu'agile n'est pas une bonne approche - ou du moins n'est pas nécessaire - pour des projets simples ou compliqués (opposés à des projets complexes),   c'est-à-dire des projets qui ont une série d'étapes connues, prévisibles à suivre pour atteindre l'objectif souhaité, sans avoir la nécessité d'apprendre ou d'avoir des retours d'informations.
 
-On pourrait aussi alléguer que nous "pourrions aussi bien" faire tous les projets en mode agile, même s'ils s'avèrent être simples ou compliqués. Toutefois, si nous ne sommes déjà pas prêt à faire du développement agile de logiciel, et que la majorité de nos projets sont simples ou compliqués (c'est rare, mais possible), les coûts de mise en place des changements nécessaires pour passer en mode agile pourraient s'avérer être trop élevés à justifier.
+On pourrait aussi alléguer que nous "pourrions aussi bien" faire tous les projets en mode agile, même s'ils s'avèrent être simples ou compliqués. Toutefois, si nous ne sommes déjà pas prêts à faire du développement agile de logiciel, et que la majorité de nos projets sont simples ou compliqués (c'est rare, mais possible), les coûts de mise en place des changements nécessaires pour passer en mode agile pourraient s'avérer être trop élevés à justifier.
 
 \* _Je tire mon chapeau au modèle "cœur d'agile" d'Alistair Cockburn, qui suggère que toute approche implique généralement d'avoir une attention continue sur quatre activités clés - collaborer, livrer, réfléchir et améliorer - qu'il est tout à légitime comme étant des activités agiles._
 
-\*\* _L'un de mes anciens collègues, John Sullivan, qui est un agiliste expérimenté et grandement respecté, m'a fait remarqué dans un commentaire, que bien que des "éléments comme l'automatisation des tests et l'intégration continue" soient des approches techniques ordinaires dans des environnements agiles, elles ne sont pas agiles en tant que tel, car il s'agit d'outils et de pratiques plutôt que de valeurs et de principes. Des noms plutôt que des adjectifs. Plus important encore, il doit y avoir également un désir de s'assurer de manière continue, répétable que le code fonctionne correctement - à la fois le code que nous ajoutons, et le code déjà dans le système._
+\*\* _L'un de mes anciens collègues, John Sullivan, qui est un agiliste expérimenté et grandement respecté, m'a fait remarquer dans un commentaire, que bien que des "éléments comme l'automatisation des tests et l'intégration continue" soient des approches techniques ordinaires dans des environnements agiles, elles ne sont pas agiles en tant que tel, car il s'agit d'outils et de pratiques plutôt que de valeurs et de principes. Des noms plutôt que des adjectifs. Plus important encore, il doit y avoir également un désir de s'assurer de manière continue, répétable que le code fonctionne correctement - à la fois le code que nous ajoutons, et le code déjà dans le système._
 
 _Je tiens à remercier également John pour ses retours et ses commentaires au sujet de l'architecture émergente/adaptable mentionnée dans l'article._
 
@@ -155,15 +155,15 @@ Toutefois, les principaux indices qu'agile est une démarche davantage orientée
 
 Il ne fait aucun doute que le manifeste agile met l'emphase sur l'autonomie et la responsabilisation. Tout le monde n'a pas été d'accord dans l'industrie informatique à cause de la manière traditionnelle dont les équipes de développement étaient gérées qui se rapprochait plus du "commande et contrôle". Il est aussi en contradiction avec la manière traditionnelle de travailler, qui consiste à livrer des lots de taille importante d'exigences selon un planning convenu à l'avance plutôt que d'adopter une démarche expérimentale à la fois au niveau du produit et du processus, en embrassant les changements et les retours d'informations fréquents.
 
-Pour être en cohérence avec, et glaner quelque-uns des bénéfices de l'Agile ; les individus, les équipes et les organisations doivent souvent embrasser de nouveaux styles de leadership, les manageurs doivent montrer une vraie confiance en leurs équipes plutôt que de les micro-manager. L'accent mis sur des équipes auto-organisées qui s'améliorent continuellement exige souvent un changement pour un "environnement sûr", dans lequel les membres de l'équipe se sentent en sécurité psychologique (c'est-à-dire sans impacts négatifs pour eux) pour exprimer leurs opinions sur les choses qui ne marchent pas que ce soit sur un produit, un processus ou les relations humaines.
+Pour être en cohérence avec, et glaner quelques-uns des bénéfices de l'Agile ; les individus, les équipes et les organisations doivent souvent embrasser de nouveaux styles de leadership, les manageurs doivent montrer une vraie confiance en leurs équipes plutôt que de les micro-manager. L'accent mis sur des équipes auto-organisées qui s'améliorent continuellement exige souvent un changement pour un "environnement sûr", dans lequel les membres de l'équipe se sentent en sécurité psychologique (c'est-à-dire sans impacts négatifs pour eux) pour exprimer leurs opinions sur les choses qui ne marchent pas que ce soit sur un produit, un processus ou les relations humaines.
 
-La manière dont les gens pensent et agissent sont manifestement présent dans la culture organisationnelle. Étant donné les changements que cela demande pour beaucoup de personnes au niveau état d'esprit et comportement, il n'est pas étonnant que "devenir agile" devient généralement une entreprise énorme qui s'étend au-delà de l'équipe ou des équipes de développement.
+La manière dont les gens pensent et agissent sont manifestement présents dans la culture organisationnelle. Étant donné les changements que cela demande pour beaucoup de personnes au niveau état d'esprit et comportement, il n'est pas étonnant que "devenir agile" devient généralement une entreprise énorme qui s'étend au-delà de l'équipe ou des équipes de développement.
 
-\* _Je tiens à remercie Daamon Parker pour m'avoir encourager à mettre en avant l'importance du sentiment de sécurité psychologique, d'autonomie, de responsabilisation, de confiance, de soutien et d'expérimentation pour arriver à réussir à travailler en mode agile.
+\* _Je tiens à remercie Daamon Parker pour m'avoir encouragé à mettre en avant l'importance du sentiment de sécurité psychologique, d'autonomie, de responsabilisation, de confiance, de soutien et d'expérimentation pour arriver à réussir à travailler en mode agile.
 
 ## Prochaines étapes
 
-J'espère que cet article vous a aidé à renforcer votre compréhension de ce qu'est et n'est pas Agile. Si vous êtes intéressés par en savoir plus, ou si comme moi vous voulez aider votre organisation à travers des formation ou du coaching, n'hésitez pas à m'envoyer un message, ou [à me suivre sur Twitter](https://twitter.com/neil_killick).  
+J'espère que cet article vous a aidé à renforcer votre compréhension de ce qu'est et n'est pas Agile. Si vous êtes intéressés par en savoir plus, ou si comme moi, vous voulez aider votre organisation à travers des formations ou du coaching, n'hésitez pas à m'envoyer un message, ou [à me suivre sur Twitter](https://twitter.com/neil_killick).  
 
 Concernant cette FAQ, quelles seraient les questions (et les réponses) que vous voudriez voir ajouter ?
 
