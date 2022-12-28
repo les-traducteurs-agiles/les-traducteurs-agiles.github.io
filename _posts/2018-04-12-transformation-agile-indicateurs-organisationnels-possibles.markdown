@@ -52,7 +52,7 @@ Certaines équipes ont découvert que leur évaluation de la valeur portait sur 
 
 Chaque équipe pouvait décider quelle était la signification de la valeur.
 
-L’équipe 1 a utilisé ses diagrammes et son temps de traversée comme sources d’informations pour ses rétrospectives. Elle a (lentement) fait passé son temps de déploiement de deux semaines à une semaine puis à trois jours puis à une journée. Elle est arrivée à livrer quelque chose de valable tous les jours à ses clients.
+L’équipe 1 a utilisé ses diagrammes et son temps de traversée comme sources d’informations pour ses rétrospectives. Elle a (lentement) fait passer son temps de déploiement de deux semaines à une semaine puis à trois jours puis à une journée. Elle est arrivée à livrer quelque chose de valable tous les jours à ses clients.
 
 L’équipe 2 a appris à déployer une fois par semaine, ce qui suffisant à ses yeux pour l’instant.
 
