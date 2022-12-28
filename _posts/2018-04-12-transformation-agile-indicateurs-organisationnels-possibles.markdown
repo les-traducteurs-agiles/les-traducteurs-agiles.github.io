@@ -30,7 +30,7 @@ Cela pourrait nous amener à considérer les indicateurs possibles suivants :
 
 * Connaissons-nous notre flux, notre chaîne de valeur, là où nous ajoutons de la valeur et là où nous attendons ? (Il s'agit ici de visualiser les états en attente et là où nous ajoutons de la valeur. Il ne s'agit pas de montrer en tant que tel notre flux de travail. Lorsque nous utilisons un flux, nous sommes en mesure de comprendre notre chaîne de valeur, là où nous ajoutons de la valeur et là où nous attendons, nous pouvons voir/visualiser ces états en attente. Nous pouvons voir là où dans le flux nous ajoutons de la valeur - et là où nous n'en ajoutons pas).
 
-* Est-ce que nos employés (la totalité d’entre eux) apprécient de travailler ici ? (Il s’agit ici d’un indicateur partiel sur l’engagement. Je le trouve parlant lorsque l’encadrement supérieur apprécient d’y travailler et que les collaborateurs pris à titre individuel n’apprécient pas. Une raison pourrait être  est justement parce qu’ils sont des collaborateurs pris à titre “individuel”.)
+* Est-ce que nos employés (la totalité d’entre eux) apprécient de travailler ici ? (Il s’agit ici d’un indicateur partiel sur l’engagement. Je le trouve parlant lorsque l’encadrement supérieur apprécient d’y travailler et que les collaborateurs pris à titre individuel n’apprécient pas. Une raison pourrait être justement parce qu’ils sont des collaborateurs pris à titre “individuel”.)
 
 * Est-ce que nos employés croient en notre mission ? (Avons-nous défini pourquoi nous existons ? Personne n’existe pour faire de l’argent. Faire de l’argent est un effet de bord de la mission. Un effet de bord important, mais un simple effort de bord.)
 
