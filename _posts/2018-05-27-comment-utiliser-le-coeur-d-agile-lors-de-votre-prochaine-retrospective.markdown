@@ -20,7 +20,7 @@ J'aime beaucoup le concept du cœur d'agile d'Alistair parce qu'il simplifie l'e
 
 ## Quand l'utiliser :
 
-Ce format s'avère particulièrement utile pour des équipe qui veulent réfléchir et améliorer leur agilité.
+Ce format s'avère particulièrement utile pour des équipes qui veulent réfléchir et améliorer leur agilité.
 
 ## Préparation :
 
@@ -30,7 +30,7 @@ Avant la rétrospective, j'ai divisé notre tableau blanc en quatre sections. J'
 
 ### Planter le décor
 
-J'ai demandé tout d'abord aux membres de l'équipe s'ils étaient familiers avec le cœur d'agile. Personne n'en avait entendu parlé. Chouette - une opportunité d'apprentissage pour chacun d'entre nous.
+J'ai demandé tout d'abord aux membres de l'équipe s'ils étaient familiers avec le cœur d'agile. Personne n'en avait entendu parler. Chouette - une opportunité d'apprentissage pour chacun d'entre nous.
 
 Nous avons regardé une vidéo de 3mn d'un [atelier d'Alistair](https://www.youtube.com/watch?v=150OSyFUU_w) pour en avoir une compréhension commune.
 
@@ -56,13 +56,13 @@ J'ai regroupé les notes repositionnables ayant des idées similaires. Une conve
 
 ### Décider quoi faire
 
-Après avoir discuté de chaque commentaire, nous avons revu les notes repositionnables et nous nous sommes mis d'accord sur les deux ou trois à essayer lors de notre prochain itération de deux semaines ("sprint").
+Après avoir discuté de chaque commentaire, nous avons revu les notes repositionnables et nous nous sommes mis d'accord sur les deux ou trois à essayer lors de notre prochaine itération de deux semaines ("sprint").
 
 Nous pensons qu'il est utile de limiter le nombre d'actions à essayer afin que nous soyons en mesure de les garder à l'esprit tout au long du prochain sprint.
 
 ### Clôturer la rétro
 
-À la fin, nous avons récapitulé les points principaux de la conversation et avons reconfirmé les élements à essayer pour le prochain sprint sur lesquels l'équipe s'est mise d'accord.
+À la fin, nous avons récapitulé les points principaux de la conversation et avons reconfirmé les éléments à essayer pour le prochain sprint sur lesquels l'équipe s'est mise d'accord.
 
 ## Opinion :
 
