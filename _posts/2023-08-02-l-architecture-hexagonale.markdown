@@ -468,7 +468,7 @@ Vous pouvez bien sûr trouver d'autres ressources à propos de l'architecture he
 
 * * *
 
-### Dépendances configurables, acteurs primaires et secondaires ##RELECTURE EN COURS
+### Dépendances configurables, acteurs primaires et secondaires
 
 (Lorsque j'ai imaginé ce _pattern_ - NdT) j'ai essayé de faire en sorte que ce _pattern_ soit vraiment symétrique, d'où l'hexagone. Toutefois en regardant plusieurs de ses implémentations, il est devenu clair avec le temps qu'il existe une asymétrie (ce qui rend l'architecture hexagonale fondamentalement différentes des autres _patterns_ comme l'architecture en oignon). Cette asymétrie décrite précédemment (cf. l'asymétrie gauche-droite) rejoint le concept d'Ivar Jacobson d'**acteurs primaires** et **secondaires** et impacte la manière dont la Dépendance Configurable peut être implémentée comme nous pouvons le deviner sur ce dessin :
 
