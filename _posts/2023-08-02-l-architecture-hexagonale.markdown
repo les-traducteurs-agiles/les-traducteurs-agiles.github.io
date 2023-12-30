@@ -2,28 +2,25 @@
 layout: post
 title:  "L'architecture hexagonale"
 date:   2023-11-12 00:01
-published: false
+published: true
 tags:
 - architecture hexagonale
 - agile
 ---
 
-Note de relecture :
-- à partir de  The Left-Right Asymmetry. le terme adapters est utilisé à la place de adaptateurs
-- toujours à partir de ce point, les expressions anglophones ne sont plus entre « » mais simplement en _italique_
+> Ou comment créer votre application de telle manière pour qu'elle puisse fonctionner sans interface utilisateur ou sans base de données vous donnant ainsi la possibilité d'y exécuter des tests de régression, pour qu'elle puisse fonctionner même en cas d'indisponibilité de la base de données, et enfin pouvoir l'interconnecter avec d'autres applications sans que l'utilisateur ait à faire quoi que ce soit
 
 _Avant-propos du traducteur : certains mots ou certaines expressions ont été laissées en anglais dans la présente traduction de part un usage plus répandu dans le langage courant.  Toutefois pour satisfaire tous les lectorats possibles, des traductions françaises de ces mêmes mots ou expressions sont présentes en notes de bas de page._
 
-> Ou comment créer votre application de telle manière pour qu'elle puisse fonctionner sans interface utilisateur ou sans base de données vous donnant ainsi la possibilité d'y exécuter des tests de régression, pour qu'elle puisse fonctionner même en cas d'indisponibilité de la base de données, et enfin pouvoir l'interconnecter avec d'autres applications sans que l'utilisateur ait à faire quoi que ce soit**_
 
 * * *
 Ce texte est aussi disponible :
 * _en japonais_ [http://blog.tai2.net/hexagonal_architexture.html](http://blog.tai2.net/hexagonal_architexture.html)  
-* _en espagnol_ [http://academyfor.us/posts/arquitectura-hexagonal](http://academyfor.us/posts/arquitectura-hexagonal) _par Arthur Mauricio Delgadillo_  
+* _en espagnol_ [http://academyfor.us/posts/arquitectura-hexagonal](https://web.archive.org/web/20170620215140/http://www.academyfor.us/posts/arquitectura-hexagonal) par _Arthur Mauricio Delgadillo_  
 
 _L'article d'origine mis à jour est disponible à cette adresse_ [http://wiki.c2.com/?HexagonalArchitecture](http://wiki.c2.com/?HexagonalArchitecture) _et là_ [http://wiki.c2.com/?PortsAndAdaptersArchitecture](http://wiki.c2.com/?PortsAndAdaptersArchitecture)
 
-Vous pouvez aussi consulter [la FAQ sur l'architecture hexagonale (EN)](https://alistair.cockburn.us/Hexagonal+Architecture+FAQ) [(discussion: Re: Hexagonal Architecture FAQ)](https://alistair.cockburn.us/Re%3a+Hexagonal+Architecture+FAQ)
+Vous pouvez aussi consulter [la FAQ sur l'architecture hexagonale (EN)](https://web.archive.org/web/20170925184018/https://alistair.cockburn.us/Hexagonal+Architecture+FAQ) [(discussion: Re: Hexagonal Architecture FAQ)](https://web.archive.org/web/20170925184018/https://alistair.cockburn.us/Hexagonal+Architecture+FAQ#discussion)
 
 * * *
 
@@ -336,7 +333,7 @@ Dans celui-ci, aucune décision n'avait été prise (au lancement du projet - Nd
 
 L'équipe du côté logique applicative a créé des tests FIT et des _mocks_ pour isoler l'application et créer des fonctionnalités testables et démontrables à ses utilisateurs. Lorsque les décisions concernant l'IHM et les services seront finalement prises, cela « ne devrait être qu'une formalité » d'ajouter ces éléments à l'application. Tenez-vous au courant en venant lire ici pour savoir comment cela avance (ou essayez vous-même de votre côté et écrivez-moi).  Je vous invite à revenir régulièrement consulter cette partie si vous désirez savoir comment elle avance (ou vous pouvez aussi essayer de votre côté et m'écrire par la suite pour m'informer de vos propres travaux).
 
-### _Patterns_liés
+### _Patterns_ liés
 
 #### _Adapter_
 
@@ -354,7 +351,7 @@ Si  les _mocks_ sont implémentés conformément à ce qui avait été prévu, c
 
 Le _pattern_ `Loopback` est un _pattern_ explicite pour remplacer en interne un périphérique externe.
 
-#### _Pattern Pedestals_(piédestal)
+#### _Pattern Pedestals_ (piédestal)
 
 Dans son ouvrage « Patterns for Generating a Layered Architecture », Barry Rubel décrit un _pattern_ permettant de créer un axe de symétrie pour contrôler un logiciel très similaire au _pattern_ `Ports & Adapters`. Le _pattern_ `Pedestal` incite à implémenter un objet représentant un périphérique matériel au sein du système et à lier ces objets ensemble  dans une couche de contrôle.  Le _pattern_ `Pedestal` peut être utilisé pour décrire les deux côtés (interne et externe) de l'architecture hexagonale, mais il n'insiste pas sur la similarité au niveau des _adapters_. De plus, il a été écrit dans le cadre d'un environnement de contrôle industriel, il n'est pas évident de prime abord de voir comment il peut s'appliquer à des applications informatiques.
 
@@ -368,7 +365,7 @@ Le principe d'inversion de dépendance de Bob Martin (appelé également injecti
 
 ### Remerciements
 
-Je tiens à remercier Gyan Sharma d'Intermountain Health Care pour m'avoir fourni les exemples de code présents dans cet article. Je remercie également Rebecca Wirfs-Brock pour son ouvrage « Object Design » qui conjugué à la lecture du _pattern « Adapter »_ dans l'ouvrage « Design Pattern » m'a aidé à comprendre ce qu'était l'architecture hexagonale. Merci aussi à toutes les personnes qui via le wiki de Ward m'ont donné de précieux commentaires sur ce _pattern_ ces dernières années (et tout particulièrement Kevin Rutherford [http://silkandspinach.net/blog/2004/07/hexagonal_soup.html](http://silkandspinach.net/blog/2004/07/hexagonal_soup.html)).
+Je tiens à remercier Gyan Sharma d'Intermountain Health Care pour m'avoir fourni les exemples de code présents dans cet article. Je remercie également Rebecca Wirfs-Brock pour son ouvrage « Object Design » qui conjugué à la lecture du _pattern « Adapter »_ dans l'ouvrage « Design Pattern » m'a aidé à comprendre ce qu'était l'architecture hexagonale. Merci aussi à toutes les personnes qui via le wiki de Ward m'ont donné de précieux commentaires sur ce _pattern_ ces dernières années (et tout particulièrement [Kevin Rutherford](https://web.archive.org/web/20200506192039/https://silkandspinach.net/2004/07/16/hexagonal-soup/)).
 
 ### Bibilographie et lectures recommandées
 
@@ -380,15 +377,15 @@ Le _pattern_ « Pedestal » évoqué par Rubel, B. évoqué dans son ouvrage ,
 
 Le _pattern_ « Checks » de W. Cunningham, W., disponible en ligne à l'adresse suivante [http://c2.com/ppr/checks.html](http://c2.com/ppr/checks.html)
 
-Le « Principe d'inversion de dépendance » évoqué dans l'ouvrage  « Agile Software Development Principles Patterns and Practices » de Robert C. Martin, Prentice Hall, 2003, dans le chapitre 11 « The Dependency-Inversion Principle » ainsi qu'en ligne sur la page [http://www.objectmentor.com/resources/articles/dip.pdf](http://www.objectmentor.com/resources/articles/dip.pdf)
+Le « Principe d'inversion de dépendance » évoqué dans l'ouvrage  « Agile Software Development Principles Patterns and Practices » de Robert C. Martin, Prentice Hall, 2003, dans le chapitre 11 « The Dependency-Inversion Principle » ainsi qu'en ligne sur la page [http://www.objectmentor.com/resources/articles/dip.pdf](https://web.archive.org/web/20141021055614/http://www.objectmentor.com/resources/articles/dip.pdf)
 
 Le _pattern_ d' « Injection de dépendance » de M. Fowler disponible en ligne à l'adresse suivante  [http://www.martinfowler.com/articles/injection.html](http://www.martinfowler.com/articles/injection.html)
 
-Le _pattern_ « Mock Object » de S. Freeman, S. disponible en ligne à l'adresse suivante [http://MockObjects.com](http://MockObjects.com)
+Le _pattern_ « Mock Object » de S. Freeman, S. disponible en ligne à l'adresse suivante [http://MockObjects.com](https://web.archive.org/web/20170220174309/http://mockobjects.com/)
 
 Le _pattern_ « Loopback » d'A. Cockburn disponible en ligne à l'adresse suivante [http://c2.com/cgi/wiki?LoopBack](http://c2.com/cgi/wiki?LoopBack)
 
-Les « cas d'utilisation » expliqués en détail dans « Rédiger des cas d'utilisation efficaces »  par A. Cockburn, Addison-Wesley, 2001, ainsi que dans Cockburn, A.,« Structurer les cas d'utilisation à l'aide de buts », disponible en ligne à l'adresse suivante [http://alistair.cockburn.us/crystal/articles/sucwg/structuringucswithgoals.htm](http://alistair.cockburn.us/crystal/articles/sucwg/structuringucswithgoals.htm)
+Les « cas d'utilisation » expliqués en détail dans « Rédiger des cas d'utilisation efficaces »  par A. Cockburn, Addison-Wesley, 2001, ainsi que dans Cockburn, A.,« Structurer les cas d'utilisation à l'aide de buts », disponible en ligne à l'adresse suivante [http://alistair.cockburn.us/crystal/articles/sucwg/structuringucswithgoals.htm](https://web.archive.org/web/20170620145208/http://alistair.cockburn.us/Structuring+use+cases+with+goals)
 
 * * *
 
@@ -396,14 +393,14 @@ Commentaires provenant de l'ancien site :
 
 * * *
 
-Dans un de ses articles sur son blog [While True](http://whiletrue.nl/blog/?p=28) André Boonzaaijer évoque une application élaborée avec l' [architecture hexagonale](https://alistair.cockburn.us/Hexagonal+architecture) [(discussion: Re: Hexagonal architecture)](https://alistair.cockburn.us/Re%3a+Hexagonal+architecture)
+Dans un de ses articles sur son blog [While True](http://whiletrue.nl/blog/?p=28) André Boonzaaijer évoque une application élaborée avec l' [architecture hexagonale](https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture) [(discussion: Re: Hexagonal architecture)](https://web.archive.org/web/20170916120520/http://alistair.cockburn.us/Hexagonal+architecture#discussion)
 
-Kevin Rutherford a écrit plusieurs notes et a lancé plusieurs discussions à propos de l'architecture hexagonale que vous pouvez retrouver dans les pages suivantes :
+Kevin Rutherford a écrit plusieurs articles sur l'architecture hexagonale que vous pouvez retrouver sur les pages suivantes :
 
-> [Gravity and software adaptability](http://silkandspinach.net/2005/11/28/gravity-and-software-adaptability)  
-> [Hexagonal architecture](http://wordpress.com/tag/hexagonalarchitecture)  
-> [Databases as life-support for domain objects](http://silkandspinach.net/2005/05/23/databases-as-life-support-for-domain-objects)  
-> [Hexagonal soup](http://silkandspinach.net/2004/07/16/hexagonal-soup)
+> [Gravity and software adaptability](https://web.archive.org/web/20210417075146/https://silkandspinach.net/2005/11/28/gravity-and-software-adaptability/)  
+> [Hexagonal architecture](https://web.archive.org/web/20090129125308/http://wordpress.com/tag/hexagonalarchitecture)  
+> [Databases as life-support for domain objects](https://web.archive.org/web/20211025134021/https://silkandspinach.net/2005/05/23/databases-as-life-support-for-domain-objects/)  
+> [Hexagonal soup](https://web.archive.org/web/20200506192039/https://silkandspinach.net/2004/07/16/hexagonal-soup/)
 
 Timo a écrit ce bref article intitulé [Wrap it thinly](http://ng-embedded.blogspot.com/2007/07/wrap-it-thinly.html) sur l'utilisation de l'architecture hexagonale conjointement avec le développement piloté par les tests.
 
@@ -411,13 +408,13 @@ Dans son ouvrage traitant des _patterns_ Xunit Gerard Meszaros y évoque l'archi
 
 Brian Anderson a écrit plusieurs articles de blog sur le sujet de l'architecture hexagonale dont voici les liens :
 
-> [Success!](http://www.brianmandersen.com/blog/2005/03/29/success)  
-> [Problems with Smart Clients today](http://www.brianmandersen.com/blog/2005/04/02/the-turning-point-for-smart-clients)  
-> [compile time vs runtime views](http://www.brianmandersen.com/blog/2005/04/02/compile-time-vs-runtime-views)  
-> [the use of symmetry in the hexagonal approach](http://www.brianmandersen.com/blog/2005/04/04/the-use-of-symmetry-in-the-hexagonal-approach)  
-> [Back to Hexagonal Architecture](http://www.brianmandersen.com/blog/2005/04/07/back-to-hexagonal-architecture)  
-> [some thoughts on the “Design Pattern” pattern](http://www.brianmandersen.com/blog/2005/06/05/some-thoughts-on-the-design-pattern-idea)  
-> [http://www.brianmandersen.com/blog/page/2/](http://www.brianmandersen.com/blog/page/2/)
+> [Success!](http://www.brianmandersen.com/blog/2005/03/29/success)  - lien introuvable NdT
+> [Problems with Smart Clients today](http://www.brianmandersen.com/blog/2005/04/02/the-turning-point-for-smart-clients)    - lien introuvable NdT
+> [compile time vs runtime views](http://www.brianmandersen.com/blog/2005/04/02/compile-time-vs-runtime-views)    - lien introuvable NdT
+> [the use of symmetry in the hexagonal approach](https://web.archive.org/web/20090311032512/http://www.brianmandersen.com/blog/2005/04/04/the-use-of-symmetry-in-the-hexagonal-approach)  
+> [Back to Hexagonal Architecture](https://web.archive.org/web/20090311032521/http://www.brianmandersen.com/blog/2005/04/07/back-to-hexagonal-architecture)  
+> [some thoughts on the “Design Pattern” pattern](https://web.archive.org/web/20090311032536/http://www.brianmandersen.com/blog/2005/06/05/some-thoughts-on-the-design-pattern-idea)  
+> [http://www.brianmandersen.com/blog/page/2/](https://web.archive.org/web/20080204065102/http://www.brianmandersen.com/blog/page/2/)
 
 La page d'origine sur l'architecture hexagonale est disponible sur le wiki de Ward Cunningham à l'adresse suivante [http://c2.com/cgi/wiki?HexagonalArchitecture](http://c2.com/cgi/wiki?HexagonalArchitecture)
 
@@ -456,9 +453,9 @@ Celle-ci utilise du côté gauche un navigateur, un pilote Rack ou simplement un
 Vous pouvez bien sûr trouver d'autres ressources à propos de l'architecture hexagonale en cherchant via Google ou via Twitter notamment. Vous pouvez aussi consulter : 
 
 - Cet article de Thierry Pierrain [http://tpierrain.blogspot.fr/2013/08/a-zoom-on-hexagonalcleanonion.html](http://tpierrain.blogspot.fr/2013/08/a-zoom-on-hexagonalcleanonion.html)
-- Le support de la présentation que j'ai pu donner à l'Utah Code  [http://alistair.cockburn.us/Hexagonal+Architecture+Keynote+at+Utah+Code+Camp+September+2009.pps](http://alistair.cockburn.us/Hexagonal+Architecture+Keynote+at+Utah+Code+Camp+September+2009.pps)
-- une autre axe de présentation de l'architecture hexagonale fait par Duncan Nisbet sous l'angle de prises de notes faites à sa propre intention [http://www.duncannisbet.co.uk/hexagonal-architecture-for-testers-part-1](http://www.duncannisbet.co.uk/hexagonal-architecture-for-testers-part-1)
-- Une courte vidéo d'une présentation que j'ai donné lors de la conférence Mountain West Ruby en 2010: [Video of Alistairs hexagonal architecture CQRS lightning talk Mountain West Ruby Conference 2010](https://alistair.cockburn.us/Video+of+Alistairs+hexagonal+architecture+CQRS+lightning+talk+Mountain+West+Ruby+Conference+2010) [(discussion: Re: Video of Alistairs hexagonal architecture CQRS lightning talk Mountain West Ruby Conference 2010)](https://alistair.cockburn.us/Re%3a+Video+of+Alistairs+hexagonal+architecture+CQRS+lightning+talk+Mountain+West+Ruby+Conference+2010)
+- Le support de la présentation que j'ai pu donner à l'Utah Code  [http://alistair.cockburn.us/Hexagonal+Architecture+Keynote+at+Utah+Code+Camp+September+2009.pps](https://web.archive.org/web/20170616111248/http://alistair.cockburn.us/Hexagonal+Architecture+Keynote+at+Utah+Code+Camp+September+2009.pps)
+- une autre axe de présentation de l'architecture hexagonale fait par Duncan Nisbet sous l'angle de prises de notes faites à sa propre intention [http://www.duncannisbet.co.uk/hexagonal-architecture-for-testers-part-1](https://web.archive.org/web/20220517045625/https://www.duncannisbet.co.uk/hexagonal-architecture-for-testers-part-1
+- Une courte vidéo d'une présentation que j'ai donné lors de la conférence Mountain West Ruby en 2010: [Video of Alistairs hexagonal architecture CQRS lightning talk Mountain West Ruby Conference 2010](https://web.archive.org/web/20170616145552/http://alistair.cockburn.us/Video+of+Alistairs+hexagonal+architecture+CQRS+lightning+talk+Mountain+West+Ruby+Conference+2010) [(discussion: Re: Video of Alistairs hexagonal architecture CQRS lightning talk Mountain West Ruby Conference 2010)](https://web.archive.org/web/20170616145552/http://alistair.cockburn.us/Video+of+Alistairs+hexagonal+architecture+CQRS+lightning+talk+Mountain+West+Ruby+Conference+2010#discussion)
 - en recherchant directement sur Twitter à l'aide de ce lien [https://twitter.com/search?q=%22hexagonal%20architecture%22](https://twitter.com/search?q=%22hexagonal%20architecture%22)
 - ce tweet [http://twitter.com/andrzejkrzywda/status/267420878487310336](http://twitter.com/andrzejkrzywda/status/267420878487310336)
 - ce minuscule CMS implémentant l'architecture hexagonale (avec uniquement un port du côté utilisateur) [https://github.com/totheralistair/SmallWebHexagon](https://github.com/totheralistair/SmallWebHexagon)
@@ -485,7 +482,7 @@ En contraste, dans le cas des **ports de l'acteur secondaire**, le constructeur 
 
 Par conséquent, le système ou l'application sera construite différemment pour les ports des acteurs primaires et secondaires : d'une part ignorante et initialement passive pour les acteurs primaires et d'autre part avoir une manière de stocker et d'appeler les ports des acteurs secondaires.
 
-Ces deux types de ports implémentent la [Dépendance Configurable]https://alistair.cockburn.us/Configurable+Dependency) [(discussion: Re: Configurable Dependency)](https://alistair.cockburn.us/Re%3a+Configurable+Dependency), mais de manière différente.
+Ces deux types de ports implémentent la [Dépendance Configurable](https://web.archive.org/web/20170624023207/https://alistair.cockburn.us/Configurable+Dependency) [(discussion: Re: Configurable Dependency)](https://web.archive.org/web/20170624023207/https://alistair.cockburn.us/Configurable+Dependency#discussion), mais de manière différente.
 
 Voici un exemple simple d'un système à 3 ports comme une machine à café, une unité médicale de distribution par intraveineuse (cela paraît vraiment étrange d'ailleurs que les deux partagent la même architecture)
 
@@ -497,7 +494,7 @@ En conclusion : l'aspect primaire / secondaire d'un port ne peut pas être ignor
 
 * * *
 
-Vous pouvez aussi vous reporter à la [FAQ Architecture hexagonale](https://alistair.cockburn.us/Hexagonal+Architecture+FAQ) [(discussion: Re: Hexagonal Architecture FAQ)](https://alistair.cockburn.us/Re%3a+Hexagonal+Architecture+FAQ)
+Vous pouvez aussi vous reporter à la [FAQ Architecture hexagonale](FAQ) [(discussion: Re: Hexagonal Architecture FAQ)](https://web.archive.org/web/20170925184018/https://alistair.cockburn.us/Hexagonal+Architecture+FAQ#discussion)
 
 ---
 Auteur : [Alistair Cockburn](https://alistair.cockburn.us)  
@@ -506,7 +503,7 @@ Date de parution originale : 04 Janvier 2005
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 06/11/2023  
+Date de traduction : 30/12/2023  
 
 ---
 
