@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L'architecture hexagonale"
-date:   2023-11-12 00:01
+date:   2023-11-31 00:01
 published: true
 tags:
 - architecture hexagonale
@@ -503,7 +503,7 @@ Date de parution originale : 04 Janvier 2005
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 30/12/2023  
+Date de traduction : 31/12/2023  
 
 ---
 
