@@ -408,7 +408,7 @@ Dans son ouvrage traitant des _patterns_ Xunit Gerard Meszaros y évoque l'archi
 
 Brian Anderson a écrit plusieurs articles de blog sur le sujet de l'architecture hexagonale dont voici les liens :
 
-> [Success!](http://www.brianmandersen.com/blog/2005/03/29/success)  - lien introuvable NdT
+> [Success!](http://www.brianmandersen.com/blog/2005/03/29/success)  - lien introuvable NdT  
 > [Problems with Smart Clients today](http://www.brianmandersen.com/blog/2005/04/02/the-turning-point-for-smart-clients) - lien introuvable NdT  
 > [compile time vs runtime views](http://www.brianmandersen.com/blog/2005/04/02/compile-time-vs-runtime-views) - lien introuvable NdT  
 > [the use of symmetry in the hexagonal approach](https://web.archive.org/web/20090311032512/http://www.brianmandersen.com/blog/2005/04/04/the-use-of-symmetry-in-the-hexagonal-approach)   
