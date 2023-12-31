@@ -400,7 +400,7 @@ Kevin Rutherford a écrit plusieurs articles sur l'architecture hexagonale que v
 > [Gravity and software adaptability](https://web.archive.org/web/20210417075146/https://silkandspinach.net/2005/11/28/gravity-and-software-adaptability/)  
 > [Hexagonal architecture](https://web.archive.org/web/20090129125308/http://wordpress.com/tag/hexagonalarchitecture)  
 > [Databases as life-support for domain objects](https://web.archive.org/web/20211025134021/https://silkandspinach.net/2005/05/23/databases-as-life-support-for-domain-objects/)  
-> [Hexagonal soup](https://web.archive.org/web/20200506192039/https://silkandspinach.net/2004/07/16/hexagonal-soup/)
+> [Hexagonal soup](https://web.archive.org/web/20200506192039/https://silkandspinach.net/2004/07/16/hexagonal-soup/)  
 
 Timo a écrit ce bref article intitulé [Wrap it thinly](http://ng-embedded.blogspot.com/2007/07/wrap-it-thinly.html) sur l'utilisation de l'architecture hexagonale conjointement avec le développement piloté par les tests.
 
@@ -409,12 +409,12 @@ Dans son ouvrage traitant des _patterns_ Xunit Gerard Meszaros y évoque l'archi
 Brian Anderson a écrit plusieurs articles de blog sur le sujet de l'architecture hexagonale dont voici les liens :
 
 > [Success!](http://www.brianmandersen.com/blog/2005/03/29/success)  - lien introuvable NdT
-> [Problems with Smart Clients today](http://www.brianmandersen.com/blog/2005/04/02/the-turning-point-for-smart-clients)    - lien introuvable NdT
-> [compile time vs runtime views](http://www.brianmandersen.com/blog/2005/04/02/compile-time-vs-runtime-views)    - lien introuvable NdT
-> [the use of symmetry in the hexagonal approach](https://web.archive.org/web/20090311032512/http://www.brianmandersen.com/blog/2005/04/04/the-use-of-symmetry-in-the-hexagonal-approach)  
+> [Problems with Smart Clients today](http://www.brianmandersen.com/blog/2005/04/02/the-turning-point-for-smart-clients) - lien introuvable NdT  
+> [compile time vs runtime views](http://www.brianmandersen.com/blog/2005/04/02/compile-time-vs-runtime-views) - lien introuvable NdT  
+> [the use of symmetry in the hexagonal approach](https://web.archive.org/web/20090311032512/http://www.brianmandersen.com/blog/2005/04/04/the-use-of-symmetry-in-the-hexagonal-approach)   
 > [Back to Hexagonal Architecture](https://web.archive.org/web/20090311032521/http://www.brianmandersen.com/blog/2005/04/07/back-to-hexagonal-architecture)  
 > [some thoughts on the “Design Pattern” pattern](https://web.archive.org/web/20090311032536/http://www.brianmandersen.com/blog/2005/06/05/some-thoughts-on-the-design-pattern-idea)  
-> [http://www.brianmandersen.com/blog/page/2/](https://web.archive.org/web/20080204065102/http://www.brianmandersen.com/blog/page/2/)
+> [http://www.brianmandersen.com/blog/page/2/](https://web.archive.org/web/20080204065102/http://www.brianmandersen.com/blog/page/2/)  
 
 La page d'origine sur l'architecture hexagonale est disponible sur le wiki de Ward Cunningham à l'adresse suivante [http://c2.com/cgi/wiki?HexagonalArchitecture](http://c2.com/cgi/wiki?HexagonalArchitecture)
 
