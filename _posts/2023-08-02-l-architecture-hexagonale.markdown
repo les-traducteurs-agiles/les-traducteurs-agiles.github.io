@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "L'architecture hexagonale"
-date:   2023-11-31 00:01
+date:   2023-12-31 00:01
 published: true
 tags:
 - architecture hexagonale
