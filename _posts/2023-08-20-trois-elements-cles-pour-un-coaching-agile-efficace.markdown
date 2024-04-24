@@ -79,7 +79,7 @@ Mais personne se moque des résultats que l'agilité est supposé permettre d'at
 
 C'est pourquoi les chemins à suivre pour les coachs dépendent de ce que _vous_ voulez faire dans votre carrière.
 
-## Votre parcours de coach dépendent des résultats que vous voulez atteindre
+## Votre parcours de coach dépend des résultats que vous voulez atteindre
 
 Quels sont les résultats que vous voulez atteindre au cours de votre carrière ? Je suis une généraliste du développement produit. C'est pourquoi j'ai des clients en tant que [coach](https://www.jrothman.com/services/management-coaching/) et en tant que [consultante experte](https://www.jrothman.com/services/trusted-advisor/), mais je ne me limite pas à ces rôles. J'utilise la plupart des rôles présentés dans le tableau précédent avec mes clients.
 
