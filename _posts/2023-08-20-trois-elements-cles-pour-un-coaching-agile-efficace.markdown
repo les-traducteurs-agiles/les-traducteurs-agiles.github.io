@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 éléments clés pour un coaching agile efficace : niveau, empathie et expérience"
-date:   2024-04-23 00:01
+date:   2024-04-24 00:01
 published: true
 tags:
 - coaching
@@ -94,7 +94,7 @@ Date de parution originale : 02 Décembre 2022
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 23/04/2024  
+Date de traduction : 24/04/2024  
 
 ---
 
