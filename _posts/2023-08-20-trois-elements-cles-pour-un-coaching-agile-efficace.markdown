@@ -50,7 +50,7 @@ Les coachs peuvent réussir lorsqu'ils ont l'expérience et qu'ils limitent le n
 
 ## Faites preuve d'empathie vis-à-vis de vos clients
 
-J''ai pu constater, avec le temps, que les organisations engendrent un niveau de pression à peu près identique sur des personnes situées à des niveaux similaires dans la hiérarchie. En effet, l'organisation engendre son propre système. Ou comme le dit Paul Batalden :
+J'ai pu constater, avec le temps, que les organisations engendrent un niveau de pression à peu près identique sur des personnes situées à des niveaux similaires dans la hiérarchie. En effet, l'organisation engendre son propre système. Ou comme le dit Paul Batalden :
 
 > « Chaque système est parfaitement conçu pour obtenir les résultats qu'il obtient  »
 
