@@ -1,532 +1,415 @@
 ---
 layout: post
 title: "De la nature non linéaire et de toute première importance des êtres humains dans le développement logiciel"
-date:   2024-11-27 00:01
-published: false
+date:   2026-01-23 00:01
+published: true
 tags:
 - agile
+- facteur humain
 ---
 
-Alistair Cockburn — **Humans and Technology**
+> Préambule du traducteur : Même si le texte originel a été publié initialement en 1999 et malgré les avancées technologiques permettant de travailler à distance ainsi que dans d'autres domaines, il reste à mes yeux toujours d'actualité.
 
-**HaT Technical Report 1999.03**, Oct 21, 1999  
-Presented at the 4th International Multi-Conference on Systems, Cybernetics and Informatics, Orlando, Florida, June, 2000.
-
-**Rapport technique Humans and Technology** - 21 octobre 1999
+## Rapport technique - Humans and Technology - Mars 1999
 Présenté à la 4ème International Multi-Conference on Systems, Cybernetics and Informatics, Orlando, Floride en juin 2000.
-
-## Abstract
 
 ## Résumé
 
-Nous autres, méthodologistes et concepteurs de processus concevons depuis toujours des systèmes complexes sans définir certains des composants les plus actifs de nos systèmes et qui sont pourtant connus comme étant grandement non-linéaires et d'une grande variété (les personnes). Dans ce document, je mets en exergue des théories et des projets à la lumière de cette prodigieuse et notable découverte accompagnée des quatre éléments qui caractérisent les personnes et qui impactent toute conception de méthode et le résultat de tout projet. J'ai découvert que ces caractéristiques offrent de bien meilleures sources de prévisions sur le déroulement d'un projet et la réussite d'une méthode que tout autre facteur méthodologique.
+Nous autres, méthodologistes et concepteurs de processus avons pris l'habitude de concevoir des systèmes complexes sans toutefois prendre la peine de caractériser leurs composants actifs, bien que ceux-ci soient connus pour leurs caractères hautement non-linéaires et d'une très grande variété : les personnes.  
 
-We methodologists and process designers have been designing complex systems without characterizing the active components of our systems, known to be highly non-linear and variable (people). This paper outlines theories and projects I reviewed on the way to making this stupendously obvious but notable discovery and four characteristics of people that most affect methodology design and project outcome. I find these characteristics of people to be better predictors of project behavior and methodology success than other methodological factors.
-
-Keywords: methodology design, process, human factors, people factors
+Dans ce rapport, je mets en exergue des théories et des projets à la lumière de cette prodigieuse et notable découverte ainsi que quatre éléments caractérisant les personnes, et qui impactent toute conception de méthode et le résultat de tout projet. J'ai découvert que ces caractéristiques sont de bien meilleures sources de prévisions sur le déroulement d'un projet et la réussite d'une méthode que tout autre facteur méthodologique.
 
 Mots-clés : conception de méthodologie, processus, facteurs humains, facteurs collectif
 
-## 1 – Introduction
-
 ## 1 - Introduction
 
-This is a report from experience, from reviewing roughly three dozen projects and methodologies over 20 years. The short of the story is that we have been designing complex systems whose active components are variable and highly non-linear components called people, without characterizing these components or their effect on the system being designed. Upon reflection, this seems absurd, but remarkably few people in our field have devoted serious energy to understanding how these things called people affect software development.
+Ce rapport compile l'étude et l'expérience acquise s'étendant sur une période de 20 ans d'environ trois douzaines de projets et de méthodes différentes. Pour faire court, pendant toutes ces années, nous avons conçu des systèmes complexes dont les composants actifs sont variables et hautement non-linéaires (autrement dit les personnes), sans avoir pris le temps de caractériser ces composants ou avoir caractérisé leurs effets sur le système en question. Après réflexion, cela peut sembler absurde, mais étonnamment peu de gens dans notre métier se sont investis suffisamment pour vraiment comprendre comment ces choses qu'on appelle les personnes influent sur le développement logiciel.
 
-Ce document est issu de mon expérience de plus de 20 ans sur des douzaines de projets et de méthodes différentes. Pour faire court, pendant toutes ces années, nous avons conçu des systèmes complexes dont les composants actifs sont variables et grandement non-linéaires (autrement dit les personnes), sans avoir caractérisé ces composants ou avoir caractérisé leurs effets sur le système en question. Après réflexion, cela peut sembler absurde, mais étonnamment peu de gens dans notre métier ont mis de l'énergie pour vraiment comprendre comment ces choses qu'on appelle les personnes influent sur le développement logiciel.
+Parmi les exceptions notables, citons Gerald Weinberg \[Wei\] and Tom DeMarco \[Dm\], dont les ouvrages viennent d'être réimprimés en édition spéciale anniversaire. Leurs travaux dans ce domaine sont d'ailleurs reconnus et bien des consultants s'accordent à dire que le facteur humain est un aspect essentiel  dans le développement logiciel \[B99\], \[Hi\]. On pourrait s'attendre à trouver ici et ailleurs des recherches  pour poursuivre leurs travaux. Toutefois, la communauté du développement logiciel a grandement ignoré les caractéristiques des personnes comme sujet d'étude. Il s'agit d'un oubli significatif, aussi significatif que d'ignorer l'acier dans les murs en béton armé et de s'interroger par la suite pourquoi les expériences radiophoniques ne donnent pas les résultats attendus.
 
-The notable exceptions are Gerald Weinberg \[Wei\] and Tom DeMarco \[Dm\], whose books are being reissued in anniversary(!) editions. Their work is well regarded, and consultants recognize humans as a dominant consideration in software development \[B99\], \[Hi\]. One would expect to find major research efforts extending their work. However, the software development community has largely ignored the characteristics of people as a topic of study. This is a significant oversight, akin to ignoring iron in walls and wondering why radio experiments are not giving the expected results.
+Comme beaucoup de gens, lorsque j'étais amené à évoquer des personnes dans des projets, je le faisais uniquement superficiellement et c'est bien après des années de recherches et de pratiques en méthodologie que j'ai commencé à m'interroger sur pourquoi mes recommandations en terme de méthodologie ne correspondaient pas à mes expériences dans les projets informatiques. Le problème n'était pas, ce que mes différentes équipes _faisaient_ (les projets en question avaient un fort taux de réussite). Le problème était que ce que j'écrivais ne correspondait pas à ce que nous faisions.
 
-Gerald Weinberg \[Wei\] and Tom DeMarco \[Dm\], font partie de ces exceptions qui s'y sont intéressées à travers leurs ouvrages. Leurs travaux ont d'ailleurs été reconnus et bien des consultants reconnaissent que le facteur humain est l'aspect dominant dans le développement logiciel \[B99\], \[Hi\]. On pourrait s'attendre à trouver ici et ailleurs à des recherches majeures pour poursuivre leurs travaux. Toutefois, la communauté du développement logiciel a grandement ignoré les caractéristiques des personnes comme sujet d'étude. Il s'agit d'un oubli significatif, aussi significatif que d'ignorer l'acier dans les murs en béton armé et de s'interroger par la suite pourquoi les expériences radiophoniques ne donnent pas les résultats attendus.
+Ces cinq dernières années, j'ai découvert — et je continue à découvrir — combien il est difficile de déterminer "ce que je regarde". Peu à peu il m'est apparu évident qu'une chose ne collait pas dans mon équation méthodologique, ou en fait, dans l'équation de n'importe qui d'autre, aussi loin que je puisse voir, c'est-à-dire l'effet des « personnes » sur les méthodologies.
 
-Like most people, I referred to people on projects only superficially, until after several years as a research and practicing methodologist, I began wondering why my methodological recommendations were not matching my experiences on software projects. The problem wasn’t what my various teams were _doing_ (the projects enjoyed a high success rate). The problem was that what I wrote didn’t match what we did.
+Du moment où j'ai commencé à comptabiliser ces faits, j'ai trouvé que mes prédictions méthodologiques et mes résultats commençaient à concorder avec mes expériences. Je considère aujourd'hui que les caractéristiques des personnes sont le facteur _dominant, de 1er ordre_ de tout projet.
 
-Comme beaucoup de gens, lorsque j'évoquais des personnes dans des projets, je le faisais uniquement superficiellement et c'est bien après des années de recherches et de pratiques en méthodologie que j'ai commencé à m'interroger sur pourquoi mes recommandations en terme de méthodologie ne correspondaient pas à mes expériences dans des projets informatiques. Le problème n'était pas  ce que mes différentes équipes _faisaient_ (les projets en question avaient un fort taux de réussite). Le problème était que ce que j'écrivais ne correspondait à ce que nous faisions.
+En quoi cela diffère t'il de ce que DeMarco et Lister ont pu écrire dans leur ouvrage  _Peopleware_ ?
 
-Over the last five years, I have found – and still find – it very difficult to know “what it is I am looking at”. It slowly became apparent that one thing not in my methodological equation, or, in fact, in anyone else’s, as far as I can see, is the effect of “people” on methodologies.
+Dans leur ouvrage, DeMarco et Lister énoncent que les personnes sont déterminantes et nous livrent des clés de compréhension. De mon côté, je me suis plus particulièrement intéressé sur comment les caractéristiques des groupes et des individus influent sur la conception des pratiques de développement logiciel (autrement dit les méthodologies) au sein de différents groupes travaillant sur différentes sortes de missions.
 
-Ces cinq dernières années, j'ai découvert — et je continue à découvrir — combien il est difficile de savoir "qu'est-ce que ce que je regarde". Peu à peu il m'est apparu évident qu'une chose ne collait pas dans mon équation méthodologique, ou en fait, dans l'équation de n'importe qui d'autre, aussi loin que je puisse voir, s'agissait de l'effet des « personnes » sur les méthodologies.
+Dans le chapitre « faire équipe » de l'ouvrage _Psychology of Computer Programming_, j'ai découvert quelque chose qui se rapproche de ce que je cherchais et plus particulièrement dans la partie gestion de « tâches » vs gestion de la « maintenance » à savoir : la notion de caractérisations et les recommandations qui découlent de celles-ci. Ces caractérisations et ces recommandations faites sur la bases d'entretiens dans les années 1960 s'avèrent toujours pertinentes et significatives 30 ans plus tard. Ceci valide la solidité et l'importance de ce type de question. Il est temps que nous étudiions ces questions qui sont au cœur de l'ingénierie logicielle et que nous arrêtions de les redécouvrir tous les 30 ans.
 
-Once I started accounting for this quantity, I found my methodological predictions and results started matching my experiences. I now consider the characteristics of people as _the dominant, first-order_ project driver.
+La rédaction de ce document, qui met en exergue l'ensemble de ces travaux, me permet d'affirmer que les « personnes » comme étant vraiment de toute première importance dans la réussite d'un projet et non de manière incidente ; j'en utilise les caractéristiques comme autant d'indicateurs prédictifs. Ce document est écrit à la première personne et non dans un style formel ou académique classique, parce qu'il relate une quête de quelque chose d'évident tout en restant non explicité, il me parait donc plus adapté de de la raconter sous la forme d'un récit. 
 
-Du moment où j'ai commencé à dénombrer cela en terme de quantité, j'ai trouvé que mes prédictions méthodologiques et mes résultats concordaient avec mes expériences. Je considère aujourd'hui que les caractéristiques des personnes sont le facteur _dominant, de 1er ordre_ de tout projet.
+## 2 – Ce qui ne fonctionnait pas
 
-How does this differ from what DeMarco and Lister wrote in Peopleware?
-
-En quoi cela diffère t'il de ce que DeMarco et Lister ont pu écrire dans _Peopleware_ ?
-
-DeMarco and Lister announced that people are important and gave some specific pointers. I am interested in how people’s individual and group characteristics affect the design of software development practices (a.k.a. methodologies), for different groups working on different sorts of assignments.
-
-Dans leurs ouvrages, DeMarco et Lister énoncent que les personnes sont déterminantes et nous livrent des clés de compréhension. Je me suis plus particulièrement intéressé sur comment les caractéristiques des groupes et des individus influent sur la conception des pratiques de développement logiciel (autrement dit les méthodologies) sur différents groupes travaillant sur toutes sortes de missions.
-
-Weinberg’s chapter on “Teaming” in The Psychology of Computer Programming, particularly on ‘task’ versus ‘maintenance’ management, comes closest to what I am after: a characterization, and recommendations derived from the characterization. His characterizations and recommendations, based upon project interviews in the 1960’s, are still accurate and significant 30 years later. That validates the stability and importance of these sorts of issues. It is about time we studied these issues as a core to the field of Software Engineering and stopped rediscovering their importance every 30 years.
-
-J'ai pu trouver dans le chapitre « faire équipe » de l'ouvrage _Psychology of Computer Programming_ quelque chose qui se rapproche de ce que je cherchais plus particulièrement dans la partie gestion de « tâches » vs gestion de la « maintenance » à savoir : la notion de caractérisation et les recommandations qui découlent de la caractérisation. Ces caractérisations et ces recommandations faites sur la bases d'entretiens dans les années 1960 s'avèrent toujours pertinentes et significatives 30 ans plus tard. Ceci valide la solidité et l'importance de ce type de question. Il est temps que nous étudiions ces questions qui sont au cœur de l'ingénierie logicielle et que nous arrêtions de les redécouvrir tous les 30 ans.
-
-This paper outlines the work I reviewed that made it clear to me that ‘people’ really are a first-order, and not incidental, project success driver, the characteristics I currently use as predictors, and their success as predictors. This paper is written in the first person rather than in formal, academic style, because it relates a quest for the obvious but unstated, and is best told in story form.
-
-La rédaction de ce papier, qui met en exergue l'ensemble de ces travaux, me permet d'affirmer que les « personnes » comme étant vraiment d'importance première dans la réussite d'un projet et non de manière incidente ; j'en utilise les caractéristiques comme indicateur prédictif. Ce papier est écrit à la première personne et non dans un style formel ou académique classique, parce qu'il est lié à une quête de quelque chose d'évident tout en restant non explicité, et donc il est plus adapté de de la raconter sous la forme d'un récit. 
-
-## 2 – What wasn’t working
-
-## 2 – Ce qui n'a pas fonctionné 
-
-In the formal development of communications software, in 1987, I was given the motivation, “The _problem_ with software development is that there is too much ambiguity in the problem statement and in the design description. _Things will go better_ if we get people to work with mathematical formalisms.” After some work in this area, I discovered:
-
-En 1987, lors du développement d'un logiciel de communication, j'avais été encouragé à traiter ce qui m'avait été exposé comme suit  « le _problème_ lors du développement d'un logiciel c'est qu'il y a trop d'ambiguïté dans l'explicitation du problème et dans la description de la conception. _Les choses iront mieux_ si nous faisons en sorte que les personnes travaillent en adoptant un formalisme plus mathématique ». Après avoir travaillé un certain temps dans ce domaine, j'ai découvert que :
-
-- **Problem 1.** The people on the projects were not interested in learning our system.
-- **Problem 2.** They were successfully able to ignore us, and were still delivering software, anyway.
+En 1987, lors du développement en méthode formelle d'un logiciel de communication, j'avais été encouragé à traiter le sujet suivant : « le _problème_ lors du développement d'un logiciel, c'est qu'il y a trop d'ambiguïté dans l'explicitation du problème et dans la description de la conception. _Les choses iront mieux_ si nous faisons en sorte que les personnes adoptent un formalisme mathématique ». Après avoir travaillé quelques temps dessus sur ce domaine, j'ai découvert que :
 
 - **Problème 1 :** Les personnes dans les projets ne sont pas intéressés par apprendre notre système
 - **Problème 2:** Elles ont réussi à nous ignorer et à livrer du logiciel tout de même. 
 
-I shifted out of formal development, hearing my formal development colleagues saying, “The _problem_ lies in the training. _Things will go better_ if we start training students in the necessary mathematics earlier, i.e., secondary school.” Based on what I have learned about people, I expect this will be a frustrated desire. It is not that I doubt certain advantages of formal development, but I do doubt our ability to coax 10**6 people to master it. The question should become, “Under what circumstances, and with what assignment, should a formal specialist be called in?”
+J'ai arrêté le développement formel après avoir entendu l'un de mes collègues dans ce domaine dire : « En fait, le _problème_ réside dans la formation. _Les choses se passeraient mieux_ si nous commencions à donner aux étudiants une formation mathématique suffisante bien plus tôt — autrement dit dans le secondaire ». Compte tenu de ce que j'ai appris sur les personnes, je pense que son affirmation révélait en fait un désir frustré. Non pas que je doute de certains des avantages du développement formel, mais je doute de notre capacité à persuader 10**6 personnes à le maîtriser. La bonne question pourrait être : « En quelles circonstances et dans quel cadre, devrions-nous faire appel à un spécialiste en développement formel ? » 
 
-J'ai arrêté le développement formel après avoir entendu l'un de mes collègues en développement formel dire : « En fait, le _problème_ réside dans la formation. _Les choses iraient mieux_ si nous commencions à donner aux étudiants une formation mathématique suffisante bien plus tôt — dans le secondaire ». Compte tenu de ce que j'ai appris à propos des gens, je pense que sa phrase révélait un désir frustré. Non pas que je doute de certains des avantages du développement formel, mais je doute de notre capacité à persuader 10**6 personnes à le maîtriser. La bonne question pourrait être : « En quelles circonstances et dans quel cadre, devrions-nous faire appel à un spécialiste en développement formel ? » 
+Je suis donc passé à la place au développement d'outils, travaillant autant que possible de manière ethnocentrique. J'ai donc observé des concepteurs de protocoles de communication et j'ai discuté avec eux sur quels pourraient être les problèmes auxquels ils faisaient face. Mes collègues et moi avons alors décidé que « Le _problème_ est que les gens continuent de dessiner sur tableau blanc. _Les choses se passeraient mieux_ si nous leur donnions des outils spéciaux afin qu'ils puissent dessiner directement sur ordinateur et qu'ils puissent voir au plus tôt leurs conceptions devenir rapidement un exécutable.  »
 
-I shifted over to tool development, working in an ethnocentric fashion as far as possible. I watched the designers of communications protocols, and discussed with them what might be their problems. My colleagues and I decided that, “The _problem_ is that the people are still drawing at the whiteboard. _Things will go better_ if we give them special tools so that they can draw directly into the computer and give them early execution of their designs.”
+Nous avons passé alors plusieurs années à développer un moteur d'inférence qui convertirait les diagrammes d'interactions en architecture logicielle et en système de règles \[Ci\]. Beaucoup d'équipes ont travaillé et travaillent encore sur des concepts similaires comme par exemple les machines à état fini exécutables de Harel \[Ha\].
 
-Je suis donc passé au développement d'outils, travaillant autant que possible de manière ethnocentrique. J'ai observé des concepteurs de protocoles de communication et discuté avec eux sur quels pourraient être leurs problèmes. Mes collègues et moi avons alors décidé que « Le _problème_ est que les gens continuent de dessiner sur tableau blanc. _Les choses iraient mieux_ si nous leur donnions des outils spéciaux afin qu'ils puissent dessiner directement sur ordinateur et qu'ils puissent voir au plus tôt leurs conceptions s'exécuter.  »
-
-We spent several years developing an inference engine that would convert time-flow, interaction diagrams into a software architecture and rule system \[Ci\]. Many groups were and are working on a similar agenda, e.g., Harel’s executable finite state machines \[Ha\].
-
-Nous avons passé plusieurs années à développer un moteur d'inférence qui convertirait les diagrammes d'interactions en architecture logicielle et en système de règles \[Ci\]. Beaucoup d'équipes ont travaillé et travaillent encore sur des choses similaires comme par exemple les machines à état fini exécutables de Harel  \[Ha\].
-
-We completed the prototype after several years and showed it to our would-be user group, and were shattered to hear them say, “No, thanks, we actually like drawing on the whiteboards. We don’t want to take the time to put the drawings into the computer. Um, may we use the drawing editor portion of your tool suite?” Listening to other tools vendors, we heard the same experiences, usually ending up with, “they use just the drawing editor portion.” In other words,
-
-Nous avons terminé un prototype après quelques années et l'avons montré à notre groupe d'utilisateurs potentiels, et nous avons été estomaqués de les entendre nous dire « Non merci, en fait nous aimons dessiner sur les tableaux blancs. Nous ne voulons pas perdre du temps à mettre nos dessins sur ordinateurs. Hum, pouvons-nous utiliser cette partie de l'éditeur de dessin de votre outil ? ».  Nous avons entendu le même récit de la part d'autres éditeurs logiciels qui se terminait immanquablement par « ils utilisent juste l'éditeur de dessin ». Autrement dit
-
-- **Problem 1.** The people on the projects were not interested in learning our system.
-- **Problem 2.** They were successfully able to ignore us, and were still delivering software, anyway.
+Quelques années plus tard, nous avons terminé un prototype  et l'avons montré à notre groupe d'utilisateurs potentiels, et nous avons été estomaqués de les entendre nous dire « Non merci, en fait nous,  nous aimons dessiner sur les tableaux blancs. Nous ne voulons pas perdre du temps à mettre nos dessins sur ordinateurs. Hum, par contre pouvons-nous utiliser cette partie de l'éditeur de dessin de l'outil ? ».  Nous avons entendu ce même récit de la part d'autres éditeurs logiciels qui se terminait immanquablement par « ils utilisent juste l'éditeur de dessin ». Autrement dit
 
 - **Problème 1.** Les personnes travaillant sur des projets n'étaient pas intéressées par apprendre notre système.
-- **Problème 2.** Elles étaient très fortes pour nous ignorer et livrer néanmoins du logiciel.
+- **Problème 2.** Elles étaient très fortes pour nous ignorer et être en capacité néanmoins à livrer du logiciel.
 
-Troubled by this, I shifted into software development methodologies, designing the OO methodology for the IBM Consulting Group (1992-94). Not wanting to make the same mistake a third time, I interviewed over a dozen object-technology projects around the world, and wrote down what they said. Studying those notes, I concluded several things.
-
-Troublé par tout cela, je suis passé aux méthodologies de développement logiciel, et j'ai conçu la méthodologie orientée-objet pour IBM Consulting Group entre 1992 et 1994. Ne voulant pas répéter la même erreur une troisième fois, je me suis entretenu avec des personnes d'une douzaine de projets basés sur l'objet tout autour du monde, puis j'ai tout couché par écrit. En étudiant ces notes, j'en ai conclu différentes choses :
-
-- The successful teams used incremental development \[Co95\]
-- Any design technique more complicated than “CRC Cards” \[B87\] seemed too complex to be used
-- The design teams had the priviledge of ignoring any tool or technique they didn’t like. All they had to say to their boss was, “It slows me down – I won’t make the schedule if I use it,” and their boss would let them ignore it. At the time I did not think this was significant to write down, but I did note it as a methodology “design constraint”.
+Troublé par tout cela, je suis donc passé à des méthodologies de développement logiciel, et j'ai conçu la méthodologie orientée-objet pour IBM Consulting Group entre 1992 et 1994. Ne voulant pas répéter la même erreur une troisième fois, je me suis entretenu avec des personnes d'une douzaine de projets basés sur l'objet tout autour du monde, puis j'ai tout couché par écrit. En étudiant ces notes, j'en ai conclu différentes choses :
 
 - Les équipes qui réussissent font du développement incrémental \[Co95\]
 - Toute technique de conception qui s'avère plus compliqué que des « cartes CRC » \[B87\] semblent trop complexes pour être utilisée  
 - Les équipes de conception ont le privilège d'ignorer tout outil ou toute technique qu'elles n'apprécient pas. Tout ce qu'elles ont à dire à leur patron c'est : « Cela me ralentit — je ne tiendrai pas les délais si je l'utilise » et leur patron les laisse alors ne pas les utiliser. À cette époque, cela ne paraissait pas important de l'écrire, mais je l'avais noté en tant que « contrainte de conception » au niveau méthodologique.
 
-I designed the most palatable, low-ceremony methodology I thought possible, and went to use it on a project. Our experiences are documented as Project Winifred in \[Co98\]. The core design technique I recommended, taught, and mentored on that project was based on CRC cards.
-
 J'ai alors conçu la méthodologie la plus palpable, la moins cérémonielle possible et je l'ai utilisée sur un projet. J'ai documenté notre expérience sous le nom de projet Winifred  \[Co98\]. La technique de conception de base que j'y ai recommandé, que j'ai enseignée et sur laquelle j'ai guidée les gens sur ce projet se base sur les cartes CRC.
 
-A few months later I took off my consultant’s hat, put on my ethnographer’s, and studied the ways in which the team was actually behaving. What I saw staggered me:
+Quelques mois plus tard, j'ai enlevé mon chapeau de consultant pour le remplacer par celui d'ethnographe et j'ai étudié les manières dont une équipe se comporte réellement. Ce que j'ai pu observer m'a sidéré :
 
-Quelques mois plus tard, j'ai enlevé mon chapeau de consultant pour le remplacer par celui d'ethnographe et j'ai étudié les manières dont une équipe se comporte réellement. Ce que j'ai pu observé m'a sidéré :
-
-- The moment-to-moment process the team followed was so intricate that I couldn’t possibly write it all down, and if I could, no one else could possibly follow it \[Co98p\]. It matched my process only in the most superficial way.
-- Not a single person out of the two-dozen OO designers I had mentored was using CRC cards.
-
-- Le processus que l'équipe suivant d'un instant à un autre était si intriqué qu'il m'était impossible de le mettre par écrit et même si j'avais pu, personne n'aurait été capable de le suivre \[Co98p\]. Cela correspondait de manière très superficiel mon propre processus.
+- Le processus que l'équipe suivait d'un instant à un autre était si intriqué qu'il m'était impossible de le mettre par écrit et même si j'avais été en mesure de le faire, personne n'aurait été capable de le suivre \[Co98p\]. Cela correspondait de manière très superficiel à mon propre processus.
 - Pas une personne parmi la douzaine de concepteurs orienté-objets que j'avais accompagné n'utilisait les cartes CRC.
 
-In other words, although I had used what I thought was an ethnographic basis for designing the methodology,
-
 En d'autres mots, même si j'avais utilisé ce que je pensais être une approche ethnographique pour concevoir cette méthodologie :
-
-- **Problem 1.** The people on the projects were not interested in learning our system.
-- **Problem 2.** They were successfully able to ignore us, and were still delivering software, anyway.
 
 - **Problème 1.** Les personnes travaillant sur les projets n'étaient pas intéressées par apprendre notre système.
 - **Problème 2.** Elles étaient très fortes pour nous ignorer et livrer néanmoins du logiciel.
 
-This process repeated itself a few more times, until I became quite upset at my inability to “see what really is happening”. The best I could say was that there was some important thing in the project that we hadn’t named. To address this, I recently teamed with an ethnographer, just to have help naming what is happening \[Ho\]. A consultant plus an ethnographer is a good pairing, but we have barely started. The trouble is, we can’t say what we are seeing until we have names for what we are seeing. Evidently, our current vocabulary is inadequate.
+Ce processus s'est répété encore et encore plusieurs fois, jusqu'à que je sois contrarié de mon incapacité à « voir réellement ce qui se passait ». La meilleure chose que je pouvais dire était qu'il y avait des choses importantes sur le projet que nous n'avions pas su nommer. Pour résoudre cela, j'ai fait alors équipe avec un ethnographe pour avoir de l'aide pour mettre un nom sur ce qu'il se passait \[Ho\]. Un consultant plus un ethnographe, ça faisait un bon duo, mais à peine venions tout juste de commencer que nous nous sommes rendus compte que nous étions incapables de décrire ce que nous voyions et que nous ne pourrions le faire tant que nous n'aurions pas les mots pour ce que nous étions en train de voir. Et manifestement, notre vocabulaire actuel s'avérait inadéquate.
 
-Ce processus s'est encore répété plusieurs fois, jusqu'à que je sois fatigué de mon incapacité à « voir réellement ce qui se passait ». La meilleure chose que je pouvais dire était qu'il y avait des choses importantes sur le projet que nous n'avions pas nommé. Pour traiter ça, j'ai fait alors équipe avec un ethnographe pour avoir de l'aide pour mettre un nom sur ce qu'il se passait \[Ho\]. Un consultant plus un ethnographe, ça fait un bon duo, mais nous venons tout juste de commencer. L'ennui est, c'est que nous ne pouvons pas dire ce que nous voyons tant que nous n'avons pas les mots pour décrire ce que nous voyons. Manifestement, notre vocabulaire actuel s'avère inadéquate.
+Depuis, j'ai discuté, et j'ai lu des récits détaillés provenant de trois douzaine de projets différents (certains d'entre eux sont évoqués dans le tableau 1). 
 
-I have now been on, debriefed, or read detailed accounts in the literature, of approximately three dozen projects (selected aspects of which are summarized in Table 1).
-
-Depuis, j'ai discuté, lu des récits détaillés issus de la littérature spécialisée d'environ trois douzaine de projets (certains d'entre eux sont évoqués dans le tableau 1). 
-
-**Table 1. Projects and methodologies reviewed.** This table, which must necessarily be abbreviated, shows projects with year, nickname, and a note about each. Some of the projects are further documented, as the references show.
-
-**Tableau 1 : Revue des projets et méthodologies utilisées.** Ce tableau présente des projets par ordre chronologique accompagnés de quelques notes. Certains d'entre eux sont davantage documentés.
+**Tableau 1 : Revue des projets et des méthodologies utilisées.** Le tableau ci-dessous liste l'ensemble projets passés en revue classés par ordre chronologique. Chaque projet comporte un index de référence bibliographique abrégé permettant de le retrouver dans le reste du rapport et pour certains d'entre eux des informations complémentaires.
 
 * * *
 
   
-**1980**. “CT5”. Success. 26 people, 3 years (1 year late), company critical. Learned by apprenticeship, well-defined macro process, no micro-process.  
 **1980**. “CT5”. Réussite. 26 personnes, 3 ans (1 année de retard), projet stratégique. Montée en compétence par apprentissage, présence d'un processus macro bien défini, absence de processus micro.  
 
 * * *
 
   
-**1986**. “Cleanroom” projects \[Mi\]. Success. IBM Federal Sector, large-team projects. Repeated success with heavy, high-discipline methodology.  
-**1986**. Projets “Cleanroom”  \[Mi\]. Réussite; IBM Federal Sector, projets avec des équipes de taille importante. Succès répétés grâce à une méthodologie lourde et très rigoureuse.  
+**1986**. Projets “Cleanroom”  \[Mi\]. Réussite. IBM Federal Sector, projets avec des équipes de taille importante. Succès répétés grâce à une méthodologie lourde et très rigoureuse.  
  
 * * *
 
   
-**1986**. “Sherr’s projects” \[Br\] Success. Process: “make it work, but don’t work overtime” forced creative solutions, no defined process.  
 **1986**. “Projets de Sherr” \[Br\] Réussite. Processus du genre « faites que ça marche, mais ne faites pas d'heures supplémentaires » ayant forcé à trouver des solutions créatives, absence de processus défini.  
 
 * * *
 
   
-**1980**. “Broooklyn Union Gas” \[Co98\]. Success. New OO technology, 150 people, mission critical project.  
-**1980**. “Broooklyn Union Gas” \[Co98\]. Réussite. Nouvelle technologie orienté-objet, projet stratégique.  
+**1980**. “Broooklyn Union Gas” \[Co98\]. Réussite. Nouvelle technologie orienté-objet, 150 personnes, projet stratégique.  
 
 * * *
 
   
-**1992**. “Tracy” \[Co98\]. Failure. Small team blindly followed the methodology that said,”model the world, then code it up.” Only had access to occasional users and untrained staff.  
-**1992**. “Tracy” \[Co98\]. Échec. Petite équipe suivant aveuglément une méthodologie disant « modélisez le monde, puis codez-le ». Accès occasionnel aux utilisateurs et à du personnel non qualifié. 
+**1992**. “Tracy” \[Co98\]. Échec. Petite équipe suivant aveuglément une méthodologie dite « modélisez le monde, puis codez-le ». Accès occasionnel aux utilisateurs et à du personnel non qualifié. 
 
 * * *
 
   
-**1992**. “BlackKnight”. Success. Small team happy with post-it notes connected by yarn  
 **1992**. “BlackKnight”. Réussite. Petite équipe avec notes repositionnables reliées par des fils en laine.
 
 * * *
 
   
-**1992**. “Manfred” \[Co98\]. Failure. Small team, low discipline, lightweight. “We’ll engineer it later” failure of continual prototyping.  
-**1992**. “Manfred” \[Co98\]. Échec. Petite équipe, peu rigoureuse, . « Nous ferons la conception plus tard » — échec pour prototypage en continu 
+**1992**. “Manfred” \[Co98\]. Échec. Petite équipe, peu rigoureuse. « Nous ferons la conception plus tard » — échec du prototypage en continu 
 
 * * *
 
   
-**1992**. “CSPITF”. Success. Small team managed iterations carefully. Lightweight process, sitting close together.Good synergy between technical lead and project manager. Lead stayed on to restructure code internals for next team.  
-**1992**. “CSPITF”. Réussite. Petite équipe suivant scrupuleusement les itérations. Processus léger, assis les uns à côté des autres. Bonne synergie entre le responsable technique et le responsable projet. Le responsable est resté sur le projet pour restructurer la conception interne du code pour l'équipe ayant succédé à la sienne.
+**1992**. “CSPITF”. Réussite. Petite équipe suivant scrupuleusement des itérations. Processus léger, assis les uns à côté des autres. Bonne synergie entre le responsable technique et le responsable projet. Le responsable technique est resté sur le projet pour restructurer la conception interne du code pour l'équipe ayant succédé à la sienne.
 
 * * *
 
   
-**1992**. “OTI” \[Co98\].. Success. Small teams. “Give good people good tools, and leave them alone”. Repeated success with light, people-centric methodology.  
-**1992**. “OTI” \[Co98\]. Réussite. Petites équipes. « Donnez aux bonnes personnes les bons outils, et laissez-les tranquille. » Réussite répétées avec une méthodologie légère centré sur l'humain.
+**1992**. “OTI” \[Co98\]. Réussite. Petites équipes. « Donnez aux bonnes personnes les bons outils, et laissez-les tranquille. » Réussites répétées avec une méthodologie légère centré sur l'humain.
 
 * * *
 
   
-**1993**. “Reginald” \[Co98\].. Failure. 2-person team grew to 3 teams in two counties. One team blindly followed paper-heavy methodology, never produced code before project cancelled.  
-**1993**. “Reginald” \[Co98\]. Échec. Une équipe de 2 personnes a grossi pour devenir 3 équipes réparties sur 2 comtés. L'une des équipes suivait aveuglement une méthodologie lourde à base de documentation papier, et n'a jamais produit un seul morceau de code avant que le projet ne soit annulé.
+**1993**. “Reginald” \[Co98\]. Échec. Une équipe de 2 personnes ayant grossi pour devenir 3 équipes réparties sur 2 comtés. L'une des équipes suivait aveuglement une méthodologie lourde à base de documentation papier, et n'a jamais produit un seul morceau de code avant que le projet ne soit annulé.
 
 * * *
 
   
-**1993**. “Ingrid” \[Co98\].. Success. 26-people, 2-years. Incremental macro process, no micro-process. First increment failed. Replaced all programmers, evolved lightweight, communication-centric methodology over time.  
-**1993**. “Ingrid” \[Co98\]. Réussite. 26 personnes, 2 ans. Présence d'un processus macro incrémental, absence de processus micro. Échec du premier incrément. L'ensemble des développeurs a été remplacé, passage à une méthodologie légère orienté communication au fil du temps.
+**1993**. “Ingrid” \[Co98\]. Réussite. 26 personnes, 2 ans. Présence d'un processus macro incrémental, absence de processus micro. Échec du premier incrément. L'ensemble des développeurs a été remplacé, passage à une méthodologie légère orientée communication au fil du temps.
 
 * * *
 
   
-**1993**. “Synon in NZ”. Success. Project leader claimed success was due to “4 people in one room, use of fast iterative tool”, would not take on project in which people could not talk to each other easily.  
 **1993**. “Synon in NZ”. Réussite. Lors de notre entretien le responsable du projet a indiqué que la réussite était due au fait que « les 4 personnes travaillaient dans la même pièce en cycle itératif très rapide » et que dorénavant il ne prendrait plus en charge de projets dans lesquels les personnes ne pourraient plus se parler entre eux facilement.
 
 * * *
 
   
-**1994**. “Udall” \[Co98\]. Success. Failed initially with a large team. Success due to “starting over, extracting a good small team from fumbling large team.”  
 **1994**. “Udall” \[Co98\]. Réussite. Le projet fut au départ un échec avec une équipe de taille importante. Le projet fut après une réussite en « recommençant tout depuis le début, en reprenant une partie des personnes de l'équipe précédente pour former une petite équipe performante » .
 
 * * *
 
   
-**1995**. “Winifred” \[Co98\]. Success. 45 people, 20 months. Success dues to “increments, good communications, a few good people ”. Macro process, no micro process. Successful medium-sized, communication-centric metodology  
-**1995**. “Winifred” \[Co98\]. Réussite. Équipe de 45 personnes, durée de 20 mois. La réussite est due à la présence « d'incréments, d'une bonne communication, d'un nombre réduits de bonnes personnes ». Présence d'un processus macro et absence de processus micro. Méthodologie orientée communication.
+**1995**. “Winifred” \[Co98\]. Réussite. Équipe de 45 personnes, durée de 20 mois. La réussite est due à la présence « d'une manière de réaliser incrémentale, d'une bonne communication, d'un nombre réduits de bonnes personnes ». Présence d'un processus macro et absence de processus micro. Méthodologie orientée communication.
 
 * * *
 
   
-**1996**. “Reel”. Failure. 150-people told to update every document with every design change. Project canceled. Project participant summarized: “Diligent use of bad practices is still bad.”  
 **1996**. “Reel”. Échec. Équipe de 150 personnes à laquelle il avait été dit de documenter chaque changement de conception. Le projet fut abandonné. L'un des participants au projet le résuma de la manière suivante : « L'utilisation de mauvaises habitudes avec diligence reste quelque chose de mauvais » .
 
 * * *
 
   
-**1997**. “Caliper”. Failure. 90-people, company critical. Still missing first major delivery after 6 years. High expectations, new technology, no increments, inadequately skilled staff in all roles.  
 **1997**. “Caliper”. Échec. Équipe de 90 personnes, projet stratégique. Incapacité à faire une livraison majeure au bout de 6 ans : attentes élevées, nouvelles technologies, absence d'incréments, absence de personnel qualifiés à tous les niveaux.
 
 * * *
 
   
-**1997**. “NorgesBank”. Interviews with 6 project teams. Common phrase in all interviews: “success when good communications in team and with users.”  
 **1997**. “NorgesBank”. Entretiens avec les 6 équipes projets. Une phrase revenait dans tous les entretiens : « le succès est au rendez-vous lorsqu'il y a de bonnes communications entre l'équipe et les utilisateurs ».
 
 * * *
 
   
-**1998**. “C3” \[C3\]. Success. 8 people replaced 26 after initial failure. Extreme Programming \[EP\]. Successful small-team, high-discipline, communication-centric methodology.  
 **1998**. “C3” \[C3\]. Réussite. Une équipe de 8 personnes remplaçant une équipe de 26 personnes après un premier échec. Extreme Programming \[EP\] : petite équipe, très rigoureuse, méthodologie orientée communication.
 
 * * *
 
   
-**1998**. “NB Banking”. Success. 3 people, 2-month project grew suddenly to 10 people, 14-months. Disliked video link. Macro but no micro process. Success due to “increments, adequate people & communication”.  
 **1998**. “NB Banking”. Réussite. Initialement il s'agissait d'une équipe de 3 personnes pour un projet de 2 mois qui est passé du jour au lendemain à une équipe de 10 personnes sur 14 mois. Détestation de la visioconférence. Présence de processus macro et absence de processus micro. La réussite était due aux « aux incréments, aux bonnes personnes et à de la communication ».
 
 * * *
 
   
-**1998**. “M.A.D.” \[Ch\]. Success. Small team, studying end user context, used prototypes. Successful use of communication-centric, prototyping methodology.  **1998**. “M.A.D.” \[Ch\]. Réussite. Petite équipe ayant étudié les utilisateurs finaux dans leur contexte et ayant utilisé des prototypes. Utilisation réussie d'une méthodologie orientée communication et prototypage.
+**1998**. “M.A.D.” \[Ch\]. Réussite. Petite équipe ayant étudié les utilisateurs finaux dans leur contexte et ayant utilisé des prototypes. Utilisation réussie d'une méthodologie orientée communication et prototypage.
 
 * * *
 
   
-**1998**. “Insman”. Success. 6 people using “Crystal(Clear)” \[Co00\]. Success due to “focusing on close communication, group morale, 3-month increments with team learning.”.  
 **1998**. “Insman”. Réussite. Équipe de 6 personnes utilisant « Crystal (Clear) »\[Co00\]. Réussite due à la « focalisation sur de la communication rapprochée, le moral de l'équipe, des incréments de 3 mois avec de l'auto-apprentissage au niveau de l'équipe ».
 
 * * *
 
   
-**1999**. “Cinch”. Ongoing. 40 people sitting close, but still requiring formal deliverables. Recognize cost of writing, but unable to shift to personal mode (personalities, habit, or culture?).  
-**1999**. “Cinch”. En cours. Équipe de 40 personnes colocalisées qui exigeait des livrables formels. L'équipe reconnaissait le coût engendré par la rédaction d'écrits, mais elle était dans l'incapacité de passer sur un mode davantage informel (traits de caractère, habitudes, culturel ?)
+**1999**. “Cinch”. En cours. Équipe de 40 personnes colocalisées mais continuant d'exiger des livrables écrits formels. L'équipe reconnaissait le coût engendré par la rédaction d'écrits, mais elle était dans l'incapacité de passer sur un mode davantage informel (traits de caractère, habitudes, culturel ?)
 
 * * *
 
   
-**1999**. “Hill AFB TSP1” \[Web\]. Success. 7 people, CMM level 5 group using PSP/TSP. Small team success with high-discipline, process-centric methodology.  
 **1999**. “Hill AFB TSP1” \[Web\]. Réussite. Équipe de 7 personnes ayant atteint le niveau 5 CMM en utilisant des processus logiciels individuels (PSP-Personal Software Process) et d'équipes (TSP — Team Software Process). La réussite de cette petite équipe était notamment due à l'utilisation d'une méthodologie très rigoureuse.orientée processus 
 
 * * *
 
-What I find striking about these projects is that they show:
 
 Ce que je trouve le plus étonnant dans ces projets est qu'ils démontrent que :
 
-- Almost any methodology can be made to work on some project.
-- Any methodology can manage to fail on some project.
-- Heavy processes can be successful.
-- Light processes are more often successful, and more importantly, the people on those projects credit the success to the lightness of the methodology.
-
-
-- presque n'importe quelle méthodologie peut faire fonctionner certains projets
-- n'importe quelle méthodologie peut faire échouer certains projets
+- presque n'importe quelle méthodologie peut faire fonctionner des projets
+- n'importe quelle méthodologie peut faire échouer des projets
 - les projets menés avec des méthodologies lourdes peuvent s'avérer être couronnés de succès
-- les projets menés avec des méthodologies légères sont plus souvent couronnés de succès et plus important encore, les personnes ayant travaillés sur ces projets créditent cette réussite à la légèreté de ces méthodologies.
+- les projets menés avec des méthodologies légères sont plus souvent couronnés de succès et plus important encore, que les personnes ayant travaillés sur ces projets créditent cette réussite à la légèreté de ces méthodologies.
 
-I did not find any theory to account for the high success rate of lightweight, low-ceremony methodologies, the low success of very-high-ceremony methodologies, with occasional exceptions as in Cleanroom and PSP/TSP. Obviously, poor management is a non-methodological factor of greatest significance, but even normalizing for that does not give meaningful predictions.
+Je n'ai trouvé aucune théorie pour expliquer ce taux élevé de réussite de projets ayant utilisés des méthodologies légères comportant peu de cérémonies, ni pour expliquer le faible taux de réussite de projets ayant utilisés des méthodologies comportant beaucoup de cérémonies à l'exception notable de Cleanroom et de PSP/TSP. Il m'apparait évident qu'un management médiocre est un facteur non-méthodologique qui y est pour beaucoup, mais même en essayant de normaliser ça, je me retrouve dans l'incapacité de donner des éléments de prévisions significatifs.
 
-Je n'ai trouvé aucune théorie pour expliquer ce taux élevé de réussite de projets ayant utilisés des méthodologies légères, comportant peu de cérémonies, ni pour expliquer le faible taux de réussite de projets ayant utilisés des méthodologies comportant beaucoup de cérémonies à l'exception notable de Cleanroom et de PSP/TSP. Il apparait évident qu'un management médiocre est un facteur non-méthodologique qui y est pour beaucoup, mais même en essayant de normaliser ça, cela ne permet pas de donner des éléments de prévisions significatifs.
+J'en ai finalement conclu qu'il y a quelque chose d'autre qui joue ici, qui est juste sous nos yeux à chaque instant et que nous ne voyons pourtant pas : les personnes. Les caractéristiques des personnes sont le facteur de réussite primordial de la réussite et non un facteur de second ordre. En fait, en renversant l'ordre des choses, je considère désormais les facteurs liés aux processus comme des éléments de second ordre.
 
-I finally concluded that there is something there, in front of us all the time, which we are not seeing: people. People’s characteristics are a first-order success driver, not a second-order one. In fact, I have reversed the order, and now consider process factors to be second-order issues.
+D'après mon expérience tout peut être réduit à juste quelques caractéristiques essentielles concernant les personnes. En les appliquant sur des projets plus récents, j'ai pu prédire de manière plus pertinente leurs résultats et j'ai pu donner des recommandations plus pertinentes. Je crois que le temps est venu, de manière formelle et officielle, de conduire des recherches sur « quelles sont les caractéristiques des personnes qui peuvent impacter le développement logiciel et quelles sont leurs implications dans la conception des méthodologies ? ».
 
-J'en ai finalement conclu qu'il y a quelque chose d'autre qui joue ici, qui est juste sous nos yeux tout le temps et que nous ne voyons pas : les personnes. Les caractéristiques des personnes sont le facteur de réussite primordial de la réussite et non un facteur de second ordre. En fait, en renversant l'ordre des choses, je considère désormais les facteurs liés aux processus comme des éléments de second ordre.
+## 3 – Quatre caractéristiques
 
-Most of my experiences can be accounted for from just a few characteristics of people. Applying these on recent projects, I have had much greater success at predicting results and making successful recommendations. I believe the time has come to, formally and officially, put a research emphasis on “what are the characteristics of people that affect software development, and what are their implications on methodology design?”
-
-D'après mon expérience tout peut être réduit à quelques caractéristiques des personnes. En les appliquant sur des projets plus récents, j'ai pu prédire de manière plus pertinente leurs résultats et j'ai pu donner des recommandations plus adéquates. Je crois que le temps est venu pour de manière formelle et officielle de conduire des recherches sur « quelles sont les caractéristiques des personnes qui peuvent impacter le développement logiciel et quelles sont leurs implications dans la conception des méthodologies ».
-
-## 3 – Four characteristics
-
-People, as active devices, have success modes and failure modes. The following are the main ones that I have named and used to date:
-
-Les personnes, comme tout système actif,ont des modes de réussite et d'échec. Voici les modes principaux que j'ai pu trouvé et dénommer jusqu'à présent :
-
-1. People are communicating beings, doing best face-to-face, in person, with real-time question and answer.
-2. People have trouble acting consistently over time.
-3. People are highly variable, varying from day to day and place to place.
-4. People generally want to be good citizens, are good at looking around, taking initiative, and doing “whatever is needed” to get the project to work.
+Les personnes, comme tout système actif, ont des modes de réussite et d'échec. Voici les principaux modes que j'ai pu trouver et dénommer jusqu'à présent :
   
-1. Les personnes sont des êtres de communication, qui fonctionnent le mieux en face-à-face, avec des échanges en temps réel
+1. Les personnes sont des êtres communicants, qui fonctionnent le mieux en face-à-face, avec des échanges en temps réel
 2. Les personnes ont du mal à agir de manière constante au fil du temps
 3. Les personnes sont très versatiles, d'un jour à l'autre et d'un lieu à l'autre
 4. Les personnes veulent être de bons citoyens, sont plutôt bons pour percevoir leur environnement, prendre des initiatives et faire « ce qu'il faut » pour qu'un projet fonctionne.
 
-There are other characteristics that I won’t expand here:
-
-Il existe d'autres caractéristiques sur lesqulles je ne m'étendrai pas ici :
-
-- People need both think time and communicating opportunities (see \[Co98\], \[Cs\], \[Dm\]).
-- People work well from examples (a topic for more study, however, see \[J-L\]).
-- People prefer to fail conservatively than to risk succeeding differently \[Pi\]; prefer to invent than to research, can only keep a small amount in their heads, and do make mistakes, and find it hard to change their habits.
-- Individual personalities easily dominate a project.
-- A person’s personality profile strongly affects their ability to perform specific assignments.
+Il existe d'autres caractéristiques sur lesquelles je ne m'étendrai pas ici :
 
 - Les personnes ont besoin à la fois de temps de réflexion et d'opportunités de communication (cf. \[Co98\], \[Cs\], \[Dm\]).
 - Les personnes travaillent mieux à partir d'exemples (un sujet à approfondir) (cf. \[J-L\]).
-- Les personnes préfèrent échouer de manière préventive plutôt que de devoir risquer à réussir différemment \[Pi\]; elles préfèrent inventer plutôt que faire des recherches ; elles sont capables de conserver uniquement une faible quantité d'informations en têtes, elles font des erreurs et elles trouvent difficiles de changer d'habitudes.
+- Les personnes préfèrent échouer de manière conservatoire plutôt que de devoir risquer à réussir différemment \[Pi\]; elles préfèrent inventer plutôt que faire des recherches ; elles peuvent conserver seulement une faible quantité d'informations en têtes, elles font des erreurs et elles trouvent difficiles de changer d'habitudes.
 - Des personnalités individuelles peuvent facilement dominer un projet.
 - Le profil de personnalité d'un individu affecte fortement la réalisation de missions spécifiques
 
-### People are communicating beings
+### Les personnes sont des êtres communicants
 
-### Les personnes sont des êtres de communication
+Le facteur unique et le plus significatif est la « communication ». Le diagramme 1 représente la courbe de l'information que j'utilise désormais pour évoquer mes réflexions en termes de méthodologie. Ce diagramme démontre que l'efficacité de la communication baisse en fonction des modalités de communication et de synchronicité. Quelques recherches sur ce sujet (cf. \[Pl\] et \[Si\]) corroborent les expériences relatées par Weinberg il y a plus de 30 ans (cf. \[Wei\].)
 
-The most significant single factor is “communication”. Figure 1 is the informal curve I now use to inform my methodological considerations. The figure shows communication effectiveness dropping as modalities and timing are removed. There is some research around this topic, see \[Pl\] and \[Si\], and it also matches the project experiences Weinberg documented 30 years ago \[Wei\].
+La manière la plus efficace de communiquer est la communication en tête-à-tête, face à face, à côté d'un tableau blanc. Si nous enlevons l'une de ces caractéristiques, nous voyons une baisse d'efficacité de la communication. Les caractéristiques que nous perdons sont :
 
-Le facteur unique et le plus significatif est la « communication ». Le diagramme 1 représente la courbe de l'information que j'utilise désormais pour évoquer mes considérations méthodologiques. Ce diagramme démontre que l'efficacité de la communication baisse en fonction des modalités d'éloignement dans l'espace et le temps. Il y a eu quelques recherches sur ce sujet (cf. \[Pl\] et \[Si\]) corroborées également les expériences du projet Weinberg documentées il y a plus de 30 ans (cf. \[Wei\].)
+- la proximité physique : je suis bien en peine d'expliquer pourquoi, mais se trouver proche physiquement d'une autre personne a un effet sur la communication. Que ce soit par l'aspect tridimensionnel, temporel, à l'odeur, ou bien encore par tout un ensemble d'éléments visuels, la proximité physique compte.
+- la variabilité des modalités possibles. Les personnes communiquent aussi bien avec des mots qu'à travers des gestes, marquant souvent un point à l'aide d'un geste, avec les sourcils ou en montrant avec le doigt
+- les inflexions de la voix et le débit. En accélérant, en ralentissant, en faisant des pauses ou en changeant le ton de la voix, l'intervenant accentue soit pour souligner l'importance d'une phrase soit pour surprendre son interlocuteur.
+- les questions-réponses en temps réel. Les questions permettent de révéler les ambiguïtés dans le discours de l'intervenant ou dans la manière dont le discours n'atteint pas l'auditeur dans son contexte. La séquence des questions dessine un schéma de communication entre les interlocuteurs. 
 
-The most effective communication is person-to-person, face-to-face, as with two people at the whiteboard. As we remove the characteristics of two people at the whiteboard, we see a drop in communication effectiveness. The characteristics that get lost are:
+![Variation de l'efficacité de la communication selon les canaux de communication utilisés]({{ site.url }}assets/alistair_cockburn/EffectivenessCommunicationForm-fr.png)
 
-La manière la plus efficace pour communiquer est la communication interpersonnelle entre deux personnes, en face à face, à côté d'un tableau blanc. Si nous enlevons l'une de ces caractéristiques, nous voyons une baisse d'efficacité de la communication. Les caractéristiques que nous perdons sont :
 
-- Physical proximity. I am at a loss to explain why, but being physically close to the other person affects the communication. Whether it is three-dimensionality, timing, smell, or small visual cues, physical proximity matters.
-- Multiple modalities. People communicate through gestures as well as words, often making a point by gesturing, raising an eyebrow or pointing while speaking.
-- Vocal inflection and timing. By speeding up, slowing down, pausing, or changing tones, the speaker emphasizes the importance of a sentence, or perhaps its surprise value.
-- Real-time question-and-answer. Questions reveal the ambiguity in the speaker’s explanation, or the way in which the explanation misses the listener’s background. The timing of the questions sets up a pattern of communication between the parties.
+**Figure 1. Modes de communication**
 
-- la proximité physique : 
+Que se passe t'il quand nous enlevons ces caractéristiques l'une après l'autre ?
 
-![Communication efficiency diminishes as channels get dropped.gif](https://web.archive.org/web/20140329203655im_/http://alistair.cockburn.us/get/2251 "Communication efficiency diminishes as channels get dropped.gif")
+- Commençons par supprimer uniquement la proximité physique. Mettez deux personnes aux deux extrémités d'un échange vidéo. En principe, cet échange présente les mêmes caractéristiques qu'une présence physique. Toutefois, lorsque nous essayons, l'effet n'est pas exactement le même. Les membres d'une équipe travaillant respectivement à Oslo et à Lillehammer se sont aperçus après coup, que là où ils avançaient le mieux dans leurs travaux de conception, c'était lorsqu'ils étaient assis les uns à côté des autres dans le train. Même le fait de marcher ensemble en partant de la gare s'avérait plus efficace qu'une réunion en distanciel. 
+- Puis supprimons la possibilité de voir les gestes, tout en conservant l'inflexion de la voix et le direct (par exemple en utilisant un téléphone). La plupart des gens parlent _tout en dessinant_. En effet, tout en dessinant une ligne reliant deux rectangles, une personnes pourra souligner oralement ce qui est important de retenir. Cette information simultanément visuelle et auditive permet d'ancrer l'information. Si vous avez deux personnes au téléphone, cet aspect de la transmission de l'information est supprimé, de même que les expressions faciales, les gestes dont celui de pointer quelque chose avec le doigt. 
+- Ensuite en supprimant la voix et l'inflexion en direct, mais en conservant la capacité à poser des questions (courriel). Sans la voix en temps réel, il est impossible de faire une pause, de vérifier s'il y a besoin de s'interrompre, d'accélérer ou de ralentir pour préciser un point. Sans l'inflexion vocale, il est impossible d'élever notre ton ou la force de notre voix pour indiquer la surprise, l'ennui ou l'évidence d'une idée que nous souhaitons transmettre. 
+- Après en supprimant la capacité à poser des questions (mais en laissant la possibilité de remettre en place une des caractéristiques précédemment supprimées). En l'absence de questions, la personne émettrice doit deviner ce que la personne destinataire sait, ne sait pas, ce qu'elle souhaiterait poser comme question, et quelle serait la réponse appropriée à cette question hypothétique sans avoir de retour si c'est pertinent ou pas. Dans ce cadre de communication, nous pouvons considérer l'ajout d'éléments visuels (enregistrement vidéo) ou vocaux (enregistrement audio). 
+- Enfin en supprimant tout élément visuel, vocal, direct et de questionnement, et nous obtenons … une documentation papier. Dans le diagramme ci-dessus, la documentation se révèle être le moyen de communication le moins efficace. Le rédacteur doit faire des postulats par rapport à ses futurs lecteurs, et ne bénéficiera pas du direct, de signaux empathiques, de l'inflexion de la voix ou des gestes.
 
-**Figure 1. Modes of communication**
+Si ce modèle s'avérerait être d'une quelconque utilité, il devrait nous suggérer comment mieux travailler. Et c'est bien ce qu'il fait, et nous nous apercevons d'ailleurs que les projets qui avancent le mieux utilisent d'ores et déjà ce que ce modèle suggère.
 
-What happens when we remove those characteristics, one by one?
+> « Mettez tout le monde dans une seule pièce. », « Je ne veux pas plus de 4 personnes, c'est le nombre de personnes maximum qu'il est possible de mettre dans une pièce pour qu'elles discutent ensemble dans de bonnes conditions. ». 
 
-- Remove only physical proximity. Put people at opposite ends of a video link. In principle, the link has the same characteristics as physical presence. However, when we try it, the effect is not the same. Teammates working in Oslo and Lillehammer found that they only made design progress when they took the train trip to sit together. Even walking from the train station together was a more effective design environment than talking over a video link.
-- Remove visual gestures with visual timing, but keep vocal inflection and timing (e.g., use a telephone). Most people speak _while drawing_. While drawing the line that connects two boxes, the person will say what is important to note. This visual / auditory timing information anchors information content. Putting two people over the phone eliminates this timing, along with facial expressions, gestures, and pointing.
-- Next, remove vocal timing and inflection, but keep the ability to ask questions (email). Without vocal timing, we can’t pause for effect, check for interruptions, speed up or slow down to make a point. Without vocal inflection, we can’t raise our tone or volume to indicate the surprise, boredom, or obviousness of the transmitted idea.
-- Next, remove the ability to ask questions (but possibly reinstate one of the above factors). Without the questions, the presenter must guess what the receiver knows, doesn’t know, would like to ask, and what an appropriate answer to the guessed question might be – without any feedback. In this set of communication media, we can still allow visual cues (videotape), or voice (audiotape).
-- Finally, remove visual, vocals, timing, and questions, and we get… paper documentation. In the above model, paper documentation comes out as the least effective communication medium available. The writer must guess at the audience, with no feedback, and does not get to use timing or emphatic signals, vocal or gestural inflections.
+Ces recommandations, sont les recommandations habituelles des chefs de projets qui arrivent à faire avancer leurs projets. Dès le départ, ils prévoient d'utiliser le mode de communication ayant la bande-passante la plus élevée, c'est-à-dire des personnes en face-à-face.
 
-If this model is useful, it should inform us as to how better to work. Indeed it does, and we find the busiest projects making use of those suggestions.
+> « Assurez-vous qu'il y ait des tableaux blancs et des espaces-café dans tout l'immeuble ». 
 
-> “Put all the people into one room.” “Don’t give me more than 4 people, that’s all I can get into one room and talking together.” These are standard recommendations of successful project leaders. They plan on using the highest communication mode, people face-to-face.
+Très tôt, Hewlett-Packard et IBM ont pu observer l'efficacité des « lieux de réunions informels » ; cette expression de « lieux de réunions informels » et leurs mises en place est désormais bien répandue dans notre secteur d'activité à tel point qu'un environnement de travail bien conçu se doit d'encourager la possibilité pour des petits groupes de se réunir de manière _ad hoc_. Weinberg a documenté plusieurs cas où des conversations ayant pu se dérouler dans un cadre détendu ont eu un effet significatif sur la productivité générale \[Wei\]. On assiste à des avancées importantes lorsque des personnes « parlent simplement ensemble ».
 
-> “Make sure there are whiteboards and coffee corners all over the building.” Hewlett-Packard and IBM were early to observe the effectiveness of informal meeting places, and by now it has become a standard idiom in our industry that an effective design environment actively encourage and permit _ad hoc_ meetings of small groups. Weinberg documented specific instances where casual conversations had significant effect on the overall group output \[Wei\]. Much progress comes when people “just talk together.”.
+Trois méthodologies récentes mettent en avant le fait de réunir les personnes dans une même pièce ou très proches les unes des autres : Adaptive Software Engineering \[Hi\], Extreme Programming \[B99\], \[EP\], Crystal(Clear) \[Co00\]
 
-Three recent methodologies contain, as a core element, putting people into the same room or very close together (Adaptive Software Engineering \[Hi\], Extreme Programming \[B99\], \[EP\], Crystal(Clear) \[Co00\]).
+Le modèle que nous avons évoqué précédemment nous incite à faire la recommandation suivante quant à l'archivage de la documentation produite :
 
-The above model also allows us to make a recommendation for archival documentation:
+Demandez à un concepteur de faire une brève description (5 à 20 minutes) de sa conception à un ou deux collègues qui ne sont pas familiers du sujet. Ils agiront comme des médiateurs pour les futures spectateurs de la vidéo. Laissez-les simplement avoir une discussion sur la conception, avec ces collègues posant des questions et enregistrez-les en vidéo. À la fin de l'enregistrement, reproduisez les schémas des exemples ou les schémas de conceptions utilisés, lors de la discussion, pour servir d'ancres mémorielles à la discussion
 
-Have the designer give a short (5-20 minute) description of the design to one or two colleagues who are not familiar with the work. They will act as ombudsmen for the viewers of the videotape. Let the people simply have a discussion of the design, with the colleagues asking questions as they need. Video the discussion. At the end, produce drawings of the examples used in the discussion, or the design drawings used, to act as mnemonic anchors of the discussion.
+J'ai été agréablement surpris d'apprendre que Lizette Velasquez de l'entreprise Lucent Technologies avait non seulement pu tirer bénéfice de cette technique mais que j'avais oublié d'évoquer également quelque chose d'important. Elle a dit qu'il était important de marquer et d'indexer les moments où « quelque chose d'intéressant se passe ». Même si la plus grande partie de la discussion se passe sur un rythme plutôt lent, il arrive de manière occasionnelle qu'une question déclenche tout un emballement au niveau des échanges, et il ne fait aucun doute que les spectateurs voudront se référer et retrouver ces moments-là. 
 
-I was pleased to hear from Lizette Velasquez of Lucent Technologies that not only had she profitably already used that technique, but that I had forgotten to mention something important. She said it is also important to mark and index places where “something interesting happened”. While much of the discussion proceeds at a relatively slow pace, occasionally a question triggers a flurry of significant discussion, and the viewers will want to refer back to those sections.
+De nos jours, il est possible de mettre cet enregistrement vidéo en ligne accompagné de liens hypertextes.
 
-These days, it is possible to put the talk online with hyperlinked media.
+Pour les personnes qui pensent qu'un livre est mieux, je les incite à lire cet excellent et difficile ouvrage qu'est celui des Design Patterns. Imaginez un instant qu'à la place de soutirer la signification du _pattern_[^1] « Decorator » du livre, vous pouviez cliquer sur la page et voir l'un des auteurs expliquer ce _pattern_ en vidéo. Bien entendu, cet auteur ou un autre devrait utiliser les inflexions de la voix, faire des gestes pour mieux transmettre l'idée. 
 
-For those who still think a book is best, consider the excellent but difficult book Design Patterns. Imagine that instead of trying to extract the meaning of the “Decorator” pattern from the paper, you could click on the page and see one of the authors explaining the pattern in a video clip. They would, of course, rely on tonal inflections, gestures, and timing to get the idea across.
+La leçon à tirer de cette caractéristique humaine est que nous devrions tirer les communications de l'équipe aussi haut que possible sur la courbe en fonction de la situation.
 
-The lesson of this human characteristic is that we should try to move team communications up the curve as far as possible, given the situation at hand.
+### Les personnes ont tendance à ne pas agir de manière constante
 
-### People tend to inconsistency
+Nous devons être prudent lorsque nous évoquons les types d'échecs d'origine humaine. « Si vous donnez à un chien un mauvais nom, autant vouloir le tuer » est un vieux proverbe anglais. En effet, comme nous allons le voir dans les deux exemples suivants, changer simplement le style de management et la culture locale peut changer profondément les comportements. Et en même temps, en me référant à mes expériences sur les projets passés, il existe une espèce de fil rouge montrant à quel point il est difficile de s'attendre à de la cohérence en terme d'actions. Jim Highsmith l'a très bien écrit \[Hi\] :
 
-We have to be careful in talking about human failure modes. “If you give a dog a bad name, you might as well shoot him,” is an old English saying. Indeed, as two examples below show, simply changing the management style and local culture can change the apparent behavior dramatically. And yet, there is a thread running through my project experiences, how difficult it is to expect consistency of action. As Jim Highsmith writes \[Hi\]:
+> « … ce sont des personnes, pas des rouages, à l'intérieur de la boîte. Les gens peuvent faire des choses similaires de manière répétée, mais jamais la même chose. À l'aide d'un processus étape-par-étape, nous pouvons nous attendre aux même résultats à partir des mêmes éléments en entrée, mais la réaction des gens à ces éléments peuvent varier considérablement de jour en jour en fonction de tout un ensemble de conditions, dont certaines qui n'ont aucun rapport avec la tâche en cours. »
 
-> ”...there are people, not cogs, inside the box. People can do similar things repeatedly, but never the same thing. With a step-by-step process we expect the same set of outputs from identical inputs, but people’s reaction to inputs may vary considerably from day-to-day based on a wide variety of conditions, many of them unrelated to the task at hand.”
+Les personnes se satisfont d'un certain degré de souplesse quant à leur propre comportement. Je me souviens d'une des deux demandes les plus difficiles qui ait pu m'être faite, à savoir rendre une personne capable de faire quelque chose soigneusement et de manière constante jour après jour (l'autre demande la plus difficile étant de demander aux gens de changer leurs habitudes). Voici ci-dessous l'extrait d'une conversation dont j'ai été témoin récemment qui illustre ce propos :
 
-People are content to be lax about their behavior. One of the two most difficult requests I can think to make of person is to do something carefully and consistently, day in and day out (the other is to ask them to change their habits). Here is an extract from a recent conversation to illustrate.
+> « Comment est-ce que je peux gérer tout ce flux de paperasses qui arrivent sur mon bureau » a demandé une personne. Une autre personne répondit : « C'est facile. Garde ton bureau propre, net, sans rien dessus, avec 4 bannettes d'un côté et quelques dossiers dans des chemises dans le tiroir du haut …  » et sa réponse s'arrêta là. « Garder le bureau sans rien dessus !? » se sont écriées les personnes dans l'auditoire à l'unisson. « Je ne peux pas faire ça ! »
 
-> “How can I manage the flood of paper that comes into my office?” asked one person. Another replied, “It’s easy. Keep your desk entirely clean, with four baskets on one side and a set of folders in the top drawer….” The speaker never got further. “Keep the desk entirely clean!?” cried the listeners in unison. “I can’t do that!”
+Remarquez que la suggestion de bureau net leur demandait de changer à la fois leurs habitudes _et_ d'appliquer cette nouvelle habitude de manière constante.
 
-Note that the clear desk suggestion asks them both to change their habits _and_ apply an action consistently.
+Si les personnes pouvaient agir simplement de manière constante, ils garderaient leurs bureaux nets, éviteraient les aléas, perdraient du poids, joueraient d'un instrument de musique, et pourraient même produire du logiciel de manière régulière et dans les délais.
 
-If people could just act consistently, they could keep their desks clean, avoid cavities, lose weight, give up smoking, play a musical instrument, and possibly even produce software on a regular and timely basis.
+Comme Karl Wiegers nous le souligne avec malice « Nous ne sommes pas en manque de _pratiques_, nous sommes en manque de _pratique_  ». En voici quelques unes. Dans son ouvrage « The Science of Programming »  \[Gr\], David Gries nous donne des consignes détaillées pour dériver[^2] correctement des programmes. Les cartes CRC (Classes-Responsabilités-Collaboration) sont un bon moyen d'exploration pour la conception \[B87\]. De son côté, Extreme Programming \[EP\] utilisent des pratiques connues et très efficaces : la programmation en binôme et les tests unitaires de régression automatisés \[Je\]. Les pratiques mises en avant par la méthode Cleanroom[^3] sont quant à elles bien connues et documentées \[Mi\]. Dans Personal Software Process[^4], Watts Humphrey nous donne des préconisations détaillées sur comment les programmeurs pourraient devenir plus efficients. Appliquer de manière constante toute ou partie des idées susmentionnées devrait permettre d'améliorer les projets que j'ai pu voir.
 
-As Karl Wiegers quipped, “We are not short on _practices_, we are short on _practice_.” David Gries gives detailed instructions for deriving correct programs in “The Science of Programming” \[Gr\]. CRC cards are a good design exploration medium \[B87\]. Extreme Programming \[EP\], with its pair programming and automated regression unit tests \[Je\], uses known and effective practices. The practices of the Cleanroom methodology are well documented \[Mi\]. Watts Humphrey gives detailed instructions on how programmers can become more effective in the Personal Software Process \[Hu\]. Consistent application of almost any of the above ideas would improve any of the projects I have visited.
+Tout le problème réside dans le mot « constant ». Les approches PSP et Extreme Programming perdent du sens si elles sont appliquées de manière sporadique. Un fragment de code à moitié dérivé n'est pas un fragment de code sans erreur. De la même manière que la technique du bureau propre et net, elles doivent être appliquées de manière complète, constante, quotidienne.
 
-The trouble is the word “consistent”. PSP and Extreme Programming lose their meaning when applied sporadically. A half-derived code fragment is not an error-free code fragment. Just as the clear-desk technique, they must be applied completely, consistently, daily.
+Le manque de constance est un _type d'échec_ répandu chez les humains. Certaines méthodologies exigent une constance dans l'action, je les appelle des méthodologies à « haute discipline ». Les entretiens que j'ai fait sur les projets, indiquent que les méthodologies à haute discipline sont fragiles, même si elles sont déjà présentes dans ces projets. Ce qui suit est extrait d'une entreprise de niveau 5 en CMM[^5] est assez instructif : 
 
-Lack of consistency is a common _failure mode_ of humans. Methodologies that require consistency of action, I call “high-discipline” methodologies. The project interviews indicate high-discipline methodologies as being fragile, although they have been brought to work in some projects. The following words from a CMM level 5 organization, trained in PSP, are instructive \[Web\]:
+> « Durant l'été 1996, TIS a introduit la méthode PSP chez un petit groupe d'ingénieurs informatiques. Même si la formation a été plutôt bien reçue, l'utilisation de PSP chez TIS a commencé à décliner dès la fin de la formation. Et peu après, il s'est avéré qu'aucun des ingénieurs qui avaient été formés aux techniques PSP ne les utilisaient pas dans leur travail. Lorsqu'il leur a été demandé pourquoi, la raison a été unanime : "La méthode PSP est une méthode extrêmement rigoureuse et si personne ne me demande mes données, c'est plus facile de faire comme avant.". »
 
-During the summer of 1996, TIS introduced the PSP to a small group of software engineers. Although the training was generally well received, use of the PSP in TIS started to decline as soon as the classes were completed. Soon, none of the engineers who had been instructed in PSP techniques was using them on the job. When asked why, the reason was almost unanimous: “PSP is extremely rigorous, and if no one is asking for my data, it’s easier to do it the old way.”
+Pour rester utilisée, une méthodologie à haute discipline se doit d'offrir une certaine forme de support aux gens pour qu'ils puissent agir de manière constante. La méthode Cleanroom comporte des règles dites de « non-compilation » qui s'accompagnent de pratiques de gestion de projets et d'ingénierie logicielle. Extreme Programming requière à ce qu'un coach soit présent pour maintenir la pratique des pratiques. PSP n'a pas de support aussi explicite, et il n'est pas surprenant que dans ces conditions PSP ne soit plus utilisée par le groupe de personnes susmentionné par manque de structure de support. L'adjonction de TSP à PSP est censée offrir ces éléments manquants \[Web\].
 
-To stay in place, a high-discipline methodology must contain some form of support for the people to act consistently. Cleanroom has a “no compilation” rule backed by management practices. Extreme Programming calls for a coach to keep the practices in use. PSP has no such explicit support, and so it is not surprising that in this CMM level 5 group the PSP fell into disuse for lack of support structures. The adjunct TSP is supposed to provide those factors \[Web\].
+Nonobstant les commentaires précédents, il y a vraiment des gens qui sont très disciplinés, de manière constante et quotidiennement (ceci pour illustrer qu'il existe une grande variabilité dans les comportements des gens). Quelques fois le simple changement de responsable d'une équipe peut modifier la constance de leurs actions. Je tiens à remercier Trygve Reenskaug pour l'anecdote qui suit - elle permet d'illustrer à quel point le style de management et l'alchimie personnel comptent beaucoup :
 
-All of the above comments notwithstanding, there really are people who stay highly disciplined and consistent on a daily basis (illustrating the variability across people). Sometimes simply changing the manager of a group of people can change the consistency of their actions. I thank Trygve Reenskaug for the following anecdote, with which he illustrated that management style and personal chemistry matter a lot:
+> Ici, avant, il y avait une boutique assez affreuse qui vendait tout un bric-à-brac. L'endroit était en désordre, et les vendeuses étaient occupées soit à se faire les ongles soit à parler au téléphone, et elles n'accordaient que très peu de temps aux clients. La boutique ferma, et une autre boutique du même genre s'ouvrit au même endroit. Cet endroit était tout simplement merveilleux ! Elle était propre, organisée et les vendeuses étaient attentives aux clients. Le seul point commun entre ces deux boutiques étaient … les vendeuses … qui étaient les mêmes !
 
-> There was a small-goods and buttons shop nearby that was always in a terrible shape. The place was a mess, and the girls were either doing their nails or on the phone, and didn’t have much time for the customers. That business closed, and another small-goods and buttons shop opened in its place. This place was wonderful! It was clean, tidy, and the girls were attentive to their customers. The only thing was … it was the same two girls!
+En effet, il est bien connu que le style personnel de management a un énorme effet. Le projet Chrysler Comprehensive Compensation[^6] s'est déroulé aux alentours de 1997 \[C3\]. Au départ, l'équipe valorisait le fait de « réfléchir à l'avance », de « faire de la conception de manière fine mais extensible » et « que mon code soit privé ». L'équipe, collectivement, mais largement sous l'impulsion de Kent Beck, s'est reconstruite autour de valeurs cœurs « faire les choses simplement et clairement, nous pourrons ajouter la finesse plus tard », « tout le code est public, n'importe quel binôme peut se constituer et peut changer n'importe quel bout de code ».  Ces mêmes personnes ont donc adoptées des valeurs cœurs différentes et sont passées du désarroi, de la non-communication, de la non-livraison à une application constante d'un ensemble de pratiques à haute discipline, à des livraisons régulières sur une période de trois ans.
 
-Indeed, it is well known that personal management style has an enormous effect. The Chrysler Comprehensive Compensation project went through this around 1997 \[C3\]. Initially the team placed value on “thinking ahead”, “subtle but extensible designs” and “my code is private”. The team, together but largely under the impetus of Kent Beck, rebuilt itself with the core values “make it simple and clear, we can add that subtlety later”, “all code is public, any pair of people sitting together may change anything.” The same people adopted different core values and went from disarray, non-communication and non-delivery to consistent application of a highly disciplined, different set of practices, and regular delivery over a three-year period.
+### Être un bon citoyen[^7] et être bon à fouiller un peu partout 
 
-### Good Citizenship and Good at Looking Around
+Trois facteurs de réussites permettent de contrer le problème de constance :
 
-Three success modes counter the consistency problem:
+- les personnes veulent, en général, être de « bons citoyens »,
+- les personnes prennent l'initiative
+- les personnes sont douées pour fouiller un peu partout
 
-- people are generally interested in being “good citizens”,
-- people take initiative,
-- people are good at looking around.
+Lorsque je fais un entretien sur un projet, je pose toujours la question qu'est ce qui leur a permis de réussir en fin de compte. La seule réponse qui revient régulièrement : « Une poignée de bonnes personnes arrivent à points nommés et font ce qu'il faut pour que le travail soit fait ». C'est exactement une phrase similaire à celle-ci qui fût écrite dans le manuel de la NASA intitulé « Leçons apprises sur le logiciel de vol de désorbitage »  \[NASA\]:
 
-When I interview a project, I always ask what caused them to succeed in the end. The single most common answer I receive is, “A few good people stepped in at key moments and did whatever was needed to get the job done.” A typical such comment was carefully written up in NASA’s “Deorbit flight software lessons learned” \[NASA\]:
+> « \[L'élément\] peut être le plus important pour le long terme, pendant toute la durée du projet, est d'avoir une équipe cœur pour le développement rapide du nouveau système de guidage, navigation et contrôle (GN&C). Cela implique de trouver des personnes compétentes : de les former et de les faire monter en compétences sur les outils, sur les processus et les méthodologies, et de les intégrer dans une équipe soudée.  
 
-> “Perhaps most important for the long term, during the course of the project, a capable core team for rapid development of GN&C systems evolved. This included finding talented team members; training in and gaining experience with the tools, processes and methodology, and integrating into a cohesive team.  
-> After working together in the RDL for a year, team members have acquired expertise in methods, tools and domain. A _helpful and cooperative atmosphere has encouraged_ and enabled cross training. A willingness on the part of team members _to address any and all_ project issues has proven invaluable on many occasion…” (my italics added for emphasis)  
-> ...this team can be a long term asset to the division and to the agency.”
 
-What causes people to do that? One plausible answer is, “good citizenship”.
+> « Après les avoir fait travailler ensemble sur le langage de définition d'enregistrements (ou RDL pour Record Definition Language - NdT) pendant un an, les membres de l'équipe auront acquis l'expertise nécessaire sur les méthodes, outils et domaines. Une _atmosphère aidante, coopérative est encouragée_, ce qui a permis d'organiser des formations interdisciplinaires. Une volonté commune de la part des membres de l'équipe _d'affronter tous les problèmes de toute nature_ pendant le projet s'est avéré inestimable plus d'une fois … » (j'ai ajouté la partie en italique pour mettre en valeur cette partie de phrase).
 
-Perhaps we can increase the rate of project success simply by increasing the “sense of community and good citizenship” on the team. I actually don’t propose that as a top recommendation, because I find that the sense of good citizenship is already generally high, and improper management is already taking too much advantage of it (see, for example, Death March \[Yo\]).
 
-However, the idea does reveal a rarely mentioned element of methodology design:
+> … cette équipe peut s'avérer être un atout sur le long terme que ce soit au niveau de sa division qu'à celui de l'agence. 
 
-_“Community and citizenship”_
+Qu'est ce qui provoque ce type de comportement chez les gens ? Une réponse possible est : « être de bons citoyens » en terme professionnel.
 
-should be among a project’s central activities and measures, at least on a par with “code review and testing”. I am happy to say that several of the projects I have visited have this as an explicit activity. They use it to keep the person-to-person communication channels in good order (needless to say, these projects also maximize face-to-face communication). However, I have yet to see it included in a written methodology or process.
+Il se peut que nous puissions augmenter le taux de réussite des projets en augmentant le « sentiment d'appartenance à une communauté et le sens civique associé » au sein d'une équipe. En réalité, je ne mets pas cette recommandation en haut de la liste parce que je trouve que le sens civique est généralement suffisamment élevé, et que certains managers profitent déjà trop de ce sentiment (voir par exemple, le texte Death March \[Yo\]).
 
-The second success mode is that people take initiative. It works in concert with good citizenship and being _good at looking around_, to produce the common success factor, “a few good people stepped in at key moments.”
+Toutefois, cette idée révèle un élément rarement mentionné dans la conception de méthodologie.
 
-“Good at looking around” is a vague phrase with strong effects. People sorting papers often create small, unsorted stacks, using the shellsort technique. The surprising part is that quite often they never sort the smaller stacks. Close is good enough, because they know they can skim through a pile on demand, and often will remember “approximately” where a given item is (future studies should address mnemonic anchoring techniques).
+_“Communité et citoyenneté professionnel”_
 
-We try to create good, accurate and up-to-date design documentation. Since consistency of action is a common failure mode, we can safely predict that the documentation will not be up to date. In fact, I have not yet interviewed a successful project that had accurate documentation, unless either the code or the documentation was generated automatically. I did, however see a project fail because the developers were told to update all design documentation every time they made a change. Cost of development was just too high, and progress too slow, and the project was soon cancelled.
+Cette activité devrait faire partie à part entière au sein des activités principales d'un projet et de ses indicateurs, au moins au même niveau que la « revue de code et le test ». Je suis heureux de dire que plusieurs des projets que j'ai pu voir ont ce type d'activité de manière explicite. Ils les utilisent pour garder des canaux de communication de personne-à-personne en bonne position (il est inutile de dire que ces projets maximisent aussi la communication en face-à-face). Toutefois, je ne l'ai pas encore vu mentionnée par écrit en tant que tel dans une quelconque méthodologie ou dans un quelconque processus. 
 
-I ask maintenance people how they manage to make program updates, in the face of out-of-date documentation. Their answer is that they “just look around”, they don’t trust the documentation in any case – they just read the code.
+Le second facteur de réussite est lorsque les personnes prennent des initiatives. Cela va de concert avec la bonne citoyenneté et être _bon à fouiller un peu partout_, pour produire un facteur de réussite bien connu à savoir « une poignée de bonnes personnes arrivent à points nommés ». 
 
-I have come to rely on this “good at looking around” success mode of humans on projects and in methodology design.
+« Bon à fouiller un peu partout » est une phrase un petit peu vague mais qui comporte de grands effets. Les personnes qui trient des papiers créées souvent de petits tas non triés, avec la technique du tri par insertion. Ce qui est surprenant en les observant c'est qu'assez souvent elles ne trient jamais les petits tas. L'a-peu-près est suffisant. En effet, ces personnes savent qu'elles peuvent rapidement chercher dans ce tas à la demande et elles se rappellent souvent où est « approximativement » l'élément recherché (de futures études devraient traiter des techniques d'ancrage mémorielles).
 
-Traceability documents are very expensive to create and keep correct, particularly given the weakness of humans with regard to consistency, I therefore recommend getting the traceability and design documentation “good enough” so that the investigating person can learn approximately where to look. Their eyes and intelligence will take care of the rest. Even this level of traceability and documentation is unlikely to be maintained on most projects (and it somehow doesn’t matter so much, because people work much more from talking to colleagues who know than from reading the documents).
+Nous essayons généralement de créer des documents de conception qui soient bons, précis et à jour. Étant donné que la non constance en terme d'action est un facteur d'échec, nous pouvons prédire de manière quasi-certaine que la documentation ne sera pas à jour. En fait, je n'ai pas encore vu de projets ayant réussi qui ait une documentation à jour, à moins que le code ou la documentation ait été générée automatiquement. J'ai toutefois vu un projet échoué parce qu'il avait été demandé aux développeurs de mettre à jour tous leurs documents de conception chaque fois qu'ils devaient changer quelque chose. Le coût du développement s'avéra tout simplement trop élevé, et l'avancement du projet trop lent, et peu de temps après, le projet fût abandonné.
 
-Trygve Reenskaug gave another example. He proposed a computer-aided design system to an engineer designing offshore oil platforms. Trygve proposed that the system could add value by tracking the update activity being performed on any part of the platform. The engineer replied, “Just have it store the phone numbers of the people working on each part. I’ll call them and find out.”
+J'ai demandé aux personnes de la maintenance comment ils géraient la mise à jour des programmes informatiques avec de la documentation obsolète. Leur réponse a été qu'ils « fouillaient un peu partout » et qu'ils ne faisaient pas confiance à la documentation de toute façon — ils regardaient le code tout simplement.
 
-The official, methodological term I use is “low precision” \[Co98\]. I find that most projects run just fine on (accurate) low-precision descriptions: low-precision project plans are easier to read, adjust, and negotiate. Low-precision architecture diagrams are easier to remember, low precision requirements tables are easier to prioritize and evaluate early in a project, low-precision design documentation is better at giving the reader “the idea” of the design – and then letting them look around.
+J'en suis venu moi aussi à m'appuyer sur ce facteur humain de réussite « être bon à fouiller un peu partout » dans les projets ainsi que dans la conception de méthode.
 
-Low precision artifacts use the strengths of people to lower development costs. They draw on “good at looking around” and face-to-face communication, while forgiving inconsistency of update. I have used them to good effect in projects since 1994, and now recommend them as a core methodological element.
+La traçabilité des documents est très couteuse à mettre en place et à maintenir, particulièrement en raison de la faiblesse des humains en matière de constance comme évoqué plus haut, je recommande donc d'avoir un niveau de traçabilité et de documentation de conception « juste suffisant » afin que la personne qui cherche quelque chose soit en mesure de savoir approximativement où chercher. Leurs yeux et leur intelligence feront la suite. Même s'il est peu probable que le niveau de traçabilité et de documentation soit maintenu sur la plupart des projets (et cela n'est pas très important, parce que les gens font leur travail davantage à partir de ce qu'ils ont appris en discutant avec les personnes sachantes qu'à travers la lecture des documents). 
 
-### People vary
+Trygve Reenskaug m'a donné un autre exemple. Il avait proposé un système de conception assisté par ordinateur à un ingénieur concevant des plate-formes d'extraction de pétrole en mer. Trygve lui a évoqué que le système pouvait apporter de la plus-value en retraçant tous les changements faits au niveau de la plateforme. L'ingénieur a répliqué « faites juste en sorte que votre système enregistre les numéros de téléphone des personnes qui ont travaillé sur chaque partie. Je les appellerai en cas de besoin pour en savoir plus ».
 
-Some people like to make lists, some don’t. Some work best nights, some work best in the morning. Some like deadlines, some don’t. Groups vary similarly. Some cultures prize public self-scrutiny, others shelter people from embarrassment, and so on.
+Le terme méthodologique officiel que j'utilise est « basse précision » (NdT - ou à grosse mailles à la préférence de la lectrice ou du lecteur) \[Co98\]. J'ai découvert que la plupart des projets fonctionnent correctement avec des descriptions de basses précisions : les plans projets de basse précision sont plus faciles à lire, à modifier et à négocier. Les diagrammes d'architecture de basse précision sont plus faciles à se souvenir, les tables d'exigence de basse précision sont plus faciles à prioriser et peuvent être évaluer plus tôt dans le projet, la documentation de conception de basse précision sont plus faciles d'accès pour un lecteur pour avoir uniquement une « idée » de la conception — puis en le laissant regarder autour.
 
-Methodologies are largely group coordination rules, and so a recommendation appropriate for one person or group will be rejected by another. What applies to a consensus-minded group might not apply to a culture in which people wait for the boss to make a pronouncement.
+Les artefacts de basse précision utilisent les forces des gens pour réduire les coûts de développement. Ils se basent sur leurs capacités à « fouiller un peu partout » et sur la communication en face-à-face, tout en étant permissif sur la non constance de mise à jour. Je les ai utilisés et j'ai obtenu de bons résultats dans les projets depuis 1994, et je les recommande désormais en tant qu'élément central méthodologique.
 
-In the table of projects above, I observe that the two successful examples of high-discipline processes were in IBM’s Federal Sector Division and the Air Force. I have not yet seen high-discipline processes succeed in commercial settings. My tentative conclusion is that there are factors in the government / military settings that permit the heavier methodology to survive. My few interviews in those groups are littered with the phrase, “we’d like to work in a lighter, more efficient manner, but…”, followed by a reference either to a military process standard or to the difficulty of controlling subcontractors. It would be good to know whether those factors are intrinsic, or whether those cultures simply “tolerate” the heaviness.
+### De la variation des personnes
 
-Methodologies currently are written to dictate the cultures and work habits of their target organizations. As described above, the group can, and often does, simply reject it.
+Certaines personnes aiment faire des listes et d'autres non. Certaines personnes travaillent mieux le soir, d'autres mieux le matin. Certaines personnes aiment les dates butoirs, d'autres non. Certaines cultures valorisent l'autocritique publique, d'autres protègent les gens de toute forme d'embarras, et ainsi de suite.
 
-Cultural variations are probably even more difficult for methodologists to incorporate than the daily variation of individuals. At this time, I know of no methodology that takes cultural issues into account (including my own), although I know people who are sensitive to the local culture while formulating project recommendations..
+Les méthodologies sont grosso modo un ensemble de règles de coordination de groupe, et par conséquent, une recommandation qui s'avère appropriée pour une personne ou un groupe sera rejeté par un autre. Dans le même ordre d'idée, ce qui s'applique à un groupe habitué à faire des consensus pourrait ne pas s'appliquer à une culture dans laquelle les personnes attendent que le patron prenne position.
 
-### Other characteristics
+Parmi les projets listés dans le tableau précédent, j'ai remarqué que deux exemples réussis de processus à haute discipline avaient été faits au sein de IBM Federal Sector Division et dans l'Air Force. Je n'ai pas encore vu de réussite de processus à haute discipline dans des contextes marchands. Je suis tenté d'en conclure qu'il existe certains facteurs de réussite dans les contextes gouvernementaux ou militaires qui permettent à des méthodologies plus contraignantes de survivre. Il y a une phrase qui revient dans les quelques groupes que j'ai pu interroger dans ces contexte :« nous aimerions travailler de manière plus légère, plus efficace, mais … » suivi d'une référence soit à un processus militaire standard soit à une difficulté de pouvoir contrôler les prestataires. Il serait intéressant de savoir s'il s'agit de facteurs intrinsèques ou culturels qui « tolèrent » simplement cette lourdeur.
 
-There are other characteristics of people I rely on, but will not elaborate on. These are the ones on my short list:
+Les méthodologies actuelles sont écrites pour imposer des cultures professionnelles et des manières de travailler dans une organisation cible. Comme cela a pu être écrit précédemment, un groupe peut la rejeter, et souvent le fait purement et simplement.
 
-> _Apprenticeship_. People learn from watching and doing. This is a cognitive and social principle, well known in certain circles \[La\], but not yet properly used in software development. I have come to look for opportunities to apply it, but have not yet created a proper methodological structure for it.
+Les variations sur le plan culturel sont souvent pour les méthodologistes encore plus difficiles à incorporer que les variations individuelles quotidiennes. Au jour d'aujourd'hui, il n'existe aucune méthodologie (y compris la mienne) à ma connaissance qui prennent en compte les problèmes culturels, même si je connais des personnes qui sont suffisamment sensibles aux cultures locales pour formuler des recommandations particulières dans les projets.
 
-> _Flow_. “Flow” in the context of programming refers to quiet and effective thinking time \[Dm\], \[Cs\], \[Co98\]. Flow time must be balanced with communication time. How to set that balance on a busy project is beyond my current understanding. However, many interviewees marked it as a notable project success factor.
+### Autres caractéristiques
 
-> _Working from examples_. Some cognitive psychologists convincingly argue that our deductive mechanisms are built around constructing specific examples of problems \[J-L\]. CRC cards and use cases are two software development mechanisms centered on examples, and are repeatedly cited by practitioners as effective. “Instance diagrams” are often preferred by newcomers to object-oriented design, and still are used by experienced designers. Example-based documentation does not yet get adequate support from methodologists, and is a topic for future work.
+Je me repose aussi sur certaines autres caractéristiques sur lesquelles je ne m'attarderai pas. Voici celles que je retiens en priorité :
 
-> _Kinesthetic or multi-sensory thinking_. CRC cards, role-playing, designing at the whiteboard, paper-prototyping of user interfaces, all take advantage of a person talking, moving, and acting while thinking. We are missing research on this, but I find the use of these techniques significant in software design.
+> _**Apprentissage**_. Les gens apprennent en regardant et en faisant. C'est un principe social et cognitif bien connu de certains cercles \[La\], mais pas encore très bien utilisé en développement logiciel. J'ai cherché différentes occasions pour l'appliquer mais je n'ai pas encore créé une structure méthodologique pouvant le faire pour l'instant.
 
-> _Personality profiles_. We have seen the non-communicative lead designer who alienates his or her team, and yet these superb programmers repeatedly get put into positions requiring good communication skills. We encounter project managers who cannot make decisions. The fit of a particular person’s personality profile to the role given them has a large effect on the outcome of the project. This fit should be adjusted for the person’s personal growth interests, but often that position is the only career improvement path for the individual.
+> _**Flux**_. Le « flux » dans un contexte de développement logiciel fait référence à un moment de production intellectuelle silencieuse et efficace \[Dm\], \[Cs\], \[Co98\]. Les temps de flux doivent être contrebalancés avec des moments de communication. Comment équilibrer ces différents moments dans un projet est au-delà de ma compréhension actuelle. Toutefois, un certain nombre de personnes interrogées l'ont signalé comme étant un facteur de réussite notable dans les projets.
 
-> _Failing conservatively_. It has been fairly well established that people prefer to fail conservatively than to succeed by taking a risk \[Pi\]. This may explain why waterfall development is still in use after decades of trouble and the advent of spiral, incremental and iterative staging techniques.
+> _**Travailler à partir d'exemples**_. Certains psychologues cognitifs affirment avec conviction que nos mécanismes déductifs se construisent à partir d'exemples de problèmes spécifiques \[J-L\]. Les cartes CRC et les cas d'utilisation sont deux mécanismes de développement logiciel orienté exemples qui sont cités systématiquement par leurs utilisateurs comme étant deux outils efficaces. Les « diagrammes d'instance » sont souvent les diagrammes préférés des nouveaux venus en conception orienté objet, et sont d'ailleurs toujours utilisés régulièrement par les concepteurs chevronnés. Par contre, la documentation basée sur des exemples n'a pas encore eu l'attention qu'elle mérite de la part des méthodologistes ; elle est l'objet d'un prochain travail d'études.
 
-> _Changing habits_. Getting people to change their habits is the single hardest thing I know. And yet, people do change their habits almost spontaneously, given a shift in value systems. I have seen this done deliberately and consciously perhaps twice in 20 years, and it is impressive. We could do well to understand this phenomenon better.
+> _**Approche kinesthésique ou multi-sensoriel**_. Que ce soit les cartes CRC, les jeux de rôle, la conception sur tableau blanc, le prototypage papier d'interface utilisateur, toutes ces techniques tirent profit de l'aptitude des personnes de parler, de se mouvoir, ou de jouer un rôle tout en réfléchissant. Il y a peu ou pas de recherches sur ce sujet, mais je trouve l'utilisation de ces techniques comme étant très significative dans la conception logiciel.
 
-> _“Small heads”_. Even expert designers repeatedly say “I can only keep a small amount of information in my head”. Several documentation techniques have tried to leverage this weakness, but none have combined this with use of low-precision work products and high interpersonal communication.
+> _**Type de personnalité**_. Nous avons vu précédemment qu'une non-communication de la part du concepteur en chef peut aliéner son équipe, et qu'en même temps, il est demandé de manière répétée aux programmeurs de développer leurs compétences en matière de communication. Nous avons rencontré des responsables de projets qui sont incapables de prendre des décisions. L'adéquation du type de personnalité d'un individu avec le poste qui lui est attribué a un large effet au niveau des résultats d'un projet. Cette adéquation devrait être ajustée par rapport à ce qu'il y a de mieux concernant le développement personnel de l'individu, mais il arrive souvent que se voir attribuer un poste de manager constitue la seule voie de progression de carrière pour une personne. 
 
-I am certain there are other characteristics of people that strongly affect the way projects operate and the recommendations that we should be making. These are the ones I currently use.
+>_**Échec conservateur**_. Il a été clairement établit que les gens préfèrent échouer de manière conservatrice plutôt que réussir en prenant un risque \[Pi\]. Ceci peut expliquer pourquoi le développement en cascade continue toujours à être utilisé après toutes ces décennies de problèmes et l'avènement progressif des techniques de développement en spirale, incrémental et itératif.
 
-## 4 – Conclusion
+>_**Changement d'habitudes**_. Faire changer les gens d'habitudes est la chose la plus dure que je connaisse. Et en même temps, les gens peuvent changer d'habitudes quasi instantanément, et changer du tout au tout au niveau de leurs systèmes de valeurs. J'ai été témoin de tels changements, faits de manière délibérée et en toute conscience peut être deux fois en 20 ans, et c'est impressionnant. Nous aurions besoin de mieux connaître ce type de phénomène.
 
-The fundamental characteristics of “people” have a first-order effect on software development, not a lower-order effect. Consequently, understanding this first-order effect should become a first-order research agenda item, and not neglected as a second-order item. I suggest that this field of study become a primary area in the field “software engineering” for the next 20-50 years.
+>_**Petites têtes**_. Même les concepteurs experts le répètent régulièrement « J'arrive uniquement à me souvenir d'une petite quantité d'informations ». Différentes techniques de documentation ont essayé de palier cette faiblesse, mais aucune n'est arrivée à combiner l'utilisation d'artéfact de basse-précision avec une communication interpersonnelle élevée.
 
-I presented several characteristics of people that have recognizable effects on methodology design.
+Je suis certain qu'il existe d'autres caractéristiques relatives aux personnes qui affectent en profondeur à la fois la manière dont fonctionnent les projets et la manière dont nous devrions faire des recommandations. En tout cas, vous savez lesquelles j'utilise actuellement.
 
-> The first is that we are sensitive to communication timing and modalities. The prediction is that physical proximity and ease of communication has dominant effect.
+## 4 — Conclusion
 
-> The second is that people tend to inconsistency. The prediction is that methodologies requiring disciplined consistency are fragile in practice.
+Les caractéristiques fondamentales des « personnes » ont un effet de tout premier ordre sur le développement logiciel, pas un effet de second ordre. En conséquence, comprendre les effets de premier ordre devrait devenir un élément de recherche de première importance, et ne pas être négligé, relégué en sujet de moindre importance. Je propose que ce champ d'étude devienne un sujet primordial dans le domaine de « l'ingénierie logicielle » pour les 20 à 50 prochaines années.
 
-> The third is that people vary, not just daily, but from group to group. Methodologies don’t currently, but do need to deal with this cultural variation.
+J'ai présenté plusieurs caractéristiques qui ont des effets notables sur la conception de méthodologie. 
 
-> The fourth is that people like to be good citizens, are good at looking around and taking initiative. These combine to form that common success factor, “a few good people stepped in at key moments.”
+> La première est que nous sommes sensibles aux rythmes et aux modalités de communication. La prédiction que je fais est que la proximité physique et la facilité de communication a un effet majeur.
 
-Being good at communicating and looking around counter inconsistency, leading to the prediction that methodologies can make good use of low-precision artifacts whose gaps are covered by personal communication. Project histories also support this prediction, subject to the normalization of an adequately skilled staff, including management.
+> La seconde est que les personnes ont tendance à ne pas faire preuve de constance. La prédiction que je fais est que les méthodologies exigeant une forme de constance disciplinée s'avèrent fragiles en pratique.
 
-In the title, I refer to people as “components”. That is how people are treated in the process / methodology design literature. The mistake in this approach is that “people” are highly variable and non-linear, with unique success and failure modes. Those factors are first-order, not negligible factors. Failure of process and methodology designers to account for them contributes to the sorts of unplanned project trajectories we so often see.
+> La troisième est que les gens changent, pas simplement quotidiennement mais aussi lorsqu'ils passent de groupes en groupes. Les méthodologies ne prennent pas en compte les variations culturelles et elles devraient être en mesure de les gérer.
 
-Finally, it should be clear that we could do with much more research on this topic. I hope that many more researchers will pick up the challenge now than have since Weinberg wrote his version of this article 30 years ago. In particular, I look forward to psychological and ethnographic research to discover other first-order effects not mentioned here.
+> La quatrième est que les personnes aiment être de bons citoyens, qu'elles sont douées à fureter partout et qu'elles prennent l'initiative. Le tout forme le facteur de réussite « une poignée de bonnes personnes arrivent à points nommés ».
 
-## References
+Être bon en communication et à fureter partout permettent de contrebalancer l'inconstance, ce qui conduit à faire la prédiction que les méthodologies peuvent faire bon usage des artéfacts de basse précision dont l'imprécision est couverte par la communication personnelle. L'étude des projets évoquée dans ce rapport permet d'étayer cette prédiction, elle-même sujette à une certaine forme de montée en compétence du personnel, y compris la chaîne managériale.
+
+Dans le titre de cet article, je fais référence aux personnes comme étant des « composants ». Effectivement, dans la littérature de conception de processus/méthodologie, c'est ainsi que les personnes sont qualifiées. L'erreur dans cette approche est que les « personnes » (au contraire d'un composant - NdT) font preuve d'une grande variabilité et d'une grande non-linéarité qui s'accompagnent d'une ensemble de facteurs-clés de succès et d'échecs uniques. Ces facteurs sont primordiaux et ne sont pas à négliger. Le fait de ne pas prendre en compte de ces éléments par les concepteurs de processus et de méthodologies expliquent en partie les trajectoires imprévisibles que nous pouvons constater sur certains projets.
+
+Pour finir, il devrait être claire que nous pourrions faire davantage de recherches sur ce sujet. J'espère qu'il y aura davantage de chercheurs pour relever ce défi qu'il y en a eu depuis la rédaction, il y a 30 ans, par Weinberg de sa version du présent article. J'attends avec impatience, en particulier, de nouvelles recherches en psychologie et en ethnographie pour découvrir d'autres effets de premier ordre que ceux mentionnés ici. 
+
+## Références
 
 \[B87\] Beck, K. and Cunningham, W., “A laboratory for teaching object-oriented thinking”, Proceedings of the OOPSLA Conference, 1987, ACM Sigplan Oct., 1987, pp.1-7.
 
@@ -588,6 +471,32 @@ Finally, it should be clear that we could do with much more research on this top
 
 \[Yo\] Yourdon, E., Death March Projects, Prentice Hall, 1997.
 
+[^1]: Les _design patterns_ ou patron de conception sont un ensemble de solutions standards ou de bonnes pratiques pour répondre à des besoins récurrents en terme de programmation - pour en savoir plus, vous pouvez consulter cet [article Wikipedia](https://fr.wikipedia.org/wiki/Patron_de_conception)
+[^2]: L'expression est difficile à rendre en français. Le terme original est "for deriving correct programs"  fait référence, via l'ouvrage de David Gries, à une méthode préconisée par Edsger W. Dijkstra d'obtenir un exécutable à travers la dérivation d'une spécification écrite avec un langage formel (c'est-à-dire utilisant une notation mathématique) d'un programme informatique en spécification technique - NdT
+[^3]: La métaphore dont s'inspire cette méthodologie est celle de la salle blanche en électronique où tout est fait en terme de prévention des anomalies, pour en savoir davantage, vous pouvez consulter cet [article](https://en.wikipedia.org/wiki/Cleanroom_software_engineering) Wikipedia 
+[^4]: Le Personal Software Process ou Processus personnel informatique est un processus de développement logiciel 
+[^5]: Il s'agit du projet qui fût le terrain de jeu d'Extreme Programming, qui consistait à refondre la gestion de la paye de l'entreprise Chrysler
+[^6]: CMM - Capability Maturity Model est un modèle permettant de mesurer le degré de maturité d'un projet en terme de compétences, processus et techniques 
+[^7]: le concept de « bon citoyen » en entreprise va au-delà de la conscience professionnelle. La dénomination complète du concept est celle de « comportement de citoyenneté organisationnelle », pour en savoir plus, vous pouvez consulter cet [article Wikipedia](https://en.wikipedia.org/wiki/Organizational_citizenship_behavior) en anglais ou [cet autre c'est par ici](https://status.net/articles/what-is-organizational-citizenship-behavior-ocb-types-examples/) en anglais ou [par là](https://shs.cairn.info/revue-rimhe-2018-2-page-3?lang=fr) en français
 
+---
+Auteur : [Alistair Cockburn](https://alistaircockburn.com/Bio)  
+Source : [Characterizing people as non-linear, first-order components in software development](https://web.archive.org/web/20140329203655/http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development)  
+Date de parution originale : 21 octobre 1999  
 
-Source : https://web.archive.org/web/20140329203655/http://alistair.cockburn.us/Characterizing+people+as+non-linear,+first-order+components+in+software+development
+---
+Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
+Date de traduction : 23/01/2026  
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Ce(tte) oeuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d'Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+
+---
+
+Traduction faite main sans IA.  
+![Logo Fait (Hu)Main]({{ site.url }}assets/lta/FaitHuMain_hor_N_2.png)
+
+Logo « Fait (Hu)Main » par [Lazar Baruk](https://lazarbaruk.itch.io/pack-de-logos-fait-humain)
+
+{% include share_buttons.html %}
