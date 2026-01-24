@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "De la nature non linéaire et de toute première importance des êtres humains dans le développement logiciel"
-date:   2026-01-23 00:01
+date:   2026-01-24 00:01
 published: true
 tags:
 - agile
@@ -373,7 +373,7 @@ Je me repose aussi sur certaines autres caractéristiques sur lesquelles je ne m
 
 > _**Apprentissage**_. Les gens apprennent en regardant et en faisant. C'est un principe social et cognitif bien connu de certains cercles \[La\], mais pas encore très bien utilisé en développement logiciel. J'ai cherché différentes occasions pour l'appliquer mais je n'ai pas encore créé une structure méthodologique pouvant le faire pour l'instant.
 
-> _**Flux**_. Le « flux » dans un contexte de développement logiciel fait référence à un moment de production intellectuelle silencieuse et efficace \[Dm\], \[Cs\], \[Co98\]. Les temps de flux doivent être contrebalancés avec des moments de communication. Comment équilibrer ces différents moments dans un projet est au-delà de ma compréhension actuelle. Toutefois, un certain nombre de personnes interrogées l'ont signalé comme étant un facteur de réussite notable dans les projets.
+> _**Flux**_. Le « flux[^8] » dans un contexte de développement logiciel fait référence à un moment de production intellectuelle silencieuse et efficace \[Dm\], \[Cs\], \[Co98\]. Les temps de flux doivent être contrebalancés avec des moments de communication. Comment équilibrer ces différents moments dans un projet est au-delà de ma compréhension actuelle. Toutefois, un certain nombre de personnes interrogées l'ont signalé comme étant un facteur de réussite notable dans les projets.
 
 > _**Travailler à partir d'exemples**_. Certains psychologues cognitifs affirment avec conviction que nos mécanismes déductifs se construisent à partir d'exemples de problèmes spécifiques \[J-L\]. Les cartes CRC et les cas d'utilisation sont deux mécanismes de développement logiciel orienté exemples qui sont cités systématiquement par leurs utilisateurs comme étant deux outils efficaces. Les « diagrammes d'instance » sont souvent les diagrammes préférés des nouveaux venus en conception orienté objet, et sont d'ailleurs toujours utilisés régulièrement par les concepteurs chevronnés. Par contre, la documentation basée sur des exemples n'a pas encore eu l'attention qu'elle mérite de la part des méthodologistes ; elle est l'objet d'un prochain travail d'études.
 
@@ -478,6 +478,7 @@ Pour finir, il devrait être claire que nous pourrions faire davantage de recher
 [^5]: Il s'agit du projet qui fût le terrain de jeu d'Extreme Programming, qui consistait à refondre la gestion de la paye de l'entreprise Chrysler
 [^6]: CMM - Capability Maturity Model est un modèle permettant de mesurer le degré de maturité d'un projet en terme de compétences, processus et techniques 
 [^7]: le concept de « bon citoyen » en entreprise va au-delà de la conscience professionnelle. La dénomination complète du concept est celle de « comportement de citoyenneté organisationnelle », pour en savoir plus, vous pouvez consulter cet [article Wikipedia](https://en.wikipedia.org/wiki/Organizational_citizenship_behavior) en anglais ou [cet autre c'est par ici](https://status.net/articles/what-is-organizational-citizenship-behavior-ocb-types-examples/) en anglais ou [par là](https://shs.cairn.info/revue-rimhe-2018-2-page-3?lang=fr) en français
+[^8]: Le flux ou le _flow_ (le terme anglais se retrouve aussi utilisé en français) est un état mental particulier décrit par Mihaly Csikszentmihalyi dans son ouvrage Flow: The Psychology of Optimal Experience ; pour en savoir plus sur cet état mental, vous pouvez consulter cet [article](https://fr.wikipedia.org/wiki/Flow_(psychologie)) sur Wikipedia.
 
 ---
 Auteur : [Alistair Cockburn](https://alistaircockburn.com/Bio)  
@@ -486,7 +487,7 @@ Date de parution originale : 21 octobre 1999
 
 ---
 Traducteur : [Nicolas Mereaux](http://www.les-traducteurs-agiles.org/traducteurs/)  
-Date de traduction : 23/01/2026  
+Date de traduction : 24/01/2026  
 
 ---
 
