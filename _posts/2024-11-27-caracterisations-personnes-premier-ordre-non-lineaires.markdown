@@ -333,7 +333,7 @@ Il se peut que nous puissions augmenter le taux de réussite des projets en augm
 
 Toutefois, cette idée révèle un élément rarement mentionné dans la conception de méthodologie.
 
-_“Communité et citoyenneté professionnel”_
+_“Communauté et citoyenneté professionnel”_
 
 Cette activité devrait faire partie à part entière au sein des activités principales d'un projet et de ses indicateurs, au moins au même niveau que la « revue de code et le test ». Je suis heureux de dire que plusieurs des projets que j'ai pu voir ont ce type d'activité de manière explicite. Ils les utilisent pour garder des canaux de communication de personne-à-personne en bonne position (il est inutile de dire que ces projets maximisent aussi la communication en face-à-face). Toutefois, je ne l'ai pas encore vu mentionnée par écrit en tant que tel dans une quelconque méthodologie ou dans un quelconque processus. 
 
