@@ -355,7 +355,7 @@ Le terme méthodologique officiel que j'utilise est « basse précision » (Nd
 
 Les artefacts de basse précision utilisent les forces des gens pour réduire les coûts de développement. Ils se basent sur leurs capacités à « fouiller un peu partout » et sur la communication en face-à-face, tout en étant permissif sur la non constance de mise à jour. Je les ai utilisés et j'ai obtenu de bons résultats dans les projets depuis 1994, et je les recommande désormais en tant qu'élément central méthodologique.
 
-### De la variabilité des personnes
+### Tout le monde n'est pas pareil
 
 Certaines personnes aiment faire des listes et d'autres non. Certaines personnes travaillent mieux le soir, d'autres mieux le matin. Certaines personnes aiment les dates butoirs, d'autres non. Certaines cultures valorisent l'autocritique publique, d'autres protègent les gens de toute forme d'embarras, et ainsi de suite.
 
