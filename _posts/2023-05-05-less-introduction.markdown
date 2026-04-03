@@ -1,5 +1,3 @@
-# Introduction to LeSS
-
 ---
 layout: post
 title:  "Introduction à LeSS (en cours)"
@@ -10,6 +8,9 @@ tags:
 - agile
 - scrum
 ---
+
+# Introduction to LeSS
+
 # Introduction à LeSS
 
 (this is chapter 2 of the [book “Large-Scale Scrum: More with LeSS”](http://www.amazon.com/Large-Scale-Scrum-More-Craig-Larman/dp/0321985710))
