@@ -36,11 +36,11 @@ La prochaine fois que vous devez faire l'ébauche d'un MVP, divisez tout par 10.
 Quoi qu'il en soit, la boîte de Pandore est ouverte, même si j'aimerais pouvoir le faire, je suis incapable d'effacer cette abréviation et les différentes significations qui y sont associées de la mémoire collective des gens. Mais peut-être que je peux changer le débat en différenciant les différents types de MVP, c'est-à-dire les différentes manières dont le terme MVP est utilisé :
 
 
-- **MVP-M**: un produit marketing, conçu pour tester ce que les clients veulent et ce pour quoi ils sont prêts à payer.
-- **MVP-T**: un produit technologique conçu pour voir si quelque chose peut être réalisé techniquement — c'est-à-dire qu'il correspond aux termes historiquement utilisés que sont _preuve de concept_ et _prototype_.
-- **MVP-L**: une liste des fonctionnalités INDISPENSABLES que le produit DOIT AVOIR
-- **MVP-H**: un MVP de type hippopotame, c'est une version spéciale d'un MVP-L, dont la liste des fonctionnalités est celle de la personne la plus payée dans l'organisation[^2] , malheureusement pour vous, vous pourriez être amené à rencontrer plusieurs personnes qui considèrent avoir le droit de définir la liste des fonctionnalités 
-- **MVP-X**: où X correspond à un numéro (1, 2, 3, …) utilisé par les équipes qui livrent des améliorations de leurs produits et/ou qui le font grandir. (Dans le monde pré-numérique nous appelions ceci un numéro de version). Toutefois je ne suis pas sûr de comprendre en quoi ce type de MVP est minimal mais si cela peut aider des gens … pourquoi pas ?
+- **MVP-M** : un produit marketing, conçu pour tester ce que les clients veulent et ce pour quoi ils sont prêts à payer.
+- **MVP-T** : un produit technologique conçu pour voir si quelque chose peut être réalisé techniquement — c'est-à-dire qu'il correspond aux termes historiquement utilisés que sont _preuve de concept_ et _prototype_.
+- **MVP-L** : une liste des fonctionnalités INDISPENSABLES que le produit DOIT AVOIR
+- **MVP-H** : un MVP de type hippopotame, c'est une version spéciale d'un MVP-L, dont la liste des fonctionnalités est celle de la personne la plus payée dans l'organisation[^2] , malheureusement pour vous, vous pourriez être amené à rencontrer plusieurs personnes qui considèrent avoir le droit de définir la liste des fonctionnalités 
+- **MVP-X** : où X correspond à un numéro (1, 2, 3, …) utilisé par les équipes qui livrent des améliorations de leurs produits et/ou qui le font grandir. (Dans le monde pré-numérique nous appelions ceci un numéro de version). Toutefois je ne suis pas sûr de comprendre en quoi ce type de MVP est minimal mais si cela peut aider des gens … pourquoi pas ?
 
 MVP-M est le terme d'origine alors que le MVP-L et le MVP-H sont les MVP les plus couramment entendus.
 
