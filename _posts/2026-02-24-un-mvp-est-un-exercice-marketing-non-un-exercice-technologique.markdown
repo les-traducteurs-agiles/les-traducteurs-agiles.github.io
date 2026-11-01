@@ -10,7 +10,7 @@ tags:
 
 Il s'agit peut-être du terme le plus à la mode et le plus mal utilisé de l'industrie informatique en ce moment. Et ce terme semble être d'ailleurs utilisé par certaines personnes pour en critiquer d'autres et réciproquement.
 
-J'ai récemment entendu un coach Agile dire : « Si vous ajoutez seulement quelques fonctionnalités de plus alors vous aurez un MVP ». J'avais envie d'hurler « Faux, faux, faux ! », mais je me suis retenu en me mordant la langue (qui a dit que je ne savais pas faire preuve de diplomatie ?)
+J'ai récemment entendu un coach Agile dire : « Si vous ajoutez seulement quelques fonctionnalités de plus, alors vous aurez un MVP ». J'avais envie d'hurler « Faux, faux, faux ! », mais je me suis retenu en me mordant la langue (qui a dit que je ne savais pas faire preuve de diplomatie ?)
 
 Le terme MVP (ou Produit Minimum Viable) semble être devenu la nouvelle manière de dire « Le système doit faire ceci », autrement dit le MVP est devenu la lettre M de la technique de priorisation MoSCoW[^1] .
 
