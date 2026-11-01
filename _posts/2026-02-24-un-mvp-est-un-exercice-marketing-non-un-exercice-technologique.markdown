@@ -44,7 +44,7 @@ Quoi qu'il en soit, la boîte de Pandore est ouverte, même si j'aimerais pouvoi
 
 MVP-M est le terme d'origine alors que le MVP-L et le MVP-H sont les MVP les plus couramment entendus.
 
-Alors la prochaine fois qu'une personne dit « MVP », vérifiez avec elle, _qu'est-ce qu'elle entend par là ?_
+Alors la prochaine fois qu'une personne dit « MVP », vérifiez avec elle, _ce qu'elle entend par là ?_
 
 [^1]: NdT - technique de priorisation indiquant respectivement ce qui Indispensable (**M**ust have), Souhaitable (**S**hould have), Accessoire (**C**ould Have) et Dispensables (**W**on't have) dont les premières lettres de chaque degré de priorité  avec l'ajout de lettres o supplémentaires forment l'acronyme MoSCoW
 [^2]: NdT - l'abréviation HIPPO en anglais est **H**igh **P**aid **P**erson **O**pinon soit littéralement opinion de la personne la plus payée (dans l'organisation ou autour de la table)
