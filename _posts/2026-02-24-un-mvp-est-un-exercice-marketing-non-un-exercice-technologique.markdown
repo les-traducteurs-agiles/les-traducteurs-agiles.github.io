@@ -33,7 +33,7 @@ La question est : _est-ce que cela vaut le coût de construire ce truc ?_ — _e
 
 La prochaine fois que vous devez faire l'ébauche d'un MVP, divisez tout par 10. C'est-à-dire partez du principe que sa valeur réelle ne correspond qu'à 10% de la valeur au départ évoquée, que vous n'avez que 10% des ressources et 10% du temps à votre disposition pour le construire. Maintenant repensez à ce que vous demandez avec ce MVP. Pouvez-vous le bâtir avec ce 1/10 dont vous disposez ?
 
-Quoi qu'il en soit, la boîte de Pandore est ouverte, même si j'aimerais pouvoir le faire, je suis incapable d'effacer cette abréviation et les différentes significations qui y sont associées de la mémoire collective des gens. Mais peut être que je peux changer le débat en différenciant les différents types de MVP, c'est-à-dire les différentes manières dont le terme MVP est utilisé :
+Quoi qu'il en soit, la boîte de Pandore est ouverte, même si j'aimerais pouvoir le faire, je suis incapable d'effacer cette abréviation et les différentes significations qui y sont associées de la mémoire collective des gens. Mais peut-être que je peux changer le débat en différenciant les différents types de MVP, c'est-à-dire les différentes manières dont le terme MVP est utilisé :
 
 
 - **MVP-M**: un produit marketing, conçu pour tester ce que les clients veulent et ce pour quoi ils sont prêts à payer.
