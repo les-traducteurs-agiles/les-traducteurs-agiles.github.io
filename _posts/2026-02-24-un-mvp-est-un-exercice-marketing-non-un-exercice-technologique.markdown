@@ -16,7 +16,7 @@ Le terme MVP (ou Produit Minimum Viable) semble être devenu la nouvelle manièr
 
 Une partie du problème provient du fait que le terme signifie différentes choses pour différentes personnes. À l'origine, il a été inventé pour décrire une expérience (« quelle est la plus petite chose que nous pouvons construire pour apprendre quelque chose du marché ? ») ; il s'avère aussi souvent utilisé pour décrire une version « réduite » du produit qui pourrait satisfaire les besoins des clients. Mais en poussant un peu plus loin de ce que pourrait être cette version réduite du produit, il s'avère qu'il n'est pas si réduit que ça. Et lorsque le terme MVP est utilisé dans le sens « enlever tout le superflu », cela veut dire pour cette personne qu'il reste encore beaucoup de gras sur l'os. 
 
-Je pense que les personnes non techniques ayant entendu le terme de MVP l'ont interprété comme étant « un produit qui ne comporte pas tous ces éléments d'ingénierie logicielle superflus qui ralentissent l'équipe. ». Cela montre à quel point ces personnes ne comprennent rien au monde du numérique.
+Je pense que les personnes non techniques ayant entendu le terme de MVP l'ont interprété comme étant « un produit qui ne comporte pas tous ces éléments d'ingénierie logicielle superflus qui ralentissent l'équipe». Cela montre à quel point ces personnes ne comprennent rien au monde du numérique.
 
 Les MVP n'ont rien à voir avec la technologie. Un MVP n'a rien à voir avec le fait de construire des choses.
 
